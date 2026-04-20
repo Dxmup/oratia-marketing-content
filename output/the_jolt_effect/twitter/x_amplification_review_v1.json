@@ -1,0 +1,24 @@
+{
+  "status": "draft",
+  "content_type": "x_amplification_package",
+  "verdict": "Reframed the Jolt set around amplification instead of mini-LinkedIn educational content. The package now emphasizes sharp observations, recognition lines, tactical utility, and one optional author engagement angle.",
+  "strengths": [
+    "Cleaner platform fit for X",
+    "Better separation between LinkedIn depth and X amplification",
+    "Includes timing and cross-channel role hints",
+    "Preserves the stronger voice work from the gold set"
+  ],
+  "problems": [
+    "Still needs human taste-check for which posts feel strongest live",
+    "Author engagement copy may want real @handles later when posting"
+  ],
+  "required_fixes": [
+    "Review which posts Chad would actually publish first",
+    "Add real author tags at posting time if used"
+  ],
+  "depth_score": 8,
+  "specificity_score": 9,
+  "operator_value_score": 8,
+  "style_match_score": 9,
+  "format_compliance_score": 10
+}

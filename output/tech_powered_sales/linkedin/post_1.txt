@@ -1,0 +1,33 @@
+VRM Sales Library | Sales Pitch | April Dunford
+Post 1 of 3
+
+STOP PITCHING YOUR TECH STACK
+
+Property owners don't care about your software. They care about their broken reality.
+
+Many VRM operators walk into an acquisition meeting and immediately open their laptop to show off their dynamic pricing algorithms, unified inbox, and noise monitoring sensors. They're losing the room before the pitch starts.
+
+The assumption that owners are making a feature-driven, analytical decision is usually wrong, or at least premature. The timing matters. When you lead with capabilities, you trigger cognitive overload. The owner isn't thinking about API integrations. They're sitting there anxious. They're worried about strangers in their home, exhausted by the current state of their property, and quietly dreading whatever problem comes next. They don't want a software stack. They want someone to take the problem off their plate.
+
+THE CONTEXT-FIRST SEQUENCE
+
+April Dunford's core principle is that the solution doesn't land until the problem context is established. If you want an owner to care about what makes your service different, you first have to establish, clearly and specifically, why their current situation is untenable.
+
+The sequence:
+
+STEP 1: Name the market shift. What has changed in the last 18 to 24 months that makes the old approach to managing a vacation rental more difficult? ADR compression, the rise of review-algorithm dependency, direct booking becoming a meaningful revenue share for well-positioned properties, give them a picture of what's changed in their environment.
+
+STEP 2: Describe the two failed alternatives. Self-management (working nights and weekends, learning revenue management in your spare time, answering guest texts at 11 PM). The big-box national firm (a call center in another state, a revolving door of local property managers, your home treated as one of ten thousand identical doors).
+
+STEP 3: Introduce the third way. Only after the problem is felt and the alternatives have been found wanting do you present your service. At this point, it arrives as the inevitable solution rather than one option on a menu.
+
+STEP 4: Connect features to outcomes. Present each capability not as a feature, but as the specific mechanism that delivers the reality the owner now wants. "Dynamic pricing" is a feature. "Your rates optimize daily so you capture top-of-market revenue without ever thinking about pricing again" is an outcome.
+
+Script: "Before I walk you through what we do, I want to spend two minutes on what's changed in this market. Peak ADRs have compressed. Review scores now carry more algorithmic weight than they did two years ago. And owners who've figured out direct booking are capturing a revenue premium that most others are leaving entirely on the table. The managers who haven't adapted are underperforming the market by 15 to 20%. Self-managing in this environment requires more sophistication than it did three years ago, not less. That's the backdrop. Now let me show you what we've built for it."
+
+Lead with the diagnosis, not the cure.
+
+---
+Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #SalesPitch

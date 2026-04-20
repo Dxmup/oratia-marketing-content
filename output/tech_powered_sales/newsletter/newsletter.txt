@@ -1,0 +1,114 @@
+VRM Sales Library | Tech-Powered Sales | Justin Michael & Tony Hughes
+linkedin.com/in/chadhensel
+
+---
+
+This week covered Tech-Powered Sales: the TQ framework and why hyper-relevant, trigger-based outreach outperforms personalization every time. The core argument is that EQ without TQ is a closed loop. You can be exceptional in the room but never get in the room without a system for finding the right owners at the right moment.
+
+This newsletter goes deeper on how to actually build that system on a small operator's budget, and what the trigger event workflow looks like in practice.
+
+---
+
+THE TQ STACK FOR SMALL OPERATORS
+
+Enterprise sales teams have dedicated data operations. You probably don't. But the intelligence layer you need to run trigger-based VRM outreach is more accessible than most operators realize. Here's what a practical TQ stack looks like for an operator managing under 100 doors.
+
+FREE AND LOW-COST DATA SOURCES
+
+Public property records: Most county assessor websites allow you to search by property type, sale date, and owner mailing address. A new ownership transfer on a property with a prior short-term rental history is one of the highest-quality signals available. The new owner hasn't yet decided how to manage the property, and you can be the first manager they talk to.
+
+Airbnb and VRBO search: Run a search in your target market filtered by "new listing" or sorted by review count. Properties with zero or very few reviews are either brand new or recently transferred. Either is a prospecting signal.
+
+STR permit databases: Many municipalities publish their active short-term rental permit lists as public records. This gives you a direct list of every permitted STR operator in your market. Track it month over month and you'll see new permits (new owners entering the market) and lapsed permits (owners who may have exited self-management and need a professional).
+
+Review monitoring: Set up Google Alerts for your target properties and markets. A property with a recent string of 3-star reviews mentioning the same issue is a property whose owner is watching their revenue erode and may be ready to have a conversation.
+
+MLS data: Properties listed for sale and then delisted without selling are a meaningful signal. The owner tried to exit, couldn't, and is now holding a property they may not want to manage long-term. A well-timed outreach after a delisting can start a conversation that closes months later.
+
+ORGANIZING YOUR TRIGGER EVENTS
+
+The intelligence is only useful if it's actionable. Build a simple spreadsheet or CRM view with five columns: Property Address, Owner Name/Contact, Trigger Event, Trigger Date, and Outreach Status. Review it weekly. Any trigger event that's more than two weeks old without outreach has likely missed its window.
+
+The speed of outreach matters. A new owner who just recorded a deed is most receptive in the first 30 to 60 days before they've settled on a management approach. An owner whose latest review just dropped to 3.8 stars is most receptive in the week after the review drops, when the frustration is fresh. Timing is part of the relevance equation.
+
+---
+
+THE TRIGGER-BASED OUTREACH SEQUENCE
+
+The post covered the single trigger script. Here's the full outreach sequence once a trigger event is identified.
+
+TOUCH 1: THE TRIGGER MESSAGE (DAY 1)
+
+Channel: Direct mail or LinkedIn DM depending on whether you have their contact information.
+
+This is the message the post described: specific, relevant, no pitch. Reference the exact trigger. Offer something useful. Ask for nothing except a brief conversation if they find it helpful.
+
+"[Name], I noticed [specific trigger event] affecting your property at [address]. We've helped several owners in [specific area] navigate this recently. There's one thing that often gets missed in this situation that's worth a quick heads up. No pitch: happy to share it in a 10-minute call if it's useful."
+
+TOUCH 2: THE VALUE ADD (DAY 5-7)
+
+If no response, follow up with a piece of specific value. Not a second pitch. A revenue analysis of their immediate comp set, a short summary of what the trigger event means for their specific property type, or a note about an upcoming peak demand period in their market.
+
+"Following up on my note from last week. Separately, I pulled the comp set data for your block and noticed something worth sharing. [One specific observation]. Happy to walk through it if you'd like."
+
+TOUCH 3: THE DIRECT ASK (DAY 14)
+
+If still no response, a clean, short, direct ask.
+
+"I've reached out twice with what I hope was useful context. If the timing isn't right or you're happy with your current situation, no problem at all. If you ever want to talk about the property, I'm easy to find."
+
+Three touches maximum on a cold trigger sequence. The operator who sends a fifth and sixth follow-up has crossed from persistence to noise.
+
+WARM TRIGGERS VS. COLD TRIGGERS
+
+Not all trigger events are equal in terms of the owner's psychological readiness. Warm triggers (review score drops, permit renewals, active management complaint conversations in local Facebook groups) indicate an owner already feeling pain. Cold triggers (new ownership transfer, property delisting) indicate a potential future need that hasn't become pain yet.
+
+Warm triggers warrant faster, more direct outreach. Cold triggers warrant a softer, longer-term nurture sequence. The mistake is treating both the same way.
+
+---
+
+THE CYBORG WORKFLOW IN PRACTICE
+
+The post described the TQ-to-EQ handoff conceptually. Here's what the full workflow looks like week to week.
+
+MONDAY: DATA REVIEW (30 MINUTES)
+
+Pull your trigger event tracker. Review new permits filed, new ownership transfers recorded, review scores that have changed meaningfully in the past week, and any MLS delistings from the prior 30 days. Flag every new trigger for outreach.
+
+TUESDAY/WEDNESDAY: OUTREACH EXECUTION
+
+Send Touch 1 messages to all newly flagged triggers. This is TQ work: data-informed, templated, efficient. You're not personalizing the message heavily at this stage. You're getting the right message to the right person at the right moment.
+
+THURSDAY: FOLLOW-UP REVIEW
+
+Who responded to prior outreach? Any warm responses get moved immediately into a personal, non-templated reply. A warm response to a trigger message is your signal to shift from TQ to EQ: this is now a human conversation, not a data workflow.
+
+FRIDAY: APPOINTMENT PREP
+
+Any appointment scheduled for the following week gets a dedicated prep block. Pull everything you know about the property, the owner, and their trigger event. Build the specific insight you'll open with (refer to the Challenger Sale newsletter). The intelligence you gathered through TQ is what makes your EQ effective when you get in the room.
+
+---
+
+THE MOST UNDERUSED TQ TOOL IN VRM: THE NEIGHBORHOOD CANVASS
+
+When you sign a new property, you have a warm intelligence asset that most operators never deploy: you now manage a property in a specific neighborhood, which gives you a credible reason to contact every owner within a few blocks.
+
+Within 72 hours of signing a new property, send a brief note to the 10 to 15 nearest properties in your target owner profile.
+
+"We just partnered with your neighbor at [address] to manage their vacation rental. Because we're already running cleaning and maintenance operations on this block, we have capacity for two additional properties this season. I've pulled the comp data for your area and put together a quick revenue analysis for properties in your immediate vicinity. Happy to share it if you're curious what your property could produce."
+
+This outreach works because it's credible (you have a real anchor on the block), relevant (the comp data is specific to their immediate neighborhood), and low-pressure (you're sharing a revenue analysis, not demanding a meeting).
+
+It also has a secondary effect: the new owner you just signed becomes your social proof asset before they've even received their first monthly report. The neighbor who calls them to ask about your company hears about you from a satisfied client, not a cold pitch.
+
+---
+
+NEXT WEEK
+
+Posts 13, 14, and 15 cover April Dunford's Sales Pitch. The core topic: the solution doesn't land until the problem context is established. The newsletter will go deep on how to build the context-first pitch structure and how to de-position the alternatives (self-management and big-box national firms) before you ever describe your own service.
+
+---
+
+Each week this newsletter consolidates the week's posts with deeper tactics and context. Subscribe at linkedin.com/in/chadhensel.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #TechPoweredSales

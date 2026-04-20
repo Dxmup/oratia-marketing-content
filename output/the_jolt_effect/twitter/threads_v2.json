@@ -1,0 +1,46 @@
+[
+  {
+    "id": "thread_1",
+    "type": "short_thread",
+    "source_theme": "no decision vs switching pain",
+    "tweets": [
+      "A lot of owner deals don't die because another manager said something smarter.",
+      "They die because switching sounds like a hassle.",
+      "Awkward email to the current manager. Listing migration. Existing bookings. Spouse buy-in. The whole charming little parade.",
+      "Then the VRM responds with more upside. More revenue talk. More marketing. More tech.",
+      "Wrong medicine.",
+      "If the hesitation is really about switching, the job is to make the move feel safer than staying put.",
+      "That means concrete transition language, a clear point of contact, and a visible safety net if things go sideways.",
+      "A lot of deals don't need a better pitch. They need a less annoying path to yes."
+    ],
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "fear_of_messing_up",
+      "related_linkedin_post": "linkedin/post_1.txt"
+    }
+  },
+  {
+    "id": "thread_2",
+    "type": "short_thread",
+    "source_theme": "jolt in the room",
+    "tweets": [
+      "If an owner says they need to think about it, don't answer that with a bigger pitch deck.",
+      "Start with diagnosis.",
+      "How long have you been thinking about making a management change?",
+      "If the answer is 'honestly, a while,' you're usually not in a live comparison. You're in inertia.",
+      "From there, don't make them pick from 3 packages like it's a tasting menu.",
+      "Make one recommendation.",
+      "Then handle one real concern clearly instead of sending a recap novel by email.",
+      "Owners don't always need more reasons to switch. Sometimes they just need the switch to feel survivable."
+    ],
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "jolt_framework",
+      "related_linkedin_post": "linkedin/post_2.txt"
+    }
+  }
+]

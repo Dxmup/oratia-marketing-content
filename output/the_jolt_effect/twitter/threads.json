@@ -1,0 +1,45 @@
+[
+  {
+    "id": "thread_1",
+    "type": "short_thread",
+    "source_theme": "no decision vs inertia",
+    "tweets": [
+      "A lot of stalled owner deals in vacation rental management aren't lost to another company.",
+      "They're lost to no decision.",
+      "The owner isn't always saying no to you. They're often saying no to the hassle of switching managers.",
+      "That means the fix isn't usually more upside language about revenue, marketing, or dynamic pricing.",
+      "The fix is de-risking the move.",
+      "If the owner is worried about transition, give them a concrete path: who handles the listing migration, how existing bookings are honored, what happens if communication slips, and whether they have an exit clause.",
+      "When the switch feels safer than the status quo, deals move."
+    ],
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "fear_of_messing_up",
+      "related_linkedin_post": "linkedin/post_1.txt"
+    }
+  },
+  {
+    "id": "thread_2",
+    "type": "short_thread",
+    "source_theme": "jolt in a listing appointment",
+    "tweets": [
+      "If an owner says they need to think about it, don't go straight into persuasion mode.",
+      "Start with diagnosis.",
+      "One of the most useful opening questions is: How long have you been thinking about making a management change?",
+      "If they've been thinking about it for months with no action, you're probably dealing with inertia, not comparison shopping.",
+      "From there, don't present 3 options.",
+      "Make one clear recommendation.",
+      "Then follow up on one concern only. One email. One point. Too much information makes hesitation worse.",
+      "Good operators don't just make the upside sound attractive. They make the decision feel safe."
+    ],
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "jolt_framework",
+      "related_linkedin_post": "linkedin/post_2.txt"
+    }
+  }
+]

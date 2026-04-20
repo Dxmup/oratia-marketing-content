@@ -1,0 +1,115 @@
+VRM Sales Library | Way of the Wolf | Jordan Belfort
+linkedin.com/in/chadhensel
+
+---
+
+This week I published three posts drawing from Jordan Belfort's Way of the Wolf. If you missed them, the short version: owner acquisition fails not because operators lack good service, but because they misread the psychological state of the owner sitting across from them. Belfort's framework gives you a precise diagnostic for that failure.
+
+This newsletter goes deeper. More tactics, more examples, more of what I've seen work and fail in real listing appointments.
+
+---
+
+THE THREE TENS: WHAT MOST OPERATORS GET WRONG IN PRACTICE
+
+The Three Tens framework is easy to understand and surprisingly hard to execute well. The reason is that most operators treat it as a checklist rather than a dynamic diagnostic. They arrive with a polished proposal (Brand), deliver a confident pitch (Operator), and assume that covers it. They never assess in real time which pillar is actually wobbling.
+
+Here's what that diagnostic looks like in practice.
+
+THE SYSTEM PILLAR IN THE ROOM
+
+The System comes under pressure the moment an owner asks a scenario question. "What happens if a guest damages something?" "What do you do if the cleaning team cancels last minute?" "Who calls me if there's a real emergency?"
+
+These aren't hostile questions. They're certainty tests. The owner is checking whether your answer sounds like a system or like improvisation. The difference in delivery is significant.
+
+Improvisation sounds like: "Oh we handle that, we have great cleaners and we'd just get someone out there."
+
+System sounds like: "We have a 24-hour maintenance dispatch protocol. Any reported damage triggers a photo documentation workflow within two hours, a vendor dispatch within four, and an owner notification with an estimate before any repair over $200 is authorized. You'll always know before money moves."
+
+The second answer doesn't have to be longer. It has to sound like it's been done before, many times, by a team with a process. Practice your scenario answers until they sound like procedures, not promises.
+
+THE OPERATOR PILLAR: THE UNSPOKEN EVALUATION
+
+Owners evaluate the Operator pillar largely before you open your mouth. In the first two minutes of a listing appointment, the owner is running an unconscious competence assessment based entirely on non-verbal signals.
+
+Did you arrive on time or early? Did you bring something prepared specifically for their property, not a generic packet? Did you reference something from your pre-call notes that showed you were paying attention before you arrived? Did you let them give you the tour on their terms, or did you take over the space?
+
+The owners with the best properties have met a lot of property managers. They know the type. The manager who walks in already talking, already selling, already pitching before the tour is over, is a type they've seen. The manager who arrives, asks one good question, and listens for five minutes before saying anything substantive is rarer. That rarity reads as authority.
+
+THE BRAND PILLAR: THE GAP BETWEEN THE ROOM AND THE SCREEN
+
+Here's a Brand failure I've watched happen more than once: a genuinely excellent operator delivers a strong appointment, earns real trust, and then the owner goes home and looks them up. The website is three pages with stock photography. The Google reviews are thin. The Instagram is dead. The email proposal that arrives the next day has a typo in the subject line.
+
+The operator's personal Operator pillar was strong. Their Brand pillar was not. And the owner, sitting alone at home without the warmth of the in-person conversation, makes their final decision based on what they can see on a screen.
+
+Your Brand doesn't have to be elaborate. It has to be consistent and credible. A clean website with real property photos, a handful of specific owner testimonials, and a professional proposal template will do more work than you realize, because most of your competitors haven't bothered.
+
+---
+
+THE COMMISSION SMOKESCREEN: GOING DEEPER
+
+The post covered the Looping Technique. Here's what I didn't have room to address: what happens after the loop.
+
+Most operators successfully redirect the fee conversation to outcome certainty, and then stall because they don't have a specific, credible case study to back it up. The loop works, but it creates an expectation you have to fulfill immediately.
+
+THE CASE STUDY STRUCTURE
+
+When you pivot from the fee to the outcome and the owner asks "so what have you actually produced for properties like mine?", you need a tight, credible, specific answer. Not "we've done really well for our owners." A case:
+
+"We took over a three-bedroom in [neighborhood] last April. The previous manager had them at $187 ADR and 61% occupancy. We repositioned the listing, rebuilt the pricing model around the local event calendar, and added direct booking. In 90 days they were at $214 ADR and 74% occupancy. The owner's net increased by $18,000 in the first full year. I can give you their name if you want to call them."
+
+That last sentence, the offer to provide a reference, is what separates a case study from a claim. Any manager can describe a win. Offering a direct reference signals you're not embellishing.
+
+Build three of these. One for each owner type you pitch most: the Investor who wants yield numbers, the Steward who wants to hear about care, and the Skeptic who wants to hear about a recovery from a bad prior manager.
+
+---
+
+THE ALCHEMIST TRAP: THE QUALIFICATION SYSTEM IN FULL
+
+The post covered the three qualification questions. Here's how to build a full pre-appointment qualification protocol that saves hours every month.
+
+THE PRE-APPOINTMENT CALL
+
+Before you ever drive to a property, run a 10-minute qualification call. The goal is not to pitch. The goal is to determine whether the appointment is worth having.
+
+Five questions to cover:
+1. How did you hear about us? (Referral vs. cold outreach tells you the temperature and who, if anyone, they trust in common.)
+2. What's your current situation with the property? (Self-managing, current manager, vacant, new purchase — each requires a different appointment strategy.)
+3. What's prompting you to look at this now? (Timing and urgency reveal how motivated they actually are.)
+4. What does success look like for you with this property in year one? (This surfaces unrealistic expectations before you're in their living room.)
+5. How involved do you want to be in the day-to-day? (The single most predictive qualifier for owner fit.)
+
+If question 4 produces a revenue expectation that isn't achievable in their market, address it on the call, not in the appointment. "Based on the comps I'm seeing in that area, I want to make sure we're aligned on what the market supports before we get together. The realistic range for a property like yours in that neighborhood is X to Y. Does that still make sense for your goals?"
+
+That one question on the pre-call eliminates a significant percentage of your worst appointments.
+
+DOCUMENTING THE DISQUALIFICATION
+
+When you disqualify a lead, document why. Over six months, your disqualification log tells you something important about where your marketing is generating the wrong signal. If you're consistently disqualifying owners who want to co-manage, your outreach messaging may be attracting the wrong owner type. The pattern in your rejected leads is a marketing diagnostic.
+
+---
+
+ONE THING I'D ADD TO BELFORT'S FRAMEWORK FOR VRM
+
+Belfort's model assumes a single buyer. In VRM acquisition, you frequently have two: the owner and their spouse, financial partner, or LLC co-owner. The second buyer is often not in the room for the listing appointment, and they're evaluating you entirely based on what the first buyer reports back.
+
+This creates a ghost certainty problem. You've hit a 10 on all three pillars for the person in front of you. But the person who wasn't there is running their own evaluation against a secondhand account.
+
+The fix is to surface the second decision-maker early.
+
+Script: "Before we get into the walkthrough, I want to make sure I'm talking to the right people. Is there a partner or co-owner who's part of this decision? I'd love to include them, even just by phone, before we wrap up today."
+
+If they're not available for this appointment, offer a short follow-up call specifically for the second party. "I'm happy to do a 15-minute call with your husband before you make any decision. It's easier for him to ask questions directly than to evaluate this secondhand."
+
+The operator who proactively invites the second buyer into the process is the one who doesn't lose a deal three days after a great appointment because someone who wasn't in the room had reservations nobody addressed.
+
+---
+
+NEXT WEEK
+
+Posts 4, 5, and 6 cover Todd Caponi's The Transparent Sales Leader. The core theme: honesty about your flaws is a more powerful sales tool than any pitch you can build around your strengths. The newsletter will go deeper on how to build your flaw inventory and how to use the three-scenario revenue forecast to set expectations that actually hold.
+
+---
+
+Each week this newsletter consolidates the week's posts with deeper tactics and context. Subscribe at linkedin.com/in/chadhensel.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #WayOfTheWolf

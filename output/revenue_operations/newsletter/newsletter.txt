@@ -1,0 +1,107 @@
+VRM Sales Library | Revenue Operations | Stephen G. Diorio
+linkedin.com/in/chadhensel
+
+---
+
+This week's posts covered Revenue Operations: why owner churn traces back to the sales process, and why the companies stuck below 100 doors are almost always treating marketing, sales, and operations as three separate businesses. Diorio's commercial operating system framework is the structural answer to both problems.
+
+This newsletter goes deeper on the specific breakdowns that cause revenue leaks, how to audit your current handoff, and what a practical RevOps system looks like for an operator under 75 doors.
+
+---
+
+THE CHURN ANATOMY: WHERE THE LEAK ACTUALLY BEGINS
+
+Most VRM operators who analyze their churn data focus on the event that triggered the departure: the maintenance complaint, the bad review, the owner who said they "wanted to try something different." These are the visible symptoms. The actual failure almost always began in the 90 days before signing.
+
+Here are the three most common promise-reality gaps that produce churn in VRM portfolios.
+
+GAP 1: THE REVENUE PROJECTION
+
+A BD rep presents an optimistic revenue projection to win the contract. The operations and revenue management team delivers an outcome that's below that projection, even if it's a genuinely good outcome for the property. The owner doesn't evaluate the result against market performance. They evaluate it against the number they were shown at signing.
+
+The fix is two-part: the BD rep must present a conservative, three-scenario forecast (see Newsletter 2), and the property manager must be given visibility into what projection was sold so they can contextualize the owner's expectations from day one.
+
+GAP 2: THE COMMUNICATION PROMISE
+
+"You'll always know what's happening with your property." "We'll proactively update you on anything significant." These promises are easy to make in a listing appointment and surprisingly easy to fail at operationally. A PM managing 40 properties has roughly 20 minutes of proactive attention to give each owner per week. If the BD rep implied daily visibility, the owner is going to feel ignored.
+
+The fix is to define communication standards explicitly in the contract and the onboarding call. Not "we'll keep you informed." Specifically: you'll receive a monthly performance report on the first of each month, a maintenance summary for any expense over $X, and a proactive call or message in any week where your occupancy is running more than 15% below forecast. Everything else comes to you only if it requires a decision from you.
+
+GAP 3: THE CARE PROMISE
+
+"We treat your home like our own." This is the most common promise in VRM sales and the one with the most ambiguity. The Steward owner who heard this promise and then found a guest had rearranged the furniture and nobody flagged it doesn't just feel disappointed. They feel deceived.
+
+The fix is to define care operationally. Not a feeling. A checklist. "After every guest checkout, our team conducts a 47-point property inspection. If anything is moved, damaged, or requires attention, you receive a photo report within 24 hours." That's a promise you can keep because it's a procedure, not an aspiration.
+
+---
+
+THE HANDOFF AUDIT
+
+Before you read further, do this exercise. Pull your last five new owner contracts and answer these four questions for each:
+
+1. What revenue projection was presented at signing?
+2. What does the assigned property manager believe the revenue target is for that property?
+3. What communication cadence was described during the listing appointment?
+4. What communication cadence does the property manager believe the owner expects?
+
+If the answers to questions 1 and 2 don't match, and if the answers to questions 3 and 4 don't match, you have a commercial operating system problem. The churn you experience in months 6 through 18 is being manufactured in those gaps right now.
+
+---
+
+FIXING THE HANDOFF: THE 90-DAY ONBOARDING PROTOCOL
+
+The handoff from BD to operations is where most of the damage happens, and it's also where the fix is most accessible. A structured 90-day onboarding protocol closes the promise-reality gap before it becomes a churn event.
+
+DAY 1: THE WELCOME CALL (BD REP PLUS PROPERTY MANAGER)
+
+Both people on the call. The BD rep introduces the property manager by name and explicitly hands off the relationship. The PM recaps what they understand to be the owner's goals and expectations, and invites correction. "Based on what [BD rep] has shared with me, my understanding is that your primary goals are X and Y, and you've told us you want to be contacted when Z. Does that match what you were expecting?"
+
+This call does three things: it transfers the relationship cleanly, it surfaces any promise-reality gaps before they calcify, and it signals to the owner that there is a real human being at the company who knows their name and their situation.
+
+DAY 30: THE FIRST MONTH CHECK-IN
+
+The PM calls or messages proactively with a first-month summary. Not just a report: a narrative. "Here's what we've done in the first 30 days, here's where the property is performing relative to forecast, and here's what we're working on in month two." Three paragraphs. Personal. Not a dashboard login.
+
+DAY 90: THE QUARTERLY REVIEW
+
+A structured conversation comparing actual results to the projection that was sold, with specific context for any variance. This is where the conservative forecast pays off: if you sold a realistic number and delivered against it, this call is a celebration. If you sold an inflated number and fell short, this call is a defensive one.
+
+The 90-day review is also the right moment to surface the owner's willingness to refer. An owner who's had a good 90 days and feels well-treated is at their highest referral motivation. Most operators never ask at this moment.
+
+"Is there anyone else you know who owns a vacation rental and might benefit from a conversation? We grow primarily through referrals from owners like you, and a warm introduction means a lot."
+
+---
+
+THE IDEAL OWNER PROFILE AS A COMMERCIAL SYSTEM
+
+The RevOps framework's most practical application for small operators is the Ideal Owner Profile (IOP). This isn't a marketing persona: it's an operational specification. A precise description of the owner whose expectations, property type, and engagement style allows your specific system to perform at its best.
+
+BUILDING YOUR IOP
+
+Answer these questions honestly:
+
+What property type produces your best operational margins? (Typically: 3+ bedrooms, above a minimum annual revenue threshold, in a neighborhood where you have other properties.)
+
+What owner behavior allows your team to deliver excellent service without excessive friction? (Typically: hands-off communication preference, flexible on pricing authority, no excessive personal use blocks during peak season.)
+
+What prior owner experiences predict a successful long-term relationship? (Typically: prior professional management experience, which means they have realistic expectations about what management looks like at its best.)
+
+What prior owner experiences predict churn? (Typically: a history of firing multiple prior managers, which usually reflects expectation problems rather than execution problems.)
+
+USING THE IOP IN MARKETING AND OUTREACH
+
+Once you've built your IOP, your marketing and trigger-based outreach should be designed to attract those owners and screen out everyone else. The language in your listing appointment, your proposal, and your onboarding materials should consistently reflect the type of relationship you're built for.
+
+"We're built for owners who want to be genuinely hands-off" is not just a pitch line. It's a filter. The owner who reads that and thinks "that's not me, I want to stay involved" has self-selected out before your BD rep has spent a minute on a bad-fit call.
+
+---
+
+NEXT WEEK
+
+Posts 21, 22, and 23 cover Jeb Blount's Objections. The topic: why the fee objection is almost never about the fee, how the Ledge technique buys you back the seconds you need to stop reacting defensively, and how to isolate the real objection underneath the smokescreen. The newsletter will go deep on the diagnostic tools that separate a genuine price objection from a certainty gap.
+
+---
+
+Each week this newsletter consolidates the week's posts with deeper tactics and context. Subscribe at linkedin.com/in/chadhensel.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #RevenueOperations

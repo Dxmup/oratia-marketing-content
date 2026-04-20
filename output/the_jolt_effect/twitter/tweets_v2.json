@@ -1,0 +1,114 @@
+[
+  {
+    "id": "tweet_1",
+    "type": "contrarian_take",
+    "source_theme": "no decision vs competitor",
+    "text": "A lot of owner deals don't die because another manager won. They die because switching sounds exhausting. Which is annoying, because transition logistics are a much less fun thing to sell than upside.",
+    "engagement_prompt": false,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "fear_of_messing_up",
+      "related_linkedin_post": "linkedin/post_1.txt"
+    }
+  },
+  {
+    "id": "tweet_2",
+    "type": "standalone_insight",
+    "source_theme": "let me think about it",
+    "text": "\"Let me think about it\" is often just \"I do not want to deal with this decision right now.\" Not elegant. Usually true.",
+    "engagement_prompt": false,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "linkedin/post_3.txt",
+      "theme": "decision_avoidance",
+      "related_linkedin_post": "linkedin/post_3.txt"
+    }
+  },
+  {
+    "id": "tweet_3",
+    "type": "field_note",
+    "source_theme": "fee vs certainty",
+    "text": "We see this a lot at Oratia: what sounds like fee pushback is often switching anxiety in a nicer outfit.",
+    "engagement_prompt": false,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "switching_risk",
+      "related_linkedin_post": "linkedin/post_1.txt"
+    }
+  },
+  {
+    "id": "tweet_4",
+    "type": "engagement_prompt",
+    "source_theme": "transition friction",
+    "text": "Feels like a lot of owner hesitation right now has less to do with commission and more to do with how annoying switching managers sounds. Are you seeing that too?",
+    "engagement_prompt": true,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "transition_friction",
+      "related_linkedin_post": "linkedin/post_2.txt"
+    }
+  },
+  {
+    "id": "tweet_5",
+    "type": "script_tweet",
+    "source_theme": "diagnosing inertia",
+    "text": "A useful question when an owner stalls: \"If you weren't working with your current manager at all, would this still feel like a hard decision?\" That usually tells you whether you're in a real comparison or just wrestling inertia.",
+    "engagement_prompt": false,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "linkedin/post_1.txt",
+      "theme": "fomu_diagnostic",
+      "related_linkedin_post": "linkedin/post_1.txt"
+    }
+  },
+  {
+    "id": "tweet_6",
+    "type": "standalone_insight",
+    "source_theme": "too many options",
+    "text": "Giving owners 3 management options feels consultative right up until nobody picks one.",
+    "engagement_prompt": false,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "linkedin/post_2.txt",
+      "theme": "one_recommendation",
+      "related_linkedin_post": "linkedin/post_2.txt"
+    }
+  },
+  {
+    "id": "tweet_7",
+    "type": "standalone_insight",
+    "source_theme": "follow-up overload",
+    "text": "If your follow-up email includes everything from the appointment, there's a decent chance you're helping the owner avoid the decision more professionally.",
+    "engagement_prompt": false,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "one_email_one_point",
+      "related_linkedin_post": "linkedin/post_2.txt"
+    }
+  },
+  {
+    "id": "tweet_8",
+    "type": "engagement_prompt",
+    "source_theme": "status quo risk",
+    "text": "The status quo wins a shocking number of owner deals simply because it doesn't require an awkward email to the current manager. What creates more drag in your deals: fee pressure or switch friction?",
+    "engagement_prompt": true,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "linkedin/post_3.txt",
+      "theme": "cost_of_inaction",
+      "related_linkedin_post": "linkedin/post_3.txt"
+    }
+  }
+]

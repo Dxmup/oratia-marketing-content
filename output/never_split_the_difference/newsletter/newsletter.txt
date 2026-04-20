@@ -1,0 +1,110 @@
+VRM Sales Library | Never Split the Difference | Chris Voss
+linkedin.com/in/chadhensel
+
+---
+
+This week's post covered the Accusation Audit and how proactively naming an owner's fears disables their defensive posture before you've made a single claim about your service. Voss's negotiation framework, built in FBI hostage situations and refined over decades of high-stakes conversations, translates directly to the trust-deficit environment of VRM listing appointments.
+
+This newsletter goes deeper on the specific fears each owner type carries into the room, how to construct an audit that's specific rather than generic, and how to use mirroring and labeling throughout the full appointment arc.
+
+---
+
+THE ACCUSATION AUDIT BY OWNER TYPE
+
+The post covered the general structure of the audit. Here's how it's calibrated to each of the six owner types. The fears are different. The language needs to match.
+
+THE SKEPTIC
+
+The Skeptic's fears are the most specific and the most hostile. They've been burned. Their audit needs to acknowledge not just the industry's failures, but their personal experience of those failures.
+
+"Before I show you anything about what we do, I want to get something out of the way. You've probably talked to two or three managers this week and heard the same pitch. I'm guessing at some point in the last year or two you had an experience with a manager that didn't go the way it was described when they signed you. I'm not going to pretend that doesn't happen in this industry, because it does constantly. What I'd rather do is tell you exactly where managers typically fail, and then let you tell me whether any of those things match what you experienced. If we had the same problem, you should know that upfront."
+
+This audit is more aggressive than the standard version because the Skeptic needs a more aggressive signal. The standard "I imagine you're expecting an inflated revenue projection" doesn't land hard enough with an owner who is carrying a specific grievance.
+
+THE STEWARD
+
+The Steward's fears are emotional and property-centric. The audit needs to acknowledge the vulnerability of handing over something they love.
+
+"Before we get into anything operational, I want to acknowledge something. Handing the keys to a property like this to someone you just met is a significant act of trust. The fear that whoever takes over won't care about it the way you do is completely legitimate. I've heard it from almost every owner whose property has a real story behind it. I'd rather put that on the table now than pretend it's not in the room."
+
+The phrase "a property like this" and "a real story behind it" are doing specific work: they signal that you've already noticed the Steward's property isn't just an asset to them. You've read the room before you've been told to.
+
+THE INVESTOR
+
+The Investor's fears are financial and competence-related. They're not afraid of emotional betrayal. They're afraid of being oversold and underdelivered.
+
+"Before I show you our revenue model, I want to be direct about something. Most managers will show you the best-case scenario and call it a projection. I've seen owners sign based on a number that was genuinely not achievable for their property in their market, and then spend 12 months wondering what happened. I'm going to show you three scenarios today. I'll tell you what I think the realistic one is. If that number doesn't work for your investment thesis, I'd rather you know that now."
+
+The Investor's audit is less about emotional fears and more about information integrity. You're signaling that you play a different game: conservative honesty rather than optimistic selling.
+
+THE DELEGATOR
+
+The Delegator's fears are largely about complexity and ongoing involvement. They're afraid that "hands-off management" will turn out to require more of their hands than advertised.
+
+"I want to be upfront about one thing before we go through how we work. Some owners come to us expecting truly zero involvement, and then find out there are two or three times a year where we genuinely need a decision from them. I'd rather you know that going in than have it feel like a surprise. Here's what those moments look like and how often they actually happen."
+
+This audit is brief because the Delegator's fears are specific and answerable. Name the fear, name the reality, move on.
+
+THE CONTROLLER
+
+The Controller's fears are about losing oversight over something they've managed carefully. They're not afraid of being cheated: they're afraid of being excluded from decisions they feel should be theirs.
+
+"Before we get into systems, I want to acknowledge something directly. Handing over operational control of a property you've been managing yourself is a real adjustment. The concern that you'll lose visibility into what's happening, or that decisions will be made without your input on things you care about, is legitimate. I want to show you specifically where you stay in control and where you hand off, so there's no ambiguity about that later."
+
+THE OPPORTUNIST
+
+The Opportunist's fears are about commitment and being pushed toward a decision they're not ready to make.
+
+"I want to be clear from the start: there's no pressure in this conversation. I'm not going to ask you to sign anything today, and I'm not going to try to talk you into renting your property if it doesn't make sense for your situation. My goal is to give you accurate information so you can make a good decision, whatever that turns out to be."
+
+This isn't a traditional Accusation Audit in the sense of naming hostile fears: the Opportunist doesn't have hostile fears. They have commitment anxiety. Naming the absence of pressure is its own version of the audit.
+
+---
+
+MIRRORING IN THE LISTING APPOINTMENT: THE FULL TECHNIQUE
+
+The post introduced mirroring. Here's how to use it systematically through the full appointment arc.
+
+MIRRORING IN THE DISCOVERY PHASE
+
+Early in the walkthrough, the owner will say something that signals what they care about most. Your job is to notice it and mirror it back.
+
+Owner: "We've just been really frustrated with the communication from our current manager."
+You: "Frustrated with the communication." [Pause. Let silence work.]
+Owner: "Yeah, I mean we'd go weeks without hearing anything and then get a surprise bill."
+You: "A surprise bill." [Pause.]
+Owner: "Two of them in three months. With no explanation of what happened."
+
+You've just learned, without asking a direct question, that this owner's primary concern is financial transparency and proactive communication. That's your close. Everything you say about your service from this point forward should directly address financial transparency and proactive communication.
+
+THE MIRROR CREATES THE DIAGNOSIS
+
+Most operators ask discovery questions directly: "What are the most important things you're looking for in a manager?" The problem with this question is that it asks the owner to think analytically about what they want, and the answer they give is often their second thought, not their actual priority.
+
+Mirroring bypasses the analytical filter. It invites the owner to go deeper on what they've already said, which is much closer to what they actually feel than what they say when asked to reflect.
+
+LABELING THROUGHOUT THE APPOINTMENT
+
+Labels are statements that name the emotion you observe, not the content of what was said. They work because they make the owner feel understood at a level that direct engagement doesn't reach.
+
+Useful labels in VRM listing appointments:
+
+"It sounds like the last experience left you feeling like you had to do the oversight work yourself even though you were paying someone to do it."
+
+"It seems like what you're really looking for is someone who will treat this the way you would if you were here."
+
+"It looks like the revenue matters, but what you're really solving for is being able to stop worrying about this property."
+
+Each of these labels contains no information about your service. They contain only a reflection of what the owner has communicated, named back to them in emotional language. The owner's response to a well-landed label is almost always one of two things: "Yes, exactly" (you've got it right) or a gentle correction that gets you even closer to the real concern. Both outcomes are useful.
+
+---
+
+NEXT WEEK
+
+Posts 25, 26, and 27 cover Robert Cialdini's Influence. The three principles in focus are Reciprocity, Scarcity, and Social Proof: the three that translate most directly to VRM owner acquisition. The newsletter will go deep on how to build each one into a systematic acquisition practice rather than a one-time tactic.
+
+---
+
+Each week this newsletter consolidates the week's posts with deeper tactics and context. Subscribe at linkedin.com/in/chadhensel.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #NeverSplitTheDifference

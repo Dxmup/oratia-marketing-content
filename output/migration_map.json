@@ -1,0 +1,105 @@
+{
+  "way_of_the_wolf": {
+    "linkedin_posts": [
+      "post_01_the_three_tens.txt",
+      "post_02_commission_smokescreen.txt",
+      "post_03_alchemist_trap.txt"
+    ],
+    "newsletter": "newsletter_01_way_of_the_wolf.txt"
+  },
+  "transparent_sales_leader": {
+    "linkedin_posts": [
+      "post_04_flaw_first_pitch.txt",
+      "post_05_pipeline_is_a_lie.txt",
+      "post_06_overpromising_is_churn.txt"
+    ],
+    "newsletter": "newsletter_02_transparent_sales_leader.txt"
+  },
+  "the_jolt_effect": {
+    "linkedin_posts": [
+      "post_07_lost_to_no_decision.txt",
+      "post_08_apply_jolt_framework.txt",
+      "post_09_most_expensive_words.txt"
+    ],
+    "newsletter": "newsletter_03_jolt_effect.txt"
+  },
+  "the_challenger_sale": {
+    "linkedin_posts": [
+      "post_10_stop_being_best_friend.txt",
+      "post_11_eq_useless_without_pipeline.txt",
+      "post_12_dear_homeowner_trash.txt"
+    ],
+    "newsletter": "newsletter_04_challenger_sale.txt"
+  },
+  "tech_powered_sales": {
+    "linkedin_posts": [
+      "post_13_stop_pitching_tech_stack.txt",
+      "post_14_self_managing_trap.txt",
+      "post_15_selling_features_not_freedom.txt"
+    ],
+    "newsletter": "newsletter_05_tech_powered_sales.txt"
+  },
+  "sales_pitch": {
+    "linkedin_posts": [
+      "post_16_owners_dont_care_revpar.txt",
+      "post_17_listing_presentation_sleeping.txt",
+      "post_18_platinum_rule.txt"
+    ],
+    "newsletter": "newsletter_06_sales_pitch.txt"
+  },
+  "sales_eq": {
+    "linkedin_posts": [
+      "post_19_churn_is_sales_problem.txt",
+      "post_20_never_cross_100_doors.txt",
+      "post_21_fee_objection_wrong_instinct.txt"
+    ],
+    "newsletter": "newsletter_07_sales_eq.txt"
+  },
+  "revenue_operations": {
+    "linkedin_posts": [
+      "post_22_need_their_property.txt",
+      "post_23_owners_lie_why_wont_sign.txt",
+      "post_24_stop_looking_perfect.txt"
+    ],
+    "newsletter": "newsletter_08_revenue_operations.txt"
+  },
+  "objections": {
+    "linkedin_posts": [
+      "post_25_reciprocity.txt",
+      "post_26_scarcity.txt",
+      "post_27_social_proof.txt"
+    ],
+    "newsletter": "newsletter_09_objections.txt"
+  },
+  "never_split_the_difference": {
+    "linkedin_posts": [
+      "post_28_solving_wrong_problem.txt",
+      "post_29_product_doesnt_matter.txt",
+      "post_30_door_count_vanity.txt"
+    ],
+    "newsletter": "newsletter_10_never_split_the_difference.txt"
+  },
+  "influence": {
+    "linkedin_posts": [
+      "post_31_chaos_no_excuse_prospecting.txt",
+      "post_32_yes_wrong_property.txt",
+      "post_33_smell_your_desperation.txt"
+    ],
+    "newsletter": "newsletter_11_influence.txt"
+  },
+  "gap_selling": {
+    "linkedin_posts": [
+      "post_34_dangerous_first_60_seconds.txt",
+      "post_35_asking_owners_what_they_want.txt",
+      "post_36_done_this_hundred_times.txt"
+    ],
+    "newsletter": "newsletter_12_gap_selling.txt"
+  },
+  "founding_sales": {
+    "linkedin_posts": [
+      "post_37_owners_need_sense_maker.txt",
+      "post_38_defending_fee_offer_broken.txt"
+    ],
+    "newsletter": "newsletter_13_founding_sales.txt"
+  }
+}

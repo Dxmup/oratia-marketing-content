@@ -1,0 +1,24 @@
+{
+  "status": "gold_draft",
+  "content_type": "twitter_batch",
+  "verdict": "First gold-style Gap Selling set built using the Jolt voice learnings. The content leans into problem diagnosis, personal cost, and relief framing rather than generic sales language.",
+  "strengths": [
+    "Clear carryover of the approved Twitter voice",
+    "Strong fit with Gap Selling's move from surface pain to real pain",
+    "Natural Oratia/context integration",
+    "Engagement prompts are specific to owner pain and discovery work"
+  ],
+  "problems": [
+    "Needs human taste-check to confirm the simpler lines land well",
+    "May want one or two more dry asides if the tone still feels too straight"
+  ],
+  "required_fixes": [
+    "Review in chat and keep only the lines Chad would actually post",
+    "Refine further if any line feels too polished or too abstract"
+  ],
+  "depth_score": 8,
+  "specificity_score": 8,
+  "operator_value_score": 8,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}

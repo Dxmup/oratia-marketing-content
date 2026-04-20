@@ -1,0 +1,123 @@
+VRM Sales Library | Sales EQ | Jeb Blount
+linkedin.com/in/chadhensel
+
+---
+
+This week's posts covered three ideas from Jeb Blount's Sales EQ: leading with peace of mind before revenue, disrupting the expected listing appointment script, and applying the Platinum Rule to adapt your approach to the owner type in front of you. The through-line is that emotional intelligence in VRM acquisition isn't a soft skill. It's a revenue driver, and operators who treat it as one close more deals and at higher fees.
+
+This newsletter goes deeper on the emotional landscape of each owner type, how to read the signals in the first five minutes, and how to build an adaptive opener that doesn't require you to memorize six separate scripts.
+
+---
+
+THE EMOTIONAL LANDSCAPE OF EACH OWNER TYPE
+
+Blount's core teaching is that you must understand the emotional state of the buyer before you can sell to them effectively. In VRM, the six owner types each have a distinct emotional landscape when they walk into a listing appointment. Understanding that landscape tells you what to address first.
+
+THE INVESTOR
+
+Primary emotional state: controlled anxiety about underperformance. The Investor presents as analytical and composed, but underneath the spreadsheet conversation is a real concern about whether their asset is producing the return it should be. They won't name this directly. They'll ask about ADR and occupancy instead.
+
+What they need from you first: confidence that you know this market at the level they know their financials. Before you can earn their emotional trust, you have to earn their intellectual respect. Lead with data. Lead with specifics. Show them you've done the homework on their property before they had to ask.
+
+What not to do: attempt rapport-building before you've established competence. The Investor who hears "so tell me about the property, what do you love about it?" in the first two minutes has mentally started comparing your fee to the company that opened with comp set analysis.
+
+THE STEWARD
+
+Primary emotional state: grief-adjacent protectiveness. The Steward isn't just worried about revenue. They're worried about whether the guests who rent their family cabin will treat it the way they would. This anxiety is real and deep, and no revenue projection addresses it.
+
+What they need from you first: evidence that you see the property the way they do. Notice the details they care about. Ask about what guests love. Let them tell the property's story before you tell yours.
+
+What not to do: open with financial analysis or operational efficiency language. "We'll optimize your RevPAR" lands with a Steward about as warmly as telling someone you'll commoditize their childhood home.
+
+THE SKEPTIC
+
+Primary emotional state: guarded distrust born from prior disappointment. The Skeptic has been sold a promise that wasn't kept. Their emotional posture is defensive, and they're actively scanning your presentation for the moment you sound like every other manager who has sat in their living room.
+
+What they need from you first: a signal that you're different in a way they can verify, not just claim. The Accusation Audit from the Never Split the Difference series (newsletter 10) is the most powerful tool available here. Name the industry's failure modes before they do.
+
+What not to do: project confidence without acknowledging the context. An upbeat, polished pitch from a Skeptic's perspective looks exactly like the last pitch that preceded their bad experience.
+
+THE DELEGATOR
+
+Primary emotional state: mild exhaustion and a strong desire for the conversation to be short and the decision to be simple. The Delegator is not enjoying this process. They want someone they trust to tell them what to do and then do it.
+
+What they need from you first: a clear, simple decision path. How many decisions do they have to make to get from here to a live property? What are they, specifically? The Delegator who sees a 12-page proposal and a six-step onboarding checklist is already mentally exhausted.
+
+What not to do: give them options. The Delegator does not want to choose between three management tiers. They want you to tell them which one is right for their situation and why.
+
+THE CONTROLLER
+
+Primary emotional state: a specific kind of trust deficit: they don't distrust you personally yet, but they distrust the idea of handing over control before you've earned it. They'll want to understand your systems in detail before they're willing to step back from them.
+
+What they need from you first: operational specificity. Not a pitch: a process walkthrough. How do you handle guest screening? What's the maintenance escalation path? Who calls them and when? The Controller is building a mental model of what it looks like to trust you, and they need specific answers to populate it.
+
+What not to do: be vague in the interest of seeming relaxed. "We handle everything, you don't have to worry about a thing" sounds like a relief to a Delegator and sounds like a brush-off to a Controller.
+
+THE OPPORTUNIST
+
+Primary emotional state: curiosity mixed with non-commitment. The Opportunist hasn't decided they're going to rent the property. They're exploring the idea. Their emotional state isn't anxiety or distrust: it's openness without urgency.
+
+What they need from you first: permission to be in the conversation without pressure. The Rejection-Free Opener from the Exactly What to Say series (newsletter 15) is designed specifically for this state.
+
+What not to do: apply a closing technique to an owner who hasn't committed to the category yet. Asking for the contract from an Opportunist is like asking for a second date before the first one is over.
+
+---
+
+READING THE SIGNALS IN THE FIRST FIVE MINUTES
+
+You won't always know the owner type before you walk in. Here's a compressed diagnostic you can run in real time during the first few minutes of the walkthrough.
+
+HOW THEY REFER TO THE PROPERTY
+
+Already covered in the post, but worth repeating because it's the single most reliable early signal:
+
+"The unit" or "the property" or "the investment" means Investor or Delegator frame. They see it as an asset, not a place. Financial language is their native currency.
+
+"The cabin," "our place," "my grandmother's house," "the lake house" means Steward or Controller frame. The property has an identity. They see themselves as its caretaker, not just its owner.
+
+"I'm not sure I'm going to do this" means Opportunist. They're still deciding whether they want to be in this conversation at all.
+
+"The last company..." or "we had some issues with..." means Skeptic. They came in carrying a story about prior disappointment. That story needs to be heard before anything else.
+
+HOW THEY ASK QUESTIONS
+
+Investors and Controllers ask specific operational questions early. "What's your fee structure?" "How do you handle maintenance?" "What's your average response time?"
+
+Stewards ask about the guest experience. "What kind of guests do you typically place?" "How do you handle damage to personal items?" "Will you be honest with me if something breaks?"
+
+Delegators ask about simplicity. "So I just hand you the keys?" "What do I actually have to do?" "How often will I hear from you?"
+
+Opportunists don't ask many questions early. They're observing.
+
+---
+
+THE ADAPTIVE OPENER: ONE STRUCTURE, SIX VARIATIONS
+
+You don't need six separate scripts. You need one opener that has two variables: the emotional acknowledgment and the opening question. Both adapt to the owner type without requiring you to memorize a different pitch.
+
+THE STRUCTURE:
+[Acknowledge what matters to this owner type] + [Ask the question that opens the relevant conversation]
+
+INVESTOR: "I pulled the comp data for your specific block this morning before coming over. Before we get into how we work, I want to show you something in the numbers that I think is worth your attention. Can I share that first?" [Then go Challenger.]
+
+STEWARD: "Before we talk about anything operational, I'd love to hear about the property first. What do guests love about it? And what do you want them to experience when they're here?" [Then listen for 10 minutes before you say anything substantive.]
+
+SKEPTIC: "I'm going to guess you've talked to two or three managers this week and heard a lot of the same pitch. Before I add to that noise, tell me what went wrong last time. I'd rather understand that first than ask you to trust another version of the same promise." [Then Accusation Audit.]
+
+DELEGATOR: "Here's how this works: I'll walk the property, answer your questions, and by the end of the next 30 minutes you'll know exactly what the three decisions are that you need to make. I'll tell you what I'd recommend for each one. Does that work?" [Then compress everything to simplicity.]
+
+CONTROLLER: "I want to make sure I earn your trust before we talk about anything commercial. Walk me through how you're currently managing the property and what you'd want to happen differently. I'll tell you specifically how our process works for each thing you raise." [Then be operationally specific in response to each concern they name.]
+
+OPPORTUNIST: "I'm genuinely not sure if this makes sense for your situation, and I don't want to pitch you on something that doesn't. Can we just do a 20-minute revenue walkthrough, no pressure, and I'll tell you honestly what I think the property could produce? You can decide from there whether it's worth a longer conversation." [Then low-pressure, education-first.]
+
+---
+
+NEXT WEEK
+
+Posts 19 and 20 cover Stephen Diorio's Revenue Operations. The topic: owner churn is a sales problem, not an operations problem, and the gap between what BD promises and what operations delivers is where most VRM portfolios leak their highest-value clients. The newsletter will go deep on building the commercial operating system that closes that gap.
+
+---
+
+Each week this newsletter consolidates the week's posts with deeper tactics and context. Subscribe at linkedin.com/in/chadhensel.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #SalesEQ

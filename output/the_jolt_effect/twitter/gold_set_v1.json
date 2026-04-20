@@ -1,0 +1,80 @@
+{
+  "book": "The Jolt Effect",
+  "book_slug": "the_jolt_effect",
+  "purpose": "gold_standard_style_set",
+  "voice_target": "thoughtful operator who notices what actually makes owner acquisition hard, says it plainly, occasionally smirks at the absurdity, and does not try too hard to sound cool",
+  "tweets": [
+    {
+      "id": "gold_tweet_1",
+      "type": "conversational_observation",
+      "text": "A lot of owner hesitation has less to do with your pitch and more to do with how annoying switching managers sounds. Which is frustrating, because transition logistics are a much less fun thing to sell than upside.",
+      "notes": "shared pain, conversational, operator-specific"
+    },
+    {
+      "id": "gold_tweet_2",
+      "type": "diagnostic_tweet",
+      "text": "If an owner says they need to think about it, I wouldn't assume you lost to another manager. A lot of the time they're picturing the hassle of switching and backing away from that.",
+      "notes": "plainspoken diagnosis, not slogan-heavy"
+    },
+    {
+      "id": "gold_tweet_3",
+      "type": "oratia_context_tweet",
+      "text": "One thing we keep seeing at Oratia: what sounds like fee pushback is often switching anxiety in a nicer outfit.",
+      "notes": "natural Oratia mention, not promotional"
+    },
+    {
+      "id": "gold_tweet_4",
+      "type": "diagnostic_script_tweet",
+      "text": "A question worth asking when an owner stalls: if you weren't working with your current manager at all, would this still feel like a hard decision? That usually tells you whether you're in a real comparison or just wrestling inertia.",
+      "notes": "tactical, useful, conversational"
+    },
+    {
+      "id": "gold_tweet_5",
+      "type": "conversational_observation",
+      "text": "If your follow-up email includes everything from the appointment, there's a decent chance you're helping the owner avoid the decision more professionally.",
+      "notes": "dry realism, practical"
+    },
+    {
+      "id": "gold_tweet_6",
+      "type": "engagement_tweet",
+      "text": "Feels like a lot of owner hesitation right now has less to do with commission and more to do with how annoying switching managers sounds. Are you seeing that too?",
+      "notes": "market observation + natural engagement"
+    },
+    {
+      "id": "gold_tweet_7",
+      "type": "engagement_tweet",
+      "text": "The status quo wins a shocking number of owner deals simply because it doesn't require an awkward email to the current manager. What creates more drag in your deals: fee pressure or switch friction?",
+      "notes": "shared pain + specific question"
+    },
+    {
+      "id": "gold_tweet_8",
+      "type": "channel_connector",
+      "text": "I'm going deeper on this in the VRM Sales Library this week, because a surprising number of owner deals are really about switch friction in a nicer shirt.",
+      "notes": "light connector tweet to bridge Twitter with the LinkedIn/newsletter series"
+    }
+  ],
+  "threads": [
+    {
+      "id": "gold_thread_1",
+      "type": "textured_operator_thread",
+      "tweets": [
+        "A lot of owner deals don't die because another manager said something smarter.",
+        "They die because switching sounds like a hassle.",
+        "Awkward email to the current manager. Listing migration. Existing bookings. Spouse buy-in. The whole charming little parade.",
+        "Then the VRM responds with more upside. More revenue talk. More marketing. More tech.",
+        "Wrong medicine.",
+        "If the hesitation is really about switching, the job is to make the move feel safer than staying put.",
+        "That means concrete transition language, a clear point of contact, and a visible safety net if things go sideways.",
+        "A lot of deals don't need a better pitch. They need a less annoying path to yes."
+      ],
+      "notes": "preferred thread shape: textured, specific, lightly dry, practical"
+    }
+  ],
+  "style_notes": [
+    "Prefer conversational observations over slogan-y punchlines",
+    "Use dry realism and shared-pain asides sparingly but deliberately",
+    "Favor operator recognition over generic catchiness",
+    "Let Oratia appear as context or pattern-recognition source, not as a pitch",
+    "Keep the account voice thoughtful, practical, and mildly self-aware"
+  ]
+}

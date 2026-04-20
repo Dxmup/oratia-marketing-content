@@ -1,0 +1,162 @@
+{
+  "book": "Gap Selling",
+  "book_slug": "gap_selling",
+  "purpose": "x_amplification_package",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "surface_problem_vs_real_problem",
+      "text": "Most VRM discovery calls are just two people being polite about the wrong problem.",
+      "engagement_prompt": false,
+      "post_role": "sharpest_observation",
+      "best_timing": "early_week",
+      "publish_after_linkedin": false,
+      "source_trace": {
+        "book_slug": "gap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "surface_problem_vs_real_problem",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "what_owners_really_want",
+      "text": "A lot of owners don't actually want better property management. They want their brain back.",
+      "engagement_prompt": false,
+      "post_role": "recognition_line",
+      "best_timing": "mid_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "gap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "level_3_relief",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "recognition",
+      "source_theme": "surface_complaint",
+      "text": "If the owner says communication is bad, that's usually not the real problem. That's just the first problem that's easy to say out loud.",
+      "engagement_prompt": false,
+      "post_role": "recognition_line",
+      "best_timing": "mid_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "gap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "level_1_surface_complaint",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "diagnostic",
+      "source_theme": "better_discovery_question",
+      "text": "A better discovery question than 'what are you looking for in a manager?' is 'walk me through what managing this property looks like for you right now.' Much harder to hide inside a generic answer.",
+      "engagement_prompt": false,
+      "post_role": "tactical_question",
+      "best_timing": "after_post_1",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "gap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "opening_question",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "story_detail",
+      "source_theme": "level_3_detail",
+      "text": "The conversation changes when the owner stops talking about response times and says something like 'I haven't had a phone-free weekend in three years.' At that point you're not in a feature conversation anymore.",
+      "engagement_prompt": false,
+      "post_role": "story_detail",
+      "best_timing": "mid_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "gap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "level_3_detail",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "discovery_quality",
+      "text": "Feels like a lot of VRM discovery calls stay way too long at the technical-problem level. Are you seeing that too, or are owners in your market getting more direct about the real pain?",
+      "engagement_prompt": true,
+      "post_role": "conversation_opener",
+      "best_timing": "late_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "gap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "technical_problem_level",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "channel_connector",
+      "source_theme": "vrm_sales_library_bridge",
+      "text": "Went deeper on this in this week's VRM Sales Library, because owner conversations get a lot more useful once you stop treating the first complaint like the real problem.",
+      "engagement_prompt": false,
+      "post_role": "cross_channel_bridge",
+      "best_timing": "end_of_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "gap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "vrm_sales_library_bridge",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "author_engagement",
+      "source_theme": "author_application",
+      "text": "Been digging into Jim Keenan's Gap Selling this week. One thing VRM operators miss: if you only solve the technical complaint, you usually sound exactly like every other manager in the market.",
+      "engagement_prompt": false,
+      "post_role": "author_engagement",
+      "best_timing": "after_series_launch",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "gap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "author_application",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "relief_conversation_thread",
+      "tweets": [
+        "A lot of VRM discovery calls go sideways for a very simple reason.",
+        "The owner says something like communication has been bad, and the manager starts solving communication.",
+        "Too early.",
+        "Bad communication is the surface problem. The real problem is usually what that failure has been costing the owner in revenue, time, trust, or just the ability to stop thinking about the property for five minutes.",
+        "That's the part most people skip because it gets personal, and personal is harder than talking about software and response times.",
+        "But that's also where the real close lives.",
+        "If the owner says 'I haven't had a weekend off in three years,' you're not in a feature conversation anymore.",
+        "Now you're in a relief conversation."
+      ],
+      "post_role": "optional_thread",
+      "best_timing": "only_if_topic_is_working",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "gap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "relief_conversation",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    }
+  ]
+}

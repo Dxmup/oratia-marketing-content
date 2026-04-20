@@ -1,0 +1,108 @@
+VRM Sales Library | Founding Sales | Pete Kazanjy
+linkedin.com/in/chadhensel
+
+---
+
+This week covered two posts from Pete Kazanjy's Founding Sales: the problem-centric pitch and the real cost of accepting owners who don't fit your system. The through-line is that early-stage operators win on precision, not scale, and the discipline that protects a portfolio from bad-fit owners is the same discipline that lets a good operator punch above their weight against larger competitors.
+
+This newsletter goes deeper on the problem excavation technique, the full qualification system, and how to build the graceful disqualification into a practice that actually grows your business.
+
+---
+
+THE PROBLEM-CENTRIC PITCH: THE FULL EXCAVATION
+
+Kazanjy's argument is that in early-stage sales, your service is rarely the most impressive thing in the room. Your diagnosis can be. The operator who understands the owner's problem more precisely than any competitor wins the appointment on authority, not resources.
+
+Here's the full problem excavation sequence, expanded from the post.
+
+EXCAVATION QUESTION 1: THE WORST EXPERIENCE
+
+"Tell me about the worst guest experience you've had with this property. Not the most recent: the one that actually cost you something, whether that was money, time, or peace of mind."
+
+This question opens the conversation at the owner's highest point of pain. It bypasses the polite, measured version of their situation and gets to the experience they're actually trying to avoid repeating. Listen for three things: what went wrong operationally, how long the problem lasted before it was resolved, and who they called and what happened.
+
+The operational failure tells you where their current system broke down. The resolution timeline tells you how responsive their current or prior manager was. Who they called tells you whether they were the last line of defense when things went wrong. An owner who says "I just handled it myself" has been functioning as their own property manager even while paying someone else. That's a Level 3 pain point dressed up as a Level 1 complaint.
+
+EXCAVATION QUESTION 2: THE TIME AUDIT
+
+"If you tracked it honestly, how much time do you spend on this property in an average week? Include everything: guest messages, owner portal reviews, calls with your manager, time spent worrying about it when you're not actively working on it."
+
+Most owners underestimate by a factor of two or three. The owner who says "oh, maybe two hours" usually lands at six to eight when they actually account for the mental overhead, the periodic check-ins, the booking platform monitoring, and the scattered 20-minute blocks throughout the week.
+
+When they land at a number that surprises them, name it: "That's roughly 300 to 400 hours a year. At what you'd bill for your own time professionally, what does that actually cost you?" You're not manipulating them. You're showing them math they haven't done.
+
+EXCAVATION QUESTION 3: THE NET INCOME REALITY CHECK
+
+"What was your actual net income from this property last year, after cleaning fees, supplies, any emergency maintenance, platform fees, and the value of your own time?"
+
+This question surfaces the real return on investment, which almost always looks worse than the gross revenue figure the owner has been watching. An owner who earned $65,000 in gross bookings but spent $18,000 on cleaning, $4,000 on supplies and maintenance, $7,800 in platform fees, and 400 hours of their own time at any reasonable hourly rate has a very different picture of what their "passive income" property is producing.
+
+When the owner does this math honestly, the management fee conversation changes character. You're not a cost. You're a trade: a 20% fee in exchange for the 400 hours they're currently spending and the margin improvements available through professional revenue management.
+
+EXCAVATION QUESTION 4: THE PERSONAL COST
+
+"What did you miss or sacrifice last year because of this property? Trips you didn't take. Weekends that didn't go the way you planned. Decisions you made from anxiety rather than intention."
+
+This is the Level 3 bridge from the Gap Selling framework applied directly. The answer to this question is the close. When an owner describes a vacation that was interrupted by a guest emergency, a family dinner disrupted by a 9 PM maintenance text, or a habit of checking reviews before they can fully relax, you have everything you need.
+
+---
+
+THE FULL QUALIFICATION SYSTEM
+
+The post covered the five key qualification questions. Here's how to build them into a full pre-appointment qualification protocol that protects your time without feeling like an interrogation.
+
+THE PRE-CALL STRUCTURE
+
+The pre-qualification call should feel like a natural conversation, not a checklist. Here's a sequence that covers all five qualification criteria while reading like a relationship-building call.
+
+"Before we schedule the walkthrough, I want to make sure we're potentially a good fit for each other. I find the appointment goes much better when we've had a chance to talk first. Do you have 10 or 15 minutes?"
+
+Opening: "Tell me about the property and what's prompting you to look at this now." (Surfaces the trigger event and ownership context.)
+
+Revenue floor: "Based on what you know about comparable properties in your area, what do you think a well-managed property like yours should be producing in a year?" (If they name a number well below your minimum viable revenue for the property to be profitable in your portfolio, address it directly on the call.)
+
+Management style: "How involved have you been in managing the property up to this point, and how involved would you want to be going forward?" (The clearest filter for Controller vs. Delegator expectations.)
+
+Owner use: "How often do you personally use the property, and are there specific periods you'd want to reserve for your own use?" (Peak season blocks above a certain threshold can make the revenue math unworkable.)
+
+Expectations reset: "What would have to be true at the 12-month mark for you to feel like this partnership was a success?" (Surfaces unrealistic expectations before you've driven to the property. Significantly easier to address on a call than in their living room.)
+
+THE DISQUALIFICATION DECISION
+
+After the pre-call, you know whether to schedule the appointment. Three categories:
+
+Clear yes: The property, the owner expectations, and the revenue potential all align. Schedule the appointment.
+
+Clear no: The revenue potential doesn't support your fee structure, the owner wants operational involvement your model doesn't accommodate, or the personal use blocks make peak season revenue unviable. Decline gracefully on the call, before either party has invested more time.
+
+Possible: The fit is uncertain. One specific question needs an answer before the appointment is worth having. Ask it directly: "One thing I want to clarify before we schedule: you mentioned you'd want to be involved in approving guest bookings. That's something our model doesn't accommodate well. Is that a hard requirement for you, or is it something you'd be open to handing over?"
+
+THE GRACEFUL NO: FULL SCRIPT
+
+The post covered this briefly. Here's the expanded version.
+
+"Based on what you've described, I don't think we're the right fit, and I want to be honest with you about why. Our model is specifically built for owners who want a complete handoff of operational decisions. From what you've told me, you'd be most comfortable staying involved in [specific decision area], which is completely reasonable. It just creates friction in our system that wouldn't serve you well. I'd rather tell you that now than sign you on and have that friction create a poor experience six months in.
+
+I can point you toward two operators in this market whose model is better suited to what you're describing. I'm happy to make the introduction if that would be useful."
+
+The offer to make the introduction is the final element that turns a no into a reputation-building moment. The owner you referred to a competitor is now more likely to refer someone to you when they encounter an owner who is a better fit.
+
+---
+
+THE PORTFOLIO PROTECTION DISCIPLINE
+
+Kazanjy's underlying argument in Founding Sales is that the operators who scale successfully are the ones who maintain discipline about fit when the pipeline is thin. The temptation to accept bad-fit owners is highest when you need doors. The cost of that temptation shows up 12 months later in churn, team burnout, and operational drag.
+
+The discipline is simple in principle and difficult in practice: know your criteria, enforce them consistently, and trust that protecting the portfolio from bad fits is a growth strategy, not just a quality of life preference. Every bad-fit owner you don't take is a slot available for the right owner when they appear. And the right owners, managed well, refer other right owners. That compounding effect is worth more than the short-term door count from accepting every property that crosses your desk.
+
+---
+
+NEXT WEEK
+
+Posts 31, 32, and 33 cover Jeb Blount's Fanatical Prospecting: the 30-day rule, the law of replacement, and the Universal Law of Need. The newsletter will go deep on building a prospecting system that maintains pipeline health through your busiest operational periods.
+
+---
+
+Each week this newsletter consolidates the week's posts with deeper tactics and context. Subscribe at linkedin.com/in/chadhensel.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #FoundingSales

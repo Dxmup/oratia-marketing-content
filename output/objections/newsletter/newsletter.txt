@@ -1,0 +1,112 @@
+VRM Sales Library | Objections | Jeb Blount
+linkedin.com/in/chadhensel
+
+---
+
+This week covered three posts from Blount's Objections: the Ledge technique for fee pushback, the pipeline-as-posture principle, and how to isolate the real objection underneath the smokescreen the owner gives you. The common thread: elite operators don't react to objections. They diagnose them.
+
+This newsletter goes deeper on building a full objection handling system, the specific language patterns that separate genuine objections from smokescreens, and how to calibrate your response to each owner type's version of the same objection.
+
+---
+
+THE OBJECTION HANDLING SYSTEM
+
+Blount treats objection handling as a four-phase sequence, not a single technique. Here's what the full sequence looks like in a VRM listing appointment.
+
+PHASE 1: THE LEDGE (SECONDS 0-3)
+
+The Ledge is a memorized, automatic response that fires the moment an objection lands. Its only job is to prevent the amygdala hijack: the defensive reaction that turns a recoverable objection into a lost deal.
+
+The Ledge does not agree with the objection. It does not concede ground. It creates a brief bridge that buys you the time to move from reactive to deliberate.
+
+Standard VRM Ledge: "I appreciate you bringing that up, and a lot of the strongest owners in our portfolio had that exact same concern before they joined us."
+
+The phrase "a lot of the strongest owners" is doing specific psychological work. It validates the owner's intelligence (this is a reasonable concern) while subtly signaling that the people who had this concern and moved forward anyway are the ones who succeeded. It's social proof embedded in a transitional phrase.
+
+PHASE 2: THE CLARIFYING QUESTION (SECONDS 3-10)
+
+After the Ledge, you don't answer the objection. You clarify it. Every objection has a surface statement and an underlying concern. You need to know which you're dealing with before you respond.
+
+For the fee objection: "When you say the fee feels high, help me understand that a little. Is it that the number is above what you budgeted? Or is it more that you're not certain what you'd be getting for it?"
+
+For the "let me think about it" objection: "Of course. Before you go, help me understand what specifically you want to think through. Is it something about how we work, or is it more about the timing of making a change right now?"
+
+For the "I want to try it myself first" objection: "That makes sense. Outside of wanting to see how the Airbnb side works, is there anything else that's holding you back from moving forward today?"
+
+Each clarifying question follows the same structure: acknowledge the surface statement, then ask what's underneath it.
+
+PHASE 3: THE RESPONSE (CALIBRATED TO WHAT YOU LEARNED IN PHASE 2)
+
+Now you know what you're actually responding to. The response is different depending on what phase 2 surfaces.
+
+If the fee objection reveals a genuine budget constraint: evaluate fit honestly. "If the fee is above what makes sense for the property financially, I'd rather we acknowledge that now. Let me look at the numbers with you and tell you honestly whether our model makes sense for your situation."
+
+If the fee objection reveals a certainty gap: rebuild certainty with a specific case study, not a feature list. One real property, real numbers, real outcome, reference available.
+
+If "let me think about it" reveals specific concern about the transition: immediately move into the JOLT risk removal sequence (Newsletter 3). Dismantle every barrier between yes and live property.
+
+If "let me think about it" reveals timing hesitation (genuinely not ready): offer a structured follow-up with a specific next step rather than an open-ended "reach out whenever you're ready." "Let's put a 30-minute call on the calendar for two weeks from now. By then you'll have had time to think, and I'll have pulled the updated comp data for that period. Does the 15th work?"
+
+PHASE 4: THE CONFIRMATION
+
+After you've responded to the real objection, confirm that you've addressed it.
+
+"Does that answer the concern you raised, or is there something else underneath it?"
+
+This question serves two purposes: it confirms that your response landed, and it surfaces any remaining objections before you move to close. An owner who says "yes, that helps" is signaling they're ready to move. An owner who says "well, there is one other thing..." has just handed you the next real objection to work through.
+
+---
+
+THE OBJECTION DIAGNOSTIC BY OWNER TYPE
+
+The same words mean different things from different owners. Here's how the most common VRM objections translate across the six owner types.
+
+"YOUR FEE IS TOO HIGH"
+
+Investor: Almost always a competence test. They want to know if you'll hold your position or fold under pressure. The operator who immediately negotiates the fee has signaled that their pricing is arbitrary, which raises the question of what else about their service is arbitrary. Hold the fee, run the diagnostic, rebuild certainty with data.
+
+Skeptic: Almost always distrust of value delivery. They've paid a fee before and didn't get what was promised. The objection is really: "I've heard this promise before and it cost me money." Address the prior disappointment directly before addressing the fee.
+
+Delegator: Often just a verbal tic before agreement. The Delegator who objects to the fee in the first five minutes frequently signs at full fee 15 minutes later after you've shown them the path to simplicity. Don't over-negotiate with a Delegator. Run the diagnostic question once and then keep moving.
+
+Controller: A genuine concern about whether the fee is proportionate to the control they're giving up. The Controller is evaluating whether the operational system you're selling is worth the price of the oversight they're ceding. Address it by demonstrating that your system is more protective of their property than their own oversight.
+
+"I WANT TO THINK ABOUT IT"
+
+Investor: Usually means they want to verify a specific claim you made. Find out what it is and offer to verify it together: "What specifically would be most useful to think through? If it's a number I mentioned, let's look at it together now."
+
+Steward: Usually means the emotional decision hasn't been made yet even if the logical case is clear. The Steward who says "let me think about it" is often still deciding whether they trust you with something they love. More data won't help. A genuine human moment might: "I sense there's something about this that still feels uncertain. Can you tell me what it is? I'd rather understand that than have you sit with it alone."
+
+Opportunist: Likely genuine: they haven't committed to renting yet and the decision is bigger than just choosing a manager. Don't push. Offer a specific, low-commitment next step: "Completely fair. Would it be useful to do a quick revenue walkthrough on the property so you have real numbers to evaluate? No obligation, just information."
+
+---
+
+PIPELINE POSTURE: THE PRACTICAL DISCIPLINE
+
+The post covered the Universal Law of Need: the more you need a deal, the worse you perform. Here's how to maintain the posture of abundance even when the pipeline doesn't feel that way.
+
+THE WEEKLY PROSPECTING FLOOR
+
+The only reliable cure for desperation is a full pipeline, and the only reliable way to maintain a full pipeline is non-negotiable weekly prospecting activity regardless of operational load. Set a floor, not a target. The floor is the minimum number of new owner outreach contacts you make every week, even in your busiest operational week.
+
+A reasonable floor for a solo operator or small team: five new outreach contacts per week. That's one per business day. In a year, that's 250 new contacts. Even at a 5% conversion rate to appointment, that's 12 to 13 new listing appointments per year generated from floor-level activity alone.
+
+THE PRE-APPOINTMENT MINDSET RESET
+
+When you walk into a listing appointment with a thin pipeline and you know you need the deal, do this before you go in: identify one specific qualification criterion the property or owner would have to fail to make you walk away. It doesn't have to be likely to happen. It just has to be real.
+
+The owner who blocks eight weeks of peak season. The property that would require $15,000 in improvements before it's listable. The owner who wants to approve every maintenance expense.
+
+Having a real disqualification criterion in mind before the appointment shifts your psychology from "I need to win this" to "I need to evaluate this." That shift is subtle but audible. The owner can feel the difference between an operator who needs them and one who is genuinely assessing fit.
+
+---
+
+NEXT WEEK
+
+Post 24 covers Chris Voss's Never Split the Difference. The topic: the Accusation Audit and why proactively naming the owner's fears is more trust-building than any pitch about your strengths. The newsletter will go deep on the specific fears each owner type carries into a listing appointment, and how to name them in a way that lands as credibility rather than vulnerability.
+
+---
+
+Each week this newsletter consolidates the week's posts with deeper tactics and context. Subscribe at linkedin.com/in/chadhensel.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #Objections

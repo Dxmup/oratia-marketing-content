@@ -1,0 +1,24 @@
+{
+  "status": "draft",
+  "content_type": "x_amplification_package",
+  "verdict": "Reframed the Gap Selling set around amplification instead of full educational packaging. The strongest assets are the sharp opinion line, the 'they want their brain back' recognition post, and the relief-conversation detail.",
+  "strengths": [
+    "Much stronger fit for X as an amplification layer",
+    "Clear distinction between sharp takes, recognition, tactics, and story detail",
+    "Good bridge back to the VRM Sales Library",
+    "Carries the approved voice more cleanly"
+  ],
+  "problems": [
+    "Still needs Chad taste-check on the sharpest line and story-detail line",
+    "Author engagement copy may want real @handles later when posting"
+  ],
+  "required_fixes": [
+    "Review and rank the strongest live-post candidates",
+    "Add real author tags at posting time if used"
+  ],
+  "depth_score": 8,
+  "specificity_score": 9,
+  "operator_value_score": 8,
+  "style_match_score": 9,
+  "format_compliance_score": 10
+}

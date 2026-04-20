@@ -1,0 +1,25 @@
+{
+  "status": "pilot_draft",
+  "content_type": "twitter_batch",
+  "verdict": "Solid first-pass pilot. The content preserves the no-decision and transition-friction framing well, and the engagement prompts are specific enough to invite real operator replies.",
+  "strengths": [
+    "Keeps the book insight grounded in vacation rental manager reality",
+    "Uses strong reframes instead of generic sales clichés",
+    "Includes both standalone tweets and thread-ready teaching assets",
+    "Engagement prompts feel targeted rather than tacked on"
+  ],
+  "problems": [
+    "A few tweets still read slightly like compressed LinkedIn thoughts rather than fully native Twitter lines",
+    "The thread openings are solid but could get even sharper on the first line",
+    "No status or scheduling workflow has been exercised yet beyond draft state"
+  ],
+  "required_fixes": [
+    "Pressure-test hooks over a few more pilot books to sharpen the Twitter-native style",
+    "Decide whether to formalize a dedicated Twitter review prompt or keep review lightweight for now"
+  ],
+  "depth_score": 8,
+  "specificity_score": 8,
+  "operator_value_score": 8,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}

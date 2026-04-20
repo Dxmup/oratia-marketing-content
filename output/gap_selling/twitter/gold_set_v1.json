@@ -1,0 +1,80 @@
+{
+  "book": "Gap Selling",
+  "book_slug": "gap_selling",
+  "purpose": "gold_standard_style_set",
+  "voice_target": "thoughtful operator who notices what actually makes owner acquisition hard, says it plainly, occasionally smirks at the absurdity, and does not try too hard to sound cool",
+  "tweets": [
+    {
+      "id": "gold_tweet_1",
+      "type": "conversational_observation",
+      "text": "A lot of owner conversations get stuck because the manager solves the first problem they hear. Usually that's the surface complaint, not the reason the owner is actually ready to change.",
+      "notes": "diagnosis over summary"
+    },
+    {
+      "id": "gold_tweet_2",
+      "type": "diagnostic_tweet",
+      "text": "If the owner says communication is bad, don't stop at communication. Bad communication is annoying. The real question is what that annoyance is costing them in money, time, and sanity.",
+      "notes": "moves from Level 1 to Levels 2 and 3"
+    },
+    {
+      "id": "gold_tweet_3",
+      "type": "oratia_context_tweet",
+      "text": "One thing we've noticed building Oratia for VRMs: owners rarely switch because of the technical issue alone. They switch when the issue starts messing with their weekends, their confidence, or their marriage.",
+      "notes": "natural Oratia mention, grounded in owner pain"
+    },
+    {
+      "id": "gold_tweet_4",
+      "type": "diagnostic_script_tweet",
+      "text": "A better discovery question than 'what are you looking for in a manager?' is 'walk me through what managing this property looks like for you right now.' Much harder to hide inside a generic answer.",
+      "notes": "practical, specific, lightly dry"
+    },
+    {
+      "id": "gold_tweet_5",
+      "type": "conversational_observation",
+      "text": "A lot of owners don't actually want better property management. They want their brain back.",
+      "notes": "simple, memorable, still specific enough in context"
+    },
+    {
+      "id": "gold_tweet_6",
+      "type": "engagement_tweet",
+      "text": "Feels like a lot of VRM discovery calls stay way too long at the technical-problem level. Are you seeing that too, or are owners in your market getting more direct about the real pain?",
+      "notes": "natural market question"
+    },
+    {
+      "id": "gold_tweet_7",
+      "type": "engagement_tweet",
+      "text": "What's the real Level 3 pain you hear most from owners right now: stress, time loss, trust issues, or flat-out exhaustion?",
+      "notes": "specific engagement prompt"
+    },
+    {
+      "id": "gold_tweet_8",
+      "type": "channel_connector",
+      "text": "Went deeper on this in this week's VRM Sales Library, because owner conversations get a lot more useful once you stop treating the first complaint like the real problem.",
+      "notes": "light connector tweet to bridge Twitter with the LinkedIn/newsletter series"
+    }
+  ],
+  "threads": [
+    {
+      "id": "gold_thread_1",
+      "type": "textured_operator_thread",
+      "tweets": [
+        "A lot of VRM discovery calls go sideways for a very simple reason.",
+        "The owner says something like communication has been bad, and the manager starts solving communication.",
+        "Too early.",
+        "Bad communication is the surface problem. The real problem is usually what that failure has been costing the owner in revenue, time, trust, or just the ability to stop thinking about the property for five minutes.",
+        "That's the part most people skip because it gets personal, and personal is harder than talking about software and response times.",
+        "But that's also where the real close lives.",
+        "If the owner says 'I haven't had a weekend off in three years,' you're not in a feature conversation anymore.",
+        "Now you're in a relief conversation."
+      ],
+      "notes": "preferred thread shape: textured, specific, lightly dry, practical"
+    }
+  ],
+  "style_notes": [
+    "Prefer conversational observations over slogan-y punchlines",
+    "Use dry realism and shared-pain asides sparingly but deliberately",
+    "Favor operator recognition over generic catchiness",
+    "Let Oratia appear as context or pattern-recognition source, not as a pitch",
+    "Keep the account voice thoughtful, practical, and mildly self-aware"
+  ]
+}

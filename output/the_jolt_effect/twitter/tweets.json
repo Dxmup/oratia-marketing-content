@@ -1,0 +1,114 @@
+[
+  {
+    "id": "tweet_1",
+    "type": "contrarian_take",
+    "source_theme": "no decision vs competitor",
+    "text": "A lot of vacation rental managers think they lost the deal to a cheaper competitor. Usually they lost it to no decision. The owner wasn't unconvinced. They were afraid of the switch.",
+    "engagement_prompt": false,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "fear_of_messing_up",
+      "related_linkedin_post": "linkedin/post_1.txt"
+    }
+  },
+  {
+    "id": "tweet_2",
+    "type": "standalone_insight",
+    "source_theme": "fear of messing up",
+    "text": "When an owner says they need more time, the issue usually isn't lack of upside. It's too much perceived downside. More revenue talk won't fix fear of transition risk.",
+    "engagement_prompt": false,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "fear_of_messing_up",
+      "related_linkedin_post": "linkedin/post_1.txt"
+    }
+  },
+  {
+    "id": "tweet_3",
+    "type": "script_tweet",
+    "source_theme": "diagnosing inertia",
+    "text": "A useful question when an owner stalls: \"If you weren't working with your current manager at all, would this be a straightforward decision?\" That tells you whether you're in a competitive deal or an inertia deal.",
+    "engagement_prompt": false,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "linkedin/post_1.txt",
+      "theme": "fomu_diagnostic",
+      "related_linkedin_post": "linkedin/post_1.txt"
+    }
+  },
+  {
+    "id": "tweet_4",
+    "type": "engagement_prompt",
+    "source_theme": "owner hesitation patterns",
+    "text": "Feels like more owner deals are stalling from transition friction than from fee pressure right now. Are you seeing that too, or is commission still the bigger blocker in your market?",
+    "engagement_prompt": true,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "transition_friction",
+      "related_linkedin_post": "linkedin/post_2.txt"
+    }
+  },
+  {
+    "id": "tweet_5",
+    "type": "field_note",
+    "source_theme": "one recommendation",
+    "text": "Giving a homeowner 3 management options often feels consultative to the manager and exhausting to the owner. In a listing appointment, one clear recommendation usually beats a menu.",
+    "engagement_prompt": false,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "linkedin/post_2.txt",
+      "theme": "one_recommendation",
+      "related_linkedin_post": "linkedin/post_2.txt"
+    }
+  },
+  {
+    "id": "tweet_6",
+    "type": "standalone_insight",
+    "source_theme": "follow-up restraint",
+    "text": "If your follow-up email tries to recap everything from the appointment, you're probably adding cognitive load, not reducing it. One concern. One answer. That's usually enough.",
+    "engagement_prompt": false,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "one_email_one_point",
+      "related_linkedin_post": "linkedin/post_2.txt"
+    }
+  },
+  {
+    "id": "tweet_7",
+    "type": "contrarian_take",
+    "source_theme": "cost of inaction",
+    "text": "The status quo is not the safe option for a vacation rental owner. It's just the familiar one. Flat revenue, weak communication, and ignored pricing questions all have a cost.",
+    "engagement_prompt": false,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "linkedin/post_3.txt",
+      "theme": "cost_of_inaction",
+      "related_linkedin_post": "linkedin/post_3.txt"
+    }
+  },
+  {
+    "id": "tweet_8",
+    "type": "engagement_prompt",
+    "source_theme": "switching risk",
+    "text": "A lot of owners don't need a stronger pitch. They need a safer switch. What's creating the most drag in your deals right now: fee pushback, spouse buy-in, or transition anxiety?",
+    "engagement_prompt": true,
+    "status": "draft",
+    "source_trace": {
+      "book_slug": "the_jolt_effect",
+      "source_file": "newsletter/newsletter.txt",
+      "theme": "switching_risk",
+      "related_linkedin_post": "linkedin/post_3.txt"
+    }
+  }
+]
