@@ -3,7 +3,7 @@ linkedin.com/in/chadhensel
 
 ---
 
-This week's three posts covered the three foundational principles from Blount's Fanatical Prospecting: the 30-Day Rule, the Law of Replacement, and the Universal Law of Need. The operating thesis is that pipeline is not a sales function: it's a leadership function. The health of your top-of-funnel determines the quality of your decisions in every listing appointment you walk into, and those decisions compound over time.
+This week's three posts covered the three foundational principles from Blount's Fanatical Prospecting: the 30-Day Rule, the Law of Replacement, and the Universal Law of Need. The operating thesis is that pipeline is not a sales function. It's a leadership function. The health of your top-of-funnel determines the quality of your decisions in every listing appointment you walk into, and those decisions compound over time.
 
 This newsletter goes deeper on building the prospecting system that runs independently of your operational load, how to think about channel selection for VRM specifically, and the mindset shifts that separate the operators who grow consistently from the ones who grow in bursts and plateau.
 
@@ -11,7 +11,7 @@ This newsletter goes deeper on building the prospecting system that runs indepen
 
 THE PROSPECTING SYSTEM: ARCHITECTURE FIRST
 
-Most operators approach prospecting tactically: they do it when they have time or when they feel the pipeline pressure. Blount's framework demands something different: a system that runs on schedule, at a defined minimum, regardless of what's happening operationally.
+Many operators approach prospecting tactically: when they have time or when they feel the pipeline pressure. Blount's framework demands something different: a system that runs on schedule, at a defined minimum, regardless of what's happening operationally.
 
 Here's the architecture.
 
@@ -30,7 +30,7 @@ A practical floor for a small team:
 - 2 follow-up contacts on prior outreach that hasn't received a response
 - 1 warm relationship touch (realtor, lender, attorney, or prior owner contact who might refer)
 
-That's 8 contacts per week. 416 per year at floor-level activity. Even at a 3% conversion to listing appointment, that's 12 appointments per year from minimum effort alone. Most operators are generating fewer appointments than that from intermittent bursts of activity.
+That's 8 contacts per week. 416 per year at floor-level activity. Even at a 3% conversion to listing appointment, that's 12 appointments per year from minimum effort alone. Many operators are generating fewer appointments than that from intermittent bursts of activity.
 
 THE CHANNEL MIX FOR VRM
 
@@ -42,7 +42,7 @@ LINKEDIN: Best channel for B2B-adjacent VRM owners (investors, real estate profe
 
 EMAIL: High volume, low cost, variable response depending on relevance. Trigger-based emails significantly outperform generic outreach. A well-crafted email referencing a specific trigger event for a specific property can produce response rates of 15 to 25%. Generic "we manage vacation rentals in your area" emails produce under 2%.
 
-PHONE: The highest-friction and highest-conversion channel. A well-timed phone call following a piece of direct mail or a LinkedIn connection produces significantly better outcomes than either channel alone. Most VRM operators underuse the phone because cold calls feel uncomfortable. The solution is to make them warmer: always reference the prior touchpoint when you call.
+PHONE: The highest-friction and highest-conversion channel. A well-timed phone call following a piece of direct mail or a LinkedIn connection produces significantly better outcomes than either channel alone. Many VRM operators underuse the phone because cold calls feel uncomfortable. The solution is to make them warmer: always reference the prior touchpoint when you call.
 
 IN-PERSON COMMUNITY PRESENCE: The highest-quality leads in any VRM market come through warm relationships. Realtors who trust you will refer clients. Neighbors of your existing properties will become owners. HOA board members will connect you with property owners in their community. Building this network requires consistent, non-transactional presence at the community events, industry mixers, and neighborhood channels where these relationships form naturally. It's slow. It compounds. It produces the best leads.
 
@@ -73,7 +73,7 @@ These three numbers tell you exactly how many new leads you need entering the pi
 
 Example: if your sales cycle is 60 days, your average owner stays 36 months, and you have 40 doors with a 15% annual churn rate (6 owners per year), then you need to sign 6 new owners per year just to stay flat. At a 20% close rate on listing appointments, that's 30 appointments per year, or roughly 2.5 per month. At a 5% lead-to-appointment conversion rate, that requires about 50 new leads per month entering the top of your funnel. That's roughly 12 to 13 new outreach contacts per week.
 
-Running this math tells you whether your current prospecting activity is sufficient to support your growth goals, flat portfolio maintenance, or neither. Most operators who do this exercise discover they're significantly below the activity level required to maintain the portfolio they already have, let alone grow it.
+Running this math tells you whether your current prospecting activity is sufficient to support your growth goals, flat portfolio maintenance, or neither. Many operators who do this exercise discover they're significantly below the activity level required to maintain the portfolio they already have, let alone grow it.
 
 THE REPLACEMENT MINDSET
 
@@ -91,9 +91,9 @@ THE PREPARATION THAT CREATES REAL CONFIDENCE
 
 Beyond pipeline health, there are two other inputs to genuine appointment confidence.
 
-Preparation: An operator who has done specific homework on the property, the owner's situation, and the comp set before the appointment arrives with a different kind of presence than one who is winging it. The preparation isn't about having answers to every question: it's about signaling that you took the appointment seriously enough to prepare. Owners read this signal immediately.
+Preparation: An operator who has done specific homework on the property, the owner's situation, and the comp set before the appointment arrives with a different kind of presence than one who is winging it. The preparation isn't about having answers to every question. It's about signaling that you took the appointment seriously enough to prepare. Owners read this signal immediately.
 
-Portfolio proof: Know your numbers before every appointment. What is the average ADR improvement you've produced for comparable properties in your portfolio? What's your average guest review score? How many properties have you taken over from managers who underperformed and what was the revenue trajectory in the 12 months after? These numbers, stated naturally in the conversation rather than presented as a formal pitch, are the most credible confidence signals available. They're real, they're specific, and they're verifiable.
+Portfolio proof: Know your numbers before every appointment. What is the average ADR improvement you've produced for comparable properties in your portfolio? What's your average guest review score? How many properties have you taken over from managers who underperformed, and what was the revenue trajectory in the 12 months after? These numbers, stated naturally in the conversation rather than presented as a formal pitch, are the most credible confidence signals available. They're real, they're specific, and they're verifiable.
 
 When you arrive with a healthy pipeline, specific preparation, and real portfolio proof, the confidence isn't performed. It's just accurate.
 

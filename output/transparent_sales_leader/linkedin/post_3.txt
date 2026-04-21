@@ -5,7 +5,7 @@ OVER-PROMISING IS FUTURE CHURN
 
 Disappointment is the gap between expectation and reality. That gap is set the day the owner signs.
 
-Many VRM operators win contracts by promising maximum potential revenue. They look at a best-case pro forma, ignore market volatility, and sell the dream. Why does this happen systemically? Because the BD rep is incentivized to close today, while operations and revenue management live with the consequences tomorrow.
+Many VRM operators win contracts by promising maximum potential revenue. They look at a best-case pro forma, ignore market volatility, and sell the dream. This happens systemically because the BD rep is incentivized to close today, while operations and revenue management live with the consequences tomorrow.
 
 THE PSYCHOLOGY OF DISAPPOINTMENT
 
@@ -25,11 +25,11 @@ Elite VRMs build around conservative transparency. Stop giving owners a single p
 
 Walk through the pessimistic case first. Show them exactly what would have to go wrong to get there. Then show the realistic case and anchor your commitment to the middle, not the top.
 
-Script: "Most managers will show you the upside and ask you to sign. I'm going to show you three scenarios and commit to the middle one. If we beat it, you'll be thrilled. If we fall short, we'll have a specific conversation about exactly why. I'd rather set a number I can beat than sell you a projection that turns into an argument six months from now."
+Script: "Many managers will show you the upside and ask you to sign. I'm going to show you three scenarios and commit to the middle one. If we beat it, you'll be thrilled. If we fall short, we'll have a specific conversation about exactly why. I'd rather set a number I can beat than sell you a projection that turns into an argument six months from now."
 
 A contract won on a fantasy is future churn. A contract won on a conservative truth is the foundation of a long-term portfolio.
 
-Field note: The three-scenario model plays well with Investors, who think in ranges and risk-adjusted returns. With Opportunists, the pessimistic scenario can create cold feet, be ready to walk them through why the realistic case is genuinely realistic, not just middle-of-the-road hedging.
+Field note: The three-scenario model plays well with Investors, who think in ranges and risk-adjusted returns. With Opportunists, the pessimistic scenario can create cold feet. Be ready to walk them through why the realistic case is genuinely realistic, not just middle-of-the-road hedging.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.

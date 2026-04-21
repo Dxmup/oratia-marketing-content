@@ -19,7 +19,7 @@ The Skeptic's fears are the most specific and the most hostile. They've been bur
 
 "Before I show you anything about what we do, I want to get something out of the way. You've probably talked to two or three managers this week and heard the same pitch. I'm guessing at some point in the last year or two you had an experience with a manager that didn't go the way it was described when they signed you. I'm not going to pretend that doesn't happen in this industry, because it does constantly. What I'd rather do is tell you exactly where managers typically fail, and then let you tell me whether any of those things match what you experienced. If we had the same problem, you should know that upfront."
 
-This audit is more aggressive than the standard version because the Skeptic needs a more aggressive signal. The standard "I imagine you're expecting an inflated revenue projection" doesn't land hard enough with an owner who is carrying a specific grievance.
+This audit is more direct than the standard version because the Skeptic needs a stronger signal. The standard "I imagine you're expecting an inflated revenue projection" doesn't land hard enough with an owner who is carrying a specific grievance.
 
 THE STEWARD
 
@@ -33,7 +33,7 @@ THE INVESTOR
 
 The Investor's fears are financial and competence-related. They're not afraid of emotional betrayal. They're afraid of being oversold and underdelivered.
 
-"Before I show you our revenue model, I want to be direct about something. Most managers will show you the best-case scenario and call it a projection. I've seen owners sign based on a number that was genuinely not achievable for their property in their market, and then spend 12 months wondering what happened. I'm going to show you three scenarios today. I'll tell you what I think the realistic one is. If that number doesn't work for your investment thesis, I'd rather you know that now."
+"Before I show you our revenue model, I want to be direct about something. Many managers will show you the best-case scenario and call it a projection. I've seen owners sign based on a number that was genuinely not achievable for their property in their market, and then spend 12 months wondering what happened. I'm going to show you three scenarios today. I'll tell you what I think the realistic one is. If that number doesn't work for your investment thesis, I'd rather you know that now."
 
 The Investor's audit is less about emotional fears and more about information integrity. You're signaling that you play a different game: conservative honesty rather than optimistic selling.
 
@@ -47,7 +47,7 @@ This audit is brief because the Delegator's fears are specific and answerable. N
 
 THE CONTROLLER
 
-The Controller's fears are about losing oversight over something they've managed carefully. They're not afraid of being cheated: they're afraid of being excluded from decisions they feel should be theirs.
+The Controller's fears are about losing oversight over something they've managed carefully. They're not afraid of being cheated. They're afraid of being excluded from decisions they feel should be theirs.
 
 "Before we get into systems, I want to acknowledge something directly. Handing over operational control of a property you've been managing yourself is a real adjustment. The concern that you'll lose visibility into what's happening, or that decisions will be made without your input on things you care about, is legitimate. I want to show you specifically where you stay in control and where you hand off, so there's no ambiguity about that later."
 
@@ -57,7 +57,7 @@ The Opportunist's fears are about commitment and being pushed toward a decision 
 
 "I want to be clear from the start: there's no pressure in this conversation. I'm not going to ask you to sign anything today, and I'm not going to try to talk you into renting your property if it doesn't make sense for your situation. My goal is to give you accurate information so you can make a good decision, whatever that turns out to be."
 
-This isn't a traditional Accusation Audit in the sense of naming hostile fears: the Opportunist doesn't have hostile fears. They have commitment anxiety. Naming the absence of pressure is its own version of the audit.
+This isn't a traditional Accusation Audit in the sense of naming hostile fears. The Opportunist doesn't have hostile fears. They have commitment anxiety. Naming the absence of pressure is its own version of the audit.
 
 ---
 
@@ -79,7 +79,7 @@ You've just learned, without asking a direct question, that this owner's primary
 
 THE MIRROR CREATES THE DIAGNOSIS
 
-Most operators ask discovery questions directly: "What are the most important things you're looking for in a manager?" The problem with this question is that it asks the owner to think analytically about what they want, and the answer they give is often their second thought, not their actual priority.
+Many operators ask discovery questions directly: "What are the most important things you're looking for in a manager?" The problem with this question is that it asks the owner to think analytically about what they want, and the answer they give is often their second thought, not their actual priority.
 
 Mirroring bypasses the analytical filter. It invites the owner to go deeper on what they've already said, which is much closer to what they actually feel than what they say when asked to reflect.
 

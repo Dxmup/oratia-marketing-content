@@ -1,9 +1,11 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the objections/linkedin/ directory but contains Influence (Robert Cialdini) Post 3 content. The actual Objections post_3.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Influence | Robert Cialdini
 Post 3 of 3
 
 SOCIAL PROOF: YOUR PROSPECT DOESN'T CARE ABOUT YOUR AWARDS. THEY CARE ABOUT WHO LIVES NEXT DOOR.
 
-Many operators rely on testimonials, industry awards, and RevPAR charts to establish credibility. When an owner is deciding who gets the keys to their asset, their brain isn't processing prestige. It's processing risk. And the shortcut the human brain uses most reliably to bypass risk is observing what trusted peers are already doing.
+Many operators rely on testimonials, industry awards, and RevPAR charts to establish credibility. When an owner is deciding who gets the keys to their asset, their brain isn't processing prestige. It's processing risk. The shortcut the human brain uses most reliably to bypass risk is observing what trusted peers are already doing.
 
 PROXIMITY OVER PRESTIGE
 
@@ -15,7 +17,7 @@ THE NEIGHBORHOOD DENSITY STRATEGY
 
 When you sign a new property, execute a targeted outreach to the twelve nearest addresses within 72 hours. The message isn't "hire us." The message is:
 
-Script: "We just partnered with your neighbor at [specific address] to manage their vacation rental. Because we already have cleaning and maintenance infrastructure on this block, we have capacity for two more properties this season. I'd be glad to put together a no-obligation revenue analysis for your property if you're curious what the numbers look like, we already have the comp data from the surrounding properties."
+Script: "We just partnered with your neighbor at [specific address] to manage their vacation rental. Because we already have cleaning and maintenance infrastructure on this block, we have capacity for two more properties this season. I'd be glad to put together a no-obligation revenue analysis for your property if you're curious what the numbers look like. We already have the comp data from the surrounding properties."
 
 Two things happen simultaneously:
 - Social proof from their specific neighbor, not a stranger in a testimonial.

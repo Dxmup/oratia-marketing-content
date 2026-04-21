@@ -1,11 +1,13 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the sales_eq/linkedin/ directory but contains Revenue Operations (Stephen G. Diorio) Post 2 content. The actual Sales EQ post_2.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Revenue Operations | Stephen G. Diorio
 Post 2 of 2
 
-WHY MOST VRMs NEVER CROSS 100 DOORS
+WHY MANY VRMs NEVER CROSS 100 DOORS
 
 They treat marketing, sales, and operations as three separate businesses.
 
-Every week I talk to VRM founders who are stuck at 40 or 50 doors. They're exhausted. They're looking for a silver bullet, a new pricing tool, a better lead gen strategy, a cheaper cleaning vendor. They're trying to solve a systems problem with a tactical fix.
+Many VRM founders stuck at 40 or 50 doors are exhausted. They're looking for a silver bullet, a new pricing tool, a better lead gen strategy, a cheaper cleaning vendor. They're trying to solve a systems problem with a tactical fix.
 
 THE COST OF MISALIGNMENT
 
@@ -29,7 +31,7 @@ Build a single source of truth. Your outreach CRM, your sales pipeline, and your
 
 A practical diagnostic: ask your BD rep and your property manager to independently list the top three priorities of your last three new owners. If their lists don't match, you've found your churn problem before it becomes a churn event.
 
-You can't scale chaos: you can only scale a system.
+You can't scale chaos. You can only scale a system.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.

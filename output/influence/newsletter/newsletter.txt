@@ -3,7 +3,7 @@ linkedin.com/in/chadhensel
 
 ---
 
-This week covered three of Cialdini's six principles of influence applied to VRM owner acquisition: Reciprocity, Scarcity, and Social Proof. These aren't persuasion tricks: they're descriptions of how human decision-making actually works under uncertainty. Understanding them makes you a better acquisition operator. Ignoring them means your competitors who do understand them have a structural advantage.
+This week covered three of Cialdini's six principles of influence applied to VRM owner acquisition: Reciprocity, Scarcity, and Social Proof. These aren't persuasion tricks. They're descriptions of how human decision-making actually works under uncertainty. Understanding them makes you a better acquisition operator. Ignoring them means your competitors who do understand them have a structural advantage.
 
 This newsletter goes deeper on building each principle into a repeatable system rather than a one-time tactic.
 
@@ -25,7 +25,7 @@ A review audit: pull the last 20 guest reviews for their current listing (or the
 
 A seasonal forecast: what the next 90 days look like for demand in their market, based on historical comp set data and any known local events or patterns. Frame it as context, not a projection.
 
-Delivery note: Email the packet the day before with a single line: "I put together some market context for your property ahead of tomorrow. Take a look if you have a few minutes: happy to walk through anything that raises questions."
+Delivery note: Email the packet the day before with a single line: "I put together some market context for your property ahead of tomorrow. Take a look if you have a few minutes. Happy to walk through anything that raises questions."
 
 The owner who receives this packet before the appointment arrives at your meeting already in a different psychological state than the owner who receives nothing. You've already given them something real. The felt obligation to reciprocate is already building before you've said a word in the living room.
 
@@ -51,7 +51,7 @@ The credibility comes from observable behavior, not from the claim. Here's what 
 
 You have specific written criteria for the properties you accept. Not vague language about "premier" properties: actual specifications. Minimum bedroom count. Minimum projected annual revenue. Geographic boundaries. Property condition standards. Owner engagement requirements.
 
-You enforce them publicly. When you turn down a property in a conversation or in writing, you do it clearly and respectfully, with the specific criterion that wasn't met. "We have a minimum of three bedrooms for our full-service program: your property is a great fit in every other way, but we'd be doing you a disservice by taking it on at our fee structure." That owner will tell someone about the conversation.
+You enforce them publicly. When you turn down a property in a conversation or in writing, you do it clearly and respectfully, with the specific criterion that wasn't met. "We have a minimum of three bedrooms for our full-service program. Your property is a great fit in every other way, but we'd be doing you a disservice by taking it on at our fee structure." That owner will tell someone about the conversation.
 
 You reference the criteria proactively in listing appointments. "Before we get into the walkthrough, I want to explain how we evaluate properties for the portfolio. We have a few specific criteria." Then walk through them. The owner who hears you describe the criteria before they know whether their property meets them is experiencing the Velvet Rope in real time.
 
@@ -69,7 +69,7 @@ The post covered the neighborhood density strategy. Here's how to build the syst
 
 THE DENSITY MAP
 
-The foundation of a social proof machine is a clear picture of where your properties already are. Build a simple map (even a paper one) showing your current portfolio by neighborhood, street, or micro-market. Identify the clusters where you have two or more properties in close proximity.
+The foundation of a social proof machine is a clear picture of where your properties already are. Build a simple map, even a paper one, showing your current portfolio by neighborhood, street, or micro-market. Identify the clusters where you have two or more properties in close proximity.
 
 Those clusters are your proof points. Every prospecting activity in the area around a cluster should reference the cluster: "We already manage three properties on your block."
 

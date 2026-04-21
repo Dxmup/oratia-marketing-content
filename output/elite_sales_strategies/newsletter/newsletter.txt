@@ -3,7 +3,7 @@ linkedin.com/in/chadhensel
 
 ---
 
-This week's three posts covered Anthony Iannarino's Elite Sales Strategies: the One-Up framework, the Information Disparity advantage, and the Sense-Maker role. The argument across all three is the same: you know things the owner doesn't, and failing to lead with that knowledge isn't humility, it's a failure of leadership.
+This week's three posts covered Anthony Iannarino's Elite Sales Strategies: the One-Up framework, the Information Disparity advantage, and the Sense-Maker role. The argument across all three is the same: you know things the owner doesn't, and failing to lead with that knowledge isn't humility. It's a failure of leadership.
 
 This newsletter goes deeper on how to build genuine information authority, how to deploy it without crossing into condescension, and how to become the Sense-Maker in a market that's noisy with conflicting claims.
 
@@ -21,9 +21,9 @@ The operator who is genuinely One-Up on a VRM owner in their market knows:
 
 The trailing 12-month performance data for the top quartile of properties in every major micro-market they serve. Not approximate ranges: specific numbers. What's the 90th percentile ADR for a 3-bedroom in this zip code in July? What's the median occupancy for that same comp set in February? This level of specificity is what separates a confident-sounding operator from an actually informed one.
 
-The specific factors that drive performance variance within a comp set. Two properties with identical bedroom counts, similar locations, and comparable condition can produce dramatically different revenue outcomes. The One-Up operator knows why: listing title optimization, photo quality and sequence, amenity presentation, pricing model, direct booking share, review response rate. These are not generic observations. They're operational specifics you develop by managing properties in the market and watching what actually moves the needle.
+The specific factors that drive performance variance within a comp set. Two properties with identical bedroom counts, similar locations, and comparable condition can produce dramatically different revenue outcomes. The One-Up operator knows why: listing title optimization, photo quality and sequence, amenity presentation, pricing model, direct booking share, review response rate. These are operational specifics you develop by managing properties in the market and watching what actually moves the needle.
 
-The regulatory landscape at the permit level. STR regulations change frequently in most markets. The operator who knows the specific renewal requirements, the pending ordinance changes, and the compliance history of properties in their market has information the owner almost certainly doesn't. This is not just a sales advantage: it's genuine value the operator can offer.
+The regulatory landscape at the permit level. STR regulations change frequently in many markets. The operator who knows the specific renewal requirements, the pending ordinance changes, and the compliance history of properties in their market has information the owner almost certainly doesn't. This isn't just a sales advantage. It's genuine value the operator can offer.
 
 The seasonal demand calendar with event-level specificity. Not just "summer is busy." The specific weeks where demand spikes beyond seasonal average because of a local festival, a regional sporting event, or a pattern that only shows up in 5 to 10 years of booking data. This calendar intelligence is worth real ADR dollars when it's built into a pricing model.
 
@@ -35,7 +35,7 @@ Information authority degrades without maintenance. Build a weekly habit of revi
 
 THE INFORMATION DISPARITY CONVERSATION
 
-Iannarino's insight about information disparity is that it's not just an advantage: it's a responsibility. The owner who has been managing their property on a mistaken understanding of the market, or who is considering a decision based on incomplete data, is relying on someone to correct that understanding. If you have the correct information and you withhold it in the interest of being agreeable, you've failed them.
+Iannarino's insight about information disparity is that it's not just an advantage. It's a responsibility. The owner who has been managing their property on a mistaken understanding of the market, or who is considering a decision based on incomplete data, is relying on someone to correct that understanding. If you have the correct information and withhold it in the interest of being agreeable, you've failed them.
 
 This reframe changes how you approach the moments where the owner's assumptions are wrong.
 
@@ -79,7 +79,7 @@ Your sense-making narrative should cover three things:
 
 What's real in the market right now. Not cheerleading for optimism or hedging for pessimism. An honest, specific picture of what properties like theirs are actually producing in your market in the current environment.
 
-Why the numbers vary so much. The factors that produce top-quartile vs. median performance in your comp set. This turns a confusing data landscape into an actionable diagnosis: the gap isn't random, it's caused by specific things you can control.
+Why the numbers vary so much. The factors that produce top-quartile versus median performance in your comp set. This turns a confusing data landscape into an actionable diagnosis: the gap isn't random, it's caused by specific things you can control.
 
 What it means for their property specifically. Given their location, property type, current condition, and owner goals, where does their property realistically fit in the performance distribution, and what would have to change to move it up?
 
@@ -89,7 +89,7 @@ THE QUESTION THAT OPENS THE SENSE-MAKING CONVERSATION
 
 "Can I share something with you about what's actually driving the variance you're probably seeing between different managers' revenue projections? I think it will make the rest of this conversation a lot more useful."
 
-Almost every owner says yes. And the conversation that follows positions you as an advisor, not a vendor, before you've made a single claim about your own service.
+Almost every owner says yes. The conversation that follows positions you as an advisor, not a vendor, before you've made a single claim about your own service.
 
 ---
 

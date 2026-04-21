@@ -27,7 +27,7 @@ EXCAVATION QUESTION 2: THE TIME AUDIT
 
 "If you tracked it honestly, how much time do you spend on this property in an average week? Include everything: guest messages, owner portal reviews, calls with your manager, time spent worrying about it when you're not actively working on it."
 
-Most owners underestimate by a factor of two or three. The owner who says "oh, maybe two hours" usually lands at six to eight when they actually account for the mental overhead, the periodic check-ins, the booking platform monitoring, and the scattered 20-minute blocks throughout the week.
+Many owners underestimate by a factor of two or three. The owner who says "oh, maybe two hours" usually lands at six to eight when they actually account for the mental overhead, the periodic check-ins, the booking platform monitoring, and the scattered 20-minute blocks throughout the week.
 
 When they land at a number that surprises them, name it: "That's roughly 300 to 400 hours a year. At what you'd bill for your own time professionally, what does that actually cost you?" You're not manipulating them. You're showing them math they haven't done.
 
@@ -61,7 +61,7 @@ Opening: "Tell me about the property and what's prompting you to look at this no
 
 Revenue floor: "Based on what you know about comparable properties in your area, what do you think a well-managed property like yours should be producing in a year?" (If they name a number well below your minimum viable revenue for the property to be profitable in your portfolio, address it directly on the call.)
 
-Management style: "How involved have you been in managing the property up to this point, and how involved would you want to be going forward?" (The clearest filter for Controller vs. Delegator expectations.)
+Management style: "How involved have you been in managing the property up to this point, and how involved would you want to be going forward?" (The clearest filter for Controller versus Delegator expectations.)
 
 Owner use: "How often do you personally use the property, and are there specific periods you'd want to reserve for your own use?" (Peak season blocks above a certain threshold can make the revenue math unworkable.)
 
@@ -93,7 +93,7 @@ THE PORTFOLIO PROTECTION DISCIPLINE
 
 Kazanjy's underlying argument in Founding Sales is that the operators who scale successfully are the ones who maintain discipline about fit when the pipeline is thin. The temptation to accept bad-fit owners is highest when you need doors. The cost of that temptation shows up 12 months later in churn, team burnout, and operational drag.
 
-The discipline is simple in principle and difficult in practice: know your criteria, enforce them consistently, and trust that protecting the portfolio from bad fits is a growth strategy, not just a quality of life preference. Every bad-fit owner you don't take is a slot available for the right owner when they appear. And the right owners, managed well, refer other right owners. That compounding effect is worth more than the short-term door count from accepting every property that crosses your desk.
+The discipline is simple in principle and difficult in practice: know your criteria, enforce them consistently, and trust that protecting the portfolio from bad fits is a growth strategy, not just a quality of life preference. Every bad-fit owner you don't take is a slot available for the right owner when they appear. The right owners, managed well, refer other right owners. That compounding effect is worth more than the short-term door count from accepting every property that crosses your desk.
 
 ---
 

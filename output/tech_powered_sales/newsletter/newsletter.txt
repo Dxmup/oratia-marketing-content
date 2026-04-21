@@ -11,11 +11,11 @@ This newsletter goes deeper on how to actually build that system on a small oper
 
 THE TQ STACK FOR SMALL OPERATORS
 
-Enterprise sales teams have dedicated data operations. You probably don't. But the intelligence layer you need to run trigger-based VRM outreach is more accessible than most operators realize. Here's what a practical TQ stack looks like for an operator managing under 100 doors.
+Enterprise sales teams have dedicated data operations. You probably don't. But the intelligence layer you need to run trigger-based VRM outreach is more accessible than many operators realize. Here's what a practical TQ stack looks like for an operator managing under 100 doors.
 
 FREE AND LOW-COST DATA SOURCES
 
-Public property records: Most county assessor websites allow you to search by property type, sale date, and owner mailing address. A new ownership transfer on a property with a prior short-term rental history is one of the highest-quality signals available. The new owner hasn't yet decided how to manage the property, and you can be the first manager they talk to.
+Public property records: County assessor websites allow you to search by property type, sale date, and owner mailing address. A new ownership transfer on a property with a prior short-term rental history is one of the highest-quality signals available. The new owner hasn't yet decided how to manage the property, and you can be the first manager they talk to.
 
 Airbnb and VRBO search: Run a search in your target market filtered by "new listing" or sorted by review count. Properties with zero or very few reviews are either brand new or recently transferred. Either is a prospecting signal.
 
@@ -85,13 +85,13 @@ Who responded to prior outreach? Any warm responses get moved immediately into a
 
 FRIDAY: APPOINTMENT PREP
 
-Any appointment scheduled for the following week gets a dedicated prep block. Pull everything you know about the property, the owner, and their trigger event. Build the specific insight you'll open with (refer to the Challenger Sale newsletter). The intelligence you gathered through TQ is what makes your EQ effective when you get in the room.
+Any appointment scheduled for the following week gets a dedicated prep block. Pull everything you know about the property, the owner, and their trigger event. Build the specific insight you'll open with. The intelligence you gathered through TQ is what makes your EQ effective when you get in the room.
 
 ---
 
 THE MOST UNDERUSED TQ TOOL IN VRM: THE NEIGHBORHOOD CANVASS
 
-When you sign a new property, you have a warm intelligence asset that most operators never deploy: you now manage a property in a specific neighborhood, which gives you a credible reason to contact every owner within a few blocks.
+When you sign a new property, you have a warm intelligence asset that many operators never deploy: you now manage a property in a specific neighborhood, which gives you a credible reason to contact every owner within a few blocks.
 
 Within 72 hours of signing a new property, send a brief note to the 10 to 15 nearest properties in your target owner profile.
 

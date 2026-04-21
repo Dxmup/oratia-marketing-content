@@ -1,3 +1,5 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the sales_eq/linkedin/ directory but contains Objections (Jeb Blount) Post 1 content. The actual Sales EQ post_3.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Objections | Jeb Blount
 Post 1 of 3
 
@@ -19,20 +21,20 @@ Script: "I appreciate you bringing that up, and many of the strongest owners in 
 
 Three things happen in that single sentence:
 - It validates the owner without conceding the point. You're not saying they're right. You're saying they're reasonable.
-- It groups them with "the strongest owners in our portfolio", subtle social proof and aspiration in one phrase.
+- It groups them with "the strongest owners in our portfolio," subtle social proof and aspiration in one phrase.
 - It gives your brain time to transition from reactive to deliberate before you say anything that matters.
 
 THE DIAGNOSIS PIVOT
 
 Once the Ledge is deployed, you don't justify the fee. You pivot to a diagnostic question.
 
-Script: "When you say the fee feels high, help me understand that a little. Is it the number itself, that it's above your budget, or is it more that you're not certain what you'd be getting for it?"
+Script: "When you say the fee feels high, help me understand that a little. Is it the number itself, that it's above your budget, or is it more that you're not certain what you'd get for it?"
 
 These two answers require completely different responses:
 - "The number is above my budget" may indicate a genuine price mismatch. Evaluate fit, not your discount policy.
 - "I'm not certain what I'd get for it" is a certainty gap. Now you can rebuild the value case with specific examples and real outcomes, which is what you should have been doing instead of defending the fee percentage.
 
-Field note: The fee objection from an Investor is almost always a competence test, not a real budget constraint. Don't negotiate. Run the diagnostic pivot and watch what happens. The fee objection from a Skeptic is a test of whether you'll fold under pressure. Folding confirms their worst assumption. Hold your ground and let the diagnosis do the work.
+Field note: The fee objection from an Investor is almost always a certainty test, not a real budget constraint. Don't negotiate. Run the diagnostic pivot and watch what happens. The fee objection from a Skeptic is a test of whether you'll fold under pressure. Folding confirms their worst assumption. Hold your ground and let the diagnosis do the work.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.

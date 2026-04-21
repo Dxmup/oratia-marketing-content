@@ -1,9 +1,11 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the tech_powered_sales/linkedin/ directory but contains Sales Pitch (April Dunford) Post 2 content. The actual Tech-Powered Sales post_2.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Sales Pitch | April Dunford
 Post 2 of 3
 
 SELF-MANAGING IS ONE TRAP. THE BIG-BOX MANAGER IS ANOTHER.
 
-When you sit down with a prospective owner, you're not just selling your services: you're selling against the alternatives. If you don't explicitly frame those alternatives, the owner will do it in their own head. And they'll usually get it wrong.
+When you sit down with a prospective owner, you're not just selling your services. You're selling against the alternatives. If you don't explicitly frame those alternatives, the owner will do it in their own head. And they'll usually get it wrong.
 
 You have to name the alternatives first, and define what they actually cost.
 
@@ -11,7 +13,7 @@ DE-POSITIONING SELF-MANAGEMENT
 
 Owners who self-manage believe they're saving the commission. What they're actually doing is trading their evenings, weekends, and peace of mind for a marginal financial gain, running an operational second job they didn't apply for, with no HR department, no dispatch team, and no backup when they're unavailable.
 
-Script: "Some owners try to do this themselves to save the commission. Many of them quickly find out they've bought a second job that requires 24/7 availability, creative problem-solving at midnight, and an ongoing crash course in revenue optimization. That isn't passive income. It's an operational burden that eventually pushes most self-managers back to professional management, often after a difficult guest incident or a bad review cycle."
+Script: "Some owners try to do this themselves to save the commission. Many of them quickly find out they've bought a second job that requires 24/7 availability, creative problem-solving at midnight, and an ongoing crash course in revenue optimization. That isn't passive income. It's an operational burden that eventually pushes many self-managers back to professional management, often after a difficult guest incident or a bad review cycle."
 
 DE-POSITIONING THE BIG BOX
 
@@ -23,7 +25,7 @@ THE THIRD WAY
 
 Script: "What we do is different from both. We don't accept every home. We manage a limited number of premier properties in this market so we can actually maintain our standards. You get the revenue optimization that scale enables, with the care of a dedicated local team that knows what color your front door is."
 
-The reason this sequence works: you've made yourself the referee of the decision, not one of the options being evaluated. By the time you position your service, the owner isn't comparing you to the alternatives anymore, they've already disqualified the alternatives with your help.
+The reason this sequence works: you've made yourself the referee of the decision, not one of the options being evaluated. By the time you position your service, the owner isn't comparing you to the alternatives anymore. They've already disqualified the alternatives with your help.
 
 Define the enemy. Dismantle the alternatives. Win the door.
 

@@ -1,15 +1,17 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the gap_selling/linkedin/ directory but contains Elite Sales Strategies (Anthony Iannarino) Post 1 content. The actual Gap Selling post_2.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Elite Sales Strategies | Anthony Iannarino
 Post 1 of 3
 
 ASKING OWNERS WHAT THEY WANT IS KILLING YOUR DEALS
 
-Too many VRM operators approach homeowner meetings like a waiter taking an order. They walk in and ask, "What are you looking for in a property manager?" This is a psychologically costly question. It places you in the one-down position, subordinate to the owner's judgment on a topic where you should be the authority.
+Many VRM operators approach homeowner meetings like a waiter taking an order. They walk in and ask, "What are you looking for in a property manager?" This is a psychologically costly question. It places you in the one-down position, subordinate to the owner's judgment on a topic where you should be the authority.
 
 THE ONE-UP FRAMEWORK
 
 Anthony Iannarino defines being One-Up as possessing information, experience, and contextual understanding that the client doesn't have, and using that asymmetry to lead them to better decisions than they would reach on their own. Being One-Down means deferring to the client's framing, accepting their self-diagnosis, and competing as an order-taker rather than an advisor.
 
-The moment you ask "what are you looking for?", you've handed the diagnostic role to someone who manages one vacation rental and doesn't understand algorithmic pricing, OTA distribution, or revenue optimization strategy. They default to the only metrics they fully understand: lowest commission and highest projected revenue. You've created a commodity comparison before the conversation starts.
+The moment you ask "what are you looking for?", you've handed the diagnostic role to someone who manages one vacation rental and doesn't understand algorithmic pricing, OTA distribution, or revenue optimization. They default to the only metrics they fully understand: lowest commission and highest projected revenue. You've created a commodity comparison before the conversation starts.
 
 THE ONE-UP FIX
 
@@ -19,7 +21,7 @@ Instead of: "What are your goals for the property?"
 Try: "Based on what we're seeing with comparable properties in this market right now, owners typically fall into one of two traps: they over-index on peak season revenue and under-invest in asset preservation, or they micro-manage the guest experience and burn out within 18 months. Here's how we prevent both. Tell me where you feel like you're currently landing."
 
 Why this works:
-- You've removed the burden of self-diagnosis from the owner. They don't have to know what they need, you've already framed the landscape.
+- You've removed the burden of self-diagnosis from the owner. They don't have to know what they need. You've already framed the landscape.
 - You've demonstrated that you know things they don't, which establishes information asymmetry as an asset rather than a gap.
 - You've replaced their anxiety about "what do I even ask for?" with the relief of competent leadership walking them toward clarity.
 

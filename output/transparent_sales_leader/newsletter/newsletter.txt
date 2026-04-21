@@ -13,10 +13,10 @@ BUILDING YOUR FLAW INVENTORY: THE FULL EXERCISE
 
 The post introduced the concept. Here's how to actually build it in a way that holds up in an appointment.
 
-Sit down and write your genuine operational constraints — not the ones that make you sound humble, but the ones that could actually cost you a deal if an owner found out on their own. Three categories to work through:
+Sit down and write your genuine operational constraints, not the ones that make you sound humble, but the ones that could actually cost you a deal if an owner found out on their own. Three categories to work through:
 
 PROPERTY TYPE CONSTRAINTS
-What property types does your model not serve well? Most operators have a sweet spot, and they know it. A company built around luxury 4-plus bedroom vacation homes is not well-suited to a studio condo. The cleaning cost structure alone makes it uneconomical. If you take it anyway, you're setting up a margin problem and a disappointed owner.
+What property types does your model not serve well? Many operators have a sweet spot, and they know it. A company built around luxury 4-plus bedroom vacation homes is not well-suited to a studio condo. The cleaning cost structure alone makes it uneconomical. If you take it anyway, you're setting up a margin problem and a disappointed owner.
 
 Write it down: "We don't manage properties under [X bedrooms / X projected annual revenue]. Our cost structure requires a minimum property profile to deliver the experience we promise."
 
@@ -28,7 +28,7 @@ What type of owner doesn't work in your system? You already know. The owner who 
 
 WHY LEADING WITH CONSTRAINTS WORKS IN PRACTICE
 
-When you open with "here are three things we don't do well," the owner's brain shifts from evaluating your claims to validating your honesty. They stop looking for the catch because you've already offered one. And crucially, when you follow the flaw inventory with your genuine strengths, those strengths land with a credibility they never would have had if you'd led with them.
+When you open with "here are three things we don't do well," the owner's brain shifts from evaluating your claims to validating your honesty. They stop looking for the catch because you've already offered one. And when you follow the flaw inventory with your genuine strengths, those strengths land with a credibility they never would have had if you'd led with them.
 
 The sequence: Lead with the constraint relevant to their situation. Then pivot.
 
@@ -70,7 +70,7 @@ The pessimistic case isn't a random discount from your median. It's a specific s
 
 Variables that drive the pessimistic case:
 - Market ADR compression of 10 to 15% (reference a comparable market downturn year if you have one)
-- Review average dropping below 4.5 (which in most OTA algorithms triggers a search placement penalty)
+- Review average dropping below 4.5 (which in many OTA algorithms triggers a search placement penalty)
 - One peak month with low occupancy due to a competing event, construction nearby, or new inventory entering the comp set
 - Owner use consuming two or three high-value weeks
 
@@ -80,7 +80,7 @@ THE ANCHORING PSYCHOLOGY
 
 Caponi's research on this is specific: when you present the pessimistic case first and spend real time walking through why it could happen, the realistic case feels like a relief rather than a baseline. The owner arrives at the realistic number already anchored to a lower floor, which makes the realistic projection feel like good news rather than a number to negotiate upward from.
 
-Most operators present their revenue projection as a target the owner will try to exceed. Caponi's sequence flips that. You present the floor, then the middle, then the ceiling. The owner's attention moves upward through the range rather than downward from an inflated promise.
+Many operators present their revenue projection as a target the owner will try to exceed. Caponi's sequence flips that. You present the floor, then the middle, then the ceiling. The owner's attention moves upward through the range rather than downward from an inflated promise.
 
 ---
 

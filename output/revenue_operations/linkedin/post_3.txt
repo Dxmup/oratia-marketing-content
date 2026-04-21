@@ -1,3 +1,5 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the revenue_operations/linkedin/ directory but contains Never Split the Difference (Chris Voss) Post 1 content. The actual Revenue Operations post_3.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Never Split the Difference | Chris Voss
 Post 1 of 1
 
@@ -47,7 +49,7 @@ LABELING: Name the emotion you observe. Not what you think caused it, just what 
 
 Labeling makes the owner feel heard at a neurological level. It drops defensive posture faster than any amount of feature-pitching. And it consistently surfaces the real concern underneath the surface objection.
 
-Field note: The Accusation Audit is the single most powerful tool available with a Skeptic owner. Use it in the first five minutes, before you show any data, before you name a fee. With a Steward, soften the register slightly. The Steward's fear isn't betrayal, it's that no one will love the property the way they do. Name that fear instead.
+Field note: The Accusation Audit is among the most powerful tools available with a Skeptic owner. Use it in the first five minutes, before you show any data, before you name a fee. With a Steward, soften the register slightly. The Steward's fear isn't betrayal, it's that no one will love the property the way they do. Name that fear instead.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.

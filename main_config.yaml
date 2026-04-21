@@ -1,0 +1,114 @@
+pipeline:
+  name: book_to_linkedin_content_factory
+  purpose: Build authority-first LinkedIn, newsletter, and Twitter/X content from source books and optionally stage approved LinkedIn drafts.
+
+stages:
+  - id: analyst
+    prompt: ./prompts/1_the_analyst.md
+    input: source material
+    output:
+      folder: ./output/{slug}/
+      files:
+        - nuggets.json
+    success_criteria:
+      - grounded ideas only
+      - includes vr_mapping
+      - no hallucinated quotes
+
+  - id: strategist
+    prompt: ./prompts/2_the_strategist.md
+    input: ./output/{slug}/nuggets.json
+    output:
+      folder: ./output/{slug}/
+      files:
+        - strategy.json
+    success_criteria:
+      - chooses best format per idea
+      - supports weekly ecosystem planning
+      - follow-focused CTA guidance
+
+  - id: writer
+    prompt: ./prompts/3_the_writer.md
+    input: ./output/{slug}/strategy.json
+    output:
+      folder: ./output/{slug}/
+      files:
+        - ./linkedin/post_1.txt
+        - ./linkedin/post_2.txt
+        - ./linkedin/post_3.txt
+        - ./newsletter/newsletter.txt
+    success_criteria:
+      - plain text only
+      - LinkedIn-ready copy
+      - concrete operator language
+      - avoids generic consultant language
+      - follows Chad packaging/style conventions
+
+  - id: x_amplifier
+    prompt: ./prompts/6_the_twitter_writer.md
+    input:
+      - ./output/{slug}/nuggets.json
+      - ./output/{slug}/strategy.json
+      - optional related LinkedIn/newsletter drafts when helpful
+    output:
+      folder: ./output/{slug}/twitter/
+      files:
+        - tweets.json
+        - threads.json
+    success_criteria:
+      - X-native amplification packaging
+      - specific to vacation rental managers
+      - includes sharp takes, recognition posts, and conversation-oriented assets
+      - avoids generic engagement bait, mini-LinkedIn summaries, and hashtag clutter
+
+  - id: editor
+    prompt: ./prompts/5_the_editor.md
+    input:
+      - ./output/{slug}/linkedin/post_1.txt
+      - ./output/{slug}/linkedin/post_2.txt
+      - ./output/{slug}/linkedin/post_3.txt
+      - ./output/{slug}/newsletter/newsletter.txt
+    output:
+      folder: ./output/{slug}/
+      files:
+        - editor_review.json
+    success_criteria:
+      - rejects shallow or generic work
+      - requires operational depth
+      - scores drafts for depth, specificity, style match, and format compliance
+
+  - id: twitter_review
+    input:
+      - ./output/{slug}/twitter/tweets.json
+      - ./output/{slug}/twitter/threads.json
+    output:
+      folder: ./output/{slug}/twitter/
+      files:
+        - review.json
+    optional: true
+    success_criteria:
+      - verifies specificity and audience fit
+      - catches generic or bait-heavy Twitter content
+      - marks Twitter outputs as draft, approved, or needs revision
+
+  - id: drafter
+    prompt: ./prompts/4_the_drafter.md
+    input: ./output/{slug}/draft_queue.json
+    output: staged LinkedIn drafts
+    optional: true
+    success_criteria:
+      - save draft only
+      - never publish
+      - report drafted or blocked status clearly
+
+orchestration_rules:
+  - The orchestrator decides whether the drafter stage runs.
+  - Default content-generation sequence is Analyst → Strategist → Writer → X Amplifier → Editor.
+  - Run X amplification generation for normal production runs unless the user explicitly says not to.
+  - Do not run the drafter until post text is approved by the editor stage.
+  - Use structured JSON for internal handoffs.
+  - Use plain text for final human-facing LinkedIn/newsletter files.
+  - Use structured JSON for Twitter outputs and internal handoffs.
+  - Use one canonical folder per book in output.
+  - If source material is missing or weak, stop early instead of inventing output.
+  - If the editor returns revise or reject, do not treat the content as production-ready.

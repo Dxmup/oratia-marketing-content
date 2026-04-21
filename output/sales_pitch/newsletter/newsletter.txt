@@ -29,9 +29,9 @@ Pick the shift most relevant to your market and most directly connected to what 
 
 Dunford is explicit about this: the buyer needs to see that the obvious alternatives have failed before they're ready to hear about your solution. In VRM, there are two:
 
-SELF-MANAGEMENT: The post covered the key de-positioning points. In the newsletter version, go deeper on the specific failure modes. Self-managing owners consistently underestimate the time cost (the realistic number is 8 to 15 hours per week for an actively managed property), underestimate the revenue cost of suboptimal pricing (the gap between a manually set rate and an optimized dynamic rate on a peak weekend can be $200 to $400 per night), and overestimate their ability to maintain quality control across a full season of guest rotations.
+SELF-MANAGEMENT: The post covered the key de-positioning points. In the newsletter version, go deeper on the specific failure modes. Self-managing owners often underestimate the time cost (the realistic number is 8 to 15 hours per week for an actively managed property), underestimate the revenue cost of suboptimal pricing (the gap between a manually set rate and an optimized dynamic rate on a peak weekend can be $200 to $400 per night), and overestimate their ability to maintain quality control across a full season of guest rotations.
 
-The de-positioning script for self-management should always reference their specific situation, not a generic argument. If they told you in the discovery call that they're spending "just a couple hours a week" managing the property, that's your opening: "Most owners who tell me it takes two or three hours a week end up tracking it one month and finding it's more like ten. The guest communication alone on a busy weekend runs three to four hours."
+The de-positioning script for self-management should always reference their specific situation, not a generic argument. If they told you in the discovery call that they're spending "just a couple hours a week" managing the property, that's your opening: "Many owners who tell me it takes two or three hours a week end up tracking it one month and finding it's more like ten. The guest communication alone on a busy weekend runs three to four hours."
 
 BIG-BOX NATIONAL FIRMS: The failure mode here is scale without attention. The specific de-positioning language: the national firm offers a recognizable brand and technological infrastructure, but local portfolio managers typically manage 60 to 100 properties each. That math produces an average of 20 to 30 minutes of manager attention per property per week. When something goes wrong, the owner is a ticket number, not a client.
 
@@ -57,7 +57,7 @@ If you say "noise monitoring technology," translate to: "We catch parties before
 
 If you say "professional photography," translate to: "Your property looks like the top 10% of your comp set from the first image. That impression drives the click-through rate that fills your calendar."
 
-If you say "direct booking website," translate to: "Repeat guests come back through your own channel at zero commission. That's not a technical feature: it's compounding revenue that grows every year you're in our portfolio."
+If you say "direct booking website," translate to: "Repeat guests come back through your own channel at zero commission. That's compounding revenue that grows every year you're in our portfolio."
 
 Run every feature in your current pitch through this filter. If you can't complete the sentence "which means for you that..." in concrete, specific terms, the feature isn't ready to be in the pitch.
 

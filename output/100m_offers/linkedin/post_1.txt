@@ -3,7 +3,7 @@ Post 1 of 1
 
 IF YOU'RE DEFENDING YOUR FEE AGAINST A COMPETITOR CHARGING LESS, YOUR OFFER IS BROKEN
 
-Many VRM operators treat their management agreement like a commodity. They pitch the same service as the manager down the street, photography, dynamic pricing, 24/7 communication, and then hope the homeowner likes their personality better. When you sell a commodity, the only differentiation is price. And in a race to the bottom on price, even the winner loses.
+Many VRM operators treat their management agreement like a commodity. They pitch the same service as the manager down the street, photography, dynamic pricing, 24/7 communication, and then hope the homeowner likes their personality better. When you sell a commodity, the only differentiation is price. In a race to the bottom on price, even the winner loses.
 
 Alex Hormozi's Value Equation in $100M Offers identifies four variables that determine how much perceived value a buyer assigns to any offer:
 
@@ -12,7 +12,7 @@ Alex Hormozi's Value Equation in $100M Offers identifies four variables that det
 3. TIME DELAY: How long before they experience the value.
 4. EFFORT AND SACRIFICE: How much friction, complexity, and risk they have to absorb to get there.
 
-Most VRMs pitch only the top half of the equation. "We'll make you more money (Dream Outcome) because we have the best technology and team (Likelihood)." The problem: homeowners don't freeze because they don't want better revenue. They freeze because switching property managers feels like an enormous, logistical ordeal. The Effort and Sacrifice variable is so high the status quo feels like the rational choice.
+Many VRMs pitch only the top half of the equation. "We'll make you more money (Dream Outcome) because we have the best technology and team (Likelihood)." The problem: homeowners don't freeze because they don't want better revenue. They freeze because switching property managers feels like an enormous logistical ordeal. The Effort and Sacrifice variable is so high the status quo feels like the rational choice.
 
 THE GRAND SLAM VRM OFFER
 
@@ -22,15 +22,15 @@ Here's what a Grand Slam Offer looks like in VRM, applied to each of the four va
 
 REDUCE TIME DELAY: "We can have your listing optimized and live within 10 days of signing. We handle the photography, the copywriting, the channel setup, and the initial pricing calibration. You don't manage any of it."
 
-REDUCE EFFORT AND SACRIFICE: "We migrate your Airbnb reviews, honor all existing guest bookings at our lower commission rate, and do the initial deep clean at our expense. You don't touch the transition. It just happens."
+REDUCE EFFORT AND SACRIFICE: "We migrate your Airbnb reviews, honor all existing guest bookings at our commission rate, and do the initial deep clean at our expense. You don't touch the transition. It just happens."
 
 INCREASE PERCEIVED LIKELIHOOD: "Here are three properties on your block or in your neighborhood that we've managed for at least 12 months. Here are their before and after revenue numbers. Here are their contact details if you want to call them directly."
 
-ADD RISK REVERSAL: "If you're not fully satisfied with our communication and performance in the first 90 days, you can exit the contract with no penalty and we'll transfer your listing back to you at no cost. The only risk in this conversation is leaving your property exactly as it is today."
+ADD RISK REVERSAL: "If you're not satisfied with our communication and performance in the first 90 days, you can exit the contract with no penalty and we'll transfer your listing back to you at no cost. The only risk in this conversation is leaving your property exactly as it is today."
 
 THE SCRIPT
 
-"I know the hardest part of this decision isn't whether better management is worth it, you know it is. The hard part is the transition itself. So let me remove that. We migrate your reviews, honor your existing bookings at our rate, handle the deep clean at our cost, and give you a 90-day out clause if you don't love working with us. There is no logistical downside to saying yes. The only financial risk in this conversation is staying where you are."
+Script: "I know the hardest part of this decision isn't whether better management is worth it. You know it is. The hard part is the transition itself. So let me remove that. We migrate your reviews, honor your existing bookings at our rate, handle the deep clean at our cost, and give you a 90-day out clause if you don't love working with us. There is no logistical downside to saying yes. The only financial risk in this conversation is staying where you are."
 
 THE PSYCHOLOGICAL PIVOT
 
@@ -42,12 +42,12 @@ Run your current management agreement through Hormozi's four variables and ident
 
 - What is the owner being asked to do themselves during the transition?
 - How long before they see any revenue from working with you?
-- What happens if the relationship doesn't work, how hard is it for them to exit?
+- What happens if the relationship doesn't work? How hard is it for them to exit?
 - What proof do you have that the Dream Outcome is actually achievable, specific to their market and property type?
 
 Every piece of friction you remove increases perceived value without changing your fee by a single percentage point. The offer is the product. Build a better offer.
 
-Field note: The Grand Slam Offer is most effective with Delegator and Opportunist owners, who are making decisions primarily based on ease and risk. With Investors, you still need the financial case to be airtight, the frictionless transition is table stakes, not the close. With Skeptics, the 90-day out clause is often the single most important element of the offer, because it's the only thing that makes the risk feel reversible to someone who has been burned before.
+Field note: The Grand Slam Offer is most effective with Delegator and Opportunist owners, who are making decisions primarily based on ease and risk. With Investors, you still need the financial case to be airtight. The frictionless transition is table stakes, not the close. With Skeptics, the 90-day out clause is often the single most important element of the offer, because it's the only thing that makes the risk feel reversible to someone who has been burned before.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.

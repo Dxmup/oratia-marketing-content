@@ -1,3 +1,5 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the sales_pitch/linkedin/ directory but contains Sales EQ (Jeb Blount) Post 2 content. The actual Sales Pitch post_2.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Sales EQ | Jeb Blount
 Post 2 of 3
 
@@ -17,7 +19,7 @@ The goal is to break the expected script before the owner's defenses are up.
 
 1. NAME THE SCRIPT
 Open by acknowledging what the owner expects, then explicitly refuse to do it.
-Script: "You've probably had a few of these conversations already. I'm guessing most of them started with a revenue projection and ended with a pitch about commission. I'm going to do this differently today, I'd rather start with a few honest questions about your situation before I show you anything."
+Script: "You've probably had a few of these conversations already. I'm guessing many of them started with a revenue projection and ended with a pitch about commission. I'm going to do this differently today. I'd rather start with a few honest questions about your situation before I show you anything."
 
 2. THE VELVET ROPE
 Establish that you're evaluating them, not pitching to them.

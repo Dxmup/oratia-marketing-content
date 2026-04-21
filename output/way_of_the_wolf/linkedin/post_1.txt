@@ -25,7 +25,7 @@ DIAGNOSING THE CERTAINTY GAP
 
 When an owner hesitates at the finish line, many operators try to sweeten the deal. They drop the commission. They throw in a free deep clean. They try to solve a certainty problem with a pricing concession.
 
-But the owner's hesitation is rarely financial. It's a defense mechanism. Their brain has detected a threat: a gap in one of the Three Tens. Dropping your fee to 15% won't fix a trust problem. It will actually make it worse, because an operator who immediately discounts their value is signaling that they didn't believe in it to begin with.
+The owner's hesitation is rarely financial. It's a defense mechanism. Their brain has detected a threat: a gap in one of the Three Tens. Dropping your fee to 15% won't fix a trust problem. It will actually make it worse, because an operator who immediately discounts their value is signaling that they didn't believe in it to begin with.
 
 Before every appointment, audit your pitch against each pillar:
 - SYSTEM: Can you describe your exact response sequence for a maintenance emergency? If it sounds vague, it will feel vague.

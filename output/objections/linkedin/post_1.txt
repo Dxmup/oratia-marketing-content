@@ -1,3 +1,5 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the objections/linkedin/ directory but contains Influence (Robert Cialdini) Post 1 content. The actual Objections post_1.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Influence | Robert Cialdini
 Post 1 of 3
 
@@ -9,7 +11,7 @@ CIALDINI'S RECIPROCITY PRINCIPLE
 
 Human beings are wired to repay debts. Not out of transactional obligation: out of deep social programming that's been running for 200,000 years. When someone provides genuine value before asking for anything in return, the receiving party's brain shifts from risk-assessment to gratitude, and gratitude creates a felt compulsion to reciprocate.
 
-This isn't manipulation. It's how human exchange works. The key word is genuine, a reciprocity play with low-quality "value" reads as exactly what it is.
+This isn't manipulation. It's how human exchange works. The key word is genuine. A reciprocity play with low-quality "value" reads as exactly what it is.
 
 THE PRE-PITCH VALUE DROP
 
@@ -22,7 +24,7 @@ Before the appointment, deliver something specific and genuinely useful. Not a b
 
 Script: "Before we get into anything about our company, I want to give you this. It's a revenue breakdown of the comparable properties on your street over the last year. I've pulled out the three that outperformed the most and highlighted two specific things I'd suggest for your property based on the data, whether you end up working with us or not. This is yours regardless of what we decide today."
 
-When you close an appointment this way, the owner is not evaluating a vendor. They're in a conversation with an advisor who already gave them something real. The dynamic is fundamentally different, and it stays different.
+When you open an appointment this way, the owner is not evaluating a vendor. They're in a conversation with an advisor who already gave them something real. The dynamic is fundamentally different, and it stays different.
 
 Field note: The key to reciprocity working is specificity. A generic market report triggers almost no obligation. A specific breakdown of the owner's exact block, showing the exact gap between their current situation and the top comps, triggers real appreciation. Earn the debt with specificity. It will be repaid.
 

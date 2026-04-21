@@ -36,7 +36,7 @@ Build the safety net into the offer itself:
 - A named point of contact the owner can reach by name on day one
 - A specific onboarding timeline with written dates
 
-Script: "The hardest part of this decision is the transition, so we remove that completely. We migrate your Airbnb history, honor all existing bookings at our lower commission rate, and do the initial deep clean at our expense. And if you're not happy with our communication in the first 90 days, you can walk away with no penalty. The only risk in this conversation is leaving things exactly the way they are today."
+Script: "The hardest part of this decision is the transition, so we remove that completely. We migrate your Airbnb history, honor all existing bookings at our commission rate, and do the initial deep clean at our expense. And if you're not happy with our communication in the first 90 days, you can walk away with no penalty. The only risk in this conversation is leaving things exactly the way they are today."
 
 Make it harder to say no than to say yes.
 

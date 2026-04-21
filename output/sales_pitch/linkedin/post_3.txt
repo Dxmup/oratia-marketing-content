@@ -1,3 +1,5 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the sales_pitch/linkedin/ directory but contains Sales EQ (Jeb Blount) Post 3 content. The actual Sales Pitch post_3.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Sales EQ | Jeb Blount
 Post 3 of 3
 
@@ -15,13 +17,13 @@ THE SIX SIGNALS IN THE FIRST FIVE MINUTES
 
 The most useful single diagnostic: how does the owner refer to the property?
 
-"The unit" or "the asset", almost always an Investor or Delegator frame. They're evaluating an investment. Lead with comps and yield math.
+"The unit" or "the asset," almost always an Investor or Delegator frame. They're evaluating an investment. Lead with comps and yield math.
 
-"The lake house," "my grandfather's cabin," "our place", almost always a Steward or Controller frame. They're evaluating a custodian. Lead with appreciation for the property and specificity about care.
+"The lake house," "my grandfather's cabin," "our place," almost always a Steward or Controller frame. They're evaluating a custodian. Lead with appreciation for the property and specificity about care.
 
-"I haven't decided whether I'm actually going to list it yet", Opportunist. They need to feel educated before they feel committed. Sell the concept before you sell the service.
+"I haven't decided whether I'm actually going to list it yet," Opportunist. They need to feel educated before they feel committed. Sell the concept before you sell the service.
 
-"The last manager really dropped the ball", Skeptic. They've been burned. The Accusation Audit (see Never Split the Difference) is your opening move, not a revenue projection.
+"The last manager really dropped the ball," Skeptic. They've been burned. The Accusation Audit is your opening move, not a revenue projection.
 
 "How much can I make and what do you charge?" in the first two minutes, Driver. Get to the point immediately and don't slow down for relationship-building they didn't ask for.
 

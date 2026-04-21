@@ -1,3 +1,5 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the never_split_the_difference/linkedin/ directory but contains Founding Sales (Pete Kazanjy) Post 2 content. The actual Never Split the Difference post_3.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Founding Sales | Pete Kazanjy
 Post 2 of 2
 

@@ -11,7 +11,7 @@ This newsletter goes deeper on the specific breakdowns that cause revenue leaks,
 
 THE CHURN ANATOMY: WHERE THE LEAK ACTUALLY BEGINS
 
-Most VRM operators who analyze their churn data focus on the event that triggered the departure: the maintenance complaint, the bad review, the owner who said they "wanted to try something different." These are the visible symptoms. The actual failure almost always began in the 90 days before signing.
+Many VRM operators who analyze their churn data focus on the event that triggered the departure: the maintenance complaint, the bad review, the owner who said they "wanted to try something different." These are the visible symptoms. The actual failure almost always began in the 90 days before signing.
 
 Here are the three most common promise-reality gaps that produce churn in VRM portfolios.
 
@@ -19,7 +19,7 @@ GAP 1: THE REVENUE PROJECTION
 
 A BD rep presents an optimistic revenue projection to win the contract. The operations and revenue management team delivers an outcome that's below that projection, even if it's a genuinely good outcome for the property. The owner doesn't evaluate the result against market performance. They evaluate it against the number they were shown at signing.
 
-The fix is two-part: the BD rep must present a conservative, three-scenario forecast (see Newsletter 2), and the property manager must be given visibility into what projection was sold so they can contextualize the owner's expectations from day one.
+The fix is two-part: the BD rep must present a conservative, three-scenario forecast, and the property manager must be given visibility into what projection was sold so they can contextualize the owner's expectations from day one.
 
 GAP 2: THE COMMUNICATION PROMISE
 
@@ -50,7 +50,7 @@ If the answers to questions 1 and 2 don't match, and if the answers to questions
 
 FIXING THE HANDOFF: THE 90-DAY ONBOARDING PROTOCOL
 
-The handoff from BD to operations is where most of the damage happens, and it's also where the fix is most accessible. A structured 90-day onboarding protocol closes the promise-reality gap before it becomes a churn event.
+The handoff from BD to operations is where much of the damage happens, and it's also where the fix is most accessible. A structured 90-day onboarding protocol closes the promise-reality gap before it becomes a churn event.
 
 DAY 1: THE WELCOME CALL (BD REP PLUS PROPERTY MANAGER)
 
@@ -66,7 +66,7 @@ DAY 90: THE QUARTERLY REVIEW
 
 A structured conversation comparing actual results to the projection that was sold, with specific context for any variance. This is where the conservative forecast pays off: if you sold a realistic number and delivered against it, this call is a celebration. If you sold an inflated number and fell short, this call is a defensive one.
 
-The 90-day review is also the right moment to surface the owner's willingness to refer. An owner who's had a good 90 days and feels well-treated is at their highest referral motivation. Most operators never ask at this moment.
+The 90-day review is also the right moment to surface the owner's willingness to refer. An owner who's had a good 90 days and feels well-treated is at their highest referral motivation. Many operators never ask at this moment.
 
 "Is there anyone else you know who owns a vacation rental and might benefit from a conversation? We grow primarily through referrals from owners like you, and a warm introduction means a lot."
 

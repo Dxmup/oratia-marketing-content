@@ -1,3 +1,5 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the sales_pitch/linkedin/ directory but contains Sales EQ (Jeb Blount) Post 1 content. The actual Sales Pitch post_1.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Sales EQ | Jeb Blount
 Post 1 of 3
 
@@ -24,7 +26,7 @@ THE SEQUENCE FIX
 
 Solve for peace of mind first. Then solve for revenue.
 
-Script: "Before I show you any numbers, I want to acknowledge something. Most owners at your stage are less worried about revenue than they are about three specific things: damage, neighbor complaints, and middle-of-the-night emergencies. Not because the revenue doesn't matter, it does, but because those three things are the downside, and the downside is what keeps people up at night. Let me walk you through exactly what we've built to handle each one. Then we'll get to the math."
+Script: "Before I show you any numbers, I want to acknowledge something. Many owners at your stage are less worried about revenue than they are about three specific things: damage, neighbor complaints, and middle-of-the-night emergencies. Not because the revenue doesn't matter, it does, but because those three things are the downside, and the downside is what keeps people up at night. Let me walk you through exactly what we've built to handle each one. Then we'll get to the math."
 
 The owner almost always responds positively, because you've named the conversation happening in their head, not the one happening in your pitch deck.
 

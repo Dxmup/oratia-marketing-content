@@ -23,7 +23,7 @@ This question opens the conversation at the owner's current reality rather than 
 
 LETTING THEM BUILD THE LEVEL 1 LIST
 
-Most owners, given an open question about their current situation, will produce three to five technical pain points without prompting. Let them go. Don't jump to solutions. Don't validate with "we handle that." Just listen and note the themes.
+Given an open question about their current situation, owners will usually produce three to five technical pain points without prompting. Let them go. Don't jump to solutions. Don't validate with "we handle that." Just listen and note the themes.
 
 Common Level 1 pain points in VRM:
 - Slow or absent communication from the current manager
@@ -33,13 +33,13 @@ Common Level 1 pain points in VRM:
 - Revenue that's flat or declining without explanation
 - Guest complaints that reach the owner directly
 
-Each one of these is the surface complaint. None of them is the real reason they're sitting across from you.
+Each of these is the surface complaint. None of them is the real reason they're sitting across from you.
 
 THE LEVEL 1 TO LEVEL 2 BRIDGE
 
 Once the owner has surfaced their Level 1 complaints, bridge to the financial consequence. One specific complaint at a time.
 
-For slow communication: "You mentioned the response time from your current manager has been an issue. How has that shown up in your guest reviews? I'd guess it's not just inconvenient: it's probably affecting your ratings and your placement in search."
+For slow communication: "You mentioned the response time from your current manager has been an issue. How has that shown up in your guest reviews? I'd guess it's not just inconvenient. It's probably affecting your ratings and your placement in search."
 
 For unexpected bills: "When a bill arrives with no context, what does that do to your confidence in the revenue forecast you were given at signing? I'd imagine the numbers start to feel less predictable."
 
@@ -49,7 +49,7 @@ The Level 2 question always connects the operational complaint to a financial co
 
 THE LEVEL 2 TO LEVEL 3 BRIDGE
 
-This is the most important transition in the conversation and the one where most operators stop. Level 2 is where the deal gets justified. Level 3 is where the deal gets felt.
+This is the most important transition in the conversation and the one where many operators stop. Level 2 is where the deal gets justified. Level 3 is where the deal gets felt.
 
 Once you've established the financial consequence, ask about the personal cost.
 
@@ -108,7 +108,7 @@ Delegator: Level 3 is usually expressed as time loss. "This was supposed to be p
 
 Controller: Level 3 is sometimes harder to surface because Controllers are reluctant to admit that the property has costs they can't manage themselves. Listen for the moments where the operational specificity breaks down: "I just can't be everywhere at once." That's Level 3 emerging.
 
-Opportunist: Level 3 is often aspirational rather than painful. "I'd love for this to be something my kids can use and that also pays for itself." The personal cost isn't existing pain: it's an unrealized vision.
+Opportunist: Level 3 is often aspirational rather than painful. "I'd love for this to be something my kids can use and that also pays for itself." The personal cost isn't existing pain. It's an unrealized vision.
 
 ---
 

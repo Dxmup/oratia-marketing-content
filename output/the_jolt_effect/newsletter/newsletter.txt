@@ -3,7 +3,7 @@ linkedin.com/in/chadhensel
 
 ---
 
-This week covered The Jolt Effect: why owners ghost after great appointments, how to diagnose whether you're losing to a competitor or to inertia, and how to apply the JOLT framework to eliminate transition friction. The underlying finding from Dixon and McKenna's research is the one most operators haven't fully internalized: you are not losing most of your stalled deals to the manager down the street. You are losing them to no decision at all.
+This week covered The Jolt Effect: why owners ghost after great appointments, how to diagnose whether you're losing to a competitor or to inertia, and how to apply the JOLT framework to eliminate transition friction. The underlying finding from Dixon and McKenna's research is the one many operators haven't fully internalized: you are not losing most of your stalled deals to the manager down the street. You are losing them to no decision at all.
 
 This newsletter goes deeper on the Fear of Messing Up psychology, the mechanics of the JOLT framework in a live appointment, and how to engineer your offer to make the status quo feel riskier than the switch.
 
@@ -11,7 +11,7 @@ This newsletter goes deeper on the Fear of Messing Up psychology, the mechanics 
 
 THE FOMU PSYCHOLOGY: WHAT'S ACTUALLY HAPPENING IN THE OWNER'S HEAD
 
-Fear of Messing Up is not the same as fear of making the wrong choice. It's more specific than that, and understanding the difference changes how you respond to it.
+Fear of Messing Up is not the same as fear of making the wrong choice. Understanding the difference changes how you respond to it.
 
 The owner who is experiencing FOMU is not running a rational evaluation of your service versus the alternatives. They've already decided, at some level, that you are probably the right call. What they're doing is running a worst-case scenario simulation of what happens if they're wrong.
 
@@ -35,7 +35,7 @@ The post covered the four elements. Here's what the full JOLT sequence looks lik
 
 THE OPENING POSTURE: JUDGE BEFORE YOU PITCH
 
-Most operators begin the appointment in pitch mode. JOLT says to begin in diagnostic mode. Before you've shown a single slide or mentioned a single feature, you should know whether you're in a competitive evaluation or a FOMU situation.
+Many operators begin the appointment in pitch mode. JOLT says to begin in diagnostic mode. Before you've shown a single slide or mentioned a single feature, you should know whether you're in a competitive evaluation or a FOMU situation.
 
 Diagnostic question, asked naturally in the first few minutes: "How long have you been thinking about making a management change?"
 
@@ -61,7 +61,7 @@ The operator who sends a three-paragraph email with an attached 12-page capabili
 
 ENGINEERING THE TRANSITION: THE FULL STACK
 
-The T in JOLT is where most operators have the most room to improve. Here is a full transition friction stack: every barrier between an owner saying yes and becoming an active client, and what to do about each one.
+The T in JOLT is where many operators have the most room to improve. Here is a full transition friction stack: every barrier between an owner saying yes and becoming an active client, and what to do about each one.
 
 BARRIER: Migrating existing reviews and listing history.
 SOLUTION: You handle it entirely. Do not ask them to download anything, export anything, or contact anyone. Your team migrates the listing history at your cost. You absorb the 45 minutes of admin so they don't have to.
@@ -86,7 +86,7 @@ MAKING THE STATUS QUO FEEL RISKY: THE COST-OF-INACTION FRAME
 
 The Jolt Effect's most counterintuitive insight is that the best way to overcome FOMU is not to reduce the risk of switching. It's to increase the perceived risk of staying.
 
-This is not manipulation. It's honest accounting. The owner who stays with a mediocre manager, or who continues self-managing at a cost of 8 to 10 hours a week, is paying a real and calculable cost. Most owners haven't done that math because nobody has shown it to them.
+This is not manipulation. It's honest accounting. The owner who stays with a mediocre manager, or who continues self-managing at a cost of 8 to 10 hours a week, is paying a real and calculable cost. Many owners haven't done that math because nobody has shown it to them.
 
 Do it for them. Out loud.
 
@@ -98,7 +98,7 @@ The owner who hears this for the first time is almost always surprised. Not beca
 
 NEXT WEEK
 
-Posts 10 covers The Challenger Sale by Dixon and Adamson. The post is standalone this week. The newsletter will go deeper on how to build the Teach-Tailor-Take Control sequence into a full listing appointment structure, and how to develop the market insights that make the Challenger approach credible rather than just confident.
+Post 10 covers The Challenger Sale by Dixon and Adamson. The post is standalone this week. The newsletter will go deeper on how to build the Teach-Tailor-Take Control sequence into a full listing appointment structure, and how to develop the market insights that make the Challenger approach credible rather than just confident.
 
 ---
 

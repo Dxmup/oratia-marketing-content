@@ -17,7 +17,7 @@ Many operators respond to that internal monologue by talking louder about their 
 
 THE SAFETY-NET RESPONSE
 
-Script: "Before you go think about it, let me make sure you actually have what you need to think. Most owners at this stage are wrestling with three specific things: what happens if your company underperforms, what the transition from your current manager looks like, and what happens if something goes wrong with a guest. Let me walk you through each of those specifically, and then if you still want to think about it, you'll at least have the actual information."
+Script: "Before you go think about it, let me make sure you actually have what you need to think. Many owners at this stage are wrestling with three specific things: what happens if your company underperforms, what the transition from your current manager looks like, and what happens if something goes wrong with a guest. Let me walk you through each of those specifically, and then if you still want to think about it, you'll at least have the actual information."
 
 Then walk through each, concisely and specifically:
 - The out clause: exact terms, exact trigger conditions.

@@ -1,3 +1,5 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the sales_eq/linkedin/ directory but contains Revenue Operations (Stephen G. Diorio) Post 1 content. The actual Sales EQ post_1.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Revenue Operations | Stephen G. Diorio
 Post 1 of 2
 
@@ -29,7 +31,7 @@ THE THREE-PART HANDOFF FIX
 
 3. Run a calibration call at onboarding. Script: "I want to use this call to make sure we're aligned on what the next 90 days looks like. Here's what you should expect from us, and I'd like to know what was described to you during your decision process so we can make sure we're delivering against it. If anything was miscommunicated, I'd rather find out now."
 
-That single call prevents more churn than most operational improvements made six months later.
+That single call prevents more churn than many operational improvements made six months later.
 
 Field note: If your BD rep and your property manager can't independently write down the same top three priorities for a new owner, your organization has a commercial operating system problem. The CRM isn't a sales tool. It's the single source of truth for every promise made to every owner in your portfolio.
 

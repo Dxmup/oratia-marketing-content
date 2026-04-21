@@ -1,3 +1,5 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the objections/linkedin/ directory but contains Influence (Robert Cialdini) Post 2 content. The actual Objections post_2.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Influence | Robert Cialdini
 Post 2 of 3
 
@@ -7,11 +9,11 @@ When a vacation rental manager says "We'd love to add your home to our program,"
 
 THE SCARCITY PRINCIPLE
 
-People are biologically wired to want what is scarce. If your management service is available to anyone with a spare bedroom, its perceived value approaches zero: the owner categorizes you as a commodity. They negotiate hard on the fee because they believe they hold all the leverage, and they're right.
+People are biologically wired to want what is scarce. If your management service is available to anyone with a spare bedroom, its perceived value approaches zero. The owner categorizes you as a commodity. They negotiate hard on the fee because they believe they hold all the leverage, and they're right.
 
 THE VELVET ROPE
 
-Elite operators don't pitch to homeowners. They qualify them. The Velvet Rope isn't a sales tactic. It's an accurate description of how they actually operate, they do turn away properties, they do have criteria, they are selective about owner relationships.
+Elite operators don't pitch to homeowners. They qualify them. The Velvet Rope isn't a sales tactic. It's an accurate description of how they actually operate. They do turn away properties, they do have criteria, they are selective about owner relationships.
 
 Manufactured scarcity without substance behind it reads as exactly that. To make the Velvet Rope credible, it must be observable:
 - You actually decline properties that don't meet your criteria. Owners in tight communities talk. If you turn down their neighbor, that story spreads.
@@ -22,7 +24,7 @@ Script: "We don't accept every home into our collection. We manage a limited num
 
 THE SHIFT IN NEGOTIATION
 
-When the frame is scarcity and selectivity, the fee conversation changes character entirely. The owner is no longer asking you to convince them your service is worth the price. They're wondering whether they qualify. That's a fundamentally different psychological state, one where price resistance rarely surfaces, because the primary question isn't cost, it's access.
+When the frame is scarcity and selectivity, the fee conversation changes character entirely. The owner is no longer asking you to convince them your service is worth the price. They're wondering whether they qualify. That's a fundamentally different psychological state, one where price resistance rarely surfaces, because the primary question isn't cost. It's access.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.

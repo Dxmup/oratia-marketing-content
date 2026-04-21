@@ -1,3 +1,5 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the never_split_the_difference/linkedin/ directory but contains Gap Selling (Jim Keenan) Post 1 content. The actual Never Split the Difference post_1.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Gap Selling | Jim Keenan
 Post 1 of 1
 
@@ -31,7 +33,7 @@ LEVEL 3: PERSONAL PAIN
 
 This is the human cost, to the specific person sitting across from you. This is where the deal is actually won.
 
-Script: "So the maintenance delays are generating 3-star reviews, which is pulling your rate down and hurting your placement. Let me ask you something more personal, when a bad review comes in over something completely outside your control, what does that do to you? What does that weekend actually look like?"
+Script: "So the maintenance delays are generating 3-star reviews, which is pulling your rate down and hurting your placement. Let me ask you something more personal. When a bad review comes in over something completely outside your control, what does that do to you? What does that weekend actually look like?"
 
 Now the owner isn't talking about maintenance workflows. They're telling you they haven't genuinely relaxed on a weekend in two years. They're checking their phone at dinner waiting for the next guest crisis. Their spouse has mentioned selling the property twice in the last six months.
 
@@ -41,7 +43,7 @@ THE CLOSE THAT ISN'T A CLOSE
 
 When your final proposal is framed as the bridge across that specific, personal gap, not as a list of services, but as the end of the experience they just described, the close becomes the natural conclusion of a conversation the owner already needed to have.
 
-Script: "What you just walked me through is exactly what we're designed to solve. Not just the maintenance workflow, though that gets fixed on day one. What we're actually selling you is two years of lost weekends back. The next time a guest sends a message at 2 AM, it comes to us, not to you. The next time something breaks, we handle it and you get an update: not a decision to make. Your next vacation doesn't have to include checking review scores from the beach."
+Script: "What you just walked me through is exactly what we're designed to solve. Not just the maintenance workflow, though that gets fixed on day one. What we're actually selling you is two years of lost weekends back. The next time a guest sends a message at 2 AM, it comes to us, not to you. The next time something breaks, we handle it and you get an update, not a decision to make. Your next vacation doesn't have to include checking review scores from the beach."
 
 Stop pitching features at Level 1 problems. Find the Level 3 pain, and the close becomes inevitable.
 

@@ -1,3 +1,5 @@
+[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the founding_sales/linkedin/ directory but contains Elite Sales Strategies (Anthony Iannarino) Post 3 content. The actual Founding Sales post_1.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+
 VRM Sales Library | Elite Sales Strategies | Anthony Iannarino
 Post 3 of 3
 
@@ -19,9 +21,9 @@ Instead: contextualize what's actually happening in the market, explain the forc
 
 Script: "The market right now is overloaded with new inventory coming online, and a lot of managers are reacting by dropping rates across the board to maintain occupancy. That strategy attracts lower-tier guests, accelerates wear-and-tear on the property, and ultimately suppresses the review scores that drive long-term performance. Our approach goes the opposite direction: we protect the asset first, optimize for guest quality second, and capture premium revenue through direct booking development and channel positioning. The commission conversation makes a lot more sense once you understand the alternative."
 
-You've just made sense of the market. You've elevated from vendor to advisor. And now the owner isn't comparing your fee to a competitor's fee, they're evaluating whether your strategic orientation matches the outcome they actually want.
+You've made sense of the market. You've elevated from vendor to advisor. Now the owner isn't comparing your fee to a competitor's fee. They're evaluating whether your strategic orientation matches the outcome they actually want.
 
-That's a completely different conversation. And it's one that closes at a completely different rate.
+That's a completely different conversation. One that closes at a completely different rate.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
