@@ -72,7 +72,22 @@ Target file patterns:
 
 Ignore all other files (`review_*.json`, `gold_set_v1.json`, `tweets.json`, `threads.json`, `posting_log.json`, etc.).
 
-### 7. Commit and push
+### 7. Verify formatting before committing
+After sharpening each file, run a quick check before marking it complete:
+
+**For `.txt` files:**
+- No em dashes (`—`) anywhere in the file
+- CTA footer block is present and intact at the end: `linkedin.com/in/chadhensel` and `#VRMSalesLibrary`
+- Post header format is correct: `VRM Sales Library | [Book] | [Author]`
+- No exclamation points outside of direct-speech scripts
+
+**For `posts.json` files:**
+- No em dashes in any `text` field
+- All structural keys untouched
+
+If any check fails, fix it before updating the processing log.
+
+### 8. Commit and push
 After processing the batch of files, make a single commit with all changes including the updated `processing_log.json`.
 
 Commit message format:
