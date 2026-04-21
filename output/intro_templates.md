@@ -2,7 +2,7 @@
 
 These five templates rotate across book series to introduce each week's content. Swap in the book title, author, and any field-specific hook. Keep the body unchanged or adjust the single variable line as needed.
 
-Usage: Post this as the first piece of content before the week's posts go live. It is a standalone post, not part of the numbered series.
+Usage: This text is prepended to post_1 of each series. The CTA footer belongs to the post itself — do not include it in the intro.
 
 ---
 
@@ -22,10 +22,6 @@ This week's series.
 This week I'm running three posts applying it to owner acquisition. If you work in VRM business development, these are worth your time.
 
 ---
-Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement
-
----
 
 ## TEMPLATE 2: Why This Book
 *Lead: what makes this book specifically worth a VRM operator's time.*
@@ -40,11 +36,7 @@ Most sales books aren't written for people who manage someone else's home. The d
 
 [Book Title] by [Author] is one of the few that translates directly. [One sentence: the specific concept or framework that maps cleanly onto VRM owner acquisition.]
 
-Three posts this week. Each one is a direct application — no theory, no filler.
-
----
-Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement
+Three posts this week. Each one is a direct application, no theory, no filler.
 
 ---
 
@@ -64,10 +56,6 @@ It's not a new problem. [Author] mapped it in [Book Title] and the fix is more s
 Three posts this week applying the framework to VRM. The newsletter wraps them up at the end of the week with additional context.
 
 ---
-Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement
-
----
 
 ## TEMPLATE 4: Honest Reframe
 *Lead: a direct challenge to how most VRM operators think about a familiar problem.*
@@ -85,10 +73,6 @@ Most VRM operators think [common assumption about owner acquisition]. That frami
 Three posts this week working through the application. Worth following if owner acquisition is part of your job.
 
 ---
-Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement
-
----
 
 ## TEMPLATE 5: Dry Observation
 *Lead: a dry, specific observation about something broken in how the industry handles a particular sales situation.*
@@ -104,7 +88,3 @@ This week's series.
 [Author] wrote the manual on fixing it. [Book Title] isn't a VRM book, but it maps onto this industry more precisely than most things written specifically for it.
 
 Three posts this week. Direct applications, no filler.
-
----
-Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement
