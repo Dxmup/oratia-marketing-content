@@ -1,7 +1,5 @@
 VRM Sales Library | Objections | Jeb Blount
 
-This week's series.
-
 Operators who defend their fee percentage when an owner pushes back are having a logical argument with an emotional objection. The fee is rarely the issue.
 
 It's not a new problem. Jeb Blount mapped it in Objections and the fix is more straightforward than most operators make it.
