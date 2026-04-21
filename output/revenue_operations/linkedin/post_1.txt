@@ -1,47 +1,35 @@
 VRM Sales Library | Revenue Operations | Stephen G. Diorio
-
-Most sales books aren't written for people who manage someone else's home. The dynamics are different. The owner's emotional stakes are different. The close is different.
-
-Revenue Operations by Stephen G. Diorio is one of the few that translates directly. The argument that sales, marketing, and customer success are a single continuous system, not three separate functions, maps directly onto why so many VRM operators close deals they lose within 90 days.
-
-Three posts this week. Each one is a direct application, no theory, no filler.
-
----
-
-VRM Sales Library | Revenue Operations | Stephen G. Diorio
 Post 1 of 2
 
 YOUR OWNER CHURN ISN'T AN OPERATIONS PROBLEM. IT'S A SALES PROBLEM.
 
 The most expensive assumption in vacation rental management is that owners leave because of bad cleaning.
 
-When an owner churns, many operators blame operations: the maintenance team, the housekeepers, the pricing engine. And sometimes those things contributed. But the failure was usually set in motion months earlier, during the sales process.
+When an owner churns, many operators blame operations: the maintenance team, the housekeepers, the pricing engine. Sometimes those things contributed. But the failure was usually set in motion months earlier, during the sales process.
 
 THE HANDOFF IS WHERE TRUST DIES
 
-Stephen Diorio's central idea in Revenue Operations is that sales, marketing, and customer success aren't separate departments, they're a single continuous revenue machine. In VRM, we tend to build silos instead.
+Stephen Diorio's central argument in Revenue Operations is that sales, marketing, and customer success aren't separate departments. They're a single continuous revenue system. In VRM, we build silos instead.
 
-The BD rep sells a reality: total peace of mind, elite revenue, perfect care. Then the owner is handed off to the property management team, who lives in a different reality: broken HVACs, difficult guests, tight margins, and a 200-item task list. The owner doesn't churn because the HVAC broke. They churn because the BD rep told them they'd never have to think about the HVAC, and then the property manager sent them a bill with no context and no relationship.
+The BD rep sells a reality: total peace of mind, elite revenue, perfect care. The owner is then handed to a property manager who lives in a different reality: broken HVACs, difficult guests, tight margins, a 200-item task list. The owner doesn't churn because the HVAC broke. They churn because the BD rep said they'd never have to think about the HVAC, and then the property manager sent a bill with no context and no relationship.
 
 The owner doesn't feel disappointed. They feel duped. Duped owners don't just leave. They tell their neighbors.
 
 THE FIRST 90 DAYS ARE STILL THE SALE
 
-The gap between what was promised at signing and what the owner experiences in the first 90 days is what Diorio calls a revenue leak. In VRM, that leak is almost always worst during onboarding, the window where the owner is forming their real impression of the company they actually bought, as opposed to the one they thought they bought.
+The gap between what was promised at signing and what the owner experiences in the first 90 days is what Diorio calls a revenue leak. In VRM, that leak is almost always worst during onboarding, when the owner forms their real impression of the company they actually bought.
 
-The fix isn't better operations. It's treating onboarding as an extension of the sale, not the beginning of operations.
+The fix isn't better operations. It's treating onboarding as an extension of the sale.
 
 THE THREE-PART HANDOFF FIX
 
-1. Stop letting BD sell things operations can't consistently deliver. If your field team doesn't have 24/7 live dispatch, the BD rep can't promise 24/7 live response. Audit the promises against operational reality before any contract is signed.
+1. Stop letting BD sell things operations can't consistently deliver. Audit the promises against operational reality before any contract is signed.
 
-2. Build a shared data model. The property manager who inherits a new owner must see exactly what the BD rep told that owner, every projection, every promise, every expectation set. If they're working from different information, the trust gap is structural.
+2. Build a shared data model. The property manager inheriting a new owner must see every projection, every promise, and every expectation the BD rep set. Different information means a structural trust gap.
 
-3. Run a calibration call at onboarding. Script: "I want to use this call to make sure we're aligned on what the next 90 days looks like. Here's what you should expect from us, and I'd like to know what was described to you during your decision process so we can make sure we're delivering against it. If anything was miscommunicated, I'd rather find out now."
+3. Run a calibration call at onboarding. Script: "I want to make sure we're aligned on what the next 90 days looks like. Here's what you should expect from us, and I'd like to know what was described during your decision process so we can deliver against it."
 
-That single call prevents more churn than many operational improvements made six months later.
-
-Field note: If your BD rep and your property manager can't independently write down the same top three priorities for a new owner, your organization has a commercial operating system problem. The CRM isn't a sales tool. It's the single source of truth for every promise made to every owner in your portfolio.
+Field note: If your BD rep and your property manager can't independently write down the same top three priorities for a new owner, you have a commercial operating system problem. The CRM isn't a sales tool. It's the single source of truth for every promise made to every owner in your portfolio.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.

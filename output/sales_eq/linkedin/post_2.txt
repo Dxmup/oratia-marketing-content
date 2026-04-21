@@ -1,5 +1,3 @@
-Part two of this week's series on Sales EQ by Jeb Blount.
-
 VRM Sales Library | Sales EQ | Jeb Blount
 Post 2 of 3
 
@@ -9,7 +7,7 @@ Homeowners have a script for how property managers behave. They expect you to wa
 
 THE ZONE OF RESISTANCE
 
-When an owner feels they're being "sold to," they stop processing your content and start looking for an exit. They'll nod politely at your projections, make encouraging sounds, and then deliver the death blow: "This looks great. Let me think about it."
+When an owner feels they're being sold to, they stop processing your content and start looking for an exit. They'll nod politely at your projections, make encouraging sounds, and then deliver the death blow: "This looks great. Let me think about it."
 
 That's not hesitation. That's the Zone of Resistance operating exactly as designed. They tuned out before you made your best point.
 
@@ -23,7 +21,7 @@ Script: "You've probably had a few of these conversations already. I'm guessing 
 
 2. THE VELVET ROPE
 Establish that you're evaluating them, not pitching to them.
-Script: "We don't accept every property into our portfolio. Today I'm really here to walk the property and see if it's a fit for us. If it's not, I'll tell you that honestly today and point you toward someone who would be a better match."
+Script: "We don't accept every property into our portfolio. Today I'm here to walk the property and see if it's a fit for us. If it's not, I'll tell you that honestly and point you toward someone who would be a better match."
 
 3. THE FLAW-FIRST OPEN
 Lead with what you don't do well. The owner's threat-detection turns off when you voluntarily name your own constraints. (See the Transparent Sales Leader series for the full breakdown.)

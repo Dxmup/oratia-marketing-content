@@ -1,5 +1,3 @@
-Wrapping up this week's series on Revenue Operations by Stephen G. Diorio.
-
 VRM Sales Library | Revenue Operations | Stephen G. Diorio
 Post 2 of 2
 
@@ -7,7 +5,7 @@ WHY MANY VRMs NEVER CROSS 100 DOORS
 
 They treat marketing, sales, and operations as three separate businesses.
 
-Many VRM founders stuck at 40 or 50 doors are exhausted. They're looking for a silver bullet, a new pricing tool, a better lead gen strategy, a cheaper cleaning vendor. They're trying to solve a systems problem with a tactical fix.
+Many VRM founders stuck at 40 or 50 doors are exhausted. They're looking for a silver bullet: a new pricing tool, a better lead gen strategy, a cheaper cleaning vendor. They're trying to solve a systems problem with a tactical fix.
 
 THE COST OF MISALIGNMENT
 
@@ -17,17 +15,17 @@ Marketing is chasing cheap leads. Volume over fit.
 Sales is trying to close anyone with a rentable property to hit a door count target.
 Operations inherits clients who were destined to be difficult.
 
-Here's what that actually costs: the property manager who gets a bad-fit owner spends 60% of their capacity managing that one owner's anxiety. That degrades the service quality for every other property in the portfolio. The team morale erodes. Your best property manager eventually leaves for a company that doesn't take properties like that.
+Here's what that actually costs: the property manager who gets a bad-fit owner spends 60% of their capacity managing that one owner's anxiety. That degrades service quality for every other property in the portfolio. Team morale erodes. Your best property manager eventually leaves for a company that doesn't take properties like that.
 
 This isn't an operations failure. It's a commercial operating system failure, one that started the moment marketing generated an unqualified lead that sales couldn't afford to turn down.
 
 THE UNIFIED PLAYBOOK
 
-Define a strict Ideal Owner Profile and let it govern all three functions. Marketing only targets those owners. Sales only closes them. If a lead doesn't fit, you refer them out rather than stretch your standards.
+Define a strict Ideal Owner Profile and let it govern all three functions. Marketing only targets those owners. Sales only closes them. If a lead doesn't fit, refer them out rather than stretch your standards.
 
-Tie BD compensation to 12-month owner retention, not just contract signatures. This one change aligns the BD rep's incentives with the operator's long-term health. A rep who earns on retention has a powerful reason to qualify hard and set realistic expectations at signing.
+Tie BD compensation to 12-month owner retention, not just contract signatures. This one change aligns the BD rep's incentives with the operator's long-term health. A rep who earns on retention has a strong reason to qualify hard and set realistic expectations at signing.
 
-Build a single source of truth. Your outreach CRM, your sales pipeline, and your PMS should reference the same owner record. If the same owner appears in three systems with three different contact histories, you don't have a business, you have three businesses that share a cleaning crew.
+Build a single source of truth. Your outreach CRM, your sales pipeline, and your PMS should reference the same owner record. If the same owner appears in three systems with three different contact histories, you don't have a business. You have three businesses that share a cleaning crew.
 
 A practical diagnostic: ask your BD rep and your property manager to independently list the top three priorities of your last three new owners. If their lists don't match, you've found your churn problem before it becomes a churn event.
 
