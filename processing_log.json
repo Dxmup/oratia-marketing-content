@@ -66,6 +66,21 @@
     { "path": "output/way_of_the_wolf/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
     { "path": "output/way_of_the_wolf/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
     { "path": "output/way_of_the_wolf/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/way_of_the_wolf/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" }
+    { "path": "output/way_of_the_wolf/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/100m_offers/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/elite_sales_strategies/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/exactly_what_to_say/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/fanatical_prospecting/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/founding_sales/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/influence/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/never_split_the_difference/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/objections/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/revenue_operations/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/sales_eq/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/sales_pitch/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/tech_powered_sales/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/the_challenger_sale/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/transparent_sales_leader/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/way_of_the_wolf/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" }
   ]
 }
