@@ -1,0 +1,105 @@
+{
+  "book": "$100M Offers",
+  "book_slug": "100m_offers",
+  "purpose": "x_amplification_package",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "switching_friction_over_fee_gap",
+      "text": "Many owner deals don't die over a 5% fee gap. They die because switching managers sounds like a project.",
+      "engagement_prompt": false,
+      "post_role": "sharpest_observation",
+      "best_timing": "early_week",
+      "publish_after_linkedin": false,
+      "source_trace": {
+        "book_slug": "100m_offers",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "switching_friction_over_fee_gap",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "offer_not_service_list",
+      "text": "If your offer is just 'dynamic pricing, photography, guest comms' with slightly better branding, you're still selling a commodity.",
+      "engagement_prompt": false,
+      "post_role": "recognition_line",
+      "best_timing": "mid_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "100m_offers",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "offer_not_service_list",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "friction_audit",
+      "text": "Good VRM offer audit: what work is the owner still imagining they'll have to do after saying yes? If the answer is 'a bunch,' your offer still has drag in it.",
+      "engagement_prompt": false,
+      "post_role": "tactical_question",
+      "best_timing": "after_post_1",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "100m_offers",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "friction_elimination_inventory",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "story_detail",
+      "source_theme": "zero_friction_transition",
+      "text": "The handoff sounds very different when you can say: we migrate the listing, honor the bookings, handle the deep clean, draft the breakup note to the current manager, and give you a 90-day out. That's an offer. The rest is brochure copy.",
+      "engagement_prompt": false,
+      "post_role": "story_detail",
+      "best_timing": "mid_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "100m_offers",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "zero_friction_onboarding",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "engagement",
+      "source_theme": "status_quo_vs_transition_risk",
+      "text": "In owner acquisition, are you seeing more resistance to your fee or to the hassle of making a change at all? I think a lot of teams are solving the wrong problem.",
+      "engagement_prompt": true,
+      "post_role": "conversation_opener",
+      "best_timing": "late_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "100m_offers",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "status_quo_vs_transition_risk",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "channel_connector",
+      "source_theme": "vrm_sales_library_synthesis",
+      "text": "Went deeper on this in the VRM Sales Library because a surprising amount of 'price resistance' is really just badly designed transition friction wearing a fee objection costume.",
+      "engagement_prompt": false,
+      "post_role": "cross_channel_bridge",
+      "best_timing": "end_of_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "100m_offers",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "series_synthesis",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": []
+}
