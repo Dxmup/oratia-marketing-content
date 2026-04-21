@@ -1,4 +1,4 @@
-# Content Sharpening Agent — Run Instructions
+# VRM Sharp — Content Sharpening Agent
 
 ## What this agent does
 
