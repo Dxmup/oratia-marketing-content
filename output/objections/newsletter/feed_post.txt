@@ -1,0 +1,7 @@
+When an owner says your fee is too high, the fee is almost never the real issue. The question is whether you know what is.
+
+Jeb Blount's objection handling framework is built on a four-phase sequence: the Ledge buys back the seconds you need to stop reacting, the clarifying question identifies what the objection is actually about, the response is calibrated to what you learned, and the confirmation closes the loop. The operator who skips from the objection straight to a defense of their pricing hasn't earned the right to defend anything yet because they don't know what they're defending against.
+
+The newsletter this week covers the full objection handling system, including how the same words mean different things from different owner types. The Investor who says the fee is too high is usually running a competence test. The Skeptic who says it is usually re-experiencing a prior disappointment. The Delegator who says it in the first five minutes often signs at full fee 15 minutes later. Knowing which conversation you're in changes how you respond to each one.
+
+Full breakdown in this week's newsletter.
