@@ -1,14 +1,4 @@
 VRM Sales Library | Sales Pitch | April Dunford
-
-Most VRM operators think the listing appointment is about convincing the owner their service is superior to competitors. That framing makes the problem harder than it is.
-
-April Dunford's Sales Pitch reframes it. The owner can't evaluate your service until they understand why the alternatives, including staying where they are, are worse. Context establishes value. Without it, every feature is just a claim.
-
-Three posts this week working through the application. Worth following if owner acquisition is part of your job.
-
----
-
-VRM Sales Library | Sales Pitch | April Dunford
 Post 1 of 3
 
 STOP PITCHING YOUR TECH STACK
@@ -17,17 +7,17 @@ Property owners don't care about your software. They care about their broken rea
 
 Many VRM operators walk into an acquisition meeting and immediately open their laptop to show off their dynamic pricing algorithms, unified inbox, and noise monitoring sensors. They're losing the room before the pitch starts.
 
-The assumption that owners are making a feature-driven, analytical decision is usually wrong, or at least premature. The timing matters. When you lead with capabilities, you trigger cognitive overload. The owner isn't thinking about API integrations. They're sitting there anxious. They're worried about strangers in their home, exhausted by the current state of their property, and quietly dreading whatever problem comes next. They don't want a software stack. They want someone to take the problem off their plate.
+Owners aren't making a feature-driven decision, or at least not yet. When you lead with capabilities, you trigger cognitive overload. The owner isn't thinking about API integrations. They're sitting there anxious, worried about strangers in their home, exhausted by the current state of their property, and quietly dreading whatever problem comes next. They don't want a software stack. They want someone to take the problem off their plate.
 
 THE CONTEXT-FIRST SEQUENCE
 
-April Dunford's core principle is that the solution doesn't land until the problem context is established. If you want an owner to care about what makes your service different, you first have to establish, clearly and specifically, why their current situation is untenable.
+April Dunford's core principle: the solution doesn't land until the problem context is established. If you want an owner to care about what makes your service different, you first have to establish, clearly and specifically, why their current situation is untenable.
 
 The sequence:
 
-STEP 1: Name the market shift. What has changed in the last 18 to 24 months that makes the old approach to managing a vacation rental more difficult? ADR compression, the rise of review-algorithm dependency, direct booking becoming a meaningful revenue share for well-positioned properties, give them a picture of what's changed in their environment.
+STEP 1: Name the market shift. What has changed in the last 18 to 24 months that makes self-managing harder? ADR compression, review-algorithm dependency, direct booking becoming a meaningful revenue share. Give them a picture of what's changed.
 
-STEP 2: Describe the two failed alternatives. Self-management (working nights and weekends, learning revenue management in your spare time, answering guest texts at 11 PM). The big-box national firm (a call center in another state, a revolving door of local property managers, your home treated as one of ten thousand identical doors).
+STEP 2: Describe the two failed alternatives. Self-management: working nights and weekends, answering guest texts at 11 PM, learning revenue management in your spare time. The national firm: a call center in another state, a revolving door of local managers, your home treated as one of ten thousand identical doors.
 
 STEP 3: Introduce the third way. Only after the problem is felt and the alternatives have been found wanting do you present your service. At this point, it arrives as the inevitable solution rather than one option on a menu.
 

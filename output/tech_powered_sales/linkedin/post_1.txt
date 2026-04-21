@@ -1,14 +1,4 @@
 VRM Sales Library | Tech-Powered Sales | Justin Michael & Tony Hughes
-
-Most sales books aren't written for people who manage someone else's home. The dynamics are different. The owner's emotional stakes are different. The close is different.
-
-Tech-Powered Sales by Justin Michael & Tony Hughes is one of the few that translates directly. The concept of Technical Quotient as the prerequisite to EQ maps precisely onto VRM acquisition: operators who rely entirely on relationship skills can't build relationships with owners who don't know they exist.
-
-Three posts this week. Each one is a direct application, no theory, no filler.
-
----
-
-VRM Sales Library | Tech-Powered Sales | Justin Michael & Tony Hughes
 Post 1 of 2
 
 YOUR EQ IS USELESS IF YOUR PIPELINE IS EMPTY
@@ -33,7 +23,7 @@ TQ isn't about automation for its own sake. It's about using data to create the 
 
 THE CYBORG OPERATOR
 
-The elite operator builds a machine to handle the intelligence gathering, and saves their human energy for the moment it matters most.
+The effective operator builds a machine to handle intelligence gathering, then saves their human energy for the moment it matters most.
 
 THE MACHINE (TQ): Identifies a property with a 12-week ADR decline and a review average below the comp set. Triggers a relevant outreach within 72 hours.
 
