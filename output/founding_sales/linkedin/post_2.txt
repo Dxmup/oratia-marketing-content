@@ -1,5 +1,3 @@
-Wrapping up this week's series on Founding Sales by Pete Kazanjy.
-
 VRM Sales Library | Founding Sales | Pete Kazanjy
 Post 2 of 2
 
@@ -7,7 +5,7 @@ DOOR COUNT IS A VANITY METRIC
 
 The most expensive mistake in vacation rental management is accepting an owner you should have declined.
 
-The assumption that growth means saying yes to every property that crosses your desk is a growth trap. Not all revenue is created equal. A demanding, micro-managing owner with an underperforming property will consume 80% of your operational bandwidth while contributing 20% or less of your margin.
+The assumption that growth means saying yes to every property that crosses your desk is a growth trap. Not all revenue is equal. A demanding, micro-managing owner with an underperforming property will consume 80% of your operational bandwidth while contributing 20% or less of your margin.
 
 THE REAL COST OF A BAD FIT
 
@@ -27,13 +25,13 @@ Build your disqualifying questions into the discovery call, before you drive to 
 - Is the owner prepared to be fully hands-off on operational decisions?
 - Do their expectations for both revenue and care align with what the market actually supports?
 - Are they willing to accept your guest vetting standards, or do they want to approve individual bookings?
-- What is their personal use window during peak season, and does it conflict with your revenue strategy for the property?
+- What is their personal use window during peak season, and does it conflict with your revenue strategy?
 
 If the answers aren't aligned, decline before you invest another hour.
 
-Script: "I want to be straightforward with you. Based on what you've described, I don't think we're the best fit for this property. Our model is built for owners who want a full handoff, and from what you've told me, you'd be most comfortable staying involved in a few key decisions. That's completely reasonable. It's just not the model we're built around. I'd rather tell you that today than sign a contract we'd both regret in six months. I can point you toward two operators whose model actually matches what you're looking for."
+Script: "I want to be straightforward with you. Based on what you've described, I don't think we're the best fit. Our model is built for owners who want a full handoff, and from what you've told me, you'd be most comfortable staying involved in a few key decisions. That's completely reasonable. It's just not the model we're built around. I'd rather tell you that today than sign a contract we'd both regret in six months. I can point you toward two operators whose model actually matches what you're looking for."
 
-The operator who says no to a bad fit gains three things: time and bandwidth for good owners, a market reputation for selectivity that raises perceived value, and occasionally a referral from the owner they turned down, who will respect the honesty and send someone who is actually a fit.
+The operator who says no to a bad fit gains three things: time and bandwidth for good owners, a reputation for selectivity that raises perceived value, and occasionally a referral from the owner they turned down.
 
 Profitable door count is the metric. Door count is a distraction.
 
