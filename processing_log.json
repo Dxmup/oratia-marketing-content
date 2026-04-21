@@ -73,6 +73,16 @@
     { "path": "output/tech_powered_sales/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
     { "path": "output/the_challenger_sale/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
     { "path": "output/transparent_sales_leader/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/way_of_the_wolf/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" }
+    { "path": "output/way_of_the_wolf/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/100m_offers/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/100m_offers/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/the_challenger_sale/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/the_challenger_sale/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/never_split_the_difference/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/never_split_the_difference/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/gap_selling/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/gap_selling/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/exactly_what_to_say/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/exactly_what_to_say/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" }
   ]
 }
