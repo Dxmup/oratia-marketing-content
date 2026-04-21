@@ -72,14 +72,15 @@ Target file patterns:
 
 Ignore all other files (`review_*.json`, `gold_set_v1.json`, `tweets.json`, `threads.json`, `posting_log.json`, etc.).
 
-### 7. Verify formatting before committing
-After sharpening each file, run a quick check before marking it complete:
+### 7. Verify formatting and character limits before committing
 
 **For `.txt` files:**
 - No em dashes (`—`) anywhere in the file
 - CTA footer block is present and intact at the end: `linkedin.com/in/chadhensel` and `#VRMSalesLibrary`
 - Post header format is correct: `VRM Sales Library | [Book] | [Author]`
 - No exclamation points outside of direct-speech scripts
+- **Total character count must not exceed 2,900 characters** (including spaces, line breaks, and the CTA footer). Count the full file. If over 2,900, trim body content — tighten sentences, cut redundant explanation, shorten field notes — until it fits. Do not cut scripts, section headers, or the CTA footer.
+- **LinkedIn See More cutoff:** LinkedIn hides content behind a "See More" button after approximately 210 characters. The first 210 characters of the post (the opening hook) must be strong enough to stop the scroll and compel the reader to expand. Do not bury the hook. The opening line should state the sharpest point of the post, not set it up.
 
 **For `posts.json` files:**
 - No em dashes in any `text` field
