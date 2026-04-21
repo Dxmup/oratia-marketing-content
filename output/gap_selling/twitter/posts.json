@@ -42,8 +42,8 @@
       "source_theme": "surface_complaint",
       "text": "When an owner says communication is bad, that's usually not the real problem. That's just the first problem that's easy to say out loud.",
       "engagement_prompt": false,
-      "post_role": "recognition_line",
-      "best_timing": "mid_week",
+      "post_role": "recognition_line_alternate",
+      "best_timing": "alternate_week",
       "publish_after_linkedin": true,
       "source_trace": {
         "book_slug": "gap_selling",
@@ -74,8 +74,8 @@
       "source_theme": "level_3_detail",
       "text": "The conversation changes when the owner stops talking about response times and says something like 'I haven't had a phone-free weekend in three years.' At that point you're not in a feature conversation anymore.",
       "engagement_prompt": false,
-      "post_role": "story_detail",
-      "best_timing": "mid_week",
+      "post_role": "story_detail_alternate",
+      "best_timing": "alternate_week",
       "publish_after_linkedin": true,
       "source_trace": {
         "book_slug": "gap_selling",
