@@ -81,6 +81,23 @@
     { "path": "output/tech_powered_sales/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
     { "path": "output/the_challenger_sale/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
     { "path": "output/transparent_sales_leader/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/way_of_the_wolf/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" }
+    { "path": "output/way_of_the_wolf/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/way_of_the_wolf/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/transparent_sales_leader/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/the_jolt_effect/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/the_challenger_sale/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/tech_powered_sales/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/sales_pitch/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/sales_eq/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/revenue_operations/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/objections/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/never_split_the_difference/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/influence/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/gap_selling/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/founding_sales/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/fanatical_prospecting/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/exactly_what_to_say/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/elite_sales_strategies/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
+    { "path": "output/100m_offers/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" }
   ]
 }

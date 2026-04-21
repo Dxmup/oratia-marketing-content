@@ -49,11 +49,24 @@ After sharpening each file, update its entry in `processing_log.json`:
 - Set `"status"` to `"sharpened"`
 - Set `"sharpened_date"` to today's date in `YYYY-MM-DD` format
 
-### 6. Handle new files
+### 6. Generate series intro for new LinkedIn books
+When processing a book's LinkedIn posts for the first time, check whether `output/{book}/linkedin/intro.txt` exists. If it does not, generate one before sharpening the posts.
+
+To generate the intro:
+- Read all of the book's LinkedIn posts to understand the content themes
+- Read `output/intro_templates.md` and select the template that best matches the content (e.g. Template 3 if there's a data observation, Template 1 if there's a strong field hook, Template 5 if the content leads with a dry industry observation)
+- Fill in the variables: book title, author, and the single variable line specific to that book's themes
+- Save the completed intro as `output/{book}/linkedin/intro.txt`
+- Add it to `processing_log.json` with `"status": "sharpened"` and today's date (it does not need a separate sharpening pass)
+
+**Intros are for LinkedIn only.** Do not generate intros for newsletters or twitter files.
+
+### 7. Handle new files
 If you find a file in the `output/` folder that matches the target patterns below but is **not listed** in `processing_log.json`, add it to the log with `"status": "pending"` before this run's processing begins. It will be picked up on a future run.
 
 Target file patterns:
 - `output/{book}/linkedin/post_*.txt`
+- `output/{book}/linkedin/intro.txt`
 - `output/{book}/newsletter/newsletter.txt`
 - `output/{book}/twitter/posts.json`
 
