@@ -1,61 +1,37 @@
-Part two of this week's series on Never Split the Difference by Chris Voss.
-
 VRM Sales Library | Never Split the Difference | Chris Voss
 Post 2 of 3
 
 THE ACCUSATION AUDIT ISN'T ONE SCRIPT. IT'S SIX.
 
-The Accusation Audit works because it names the owner's fears before they can use those fears as a wall. But the generic version, "you're probably expecting an inflated projection and then radio silence," only fully lands with one or two owner types. The other four have different fears, and a fear you don't name doesn't get neutralized.
+The generic Accusation Audit, "you're probably expecting an inflated projection and then radio silence," only fully lands with one or two owner types. The other four have different fears, and a fear you don't name doesn't get neutralized.
 
-Voss's insight is that naming a negative emotion defuses it. The mechanism is the same across all owner types. The application has to be calibrated to what each type actually fears.
+Voss's insight is that naming a negative emotion defuses it. The mechanism is the same across owner types. The application has to be calibrated to what each type actually fears.
 
-THE SIX AUDITS
+THE SKEPTIC: Has been burned. Name the personal history of failure, not just the industry pattern.
 
-THE SKEPTIC
+Script: "I'm guessing at some point you had an experience with a manager that didn't go the way it was described at signing. I'd rather tell you where managers typically fail and let you tell me whether any of those match what you experienced."
 
-The Skeptic has been burned. Their fears are the most specific and the most hostile. A generic industry-critique opener won't get deep enough.
+THE STEWARD: Fears no one will care about the property the way they do.
 
-Script: "Before I show you anything about what we do, I want to get something out of the way. You've probably talked to two or three managers this week and heard the same pitch. I'm guessing at some point in the last year or two you had an experience with a manager that didn't go the way it was described at signing. I'm not going to pretend that doesn't happen in this industry, because it does. What I'd rather do is tell you exactly where managers typically fail, and then let you tell me whether any of those things match what you experienced. If we had the same problem, I'd rather you know that upfront."
+Script: "Handing the keys to a property like this to someone you just met is a real act of trust. The fear that whoever takes over won't care about it the way you do is completely legitimate. I'd rather put that on the table now."
 
-The Skeptic needs a stronger signal than the standard version. Name the personal history of failure, not just the industry pattern.
+THE INVESTOR: Afraid of being oversold and underdelivered.
 
-THE STEWARD
+Script: "Many managers show you the best-case scenario and call it a projection. I'm going to show you three scenarios today and tell you which one I think is realistic. If that number doesn't work for your investment thesis, you should know that now."
 
-The Steward's fears are emotional and property-specific. The audit needs to acknowledge the vulnerability of handing over something they love.
+THE DELEGATOR: Afraid that "hands-off" requires more of their hands than advertised.
 
-Script: "Before we get into anything operational, I want to acknowledge something. Handing the keys to a property like this to someone you just met is a real act of trust. The fear that whoever takes over won't care about it the way you do is completely legitimate. I've heard it from almost every owner whose property has a genuine story behind it. I'd rather put that on the table now than pretend it's not in the room."
+Script: "Some owners come expecting zero involvement and find out there are two or three moments a year where we need a decision from them. Here's what those moments look like and how often they actually happen."
 
-The phrase "a property like this" does specific work. It signals that you've already read the room before being told to.
+THE CONTROLLER: Afraid of losing oversight over something they've managed carefully.
 
-THE INVESTOR
+Script: "I want to show you specifically what stays with you and what transfers to us, so there's no ambiguity about that later."
 
-The Investor's fears are financial. They're not afraid of emotional betrayal. They're afraid of being oversold and underdelivered.
+THE OPPORTUNIST: Commitment anxiety, not hostile fear. Name the absence of pressure.
 
-Script: "Before I show you the revenue model, I want to be direct about something. Many managers will show you the best-case scenario and call it a projection. I've seen owners sign based on a number that wasn't achievable for their property in their market, and then spend 12 months trying to figure out what happened. I'm going to show you three scenarios today. I'll tell you which one I think is realistic. If that number doesn't work for your investment thesis, you should know that now."
+Script: "There's no pressure here. I'm not going to ask you to sign anything today. My goal is to give you accurate information so you can make a good decision, whatever that turns out to be."
 
-THE DELEGATOR
-
-The Delegator's fears are about complexity. They're afraid that "hands-off management" will require more of their hands than advertised.
-
-Script: "I want to be upfront about one thing before we go through how we work. Some owners come expecting zero involvement, and then find out there are two or three moments a year where we genuinely need a decision from them. I'd rather you know that going in than have it feel like a surprise later. Here's what those moments look like and how often they actually happen."
-
-Brief and specific. The Delegator's fear is answerable. Name it and answer it, then move on.
-
-THE CONTROLLER
-
-The Controller's fear is losing oversight over something they've managed carefully. They're not afraid of being cheated. They're afraid of being excluded from decisions they believe are theirs.
-
-Script: "Before we get into systems, I want to acknowledge something directly. Handing over operational control of a property you've been running yourself is a real adjustment. The concern that you'll lose visibility, or that decisions will be made without your input on things you care about, is legitimate. I want to show you specifically what stays with you and what transfers to us, so there's no ambiguity about that later."
-
-THE OPPORTUNIST
-
-The Opportunist's fear is commitment pressure. They're not ready to decide and they're afraid the appointment is designed to push them toward one.
-
-Script: "I want to be clear from the start: there's no pressure here. I'm not going to ask you to sign anything today, and I'm not going to try to talk you into renting your property if it doesn't make sense for your situation. My goal is to give you accurate information so you can make a good decision, whatever that turns out to be."
-
-This isn't a traditional Accusation Audit in the textbook sense. The Opportunist doesn't have hostile fears. They have commitment anxiety. Naming the absence of pressure is its own version of the audit.
-
-Field note: Run the audit before any data, before any fee conversation, before anything that could activate the Zone of Resistance. The sequence matters. The audit that follows a pitch deck has already lost its effect. The audit that opens the appointment creates the conditions for everything that follows.
+Field note: Run the audit before any data, before any fee conversation, before anything that could activate resistance. The audit that opens the appointment creates the conditions for everything that follows.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.

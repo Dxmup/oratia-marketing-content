@@ -1,25 +1,15 @@
 VRM Sales Library | Objections | Jeb Blount
-
-Operators who defend their fee percentage when an owner pushes back are having a logical argument with an emotional objection. The fee is rarely the issue.
-
-It's not a new problem. Jeb Blount mapped it in Objections and the fix is more straightforward than most operators make it.
-
-Three posts this week applying the framework to VRM. The newsletter wraps them up at the end of the week with additional context.
-
----
-
-VRM Sales Library | Objections | Jeb Blount
 Post 1 of 3
 
 WHEN AN OWNER CHALLENGES YOUR FEE, YOUR FIRST INSTINCT IS USUALLY WRONG
 
-Here's why defending your pricing is killing your close rate.
+Defending your pricing is killing your close rate.
 
 THE AMYGDALA HIJACK
 
-When a homeowner challenges your 20% or 25% management fee, your brain perceives it as a threat. The amygdala fires, the prefrontal cortex slows down, and you slip into a defensive posture. You start reciting features, the pricing software, the quality of your cleaners, the hours your team works. This is exactly when the sale is lost.
+When a homeowner challenges your 20% or 25% management fee, your brain perceives it as a threat. The amygdala fires, the prefrontal cortex slows down, and you slip into a defensive posture. You start reciting features: the pricing software, the quality of your cleaners, the hours your team works. This is exactly when the sale is lost.
 
-The owner's objection is rarely a rational cost analysis. It's a reflex: a smokescreen for a deeper psychological friction. Fear of being taken advantage of. Loss of control. Uncertainty about whether they're making a sound decision. When you defend your fee with logic, you validate their framing. You've told them this is an adversarial negotiation, and now you're on opposite sides of the table.
+The owner's objection is rarely a rational cost analysis. It's a reflex, a smokescreen for deeper friction. Fear of being taken advantage of. Loss of control. Uncertainty about whether they're making a sound decision. When you defend your fee with logic, you validate their framing. You've told them this is an adversarial negotiation.
 
 THE LEDGE
 
@@ -28,7 +18,7 @@ Elite operators don't negotiate against themselves. They use what Blount calls t
 Script: "I appreciate you bringing that up, and many of the strongest owners in our portfolio had that exact same concern before they joined us."
 
 Three things happen in that single sentence:
-- It validates the owner without conceding the point. You're not saying they're right. You're saying they're reasonable.
+- It validates the owner without conceding the point.
 - It groups them with "the strongest owners in our portfolio," subtle social proof and aspiration in one phrase.
 - It gives your brain time to transition from reactive to deliberate before you say anything that matters.
 
@@ -36,13 +26,13 @@ THE DIAGNOSIS PIVOT
 
 Once the Ledge is deployed, you don't justify the fee. You pivot to a diagnostic question.
 
-Script: "When you say the fee feels high, help me understand that a little. Is it the number itself, that it's above your budget, or is it more that you're not certain what you'd get for it?"
+Script: "When you say the fee feels high, help me understand that. Is it the number itself, that it's above your budget, or is it more that you're not certain what you'd get for it?"
 
 These two answers require completely different responses:
 - "The number is above my budget" may indicate a genuine price mismatch. Evaluate fit, not your discount policy.
-- "I'm not certain what I'd get for it" is a certainty gap. Now you can rebuild the value case with specific examples and real outcomes, which is what you should have been doing instead of defending the fee percentage.
+- "I'm not certain what I'd get for it" is a certainty gap. Rebuild the value case with specific examples and real outcomes.
 
-Field note: The fee objection from an Investor is almost always a certainty test, not a real budget constraint. Don't negotiate. Run the diagnostic pivot and watch what happens. The fee objection from a Skeptic is a test of whether you'll fold under pressure. Folding confirms their worst assumption. Hold your ground and let the diagnosis do the work.
+Field note: The fee objection from an Investor is almost always a certainty test, not a real budget constraint. Run the diagnostic pivot and watch what happens. The fee objection from a Skeptic is a test of whether you'll fold under pressure. Hold your ground and let the diagnosis do the work.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
