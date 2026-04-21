@@ -1,14 +1,4 @@
 VRM Sales Library | Fanatical Prospecting | Jeb Blount
-
-Operators who stop prospecting during summer operations surface in October to find a dry pipeline and wonder what happened. The answer was set in their July calendar.
-
-Jeb Blount's Fanatical Prospecting is the framework I keep coming back to when I see it. Not because it's a VRM book. Because it's the most precise map I've found for what's actually happening in that room.
-
-This week I'm running three posts applying it to owner acquisition. If you work in VRM business development, these are worth your time.
-
----
-
-VRM Sales Library | Fanatical Prospecting | Jeb Blount
 Post 1 of 3
 
 OPERATIONAL CHAOS IS NOT AN EXCUSE TO STOP PROSPECTING
@@ -27,7 +17,7 @@ SEPARATING THE TWO ENGINES
 
 The structural fix is treating acquisition and operations as two independent engines that run on separate tracks, not one person toggling between them based on how busy the week feels.
 
-At small scale, this doesn't require a dedicated BD hire. It requires dedicated, protected time, specific calendar blocks assigned to prospecting activity that don't get reassigned when operations gets loud. Even at 20 doors, if the same person is doing guest communications and owner outreach, the guest communications will win every time an emergency lands. That's not a character failure. It's a structural one.
+At small scale, this doesn't require a dedicated BD hire. It requires protected calendar blocks assigned to prospecting that don't get reassigned when operations gets loud. Even at 20 doors, if the same person is doing guest communications and owner outreach, the guest communications will win every time an emergency lands. That's not a character failure. It's a structural one.
 
 Even in your busiest operational week, these activities protect the pipeline floor:
 - 5 personalized outreach messages to owners or local realtors in your target market.
@@ -35,9 +25,9 @@ Even in your busiest operational week, these activities protect the pipeline flo
 - 1 piece of content published that signals your authority in your market.
 - 15 minutes reviewing permit data, MLS activity, or review score alerts for trigger events.
 
-That is the minimum. Not the goal. The companies dominating their markets are running a full BD operation on top of their operational week, not instead of it.
+That is the minimum. Not the goal.
 
-Field note: If your BD activity is tied to your operational capacity, you don't have a business yet. You have a high-stress self-employment arrangement that happens to employ cleaners. Separating the acquisition engine is the single most important structural decision a growing VRM makes before the 50-door mark.
+Field note: If your BD activity is the first thing cut when operations gets loud, that's a structural problem, not a scheduling one. Separating the acquisition engine is the most important structural decision a growing VRM makes before the 50-door mark.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.

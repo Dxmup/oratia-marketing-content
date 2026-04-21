@@ -1,69 +1,47 @@
-Part two of this week's series on Exactly What to Say by Phil M. Jones.
-
 VRM Sales Library | Exactly What to Say | Phil M. Jones
 Post 2 of 3
 
 THE JONES LANGUAGE PATTERNS MAPPED TO THE FULL VRM APPOINTMENT
 
-The Zone of Resistance doesn't activate once at the door and stay quiet for the rest of the appointment. It reactivates at every transition point: when you introduce a new topic, when you bring up the fee, when you move toward a close. Phil Jones's micro-script library gives you language for each of those moments specifically.
-
-Here's how the patterns map across the full listing appointment arc.
+The Zone of Resistance doesn't activate once at the door and stay quiet. It reactivates at every transition: when you introduce a new topic, when you bring up the fee, when you move toward a close. Jones's micro-scripts give you language for each of those moments.
 
 THE DISCOVERY BRIDGE
 
-Goal: move from small talk or the initial walkthrough into the substantive conversation without triggering the defensive shift that comes from "now I'm going to show you what I'd do."
+Goal: move into the substantive conversation without triggering the defensive shift that comes from "now I'm going to show you what I'd do."
 
 Script: "How open-minded are you to a different approach to the way this property is currently positioned?"
 
-This question asks for permission to introduce a new frame before introducing it. The owner who answers "pretty open-minded" has given themselves psychological permission to hear something that challenges their current situation. The owner who answers "somewhat" has at least signaled where the resistance lives. Both responses are useful.
-
-THE INSIGHT SETUP
-
-Goal: introduce a disruptive market observation without sounding like you're criticizing the owner's current setup.
-
-Script: "I'm not sure if anyone has shared this with you yet, but the top-performing properties on your block have been running a specific amenity positioning that's producing a meaningful ADR premium over properties with identical square footage. I pulled the data this morning and there's something specific your property could do with it."
-
-The phrase "I'm not sure if anyone has shared this with you yet" does two things. It signals the information is new rather than obvious, which protects the owner's ego. It positions you as someone bringing information rather than making an argument. An argument triggers resistance. New information triggers curiosity.
+This asks for permission to introduce a new frame before introducing it. The owner who answers "pretty open-minded" has given themselves psychological permission to hear something that challenges their current thinking.
 
 THE FEE CONVERSATION OPENER
 
-Goal: introduce the fee without triggering the defensive evaluation mode that immediately precedes negotiation.
-
 Script: "Just imagine for a moment what it would feel like to have this property running at its potential without any of the daily management falling on you."
 
-Jones calls this future-pacing. You're asking the owner to mentally inhabit the future state before you've made any claims about your ability to deliver it. When they can feel the outcome, the fee becomes the price of the feeling rather than the cost of a service. Those are different purchasing decisions.
+Jones calls this future-pacing. When the owner can feel the outcome, the fee becomes the price of the feeling rather than the cost of a service. Those are different purchasing decisions.
 
 THE COMMITMENT TEST
 
-Goal: identify whether the owner is close to a decision or still in exploration mode, without asking a direct question that triggers defensiveness.
+Script: "If everything we've discussed today made sense, what would the next step look like for you?"
 
-Script: "If everything we've discussed today made sense for your situation, what would the next step look like for you?"
-
-This is a commitment test dressed as a logistics question. The owner who says "I'd probably want to move forward" is ready. The owner who says "I'd want to talk to my spouse" or "I'd need to think about it more" is telling you exactly where the friction lives, without being pushed to name it directly.
+A commitment test dressed as a logistics question. The owner who says "I'd want to talk to my spouse" is telling you where the friction lives.
 
 THE CLOSE
 
-Goal: move from a positive conversation to a decision without the kind of pressure that reactivates the Zone in its closing-time variant.
+Script: "Would it make sense to get you on our onboarding calendar for [month] and start the paperwork this week?"
 
-Script: "Would it make sense to get you officially on our onboarding calendar for [month] and start the paperwork this week?"
-
-"Make sense" is Jones's preferred closing language because it frames the decision as logical rather than as a sales push. A no to "does this make sense?" feels less final than a no to "are you ready to sign?" The same decision is being made. The language changes how threatening the moment feels.
+"Make sense" frames the decision as logical. A no to "does this make sense?" feels less final than a no to "are you ready to sign?" Same decision. Different pressure.
 
 THE FOLLOW-UP WHEN THEY WANT TO THINK
 
-Script: "Of course. What specifically would be most useful to think through? I want to make sure you have the right information rather than leaving with any open questions."
+Script: "Of course. What specifically would be most useful to think through? I want to make sure you have what you need."
 
-This response does something most operators don't: it treats "I need to think about it" as an information gap rather than a stall. The owner who has a specific question they haven't asked is more likely to produce it when invited this way. The owner who genuinely needs time gives you a cleaner answer about what's actually holding them.
+This treats "I need to think about it" as an information gap. Owners with a specific unasked question are more likely to surface it when invited.
 
 THE DESIGN PRINCIPLE
 
-Every Jones pattern operates on the same logic: give the owner's brain a way to say yes to the next step without feeling like they've committed to something irreversible. The Zone of Resistance activates when the brain perceives an unrecoverable loss of control. Jones's language minimizes that perception at each stage.
+Every Jones pattern operates on the same logic: give the owner's brain a way to say yes to the next step without feeling committed to something irreversible. Less pressure at each transition means faster decisions.
 
-The irony is that by reducing the pressure at each transition, you move through the appointment faster. An owner who never fully activates their defenses makes decisions more quickly than one who spends the conversation managing their resistance.
-
-Design for safety. The close follows from there.
-
-Field note: The Jones patterns are most effective when they're internalized rather than delivered verbatim. An owner who hears "how open-minded are you" for the second time in a conversation may register the pattern. The goal is to understand the principle, which is that every transition point in the appointment needs a permission-seeking opener, and then use that principle to generate language that feels natural to how you actually talk.
+Field note: The Jones patterns are most effective when internalized, not delivered verbatim. The principle is that every transition needs a permission-seeking opener. Generate language that feels natural to how you actually talk.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
