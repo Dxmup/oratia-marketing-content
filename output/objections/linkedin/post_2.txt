@@ -1,32 +1,35 @@
-[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the objections/linkedin/ directory but contains Influence (Robert Cialdini) Post 2 content. The actual Objections post_2.txt content appears to be missing or misplaced. Sharpening the content present in this file.
-
-VRM Sales Library | Influence | Robert Cialdini
+VRM Sales Library | Objections | Jeb Blount
 Post 2 of 3
 
-SCARCITY: THE FASTEST WAY TO LOSE A HOMEOWNER IS TO TELL THEM YOU CAN MANAGE ANY PROPERTY
+THE FASTEST WAY TO LOSE A HOMEOWNER IS TO NEED THEIR PROPERTY
 
-When a vacation rental manager says "We'd love to add your home to our program," they think they're being welcoming. The owner hears something else: we are short on inventory and will take anything.
+Desperation is the loudest thing in the room, and owners hear it before you say a word.
 
-THE SCARCITY PRINCIPLE
+There's an immutable law in acquisition: the more you need a deal, the worse you will perform. When the pipeline is thin, every prospect becomes a high-stakes scenario. That scarcity infects everything. Your tone changes. You talk too much. You make concessions nobody asked for.
 
-People are biologically wired to want what is scarce. If your management service is available to anyone with a spare bedroom, its perceived value approaches zero. The owner categorizes you as a commodity. They negotiate hard on the fee because they believe they hold all the leverage, and they're right.
+WHAT DESPERATION LOOKS LIKE FROM THE OWNER'S SIDE
 
-THE VELVET ROPE
+- You lower your commission before they ask.
+- You agree to a peak-season owner-occupancy block that will hurt the revenue math.
+- You accept a property that failed your own qualification criteria.
+- You over-follow-up, three messages in five days because the silence makes you nervous.
+- You fill every pause in the conversation because silence feels like rejection.
 
-Elite operators don't pitch to homeowners. They qualify them. The Velvet Rope isn't a sales tactic. It's an accurate description of how they actually operate. They do turn away properties, they do have criteria, they are selective about owner relationships.
+The homeowner handing over a high-value asset has finely tuned threat-detection. When they sense an operator willing to fold on price or policy before being pushed, a specific thought forms: if this person can't defend their own value, how are they going to defend my property?
 
-Manufactured scarcity without substance behind it reads as exactly that. To make the Velvet Rope credible, it must be observable:
-- You actually decline properties that don't meet your criteria. Owners in tight communities talk. If you turn down their neighbor, that story spreads.
-- You have a current onboarding window with actual capacity constraints. "We have a March onboarding cycle with two spots remaining."
-- You can point to owner relationships you've ended because the fit wasn't working. This is the most credible scarcity signal of all.
+The sale is not a financial case. It's a peace-of-mind case. And the peace of mind the owner is evaluating includes the question of whether you're capable of operating with authority.
 
-Script: "We don't accept every home into our collection. We manage a limited number of premier properties in this market so we can maintain our operational standards. The reason I reached out is that your property fits the geographic and property profile we look for, and we have a single spot in our March onboarding cycle. I'd like to walk the property today and give you my honest assessment, but I'd want to know by end of week whether this is a direction you want to move."
+THE ONLY REAL FIX
 
-THE SHIFT IN NEGOTIATION
+Abundance in the pipeline is the only cure for desperation. You cannot fake confident posture with a thin funnel. The Velvet Rope only works when you genuinely have enough leads to walk away from the ones that aren't fits.
 
-When the frame is scarcity and selectivity, the fee conversation changes character entirely. The owner is no longer asking you to convince them your service is worth the price. They're wondering whether they qualify. That's a fundamentally different psychological state, one where price resistance rarely surfaces, because the primary question isn't cost. It's access.
+Prospecting isn't what you do when you need doors. It's the non-negotiable, non-seasonal activity that maintains the posture required to win the best properties at full fee. Pipeline and posture are not separate problems. Pipeline is posture. The confidence you project in the room is a direct output of the health of your top-of-funnel.
+
+Script (for holding ground on fee): "Our fee is 20%, and it doesn't move by property. The reason is that our model only works at that margin, and below that we start cutting corners on things that actually protect your asset. If a competitor is offering you 15%, the right question to ask them is what they're not doing for that 5%."
+
+That script only lands with conviction when you genuinely don't need the deal. Build the pipeline first. The posture follows.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
 
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #Influence
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #Objections

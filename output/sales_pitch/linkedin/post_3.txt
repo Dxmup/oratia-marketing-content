@@ -1,47 +1,43 @@
-[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the sales_pitch/linkedin/ directory but contains Sales EQ (Jeb Blount) Post 3 content. The actual Sales Pitch post_3.txt content appears to be missing or misplaced. Sharpening the content present in this file.
-
-VRM Sales Library | Sales EQ | Jeb Blount
+VRM Sales Library | Sales Pitch | April Dunford
 Post 3 of 3
 
-THE PLATINUM RULE IN OWNER ACQUISITION
+YOU'RE SELLING FEATURES, NOT FREEDOM
 
-Stop treating every homeowner the same way.
+The difference between a VRM managing 40 homes and one managing 400 is rarely cleaning quality or owner statement format. The difference is that the 400-door operator has learned to translate capabilities into value.
 
-Many VRMs build one master listing presentation and deliver it to everyone. The same pitch to the retired couple looking for supplemental income as to the aggressive real estate investor looking to maximize yield. This is a systemic failure of empathy, and it consistently loses deals that should close.
+THE CAPABILITY DELUSION
 
-THE GOLDEN RULE IS THE WRONG RULE
+Many operators build their pitch entirely around what they do:
+- We use dynamic pricing software.
+- We have 24/7 guest communication.
+- We have an in-house maintenance team.
+- We use noise monitoring.
 
-The Golden Rule says treat others the way you want to be treated. In sales, that's dangerous. It assumes the prospect processes information the way you do. The Platinum Rule: treat others the way they want to be treated.
+These are capabilities. Capabilities don't close deals.
 
-THE SIX SIGNALS IN THE FIRST FIVE MINUTES
+THE TRANSLATION
 
-The most useful single diagnostic: how does the owner refer to the property?
+Buyers don't purchase capabilities. They buy the outcomes those capabilities create for their actual life. When an owner hears "24/7 guest communication," they process it as industry jargon. You have to translate it into what it means for their Saturday night.
 
-"The unit" or "the asset," almost always an Investor or Delegator frame. They're evaluating an investment. Lead with comps and yield math.
+Run every feature in your pitch through this filter:
 
-"The lake house," "my grandfather's cabin," "our place," almost always a Steward or Controller frame. They're evaluating a custodian. Lead with appreciation for the property and specificity about care.
+Dynamic pricing: "We adjust your rates daily. You never have to think about whether your weekend rate is right, and you never leave peak revenue sitting on the table."
 
-"I haven't decided whether I'm actually going to list it yet," Opportunist. They need to feel educated before they feel committed. Sell the concept before you sell the service.
+In-house maintenance: "When something breaks on a Saturday night, it gets fixed before Sunday checkout. You don't scramble for an emergency plumber, and you don't lose the booking or the review."
 
-"The last manager really dropped the ball," Skeptic. They've been burned. The Accusation Audit is your opening move, not a revenue projection.
+24/7 guest communication: "You will never get a 2 AM call about a locked-out guest again. Your nights belong to you."
 
-"How much can I make and what do you charge?" in the first two minutes, Driver. Get to the point immediately and don't slow down for relationship-building they didn't ask for.
+Noise monitoring: "We catch the party before it becomes a neighbor complaint, an HOA letter, or a hostile review. You hear about it in a summary, not a crisis."
 
-ADAPTIVE OPENINGS BY OWNER TYPE
+THE FULL HANDOFF CLOSE
 
-For the Investor: "Let me start with comps. I pulled trailing 12 months for three properties within a quarter mile. Here's what the data says."
+The end of the pitch should feel like a complete transfer of operational responsibility, not a list of services, but a portrait of a different life.
 
-For the Steward: "Before we talk about anything else, tell me about the property. What matters most to you when guests are here?"
+Script: "Here's what this actually looks like: you hand us the keys, and you stop thinking about this property. Your rates adjust on their own. Guests are vetted, communicated with, and handled. If something breaks, we fix it and tell you afterward. The only time you hear from us is when there's something you genuinely need to decide. Otherwise, you get a monthly report and a deposit. That's the offer."
 
-For the Skeptic: "I'm going to guess the last manager promised more than they delivered. Before I make any claims, tell me exactly what went wrong, so I can tell you whether we're actually different or just saying we are."
-
-For the Delegator: "Here's what this looks like from your end: we onboard you in 30 days, honor any existing bookings, and you get a monthly report and a check. Let me walk you through the three decisions you actually need to make."
-
-For the Opportunist: "There's no pressure here to sign anything today. What I'd love to do is just walk through the numbers on your specific property and let you decide whether the math even makes sense for your situation."
-
-The appointment you thought went well but didn't close was usually an owner-type mismatch. You delivered the right content to the wrong person. Read the owner before you run the pitch.
+Lead with the outcome. Stop selling what you do. Sell the reality you create.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
 
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #SalesEQ
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #SalesPitch

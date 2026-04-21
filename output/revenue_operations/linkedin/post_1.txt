@@ -1,37 +1,39 @@
-[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the revenue_operations/linkedin/ directory but contains Objections (Jeb Blount) Post 2 content. The actual Revenue Operations post_1.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+VRM Sales Library | Revenue Operations | Stephen G. Diorio
+Post 1 of 2
 
-VRM Sales Library | Objections | Jeb Blount
-Post 2 of 3
+YOUR OWNER CHURN ISN'T AN OPERATIONS PROBLEM. IT'S A SALES PROBLEM.
 
-THE FASTEST WAY TO LOSE A HOMEOWNER IS TO NEED THEIR PROPERTY
+The most expensive assumption in vacation rental management is that owners leave because of bad cleaning.
 
-Desperation is the loudest thing in the room, and owners hear it before you say a word.
+When an owner churns, many operators blame operations: the maintenance team, the housekeepers, the pricing engine. And sometimes those things contributed. But the failure was usually set in motion months earlier, during the sales process.
 
-There's an immutable law in acquisition: the more you need a deal, the worse you will perform. When the pipeline is thin, every prospect becomes a high-stakes scenario. That scarcity infects everything. Your tone changes. You talk too much. You make concessions nobody asked for.
+THE HANDOFF IS WHERE TRUST DIES
 
-WHAT DESPERATION LOOKS LIKE FROM THE OWNER'S SIDE
+Stephen Diorio's central idea in Revenue Operations is that sales, marketing, and customer success aren't separate departments, they're a single continuous revenue machine. In VRM, we tend to build silos instead.
 
-- You lower your commission before they ask.
-- You agree to a peak-season owner-occupancy block that will hurt the revenue math.
-- You accept a property that failed your own qualification criteria.
-- You over-follow-up, three messages in five days because the silence makes you nervous.
-- You fill every pause in the conversation because silence feels like rejection.
+The BD rep sells a reality: total peace of mind, elite revenue, perfect care. Then the owner is handed off to the property management team, who lives in a different reality: broken HVACs, difficult guests, tight margins, and a 200-item task list. The owner doesn't churn because the HVAC broke. They churn because the BD rep told them they'd never have to think about the HVAC, and then the property manager sent them a bill with no context and no relationship.
 
-The homeowner handing over a high-value asset has finely tuned threat-detection. When they sense an operator willing to fold on price or policy before being pushed, a specific thought forms: if this person can't defend their own value, how are they going to defend my property?
+The owner doesn't feel disappointed. They feel duped. Duped owners don't just leave. They tell their neighbors.
 
-The sale is not a financial case. It's a peace-of-mind case. And the peace of mind the owner is evaluating includes the question of whether you're capable of operating with authority.
+THE FIRST 90 DAYS ARE STILL THE SALE
 
-THE ONLY REAL FIX
+The gap between what was promised at signing and what the owner experiences in the first 90 days is what Diorio calls a revenue leak. In VRM, that leak is almost always worst during onboarding, the window where the owner is forming their real impression of the company they actually bought, as opposed to the one they thought they bought.
 
-Abundance in the pipeline is the only cure for desperation. You cannot fake confident posture with a thin funnel. The Velvet Rope only works when you genuinely have enough leads to walk away from the ones that aren't fits.
+The fix isn't better operations. It's treating onboarding as an extension of the sale, not the beginning of operations.
 
-Prospecting isn't what you do when you need doors. It's the non-negotiable, non-seasonal activity that maintains the posture required to win the best properties at full fee. Pipeline and posture are not separate problems. Pipeline is posture. The confidence you project in the room is a direct output of the health of your top-of-funnel.
+THE THREE-PART HANDOFF FIX
 
-Script (for holding ground on fee): "Our fee is 20%, and it doesn't move by property. The reason is that our model only works at that margin, and below that we start cutting corners on things that actually protect your asset. If a competitor is offering you 15%, the right question to ask them is what they're not doing for that 5%."
+1. Stop letting BD sell things operations can't consistently deliver. If your field team doesn't have 24/7 live dispatch, the BD rep can't promise 24/7 live response. Audit the promises against operational reality before any contract is signed.
 
-That script only lands with conviction when you genuinely don't need the deal. Build the pipeline first. The posture follows.
+2. Build a shared data model. The property manager who inherits a new owner must see exactly what the BD rep told that owner, every projection, every promise, every expectation set. If they're working from different information, the trust gap is structural.
+
+3. Run a calibration call at onboarding. Script: "I want to use this call to make sure we're aligned on what the next 90 days looks like. Here's what you should expect from us, and I'd like to know what was described to you during your decision process so we can make sure we're delivering against it. If anything was miscommunicated, I'd rather find out now."
+
+That single call prevents more churn than many operational improvements made six months later.
+
+Field note: If your BD rep and your property manager can't independently write down the same top three priorities for a new owner, your organization has a commercial operating system problem. The CRM isn't a sales tool. It's the single source of truth for every promise made to every owner in your portfolio.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
 
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #Objections
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #RevenueOperations

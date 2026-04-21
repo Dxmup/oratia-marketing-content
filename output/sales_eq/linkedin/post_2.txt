@@ -1,39 +1,38 @@
-[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the sales_eq/linkedin/ directory but contains Revenue Operations (Stephen G. Diorio) Post 2 content. The actual Sales EQ post_2.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+VRM Sales Library | Sales EQ | Jeb Blount
+Post 2 of 3
 
-VRM Sales Library | Revenue Operations | Stephen G. Diorio
-Post 2 of 2
+YOUR LISTING PRESENTATION IS PUTTING OWNERS TO SLEEP
 
-WHY MANY VRMs NEVER CROSS 100 DOORS
+Homeowners have a script for how property managers behave. They expect you to walk in, compliment the property, promise high returns, and start defending your commission. The moment you follow that script, you've become a commodity.
 
-They treat marketing, sales, and operations as three separate businesses.
+THE ZONE OF RESISTANCE
 
-Many VRM founders stuck at 40 or 50 doors are exhausted. They're looking for a silver bullet, a new pricing tool, a better lead gen strategy, a cheaper cleaning vendor. They're trying to solve a systems problem with a tactical fix.
+When an owner feels they're being "sold to," they stop processing your content and start looking for an exit. They'll nod politely at your projections, make encouraging sounds, and then deliver the death blow: "This looks great. Let me think about it."
 
-THE COST OF MISALIGNMENT
+That's not hesitation. That's the Zone of Resistance operating exactly as designed. They tuned out before you made your best point.
 
-When marketing, sales, and operations optimize for their own separate metrics, they create drag on each other.
+THREE PATTERN INTERRUPTS THAT ACTUALLY WORK
 
-Marketing is chasing cheap leads. Volume over fit.
-Sales is trying to close anyone with a rentable property to hit a door count target.
-Operations inherits clients who were destined to be difficult.
+The goal is to break the expected script before the owner's defenses are up.
 
-Here's what that actually costs: the property manager who gets a bad-fit owner spends 60% of their capacity managing that one owner's anxiety. That degrades the service quality for every other property in the portfolio. The team morale erodes. Your best property manager eventually leaves for a company that doesn't take properties like that.
+1. NAME THE SCRIPT
+Open by acknowledging what the owner expects, then explicitly refuse to do it.
+Script: "You've probably had a few of these conversations already. I'm guessing many of them started with a revenue projection and ended with a pitch about commission. I'm going to do this differently today. I'd rather start with a few honest questions about your situation before I show you anything."
 
-This isn't an operations failure. It's a commercial operating system failure, one that started the moment marketing generated an unqualified lead that sales couldn't afford to turn down.
+2. THE VELVET ROPE
+Establish that you're evaluating them, not pitching to them.
+Script: "We don't accept every property into our portfolio. Today I'm really here to walk the property and see if it's a fit for us. If it's not, I'll tell you that honestly today and point you toward someone who would be a better match."
 
-THE UNIFIED PLAYBOOK
+3. THE FLAW-FIRST OPEN
+Lead with what you don't do well. The owner's threat-detection turns off when you voluntarily name your own constraints. (See the Transparent Sales Leader series for the full breakdown.)
 
-Define a strict Ideal Owner Profile and let it govern all three functions. Marketing only targets those owners. Sales only closes them. If a lead doesn't fit, you refer them out rather than stretch your standards.
+THE AUTHORITY EFFECT
 
-Tie BD compensation to 12-month owner retention, not just contract signatures. This one change aligns the BD rep's incentives with the operator's long-term health. A rep who earns on retention has a powerful reason to qualify hard and set realistic expectations at signing.
+When you refuse to behave like a desperate vendor, the owner's brain recategorizes you. You stop being "property manager, generic, compare on price" and become "operator with standards who may or may not take my property." That recategorization changes the entire dynamic of the appointment.
 
-Build a single source of truth. Your outreach CRM, your sales pipeline, and your PMS should reference the same owner record. If the same owner appears in three systems with three different contact histories, you don't have a business, you have three businesses that share a cleaning crew.
-
-A practical diagnostic: ask your BD rep and your property manager to independently list the top three priorities of your last three new owners. If their lists don't match, you've found your churn problem before it becomes a churn event.
-
-You can't scale chaos. You can only scale a system.
+Desperate operators never talk this way. So if you do, you can't be desperate. And if you're not desperate, maybe you're worth what you charge.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
 
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #RevenueOperations
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #SalesEQ

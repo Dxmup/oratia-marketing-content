@@ -1,39 +1,37 @@
-[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the revenue_operations/linkedin/ directory but contains Objections (Jeb Blount) Post 3 content. The actual Revenue Operations post_2.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+VRM Sales Library | Revenue Operations | Stephen G. Diorio
+Post 2 of 2
 
-VRM Sales Library | Objections | Jeb Blount
-Post 3 of 3
+WHY MANY VRMs NEVER CROSS 100 DOORS
 
-MANY PROPERTY OWNERS DEFLECT WHEN THEY WON'T SIGN
+They treat marketing, sales, and operations as three separate businesses.
 
-If you solve the objection they give you, you'll often lose the deal.
+Many VRM founders stuck at 40 or 50 doors are exhausted. They're looking for a silver bullet, a new pricing tool, a better lead gen strategy, a cheaper cleaning vendor. They're trying to solve a systems problem with a tactical fix.
 
-When a homeowner tells you they want to "think about it" or "try managing it themselves for a summer," they are almost never telling you the actual reason. These are reflex responses, deployed to avoid the social discomfort of a direct no and to buy time from decision-making. The systemic failure in many VRM sales processes is taking them at face value.
+THE COST OF MISALIGNMENT
 
-THE THREE COMMON SMOKESCREENS
+When marketing, sales, and operations optimize for their own separate metrics, they create drag on each other.
 
-"I want to try it myself first." Usually means: I'm not sure I trust you enough to hand over control yet.
+Marketing is chasing cheap leads. Volume over fit.
+Sales is trying to close anyone with a rentable property to hit a door count target.
+Operations inherits clients who were destined to be difficult.
 
-"Your fee is too high." Usually means: I'm not convinced the outcome will justify the cost.
+Here's what that actually costs: the property manager who gets a bad-fit owner spends 60% of their capacity managing that one owner's anxiety. That degrades the service quality for every other property in the portfolio. The team morale erodes. Your best property manager eventually leaves for a company that doesn't take properties like that.
 
-"I need to talk to my spouse." Sometimes true. Often means: I need an escape from making this decision today.
+This isn't an operations failure. It's a commercial operating system failure, one that started the moment marketing generated an unqualified lead that sales couldn't afford to turn down.
 
-If you counter a self-management objection with a time-savings spreadsheet, you're having a logical argument with an emotional defense mechanism. The defense mechanism doesn't care about your spreadsheet.
+THE UNIFIED PLAYBOOK
 
-ISOLATING THE GHOST
+Define a strict Ideal Owner Profile and let it govern all three functions. Marketing only targets those owners. Sales only closes them. If a lead doesn't fit, you refer them out rather than stretch your standards.
 
-You can't overcome an objection you haven't identified. The technique is to acknowledge the smokescreen without fighting it, then remove it to expose the real friction underneath.
+Tie BD compensation to 12-month owner retention, not just contract signatures. This one change aligns the BD rep's incentives with the operator's long-term health. A rep who earns on retention has a powerful reason to qualify hard and set realistic expectations at signing.
 
-Script: "I completely understand wanting to try it yourself. Outside of wanting to see how the Airbnb side works for a season, is there anything else that's holding you back from making a decision today?"
+Build a single source of truth. Your outreach CRM, your sales pipeline, and your PMS should reference the same owner record. If the same owner appears in three systems with three different contact histories, you don't have a business, you have three businesses that share a cleaning crew.
 
-That phrase, "outside of" the stated objection, conceptually removes the smokescreen and forces the owner's brain to look behind it. They will often reveal the actual barrier.
+A practical diagnostic: ask your BD rep and your property manager to independently list the top three priorities of your last three new owners. If their lists don't match, you've found your churn problem before it becomes a churn event.
 
-"Well, honestly, I'm just really worried about who's going to be in my house. I want to be involved in vetting the guests."
-
-Now you're not arguing about commission versus self-management economics. You're in a specific conversation about risk and guest vetting protocols, a conversation you can win, with specifics about your screening standards, your damage protection, your occupancy rules.
-
-Stop fighting the smokescreen. Isolate the fear. Solve the root problem.
+You can't scale chaos. You can only scale a system.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
 
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #Objections
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #RevenueOperations

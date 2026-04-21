@@ -1,42 +1,45 @@
-[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the sales_eq/linkedin/ directory but contains Objections (Jeb Blount) Post 1 content. The actual Sales EQ post_3.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+VRM Sales Library | Sales EQ | Jeb Blount
+Post 3 of 3
 
-VRM Sales Library | Objections | Jeb Blount
-Post 1 of 3
+THE PLATINUM RULE IN OWNER ACQUISITION
 
-WHEN AN OWNER CHALLENGES YOUR FEE, YOUR FIRST INSTINCT IS USUALLY WRONG
+Stop treating every homeowner the same way.
 
-Here's why defending your pricing is killing your close rate.
+Many VRMs build one master listing presentation and deliver it to everyone. The same pitch to the retired couple looking for supplemental income as to the aggressive real estate investor looking to maximize yield. This is a systemic failure of empathy, and it consistently loses deals that should close.
 
-THE AMYGDALA HIJACK
+THE GOLDEN RULE IS THE WRONG RULE
 
-When a homeowner challenges your 20% or 25% management fee, your brain perceives it as a threat. The amygdala fires, the prefrontal cortex slows down, and you slip into a defensive posture. You start reciting features, the pricing software, the quality of your cleaners, the hours your team works. This is exactly when the sale is lost.
+The Golden Rule says treat others the way you want to be treated. In sales, that's dangerous. It assumes the prospect processes information the way you do. The Platinum Rule: treat others the way they want to be treated.
 
-The owner's objection is rarely a rational cost analysis. It's a reflex: a smokescreen for a deeper psychological friction. Fear of being taken advantage of. Loss of control. Uncertainty about whether they're making a sound decision. When you defend your fee with logic, you validate their framing. You've told them this is an adversarial negotiation, and now you're on opposite sides of the table.
+THE SIX SIGNALS IN THE FIRST FIVE MINUTES
 
-THE LEDGE
+The most useful single diagnostic: how does the owner refer to the property?
 
-Elite operators don't negotiate against themselves. They use what Blount calls the Ledge: a memorized, automatic response that buys back the seconds you need to stop reacting and start thinking.
+"The unit" or "the asset," almost always an Investor or Delegator frame. They're evaluating an investment. Lead with comps and yield math.
 
-Script: "I appreciate you bringing that up, and many of the strongest owners in our portfolio had that exact same concern before they joined us."
+"The lake house," "my grandfather's cabin," "our place," almost always a Steward or Controller frame. They're evaluating a custodian. Lead with appreciation for the property and specificity about care.
 
-Three things happen in that single sentence:
-- It validates the owner without conceding the point. You're not saying they're right. You're saying they're reasonable.
-- It groups them with "the strongest owners in our portfolio," subtle social proof and aspiration in one phrase.
-- It gives your brain time to transition from reactive to deliberate before you say anything that matters.
+"I haven't decided whether I'm actually going to list it yet," Opportunist. They need to feel educated before they feel committed. Sell the concept before you sell the service.
 
-THE DIAGNOSIS PIVOT
+"The last manager really dropped the ball," Skeptic. They've been burned. The Accusation Audit is your opening move, not a revenue projection.
 
-Once the Ledge is deployed, you don't justify the fee. You pivot to a diagnostic question.
+"How much can I make and what do you charge?" in the first two minutes, Driver. Get to the point immediately and don't slow down for relationship-building they didn't ask for.
 
-Script: "When you say the fee feels high, help me understand that a little. Is it the number itself, that it's above your budget, or is it more that you're not certain what you'd get for it?"
+ADAPTIVE OPENINGS BY OWNER TYPE
 
-These two answers require completely different responses:
-- "The number is above my budget" may indicate a genuine price mismatch. Evaluate fit, not your discount policy.
-- "I'm not certain what I'd get for it" is a certainty gap. Now you can rebuild the value case with specific examples and real outcomes, which is what you should have been doing instead of defending the fee percentage.
+For the Investor: "Let me start with comps. I pulled trailing 12 months for three properties within a quarter mile. Here's what the data says."
 
-Field note: The fee objection from an Investor is almost always a certainty test, not a real budget constraint. Don't negotiate. Run the diagnostic pivot and watch what happens. The fee objection from a Skeptic is a test of whether you'll fold under pressure. Folding confirms their worst assumption. Hold your ground and let the diagnosis do the work.
+For the Steward: "Before we talk about anything else, tell me about the property. What matters most to you when guests are here?"
+
+For the Skeptic: "I'm going to guess the last manager promised more than they delivered. Before I make any claims, tell me exactly what went wrong, so I can tell you whether we're actually different or just saying we are."
+
+For the Delegator: "Here's what this looks like from your end: we onboard you in 30 days, honor any existing bookings, and you get a monthly report and a check. Let me walk you through the three decisions you actually need to make."
+
+For the Opportunist: "There's no pressure here to sign anything today. What I'd love to do is just walk through the numbers on your specific property and let you decide whether the math even makes sense for your situation."
+
+The appointment you thought went well but didn't close was usually an owner-type mismatch. You delivered the right content to the wrong person. Read the owner before you run the pitch.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
 
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #Objections
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #SalesEQ

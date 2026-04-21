@@ -1,41 +1,38 @@
-[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the sales_eq/linkedin/ directory but contains Revenue Operations (Stephen G. Diorio) Post 1 content. The actual Sales EQ post_1.txt content appears to be missing or misplaced. Sharpening the content present in this file.
+VRM Sales Library | Sales EQ | Jeb Blount
+Post 1 of 3
 
-VRM Sales Library | Revenue Operations | Stephen G. Diorio
-Post 1 of 2
+OWNERS DON'T CARE ABOUT YOUR REVPAR. NOT YET.
 
-YOUR OWNER CHURN ISN'T AN OPERATIONS PROBLEM. IT'S A SALES PROBLEM.
+If you lead with spreadsheets, you've often already lost the pitch.
 
-The most expensive assumption in vacation rental management is that owners leave because of bad cleaning.
+Many VRM operators walk into owner presentations armed with data, dynamic pricing charts, occupancy projections, comp set analyses. They assume the owner is making a rational, mathematical decision. They often aren't. At least not first.
 
-When an owner churns, many operators blame operations: the maintenance team, the housekeepers, the pricing engine. And sometimes those things contributed. But the failure was usually set in motion months earlier, during the sales process.
+THE EMOTIONAL BRAIN DECIDES FIRST
 
-THE HANDOFF IS WHERE TRUST DIES
+Sales EQ is built on a core finding from behavioral science: humans make decisions emotionally and justify them with logic afterward. In VRM acquisition, this dynamic is amplified because you're not selling software or a service contract. You're asking for the keys to a deeply personal, highly valuable asset.
 
-Stephen Diorio's central idea in Revenue Operations is that sales, marketing, and customer success aren't separate departments, they're a single continuous revenue machine. In VRM, we tend to build silos instead.
+When a homeowner sits across from you, their cognitive load is consumed by perceived threats:
+- Will my home get destroyed by a bad guest?
+- Will the neighbors complain to the HOA?
+- Will I get frantic calls at 2 AM?
+- Will the cleaners take something?
+- Will strangers judge the way my family uses the space?
 
-The BD rep sells a reality: total peace of mind, elite revenue, perfect care. Then the owner is handed off to the property management team, who lives in a different reality: broken HVACs, difficult guests, tight margins, and a 200-item task list. The owner doesn't churn because the HVAC broke. They churn because the BD rep told them they'd never have to think about the HVAC, and then the property manager sent them a bill with no context and no relationship.
+When you open with RevPAR and pricing algorithms, you're answering questions they haven't asked yet. You're leaving their actual emotional state completely unaddressed.
 
-The owner doesn't feel disappointed. They feel duped. Duped owners don't just leave. They tell their neighbors.
+THE SEQUENCE FIX
 
-THE FIRST 90 DAYS ARE STILL THE SALE
+Solve for peace of mind first. Then solve for revenue.
 
-The gap between what was promised at signing and what the owner experiences in the first 90 days is what Diorio calls a revenue leak. In VRM, that leak is almost always worst during onboarding, the window where the owner is forming their real impression of the company they actually bought, as opposed to the one they thought they bought.
+Script: "Before I show you any numbers, I want to acknowledge something. Many owners at your stage are less worried about revenue than they are about three specific things: damage, neighbor complaints, and middle-of-the-night emergencies. Not because the revenue doesn't matter, it does, but because those three things are the downside, and the downside is what keeps people up at night. Let me walk you through exactly what we've built to handle each one. Then we'll get to the math."
 
-The fix isn't better operations. It's treating onboarding as an extension of the sale, not the beginning of operations.
+The owner almost always responds positively, because you've named the conversation happening in their head, not the one happening in your pitch deck.
 
-THE THREE-PART HANDOFF FIX
+Only after the emotional threat has been addressed does the logical brain fully engage with your pricing strategy. The math doesn't land until the fear has been answered.
 
-1. Stop letting BD sell things operations can't consistently deliver. If your field team doesn't have 24/7 live dispatch, the BD rep can't promise 24/7 live response. Audit the promises against operational reality before any contract is signed.
-
-2. Build a shared data model. The property manager who inherits a new owner must see exactly what the BD rep told that owner, every projection, every promise, every expectation set. If they're working from different information, the trust gap is structural.
-
-3. Run a calibration call at onboarding. Script: "I want to use this call to make sure we're aligned on what the next 90 days looks like. Here's what you should expect from us, and I'd like to know what was described to you during your decision process so we can make sure we're delivering against it. If anything was miscommunicated, I'd rather find out now."
-
-That single call prevents more churn than many operational improvements made six months later.
-
-Field note: If your BD rep and your property manager can't independently write down the same top three priorities for a new owner, your organization has a commercial operating system problem. The CRM isn't a sales tool. It's the single source of truth for every promise made to every owner in your portfolio.
+Field note: Data Driver archetypes struggle with this most. If that's your natural style, build a 90-second emotional preamble into every appointment opening and rehearse it until it feels natural. Your data lands harder after you've made room for it, not instead of making room for it.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
 
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #RevenueOperations
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #SalesEQ

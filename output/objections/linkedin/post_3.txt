@@ -1,35 +1,37 @@
-[AGENT FLAG - 2026-04-21]: Content mismatch. This file is in the objections/linkedin/ directory but contains Influence (Robert Cialdini) Post 3 content. The actual Objections post_3.txt content appears to be missing or misplaced. Sharpening the content present in this file.
-
-VRM Sales Library | Influence | Robert Cialdini
+VRM Sales Library | Objections | Jeb Blount
 Post 3 of 3
 
-SOCIAL PROOF: YOUR PROSPECT DOESN'T CARE ABOUT YOUR AWARDS. THEY CARE ABOUT WHO LIVES NEXT DOOR.
+MANY PROPERTY OWNERS DEFLECT WHEN THEY WON'T SIGN
 
-Many operators rely on testimonials, industry awards, and RevPAR charts to establish credibility. When an owner is deciding who gets the keys to their asset, their brain isn't processing prestige. It's processing risk. The shortcut the human brain uses most reliably to bypass risk is observing what trusted peers are already doing.
+If you solve the objection they give you, you'll often lose the deal.
 
-PROXIMITY OVER PRESTIGE
+When a homeowner tells you they want to "think about it" or "try managing it themselves for a summer," they are almost never telling you the actual reason. These are reflex responses, deployed to avoid the social discomfort of a direct no and to buy time from decision-making. The systemic failure in many VRM sales processes is taking them at face value.
 
-Cialdini's research is clear: social proof is most powerful when it comes from people who share your specific circumstances. A five-star review from a stranger in another market holds far less weight than knowing the family three doors down has trusted you with their property for two years.
+THE THREE COMMON SMOKESCREENS
 
-This is why neighborhood density is one of the most powerful competitive advantages a VRM can build, and why winning properties in clusters, block by block, creates a compounding effect that generic geographic marketing never achieves.
+"I want to try it myself first." Usually means: I'm not sure I trust you enough to hand over control yet.
 
-THE NEIGHBORHOOD DENSITY STRATEGY
+"Your fee is too high." Usually means: I'm not convinced the outcome will justify the cost.
 
-When you sign a new property, execute a targeted outreach to the twelve nearest addresses within 72 hours. The message isn't "hire us." The message is:
+"I need to talk to my spouse." Sometimes true. Often means: I need an escape from making this decision today.
 
-Script: "We just partnered with your neighbor at [specific address] to manage their vacation rental. Because we already have cleaning and maintenance infrastructure on this block, we have capacity for two more properties this season. I'd be glad to put together a no-obligation revenue analysis for your property if you're curious what the numbers look like. We already have the comp data from the surrounding properties."
+If you counter a self-management objection with a time-savings spreadsheet, you're having a logical argument with an emotional defense mechanism. The defense mechanism doesn't care about your spreadsheet.
 
-Two things happen simultaneously:
-- Social proof from their specific neighbor, not a stranger in a testimonial.
-- Localized scarcity: only two more spots on this block, this season.
+ISOLATING THE GHOST
 
-In the appointment itself, use this directly:
+You can't overcome an objection you haven't identified. The technique is to acknowledge the smokescreen without fighting it, then remove it to expose the real friction underneath.
 
-Script: "Before we look at any numbers, I want to mention, we already manage three properties on this street. The Harmons at 342, the Patels at 356, and the unit at 378 that was listed for sale for eight months before the owner decided to rent it. That means our cleaning crew is already on this block every week, our maintenance team knows the infrastructure in these units, and two of your neighbors can tell you what it's actually like to work with us. If you'd like their contact information, I'll give it to you right now."
+Script: "I completely understand wanting to try it yourself. Outside of wanting to see how the Airbnb side works for a season, is there anything else that's holding you back from making a decision today?"
 
-Field note: Neighborhood density isn't just a social proof strategy. It's an operational efficiency play. When your portfolio clusters geographically, cleaning routes tighten, maintenance dispatch times shrink, and local market knowledge compounds. The social proof benefit is real, and it pays dividends in the P&L every week.
+That phrase, "outside of" the stated objection, conceptually removes the smokescreen and forces the owner's brain to look behind it. They will often reveal the actual barrier.
+
+"Well, honestly, I'm just really worried about who's going to be in my house. I want to be involved in vetting the guests."
+
+Now you're not arguing about commission versus self-management economics. You're in a specific conversation about risk and guest vetting protocols, a conversation you can win, with specifics about your screening standards, your damage protection, your occupancy rules.
+
+Stop fighting the smokescreen. Isolate the fear. Solve the root problem.
 
 ---
 Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
 
-#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #Influence
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #Objections
