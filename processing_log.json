@@ -2,111 +2,620 @@
   "version": "1.0",
   "description": "Tracks which files have been sharpened by the content sharpening agent. Agent checks this log before processing any file and skips files with status 'sharpened'.",
   "files": [
-    { "path": "output/100m_offers/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/100m_offers/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/100m_offers/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/100m_offers/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/100m_offers/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/elite_sales_strategies/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/elite_sales_strategies/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/elite_sales_strategies/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/elite_sales_strategies/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/elite_sales_strategies/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/exactly_what_to_say/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/exactly_what_to_say/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/exactly_what_to_say/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/exactly_what_to_say/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/exactly_what_to_say/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/fanatical_prospecting/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/fanatical_prospecting/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/fanatical_prospecting/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/fanatical_prospecting/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/fanatical_prospecting/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/founding_sales/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/founding_sales/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/founding_sales/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/founding_sales/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/gap_selling/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/gap_selling/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/gap_selling/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/gap_selling/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/gap_selling/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/gap_selling/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/influence/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/influence/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/influence/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/influence/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/influence/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/never_split_the_difference/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/never_split_the_difference/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/never_split_the_difference/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/never_split_the_difference/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/never_split_the_difference/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/objections/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/objections/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/objections/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/objections/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/objections/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/revenue_operations/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/revenue_operations/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/revenue_operations/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/revenue_operations/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/sales_eq/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/sales_eq/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/sales_eq/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/sales_eq/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/sales_eq/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/sales_pitch/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/sales_pitch/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/sales_pitch/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/sales_pitch/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/sales_pitch/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/tech_powered_sales/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/tech_powered_sales/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/tech_powered_sales/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/tech_powered_sales/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/the_challenger_sale/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/the_challenger_sale/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/the_challenger_sale/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/the_challenger_sale/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/the_jolt_effect/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/the_jolt_effect/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/the_jolt_effect/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/the_jolt_effect/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/the_jolt_effect/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/transparent_sales_leader/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/transparent_sales_leader/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/transparent_sales_leader/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/transparent_sales_leader/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/way_of_the_wolf/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/way_of_the_wolf/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/way_of_the_wolf/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/way_of_the_wolf/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/100m_offers/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/elite_sales_strategies/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/exactly_what_to_say/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/fanatical_prospecting/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/founding_sales/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/influence/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/never_split_the_difference/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/objections/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/revenue_operations/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/sales_eq/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/sales_pitch/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/tech_powered_sales/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/the_challenger_sale/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/transparent_sales_leader/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/way_of_the_wolf/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-21" },
-    { "path": "output/to_sell_is_human/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/to_sell_is_human/linkedin/post_1.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/to_sell_is_human/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/to_sell_is_human/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/to_sell_is_human/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/to_sell_is_human/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/the_challenger_sale/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/the_jolt_effect/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/transparent_sales_leader/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/way_of_the_wolf/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/to_sell_is_human/twitter/tweets.json", "status": "sharpened", "sharpened_date": "2026-04-22" }
+    {
+      "path": "output/100m_offers/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/100m_offers/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/100m_offers/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/100m_offers/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/100m_offers/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/elite_sales_strategies/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/elite_sales_strategies/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/elite_sales_strategies/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/elite_sales_strategies/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/elite_sales_strategies/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/exactly_what_to_say/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/exactly_what_to_say/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/exactly_what_to_say/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/exactly_what_to_say/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/exactly_what_to_say/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/fanatical_prospecting/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/fanatical_prospecting/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/fanatical_prospecting/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/fanatical_prospecting/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/fanatical_prospecting/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/founding_sales/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/founding_sales/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/founding_sales/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/founding_sales/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/gap_selling/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/gap_selling/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/gap_selling/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/gap_selling/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/gap_selling/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/gap_selling/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/influence/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/influence/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/influence/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/influence/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/influence/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/never_split_the_difference/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/never_split_the_difference/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/never_split_the_difference/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/never_split_the_difference/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/never_split_the_difference/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/objections/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/objections/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/objections/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/objections/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/objections/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/revenue_operations/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/revenue_operations/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/revenue_operations/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/revenue_operations/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/sales_eq/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/sales_eq/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/sales_eq/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/sales_eq/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/sales_eq/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/sales_pitch/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/sales_pitch/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/sales_pitch/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/sales_pitch/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/sales_pitch/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/tech_powered_sales/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/tech_powered_sales/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/tech_powered_sales/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/tech_powered_sales/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/the_challenger_sale/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/the_challenger_sale/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/the_challenger_sale/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/the_challenger_sale/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/the_jolt_effect/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/the_jolt_effect/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/the_jolt_effect/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/the_jolt_effect/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/the_jolt_effect/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/transparent_sales_leader/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/transparent_sales_leader/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/transparent_sales_leader/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/transparent_sales_leader/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/way_of_the_wolf/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/way_of_the_wolf/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/way_of_the_wolf/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/way_of_the_wolf/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/100m_offers/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/elite_sales_strategies/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/exactly_what_to_say/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/fanatical_prospecting/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/founding_sales/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/influence/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/never_split_the_difference/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/objections/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/revenue_operations/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/sales_eq/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/sales_pitch/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/tech_powered_sales/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/the_challenger_sale/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/transparent_sales_leader/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/way_of_the_wolf/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-21"
+    },
+    {
+      "path": "output/to_sell_is_human/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/to_sell_is_human/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/to_sell_is_human/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/to_sell_is_human/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/to_sell_is_human/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/to_sell_is_human/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/the_challenger_sale/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/the_jolt_effect/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/transparent_sales_leader/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/way_of_the_wolf/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/to_sell_is_human/twitter/tweets.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-04-22"
+    },
+    {
+      "path": "output/100m_offers/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/elite_sales_strategies/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/exactly_what_to_say/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/fanatical_prospecting/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/founding_sales/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/gap_selling/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/influence/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/never_split_the_difference/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/objections/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/revenue_operations/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/sales_eq/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/sales_pitch/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/tech_powered_sales/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/the_challenger_sale/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/the_jolt_effect/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/to_sell_is_human/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/transparent_sales_leader/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-04-22"
+    }
   ]
 }
