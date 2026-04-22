@@ -1,0 +1,140 @@
+{
+  "book": "Way of the Wolf",
+  "book_slug": "way_of_the_wolf",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "tweet_1",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "type": "nugget",
+      "text": "When an owner hesitates, it's rarely because the fee is 2 points too high. One of the certainty pillars is still wobbling.",
+      "source_trace": {
+        "book_slug": "way_of_the_wolf",
+        "theme": "certainty_pillars",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "tweet_2",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "type": "nugget",
+      "text": "Fee objections are often certainty problems with better manners.",
+      "source_trace": {
+        "book_slug": "way_of_the_wolf",
+        "theme": "commission_smokescreen",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "tweet_3",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "type": "nugget",
+      "text": "Trying to close every owner with a pulse is how operators accidentally build a portfolio they don't enjoy running.",
+      "source_trace": {
+        "book_slug": "way_of_the_wolf",
+        "theme": "alchemist_trap",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "tweet_4",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "type": "nugget",
+      "text": "The owner isn't buying a management service. They're buying certainty that their multi-million dollar asset is in safe hands.",
+      "source_trace": {
+        "book_slug": "way_of_the_wolf",
+        "theme": "three_tens",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "tweet_5",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Friday",
+      "type": "nugget",
+      "text": "If you can't describe your exact response sequence for a maintenance emergency, you don't have a system. You have a prayer.",
+      "source_trace": {
+        "book_slug": "way_of_the_wolf",
+        "theme": "system_certainty",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "tweet_6",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Saturday",
+      "type": "nugget",
+      "text": "A bad owner is worse than no owner. They drain resources, kill morale, and churn quickly.",
+      "source_trace": {
+        "book_slug": "way_of_the_wolf",
+        "theme": "abundance_psychology",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "tweet_7",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Sunday",
+      "type": "nugget",
+      "text": "Disqualifying the wrong owners is the fastest way to increase your value to the right ones.",
+      "source_trace": {
+        "book_slug": "way_of_the_wolf",
+        "theme": "graceful_exit",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "tweet_8",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "type": "insight",
+      "text": "Most owner objections are smokescreens for fear. Argue the math and you lose. Loop back to certainty and you win.",
+      "source_trace": {
+        "book_slug": "way_of_the_wolf",
+        "theme": "looping",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "tweet_9",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "type": "insight",
+      "text": "The Three Tens of VRM: Certainty in the System, the Operator, and the Brand. If one is a 6, the deal is a 0.",
+      "source_trace": {
+        "book_slug": "way_of_the_wolf",
+        "theme": "three_tens",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "tweet_10",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "type": "insight",
+      "text": "The Alchemist Trap: Stop trying to turn bad owners into good ones. Start sifting for the ones who actually value your work.",
+      "source_trace": {
+        "book_slug": "way_of_the_wolf",
+        "theme": "alchemist_trap",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "tweet_11",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "type": "promo",
+      "text": "Wrapping up the Way of the Wolf series today. Going deeper on the Three Tens and the sifting mindset in the VRM Sales Library newsletter.",
+      "source_trace": {
+        "book_slug": "way_of_the_wolf",
+        "theme": "series_wrap",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    }
+  ]
+}

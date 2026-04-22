@@ -1,0 +1,21 @@
+{
+  "book": "Way of the Wolf",
+  "book_slug": "way_of_the_wolf",
+  "threads": [
+    {
+      "id": "thread_1",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "type": "weekly_retro",
+      "tweets": [
+        "This week we looked at applying Jordan Belfort's Way of the Wolf to VRM owner acquisition.",
+        "Biggest takeaway: Ownership is an emotional decision wrapped in a logical fee negotiation.",
+        "If you find yourself arguing over 2% commission, you haven't sold the certainty of your system yet.",
+        "Build pillars, not just pitches."
+      ],
+      "source_trace": {
+        "book_slug": "way_of_the_wolf",
+        "theme": "weekly_synthesis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "book": "To Sell Is Human",
+  "book_slug": "to_sell_is_human",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "tweet_1",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "type": "nugget",
+      "text": "Attunement is not empathy. Empathy validates a feeling. Attunement changes the frame of the entire conversation.",
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "theme": "attunement_vs_empathy",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "tweet_2",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "type": "nugget",
+      "text": "Operators who solve the stated problem compete on price. Operators who surface the real problem compete on authority.",
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "theme": "problem_finding",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "tweet_3",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "type": "nugget",
+      "text": "A review score is a lagging indicator. By the time it drops, the problem already happened upstream.",
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "theme": "clarity_diagnostic",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "tweet_4",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "type": "nugget",
+      "text": "The complaint an owner mentions twice is the real one. The moment they stop being operational and get personal is where the close lives.",
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "theme": "listening_pass",
+        "related_linkedin_post": "newsletter/newsletter.txt"
+      }
+    },
+    {
+      "id": "tweet_5",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Friday",
+      "type": "nugget",
+      "text": "Reducing your perceived power in the room increases the probability of agreement. Pink's research. Confirmed in every listing appointment I've run.",
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "theme": "power_reduction",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "tweet_6",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Saturday",
+      "type": "nugget",
+      "text": "Owners who feel trapped become difficult relationships. Give them the off-ramp and they rarely use it.",
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "theme": "off_ramp",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "tweet_7",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Sunday",
+      "type": "nugget",
+      "text": "The owner who has to correct your summary of their situation is now more invested in the conversation than they were sixty seconds ago.",
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "theme": "clarity_reflection",
+        "related_linkedin_post": "newsletter/newsletter.txt"
+      }
+    },
+    {
+      "id": "tweet_8",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "type": "insight",
+      "text": "Pink's framework applied to VRM: Attunement wins the first ten minutes. Clarity wins the middle. The servant posture wins the close. Miss any one of them and the appointment goes sideways.",
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "theme": "full_framework",
+        "related_linkedin_post": "newsletter/newsletter.txt"
+      }
+    },
+    {
+      "id": "tweet_9",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "type": "insight",
+      "text": "Before the close, ask: is there anything about this property I should know before we move forward? The owner who mentions a co-owner, an HOA dispute, or an active guest problem just saved you a painful first month.",
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "theme": "fit_question",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "tweet_10",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "type": "insight",
+      "text": "The Skeptic tests in the first ten minutes: is this person listening or waiting to pitch? The attuned opener answers that test before the real conversation starts. Operators who skip to the presentation fail it without knowing there was one.",
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "theme": "skeptic_field_note",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "tweet_11",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "type": "promo",
+      "text": "Wrapping up the To Sell Is Human series today. Going deeper on the full 45-minute listing appointment structure using Pink's attunement, clarity, and servant posture framework in the VRM Sales Library newsletter.",
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "theme": "series_wrap",
+        "related_linkedin_post": "newsletter/newsletter.txt"
+      }
+    }
+  ]
+}

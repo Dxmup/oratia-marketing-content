@@ -146,6 +146,14 @@ Unless told otherwise, produce:
 - optional 1 author/peer engagement post
 - optional 1 thread only when the idea truly earns it
 
+## Scheduling Signal Mapping
+Each post maps to a deployment slot. Add `scheduled_slot` and `day_of_week` to every post:
+- `sharp_opinion`, `recognition` → `daily_drip_815` (assign Mon–Sun to fill 7 morning slots)
+- `diagnostic`, `story_detail`, `engagement` → `deep_insight_200` (Mon, Wed, Fri @ 2 PM)
+- `channel_connector` → `newsletter_promo` (Sunday @ 5 PM)
+- `author_engagement` → `author_engagement` (flexible)
+- Thread → `retro_thread_sat_1000` (Saturday @ 10 AM)
+
 ## Standalone Tweet Types
 Use these labels when useful:
 - standalone_insight
@@ -170,6 +178,8 @@ Return a JSON object with this shape:
       "id": "post_1",
       "type": "sharp_opinion|recognition|diagnostic|story_detail|engagement|channel_connector|author_engagement",
       "source_theme": "theme name",
+      "scheduled_slot": "daily_drip_815|deep_insight_200|newsletter_promo|retro_thread_sat_1000|author_engagement",
+      "day_of_week": "Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday",
       "text": "post text",
       "engagement_prompt": false,
       "source_trace": {
@@ -185,6 +195,7 @@ Return a JSON object with this shape:
       "id": "thread_1",
       "type": "short_thread",
       "source_theme": "theme name",
+      "scheduled_slot": "retro_thread_sat_1000",
       "tweets": ["post 1", "post 2"],
       "source_trace": {
         "book_slug": "book_slug",

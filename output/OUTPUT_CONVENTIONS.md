@@ -21,6 +21,8 @@ Inside each book folder, organize final content by medium:
 - `linkedin/post_2.txt`
 - `linkedin/post_3.txt`
 - `newsletter/newsletter.txt`
+- `newsletter/cover_image_prompt.txt` — AI image generation prompt for the newsletter header
+- `newsletter/cover_image.png` — generated image (added after production)
 - `twitter/tweets.json`
 - `twitter/threads.json`
 

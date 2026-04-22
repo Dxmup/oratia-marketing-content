@@ -1,0 +1,29 @@
+{
+  "book": "To Sell Is Human",
+  "book_slug": "to_sell_is_human",
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "listing_appointment_posture",
+      "tweets": [
+        "The standard listing appointment structure works against you.",
+        "Most operators go in with a prepared presentation and a plan to handle objections. That structure assumes the owner needs to be convinced.",
+        "The owners who are self-managing or leaving a prior manager are usually not unconvinced. They are specifically unconvinced that you understand their situation.",
+        "The attunement approach: reduce your power posture, ask more than you tell, and reflect the owner's situation back before you pitch anything.",
+        "Let the owner describe the problem your proposal will solve. When they do, you're not convincing them. You're confirming something they already feel.",
+        "The operator who helps an owner see their situation more clearly than they did walking in wins on authority. Not on features and not on price.",
+        "That's the actual job."
+      ],
+      "post_role": "optional_thread",
+      "best_timing": "only_if_topic_is_working",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "attunement_and_clarity",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

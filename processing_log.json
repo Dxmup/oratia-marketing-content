@@ -102,6 +102,11 @@
     { "path": "output/to_sell_is_human/linkedin/post_2.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
     { "path": "output/to_sell_is_human/linkedin/post_3.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
     { "path": "output/to_sell_is_human/newsletter/newsletter.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
-    { "path": "output/to_sell_is_human/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-22" }
+    { "path": "output/to_sell_is_human/twitter/posts.json", "status": "sharpened", "sharpened_date": "2026-04-22" },
+    { "path": "output/the_challenger_sale/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
+    { "path": "output/the_jolt_effect/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
+    { "path": "output/transparent_sales_leader/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
+    { "path": "output/way_of_the_wolf/linkedin/intro.txt", "status": "sharpened", "sharpened_date": "2026-04-22" },
+    { "path": "output/to_sell_is_human/twitter/tweets.json", "status": "sharpened", "sharpened_date": "2026-04-22" }
   ]
 }

@@ -12,6 +12,9 @@ In a new chat, the intended command is plain English:
 The orchestrator prompt is the entry point:
 - `prompts/0_the_orchestrator.md`
 
+## Cover Images
+Each newsletter gets one AI-generated cover image. Prompts are stored per-book in `output/{slug}/newsletter/cover_image_prompt.txt`. Standards and tool recommendations are in `COVER_IMAGE_CONVENTIONS.md`. Recommended tool: Ideogram (ideogram.ai).
+
 ## Required Files
 - `prompts/0_the_orchestrator.md` — front-door orchestration rules
 - `prompts/1_the_analyst.md`

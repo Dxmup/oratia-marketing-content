@@ -12,7 +12,7 @@ This is the canonical schedule for the Book-to-LinkedIn Content Factory.
 
 | Week | Dates | Book Title | Status |
 | :--- | :--- | :--- | :--- |
-| **1** | Apr 20 - Apr 26 | **Way of the Wolf** | In Progress |
+| **1** | Apr 20 - Apr 26 | **Way of the Wolf** | Live ✓ |
 | **2** | Apr 27 - May 03 | **The Transparent Sales Leader** | Scheduled |
 | **3** | May 04 - May 10 | **The Jolt Effect** | Scheduled |
 | **4** | May 11 - May 17 | **The Challenger Sale** | Scheduled |
