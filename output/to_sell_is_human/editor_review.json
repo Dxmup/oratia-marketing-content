@@ -1,0 +1,46 @@
+{
+  "book": "To Sell Is Human",
+  "book_slug": "to_sell_is_human",
+  "reviewed_date": "2026-04-21",
+  "overall_status": "approved",
+  "posts": [
+    {
+      "file": "linkedin/post_1.txt",
+      "status": "approved",
+      "depth_score": 8,
+      "specificity_score": 8,
+      "voice_match_score": 9,
+      "notes": "Strong listening-first posture. The empathy vs. attunement distinction is well-drawn. Power reduction script is concrete and usable. Skeptic field note earns its place. Could sharpen the opening hook slightly — 'operators who listen more close more' is good but could be more specific to what kind of operator this is aimed at.",
+      "flags": []
+    },
+    {
+      "file": "linkedin/post_2.txt",
+      "status": "approved",
+      "depth_score": 9,
+      "specificity_score": 9,
+      "voice_match_score": 9,
+      "notes": "Strongest of the three posts. The three diagnostic scripts are genuinely useful and grounded in real operator situations. The flat revenue reframe ('you're not holding steady, you're losing market share') is a strong clarity move. Investor field note is appropriately specific.",
+      "flags": []
+    },
+    {
+      "file": "linkedin/post_3.txt",
+      "status": "approved",
+      "depth_score": 8,
+      "specificity_score": 8,
+      "voice_match_score": 8,
+      "notes": "The off-ramp close is well-executed. The 'owners who feel trapped become our hardest relationships' line is strong. The fit-disclosure question section is a useful tactical add. The final closing script is tight and paste-ready. Delegator field note is on-point.",
+      "flags": []
+    },
+    {
+      "file": "newsletter/newsletter.txt",
+      "status": "approved",
+      "depth_score": 9,
+      "specificity_score": 9,
+      "voice_match_score": 8,
+      "notes": "The 45-minute appointment architecture is a strong newsletter centerpiece. Owner-type breakdowns are specific and avoid generic application. The opening framing (information symmetry) gives the whole thing intellectual grounding. NEXT WEEK section correctly references The Lost Art of Closing as the natural follow-on.",
+      "flags": [
+        "Post numbering in NEXT WEEK section uses 55-57 as a placeholder. Verify against master posting schedule before publishing."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "concept": "Attunement: perspective-taking over empathy",
+    "quote": "The ability to take another's perspective... is more useful for salespeople than empathy alone.",
+    "core_claim": "Perspective-taking (thinking like the other person) outperforms empathy (feeling what they feel) in trust-intensive sales conversations.",
+    "what_people_get_wrong": "Operators confuse empathy with attunement. Saying 'I understand how stressful that must be' validates a feeling but doesn't help you understand the owner's actual situation.",
+    "hidden_risk": "Operators who lead with empathy but skip perspective-taking often build rapport without building insight. They feel warm but don't close.",
+    "operational_consequence": "The attuned operator asks more questions, presents later, and reflects the owner's reality back before pitching. This positions them as someone who understood, not just someone who cared.",
+    "context": "Pink distinguishes between empathy (emotional mirroring) and attunement (perspective-taking). Research shows that those who cognitively inhabit the other person's frame—thinking like them rather than feeling for them—are more persuasive in high-stakes decisions.",
+    "source_location": "Chapter 4: Attunement",
+    "vr_mapping": "In VRM listing appointments, operators often default to reassurance ('I understand your frustration') rather than investigation ('Walk me through what your week looks like with this property'). The attuned operator lets the owner describe their full reality before presenting any solution. That description is the raw material the close needs.",
+    "content_potential": "post|newsletter",
+    "strength": "high",
+    "notes": "This pairs naturally with Gap Selling's level-shifting framework. The attunement entry is the posture that enables the level-shifting conversation."
+  },
+  {
+    "concept": "Clarity: problem-finding over problem-solving",
+    "quote": "The capacity to move people now depends on the ability to find problems, not just solve them.",
+    "core_claim": "In a world where information is symmetric, problem-solving is commoditized. The rare skill is helping people see a problem they couldn't articulate on their own.",
+    "what_people_get_wrong": "Operators treat the owner's stated problem as the problem to solve. If the owner says 'slow maintenance,' they pitch 24/7 dispatch. They've solved the wrong problem.",
+    "hidden_risk": "When you solve the stated problem, you're in a feature comparison. Every other manager is solving the same stated problem. Whoever has the best feature wins on price.",
+    "operational_consequence": "The problem-finding operator asks diagnostic questions that surface the real problem upstream of the stated complaint. That surfaces a problem the owner didn't have language for. Whoever helps the owner see that problem owns the close.",
+    "context": "Pink argues that in information-symmetric markets (where buyers can research sellers as thoroughly as sellers can research buyers), the value of the salesperson has shifted from problem-solving to problem-finding: identifying the correct problem, not just solving the presented one.",
+    "source_location": "Chapter 6: Clarity",
+    "vr_mapping": "A VRM operator who responds to 'my reviews are dropping' with a diagnostic question—'before we talk reviews, what does your pre-arrival communication and post-stay follow-up look like?'—is doing problem-finding. They're helping the owner see that the review score is a downstream symptom of an earlier process failure. That's authority. No other manager is having that conversation.",
+    "content_potential": "post|newsletter",
+    "strength": "high",
+    "notes": "This is Pink's most actionable concept for VRM. It intersects with Keenan's Gap Selling but frames the diagnostic differently: not as pain-level exploration but as surfacing the correct problem."
+  },
+  {
+    "concept": "The off-ramp principle: make no visible to make yes easier",
+    "quote": "Give people an exit and they're more likely to stay.",
+    "core_claim": "In high-stakes relationship decisions, buyers resist commitments that feel irreversible. Making the exit visible reduces the perceived risk of saying yes.",
+    "what_people_get_wrong": "Operators think that offering an out clause weakens their position or signals lack of confidence. The opposite is true: the operator who offers a 90-day out with no penalty signals that they're confident enough in their performance to not need the lock-in.",
+    "hidden_risk": "Owners who feel trapped by a contract sign and then back out, create difficult relationships, or churn at the first performance hiccup. Owners who feel free to leave stay longer because they chose to.",
+    "operational_consequence": "Build the off-ramp into the close explicitly: name the exit path, explain why you offer it, and reframe it as a signal of confidence rather than uncertainty. 'I'd rather you feel free to leave than feel trapped into staying' changes the frame.",
+    "context": "Pink's research on modern persuasion emphasizes that the best closers don't eliminate the no—they make it visible and low-cost. This counterintuitively reduces resistance because the buyer no longer feels like they're being cornered.",
+    "source_location": "Chapter 9: Serve",
+    "vr_mapping": "Standard VRM management agreements are perceived as high-commitment and hard to exit. The operator who explicitly names an off-ramp—a 90-day performance window, a 30-day mutual exit clause—removes the primary friction for hesitant owners. The Delegator and the Skeptic in particular need to feel like they can undo the decision before they'll make it.",
+    "content_potential": "post|newsletter",
+    "strength": "high",
+    "notes": "Complements JOLT Effect's risk-removal framework but approaches from the posture angle rather than the loss-aversion angle. Both are valid; Pink's version is more about the close architecture."
+  },
+  {
+    "concept": "Interrogative self-talk and BD buoyancy",
+    "quote": "Asking questions ('Can I do this?') outperforms positive declarations ('I can do this') in performance contexts.",
+    "core_claim": "Interrogative self-talk triggers strategy-making. Declarative self-talk triggers psychological performance without improving the underlying approach.",
+    "what_people_get_wrong": "Operators who lose listing appointments often debrief by rationalizing ('that owner wasn't the right fit') rather than interrogating ('what specifically in my approach would have changed the outcome?'). The rationalization preserves ego. The interrogation builds skill.",
+    "hidden_risk": "BD pipeline performance plateaus not because of bad luck but because of a lack of systematic interrogation of what's working and what isn't. Positive self-talk maintains confidence without improving conversion.",
+    "operational_consequence": "After a lost appointment, the buoyant operator asks: 'What question did I not ask that I should have? Where did the conversation stall and why? What did the owner say that I didn't follow?' That's the raw material of improvement.",
+    "context": "Pink's buoyancy concept, the middle element of his ABC triad, describes the capacity to stay functional and motivated in the face of rejection. His research found that the mechanism isn't positive thinking but interrogative thinking: asking questions rather than making declarations.",
+    "source_location": "Chapter 5: Buoyancy",
+    "vr_mapping": "Most VRM operators doing BD work are essentially solo or close to it. There's no sales manager debriefing lost deals. The interrogative self-talk framework gives operators a structured way to turn lost appointments into skill development rather than just data points in a conversion rate.",
+    "content_potential": "newsletter",
+    "strength": "medium",
+    "notes": "Useful for the newsletter as a section on pipeline discipline. Not strong enough for a standalone post without being combined with the other concepts."
+  },
+  {
+    "concept": "Servant selling: the buyer's interest as the close mechanism",
+    "quote": "The purpose of selling is... to leave the world better than you found it... to serve, not to sell.",
+    "core_claim": "The best modern sellers are defined by a servant posture: they're trying to serve the buyer's actual interest, not close a deal. The close is the byproduct of genuine service.",
+    "what_people_get_wrong": "Operators think the serve-first posture means being less assertive or less effective at closing. It means the opposite: when you're genuinely serving the owner's interest, the owner feels it. They trust it. The close becomes a formality.",
+    "hidden_risk": "Operators who are focused on the close rather than the owner's actual situation often close owners who are a bad fit. Those relationships generate churn, bad reviews, and high operational friction. The servant operator self-selects for good-fit owners.",
+    "operational_consequence": "The serve-first posture includes a specific diagnostic question before closing: 'Is there anything about your property or situation that could make this harder than a standard relationship? I'd rather know now than in month two.' This actively invites disclosure of complicating factors before the contract is signed.",
+    "context": "Pink's final section argues that the most effective modern sellers don't see themselves as persuaders. They see themselves as people who help buyers make good decisions. That posture, counterintuitively, generates more closes because it builds the trust that high-commitment decisions require.",
+    "source_location": "Chapter 9: Serve",
+    "vr_mapping": "In VRM acquisition, the owners most likely to churn are the ones who were closed rather than served. The operator who asks 'is there anything about your situation that would make this relationship complicated?' before the contract is signed surfaces the bad-fit signals that lead to churn. The operator who skips that question closes more deals and manages more difficult relationships.",
+    "content_potential": "post|newsletter",
+    "strength": "high",
+    "notes": "This is the through-line that connects attunement, clarity, and the off-ramp. Best used in the newsletter as the synthesis that ties the three posts together."
+  }
+]

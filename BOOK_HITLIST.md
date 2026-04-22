@@ -39,7 +39,7 @@ Priority key:
 | Elite Sales Strategies | Anthony Iannarino | Sales | sense-making, consultative posture | P1 | processed |
 | $100M Offers | Alex Hormozi | Offer Design | risk reversal, value equation, offer construction | P1 | processed |
 | Influence | Robert B. Cialdini | Psychology/Persuasion | social proof, reciprocity, authority, scarcity | P1 | processed |
-| To Sell Is Human | Daniel H. Pink | Sales | modern selling posture, attunement, clarity | P1 | queued |
+| To Sell Is Human | Daniel H. Pink | Sales | modern selling posture, attunement, clarity | P1 | processed |
 | The Lost Art of Closing | Anthony Iannarino | Sales | commitment sequencing, control of process | P1 | queued |
 | Sell Without Selling Out | Andy Paul | Sales | connection-first selling, anti-pressure posture | P1 | queued |
 | New Sales. Simplified. | Mike Weinberg | Sales | prospecting basics, sales discipline, focus | P2 | queued |
@@ -116,13 +116,13 @@ If we want books most likely to produce useful VRM content without getting too a
 ## Recommended Next Unprocessed Book
 
 If the user says `next unprocessed book` and no other constraint is provided, start with:
-- To Sell Is Human — Daniel H. Pink
+- The Lost Art of Closing — Anthony Iannarino
 
 Why this is the best next candidate:
-- broad recognition without being fluff
-- highly translatable to modern, trust-based selling
-- strong fit for authority-first VRM content
-- likely to produce practical posts on attunement, clarity, service posture, and non-pushy persuasion
+- directly referenced in the To Sell Is Human newsletter NEXT WEEK section
+- commitment sequencing maps naturally to the listing appointment structure already established
+- strong continuity with the attunement/clarity/servant-selling arc
+- practical and operator-specific, low abstraction risk
 
 ## Notes
 - `PROCESSED_BOOKS.md` remains the verified completion log.

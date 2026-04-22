@@ -79,8 +79,8 @@ Ignore all other files (`review_*.json`, `gold_set_v1.json`, `tweets.json`, `thr
 - CTA footer block is present and intact at the end: `linkedin.com/in/chadhensel` and `#VRMSalesLibrary`
 - Post header format is correct: `VRM Sales Library | [Book] | [Author]`
 - No exclamation points outside of direct-speech scripts
-- **Total character count must not exceed 2,900 characters** (including spaces, line breaks, and the CTA footer). Count the full file. If over 2,900, trim body content — tighten sentences, cut redundant explanation, shorten field notes — until it fits. Do not cut scripts, section headers, or the CTA footer.
-- **LinkedIn See More cutoff:** LinkedIn hides content behind a "See More" button after approximately 210 characters. The first 210 characters of the post (the opening hook) must be strong enough to stop the scroll and compel the reader to expand. Do not bury the hook. The opening line should state the sharpest point of the post, not set it up.
+- **Total character count must not exceed 2,900 characters** (including spaces, line breaks, and the CTA footer). Count the full file. If over 2,900, trim body content — tighten sentences, cut redundant explanation, shorten field notes — until it fits. Do not cut scripts, section headers, or the CTA footer. **This limit applies to LinkedIn posts (`post_*.txt` and `intro.txt`) only. It does not apply to `newsletter.txt` files.**
+- **LinkedIn See More cutoff:** LinkedIn hides content behind a "See More" button after approximately 210 characters. The first 210 characters of the post (the opening hook) must be strong enough to stop the scroll and compel the reader to expand. Do not bury the hook. The opening line should state the sharpest point of the post, not set it up. **This check applies to LinkedIn posts only, not newsletters.**
 
 **For `posts.json` files:**
 - No em dashes in any `text` field
@@ -88,8 +88,11 @@ Ignore all other files (`review_*.json`, `gold_set_v1.json`, `tweets.json`, `thr
 
 If any check fails, fix it before updating the processing log.
 
-### 8. Commit and push
-After processing the batch of files, make a single commit with all changes including the updated `processing_log.json`.
+### 8. Verify the log before committing
+Before staging any files for commit, read `processing_log.json` and confirm that every file sharpened in this run has `"status": "sharpened"` and `"sharpened_date"` set to today's date. List each file and its current log status explicitly. If any file is missing from the log or still shows `"pending"`, update it now. Do not proceed to the commit until every processed file is confirmed as `"sharpened"` in the log.
+
+### 9. Commit and push
+After the log is verified, make a single commit with all changes including the updated `processing_log.json`.
 
 Commit message format:
 ```
@@ -114,6 +117,7 @@ Push to `origin master`.
 - Do not alter structural keys in JSON files
 - Do not process more than 5 files per run
 - Do not re-process files already marked `"sharpened"` unless the file has been reset to `"pending"` manually
+- Do not commit without first completing step 8 (log verification). A run is not complete until the log reflects what was sharpened.
 
 ---
 

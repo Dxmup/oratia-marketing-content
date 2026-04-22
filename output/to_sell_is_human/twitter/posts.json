@@ -1,0 +1,137 @@
+{
+  "book": "To Sell Is Human",
+  "book_slug": "to_sell_is_human",
+  "purpose": "x_amplification_package",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "attunement_vs_presentation",
+      "text": "Many operators lose listing appointments they should win because they switch from listening to presenting too early. The owner stops talking and the operator starts pitching. That switch is the mistake.",
+      "engagement_prompt": false,
+      "post_role": "sharpest_observation",
+      "best_timing": "early_week",
+      "publish_after_linkedin": false,
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "attunement",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "owner_trust_decision",
+      "text": "The owner who says 'let me think about it' is usually not thinking about your features. They're thinking about whether they can trust you with their property. Those are different problems.",
+      "engagement_prompt": false,
+      "post_role": "recognition_line",
+      "best_timing": "mid_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "trust_as_close_driver",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "problem_finding_vs_problem_solving",
+      "text": "Before your next listing appointment, ask yourself: what specific thing do I want to understand about this owner that I don't already know? Then structure the first 20 minutes around finding that out instead of presenting what you do.",
+      "engagement_prompt": false,
+      "post_role": "tactical_question",
+      "best_timing": "after_post_1",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "problem_finding",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "stated_problem_vs_real_problem",
+      "text": "When an owner says 'my reviews have been dropping,' that's not the problem. That's the symptom they have language for. The operators who win those listing appointments are the ones who ask about the process upstream.",
+      "engagement_prompt": false,
+      "post_role": "recognition_line_alternate",
+      "best_timing": "alternate_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "problem_finding",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "story_detail",
+      "source_theme": "off_ramp_close",
+      "text": "An operator I know closes hesitant owners with one line: 'I'd rather you feel free to leave than feel trapped into staying. Owners who feel trapped become our hardest relationships.' That line does more work than a polished pitch deck.",
+      "engagement_prompt": false,
+      "post_role": "story_detail",
+      "best_timing": "after_post_3",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "off_ramp_principle",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "information_symmetry_in_vrm",
+      "text": "Pink's argument: in information-symmetric markets, problem-solving is commoditized. Owners can research you as thoroughly as you can research them. Are you finding they come into appointments more informed than they used to, or is the gap still in your favor?",
+      "engagement_prompt": true,
+      "post_role": "conversation_opener",
+      "best_timing": "late_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "information_symmetry",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "channel_connector",
+      "source_theme": "vrm_sales_library_bridge",
+      "text": "Went deeper on Pink's attunement and clarity framework in this week's VRM Sales Library. The servant selling posture is harder to describe than to feel in a real listing appointment, but it's the thing that separates operators who close on trust from operators who close on price.",
+      "engagement_prompt": false,
+      "post_role": "cross_channel_bridge",
+      "best_timing": "end_of_week",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "vrm_sales_library_bridge",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "author_engagement",
+      "source_theme": "author_application",
+      "text": "Working through Daniel Pink's To Sell Is Human for the VRM Sales Library this week. His distinction between empathy and attunement is the clearest language I've seen for something operators who close at a high rate already do instinctively but rarely teach.",
+      "engagement_prompt": false,
+      "post_role": "author_engagement",
+      "best_timing": "after_series_launch",
+      "publish_after_linkedin": true,
+      "source_trace": {
+        "book_slug": "to_sell_is_human",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "author_application",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": []
+}

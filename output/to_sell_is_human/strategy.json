@@ -1,0 +1,74 @@
+[
+  {
+    "concept": "Attunement: perspective-taking over empathy",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators who rely on a prepared presentation in listing appointments",
+    "actual_argument": "The operators who close high-trust owners are listening more and presenting later. Attunement, the cognitive habit of temporarily inhabiting the owner's frame, produces better closes than empathy or feature-based pitches.",
+    "bad_assumption_to_attack": "That a good presentation and confident delivery are the primary variables in closing a listing appointment.",
+    "behavior_change": "Start the listing appointment with a structured listening pass. Delay the presentation until you've reflected the owner's situation back to them and they've confirmed you understood it.",
+    "operator_example": "An operator walks into a listing appointment with a polished slide deck. The owner says it was very helpful and they'll think about it. The operator who asked questions first, reflected the owner's situation back, and then presented a tailored response gets the signature.",
+    "hook_options": [
+      "Operators who listen more close more.",
+      "The listing appointment isn't about your presentation. It's about whether the owner believes you understood their situation.",
+      "Many VRM operators walk into listing appointments with a presentation and leave without an agreement. The presentation isn't the problem."
+    ],
+    "lead_in": "Daniel Pink's distinction between empathy and attunement is the clearest language I've seen for something operators who close at a high rate already do instinctively.",
+    "angle": "Post 1 establishes the attunement posture as the foundation of the listing appointment. It explains the difference between empathy and perspective-taking, introduces the power-reduction move (asking more than telling), and provides scripts for the listening pass and the reflection-back close setup.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for more. Newsletter wraps the full framework each week.",
+    "cluster_role": "pillar",
+    "companion_ideas": ["Clarity: problem-finding", "Servant selling and off-ramp close"],
+    "notes": "This is the opening post in the series. Establish the listening-first posture before introducing clarity and servant selling. Use the gap between what most operators do (present, handle objections, close) and what Pink recommends (attune, find, serve) as the organizing tension."
+  },
+  {
+    "concept": "Clarity: problem-finding over problem-solving",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators who are losing listing appointments they thought they should have won",
+    "actual_argument": "In information-symmetric markets, operators who solve the owner's stated problem are in a commodity competition. Operators who surface the real problem the owner hadn't articulated win on authority.",
+    "bad_assumption_to_attack": "That the best response to a stated owner complaint is a specific solution to that complaint.",
+    "behavior_change": "Before answering any stated complaint with a solution, ask a diagnostic question that examines what's upstream from the complaint. Help the owner see the real problem before presenting the real solution.",
+    "operator_example": "An owner says 'my reviews have been dropping.' The operator who pitches better maintenance response is in a feature comparison. The operator who asks 'before we talk reviews, what does your current pre-arrival communication and post-stay follow-up look like?' is surfacing the real problem and owns the authority in the conversation.",
+    "hook_options": [
+      "Many VRM operators are solving the right answer to the wrong problem.",
+      "The operators who lose listing appointments they should win often solved the stated problem. That's the mistake.",
+      "When an owner comes in with a stated problem, most managers solve it. The rare operator surfaces the real problem."
+    ],
+    "lead_in": "Pink's clarity concept has a specific meaning that's easy to miss. It's not about being clear. It's about helping people see what they couldn't see on their own.",
+    "angle": "Post 2 develops the problem-finding concept with specific diagnostic questions for the three most common VRM owner complaints: dropping reviews, flat revenue, and slow communication. Each question shows how to move from the stated problem to the real problem.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for the next post in the series. Newsletter goes deeper on the full diagnostic framework.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Attunement: perspective-taking", "Servant selling and off-ramp close"],
+    "notes": "This post will land hardest for operators who've had the experience of doing everything right in a presentation and still losing. Frame it around that specific experience before introducing the problem-finding reframe."
+  },
+  {
+    "concept": "Servant selling: off-ramp principle and fit question",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators with hesitant owners who say they'll think about it",
+    "actual_argument": "The close that feels safe is the one that names the exit. Operators who offer visible off-ramps and ask fit-disclosure questions close more and churn less.",
+    "bad_assumption_to_attack": "That offering a way out weakens your position. And that closing is about getting a yes, not about building a relationship that will survive the first difficult month.",
+    "behavior_change": "Build an explicit off-ramp into the close: name the exit clause, explain why you offer it (confidence, not uncertainty), and ask the fit-disclosure question before presenting the contract.",
+    "operator_example": "An operator closes a hesitant Delegator by offering a 90-day agreement with a 30-day mutual exit. The owner who was about to 'think about it' signs because the decision no longer feels irreversible. Six months later they're still a client because they chose to stay rather than felt trapped into it.",
+    "hook_options": [
+      "The listing appointment is a trap. Unless you remove the trap feeling.",
+      "Many operators lose hesitant owners because they make the yes feel permanent. The decision doesn't need to feel permanent to get a signature.",
+      "The operator who offers an easy no gets more yeses."
+    ],
+    "lead_in": "Pink's argument about the modern close is counterintuitive: making the exit visible reduces resistance and increases commitment. Not because it lowers the stakes, but because it removes the fear of being cornered.",
+    "angle": "Post 3 covers two close mechanics: the fit-disclosure question (actively inviting the owner to surface complicating factors before the contract is signed) and the off-ramp close (naming the exit clause as a signal of confidence). Scripts for both.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Newsletter this week goes deeper on the servant selling posture by owner type. Subscribe at the link below.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Attunement: perspective-taking", "Clarity: problem-finding"],
+    "notes": "This post has the most direct tactical application. Lead with the counterintuitive framing (offering an out makes yes more likely) before building to the scripts. Use the Delegator and Skeptic as the primary owner type examples since they respond most clearly to the off-ramp mechanic."
+  }
+]

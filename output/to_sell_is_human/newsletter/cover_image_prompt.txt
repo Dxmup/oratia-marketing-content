@@ -1,0 +1,31 @@
+Editorial newsletter cover image for a professional sales and hospitality publication called "VRM Sales Library."
+
+VISUAL CONCEPT:
+A warm, intimate scene of two people in conversation inside a well-appointed vacation rental living room — one person leaning forward attentively, the other speaking with quiet confidence. Natural afternoon light through large windows. The feel is a listing appointment that is going well: the operator is listening, not pitching. No laptops, no whiteboards, no obvious sales props. The room itself should feel like a thoughtfully managed vacation property — curated but lived-in, coastal or mountain aesthetic, nothing generic.
+
+STYLE:
+Editorial photography style, cinematic and warm. Shallow depth of field. Hospitality-adjacent. Understated professionalism. The image should feel like it belongs in a Bloomberg Businessweek feature on modern sales culture or an Architectural Digest profile that happens to also be about business. Not corporate. Not stock-photo.
+
+COLOR:
+Deep navy and warm cream as the base. Warm amber accent tones from the interior lighting. Soft natural light as the primary light source. No cold blues, no harsh shadows.
+
+TEXT:
+Do not embed any text in the generated image. Leave the upper left corner and lower third visually clear for text compositing in Canva after generation. The final image will have three text layers added manually:
+- Upper left: "VRM SALES LIBRARY" (small, uppercase, Montserrat Bold, amber)
+- Center or lower: "To Sell Is Human" (large, bold, white)
+- Below title: "Daniel H. Pink" (smaller, Montserrat Regular, warm cream)
+
+FORMAT: Landscape, 1200x644px
+
+STYLE REFERENCE: Editorial magazine header. Think Bloomberg Businessweek or Fast Company feature spread. Professional, warm, visually interesting without being loud.
+
+---
+GENERATION NOTES:
+- Recommended tool: Ideogram (ideogram.ai) or DALL-E 3 via ChatGPT
+- Generate the background scene only — no text in the image
+- After generation, open in Canva and add three text layers using the VRM Sales Library textmark spec (see COVER_IMAGE_CONVENTIONS.md):
+    1. "VRM SALES LIBRARY" — Montserrat ExtraBold, all caps, amber (#C8843A), tracked, upper left
+    2. "To Sell Is Human" — Montserrat Bold, large, white, center or lower center
+    3. "Daniel H. Pink" — Montserrat Regular, smaller, warm cream (#F5F0E8), directly below title
+- Save the Canva design as a template so future books only need the background image swapped and the two text lines updated
+- Export as: cover_image.png in this folder, under 2MB
