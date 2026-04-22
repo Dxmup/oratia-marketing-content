@@ -63,6 +63,43 @@ To generate the intro:
 
 **Intros are for LinkedIn only.** Do not generate intros for newsletters or twitter files.
 
+### 6b. Generate newsletter cover image for new books
+When processing a book for the first time, check whether `output/{book_slug}/newsletter/cover_image.png` exists. If it does not, generate it now.
+
+**1. Fetch the book cover ID from Open Library:**
+```bash
+curl -s "https://openlibrary.org/search.json?q={url-encoded+title+author}&limit=1"
+```
+Extract `cover_i` from `docs[0]`. If the field is missing or 0, skip cover generation — do not block the run.
+
+**2. Download the cover image:**
+```bash
+curl -sL "https://covers.openlibrary.org/b/id/{cover_i}-L.jpg" -o /tmp/{slug}-cover.jpg
+```
+If the file is smaller than 5KB it is a stub — skip cover generation.
+
+**3. Prepare a working copy of the HTML template:**
+- Copy `cover_template/cover_template.html` to `/tmp/{slug}-cover.html`
+- Edit the working copy:
+  - Replace the book title text inside the `.book-title` element
+  - Replace the author name text inside the `.author-name` element
+  - Replace the placeholder filename in the `.book-cover` `style` attribute with `{slug}-cover.jpg` (keep it as a relative filename so the HTTP server resolves it from the same directory)
+
+**4. Serve and screenshot:**
+- Start a Node.js HTTP server on port 62424 serving files from the temp directory where both the HTML and cover JPG live
+- Run browse:
+  ```
+  browse goto http://127.0.0.1:62424/{slug}-cover.html
+  browse viewport 1200x644
+  browse screenshot --clip 0,0,1200,644 output/{slug}/newsletter/cover_image.png
+  ```
+- Kill the server and delete the two temp files
+
+**5. Add to the processing log:**
+Add an entry for `output/{slug}/newsletter/cover_image.png` with `"status": "generated"` and today's date.
+
+**Cover image generation is a first-pass asset only.** Do not regenerate if `cover_image.png` already exists, even if the book is being re-sharpened. If generation fails for any reason (no Open Library result, stub download, server error), skip gracefully, note the failure, and continue — do not block the sharpening run.
+
 ### 7. Handle new files
 If you find a file in the `output/` folder that matches the target patterns below but is **not listed** in `processing_log.json`, add it to the log with `"status": "pending"` before this run's processing begins. It will be picked up on a future run.
 
@@ -74,7 +111,7 @@ Target file patterns:
 
 Ignore all other files (`review_*.json`, `gold_set_v1.json`, `tweets.json`, `threads.json`, `posting_log.json`, etc.).
 
-### 7. Verify formatting and character limits before committing
+### 8. Verify formatting and character limits before committing
 
 **For `.txt` files:**
 - No em dashes (`—`) anywhere in the file
@@ -90,10 +127,10 @@ Ignore all other files (`review_*.json`, `gold_set_v1.json`, `tweets.json`, `thr
 
 If any check fails, fix it before updating the processing log.
 
-### 8. Verify the log before committing
+### 9. Verify the log before committing
 Before staging any files for commit, read `processing_log.json` and confirm that every file sharpened in this run has `"status": "sharpened"` and `"sharpened_date"` set to today's date. List each file and its current log status explicitly. If any file is missing from the log or still shows `"pending"`, update it now. Do not proceed to the commit until every processed file is confirmed as `"sharpened"` in the log.
 
-### 9. Commit and push
+### 10. Commit and push
 After the log is verified, make a single commit with all changes including the updated `processing_log.json`.
 
 Commit message format:
@@ -103,7 +140,7 @@ Sharpen [book_slug]: [comma-separated list of file types processed]
 
 Example:
 ```
-Sharpen gap_selling: linkedin/intro, linkedin/post_1, linkedin/post_2, linkedin/post_3, newsletter, twitter/posts
+Sharpen gap_selling: linkedin/intro, linkedin/post_1, linkedin/post_2, linkedin/post_3, newsletter, newsletter/cover_image, twitter/posts
 ```
 
 Push to `origin master`.

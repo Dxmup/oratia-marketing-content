@@ -4,8 +4,14 @@
 ## Purpose
 Each newsletter edition gets one cover image. It serves as the visual header for the LinkedIn newsletter and can double as a social share card on X/Twitter.
 
-## Recommended Tool
-**Ideogram** (ideogram.ai) — handles embedded text better than most generators. DALL-E 3 via ChatGPT is the fallback.
+## Production Method (Automated via VRM Sharp)
+Cover images are generated automatically by VRM Sharp on a book's first sharpening pass. The process:
+1. Fetches the book cover from Open Library Covers API
+2. Injects the title, author, and cover image into `cover_template/cover_template.html`
+3. Screenshots the rendered HTML at 1200×644 via browse
+4. Saves to `output/{slug}/newsletter/cover_image.png`
+
+No manual Canva or Ideogram work needed. The HTML template in `cover_template/cover_template.html` is the canonical source for brand layout and visual spec. If the cover design needs a refresh, edit the template — it propagates to all future books automatically.
 
 ## Dimensions
 - **Primary format:** 1200 x 644 px (LinkedIn newsletter cover, ~1.9:1 ratio)
@@ -83,4 +89,4 @@ STYLE REFERENCE: Editorial magazine header, think Bloomberg Businessweek or Fast
 ```
 
 ## Processing Log Note
-Cover image prompts are not tracked in `processing_log.json` (that file tracks text content for the sharpening agent). Track cover image production manually or with a separate image log if needed.
+Cover images are tracked in `processing_log.json` with `"status": "generated"` (not `"sharpened"` — this distinguishes asset generation from text sharpening). VRM Sharp adds the entry automatically when it generates the image. If a cover image already exists, VRM Sharp skips regeneration on subsequent runs.
