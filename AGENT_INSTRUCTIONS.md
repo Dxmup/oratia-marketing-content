@@ -18,7 +18,9 @@ Do not skip this step. These files are your operating instructions.
 ### 2. Check the processing log
 Read `processing_log.json`. Find all files with `"status": "pending"`.
 
-Process a maximum of **5 files per run** to keep each commit focused and reviewable. Pick the first 5 pending files in the order they appear in the log.
+Identify the **first book** that has any pending files (by the order they appear in the log). Process all pending files for that book in a single run. Do not mix files from different books in one run — one run equals one book.
+
+If a book has a mix of sharpened and pending files, process only the pending ones. Do not re-process files already marked `"sharpened"`.
 
 If there are no pending files, commit nothing and stop. The run is complete.
 
@@ -96,12 +98,12 @@ After the log is verified, make a single commit with all changes including the u
 
 Commit message format:
 ```
-Sharpen [N] files: [book_slug/file, book_slug/file, ...]
+Sharpen [book_slug]: [comma-separated list of file types processed]
 ```
 
 Example:
 ```
-Sharpen 5 files: gap_selling/linkedin/post_1, gap_selling/linkedin/post_2, gap_selling/newsletter, the_jolt_effect/linkedin/post_1, the_jolt_effect/twitter/posts
+Sharpen gap_selling: linkedin/intro, linkedin/post_1, linkedin/post_2, linkedin/post_3, newsletter, twitter/posts
 ```
 
 Push to `origin master`.
@@ -115,7 +117,7 @@ Push to `origin master`.
 - Do not modify `output/migration_map.json`
 - Do not rename files or restructure folders
 - Do not alter structural keys in JSON files
-- Do not process more than 5 files per run
+- Do not mix files from different books in a single run
 - Do not re-process files already marked `"sharpened"` unless the file has been reset to `"pending"` manually
 - Do not commit without first completing step 8 (log verification). A run is not complete until the log reflects what was sharpened.
 
