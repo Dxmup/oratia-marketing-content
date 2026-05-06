@@ -28,15 +28,24 @@ Load the sharpened LinkedIn content, navigate to the LinkedIn posting interface,
 1. **Source**:
    - Read `output/{slug}/newsletter/newsletter.txt` (Main Article Body).
    - Read `output/{slug}/newsletter/feed_post.txt` (Sharing Post Body).
-2. **Navigate**: Go to LinkedIn Feed, click "Write article".
-3. **Draft Article**:
+   - Confirm `output/{slug}/newsletter/cover_image.png` exists locally.
+   - Construct the cover image URL:
+     `https://raw.githubusercontent.com/Dxmup/oratia-marketing-content/master/output/{slug}/newsletter/cover_image.png`
+2. **Post the newsletter share post via Buffer MCP**:
+   - Use `mcp__buffer__create_post` with:
+     - `text`: full content of `feed_post.txt`
+     - `assets.images[0].url`: the raw GitHub cover image URL above
+     - `assets.images[0].metadata.altText`: `"VRM Sales Library — [Book Title] newsletter cover"`
+     - `scheduling`: `addToQueue` (or set `dueAt` for Sunday @ 5:00 PM per `MASTER_POSTING_SCHEDULE.md`)
+3. **Navigate**: Go to LinkedIn Feed, click "Write article".
+4. **Draft Article**:
    - **Headline/Title Area**: Set the Title (e.g., "VRM Sales Library | [Book Title] | [Author]").
    - **Body Area**: Paste the **full content of `newsletter.txt`** into the "Write here" section.
-4. **Handoff**: Click the blue **"Next"** button (top right).
-5. **Compose Share Post**:
+5. **Handoff**: Click the blue **"Next"** button (top right).
+6. **Compose Share Post**:
    - On the next screen, paste the **content of `feed_post.txt`** into the "What do you want to talk about?" field.
-6. **Schedule**: Click the **clock icon**, set for Sunday @ 5:00 PM from `MASTER_POSTING_SCHEDULE.md`, click "Next".
-7. **Finalize**: Click "Schedule".
+7. **Schedule**: Click the **clock icon**, set for Sunday @ 5:00 PM from `MASTER_POSTING_SCHEDULE.md`, click "Next".
+8. **Finalize**: Click "Schedule".
 
 ## Selectors Reference
 - Start Post: `.share-box-feed-entry__trigger`
