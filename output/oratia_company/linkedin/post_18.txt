@@ -4,14 +4,16 @@ CHANNEL: Oratia company page
 
 PIPELINE VISIBILITY
 
-A manager who uses Oratia can see every deal her team is working, in every stage, in real time.
+Most VRM acquisition managers find out a deal is in trouble when the owner signs somewhere else.
 
-Not a weekly report. Not a status meeting. A live view.
+Not because their reps are hiding information. Because there's no system surfacing it. The rep knows the deal stalled. They just haven't gotten around to updating the spreadsheet, or the note they left two weeks ago doesn't reflect what happened on the call yesterday.
 
-She can see which rep has 12 leads in "First Contact" and zero in "Appointment Set." She can see which properties have been in "Proposal Sent" for three weeks. She can see which owners haven't been contacted in 30 days.
+Oratia gives the manager a live view of every deal in every stage across every rep. She can see which leads have gone 30 days without contact. She can see which rep has a backlog of first appointments with no second appointments scheduled. She can see which properties have been in "Proposal Sent" long enough that the owner has probably moved on.
 
-She can coach to specific situations instead of general habits.
+She finds out about the stalled deal in week two. Not after it closes somewhere else.
 
-Visibility isn't a reporting feature. It's a management tool.
+The conversation shifts from "what happened?" to "here's what we're going to do about it."
+
+[Screenshot: Pipeline view with multi-rep deal stages and activity indicators]
 
 #VRM #SalesManagement #VacationRentals #CRM #PropertyManagement

@@ -4,12 +4,18 @@ CHANNEL: Oratia company page
 
 POWER QUEUE
 
-Every morning, Oratia opens to a prioritized list of owner leads ranked by urgency, recency, and relationship health.
+Most acquisition reps start the day the same way.
 
-Not a spreadsheet you have to sort. Not a CRM you have to configure. A queue that tells you who to call first and why.
+They open their CRM, look at a list of 60 leads in no particular order, and spend 20 minutes deciding who to call. Some check the last contact date. Some go alphabetically. Some call whoever they remember from yesterday.
 
-Acquisition reps who work the Power Queue make more calls, hit fewer cold contacts, and spend less time deciding what to do next.
+That's not a sales process. That's guessing.
 
-The decision has already been made. Show up and execute.
+Oratia opens to a Power Queue: a ranked list of the leads that need attention today, ordered by urgency, relationship health, and time since last contact. The rep doesn't sort. They don't filter. They call the first name on the list.
+
+The difference isn't discipline. It's that the decision has already been made.
+
+Reps who work the Power Queue make more calls, waste less time on cold contacts, and finish the day knowing they worked the right leads, not just the loudest ones.
+
+[Screenshot: Power Queue view]
 
 #VRM #CRM #VacationRentals #OwnerAcquisition #PropTech

@@ -4,14 +4,18 @@ CHANNEL: Oratia company page
 
 CALL CAPTURE
 
-After every owner call, Oratia logs what happened.
+Here's what note-taking looks like in most VRM acquisition workflows.
 
-Not a note you write later, when you're already thinking about the next thing. An automatic record: who called, how long, what was said, what the owner's sentiment was, what the next step should be.
+The rep finishes a 20-minute call with an owner. They have three other calls queued, a guest issue in the background, and a listing appointment in two hours. They open the CRM and type something like "good call, follow up next week" before moving on.
 
-Six months from now, when a rep picks up this lead again, they don't need to reconstruct the history from a calendar entry and a vague memory.
+Six months later, when that lead resurfaces, "good call, follow up next week" tells them nothing.
 
-They open the timeline. They read the brief. They call.
+Oratia captures what actually happened. Every call is recorded, transcribed, and summarized automatically. The rep hangs up and the record is already there: what the owner said, what concern came up, what was promised, what the next step is.
 
-Full context, zero reconstruction.
+No note written three hours later. No memory required.
+
+When that lead comes back around in six months, the rep reads the brief and calls like no time has passed.
+
+[Screenshot: Call log entry with auto-populated summary]
 
 #VRM #CRM #VacationRentals #OwnerAcquisition #PropTech

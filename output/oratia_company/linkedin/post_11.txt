@@ -4,14 +4,18 @@ CHANNEL: Oratia company page
 
 AI CALL ANALYSIS
 
-After a rep hangs up with an owner, Oratia analyzes the call.
+A manager with four acquisition reps can't sit in on every call. So most coaching happens in one of two ways: a deal falls apart and the manager reconstructs what went wrong, or the quarterly review arrives and they give general feedback based on numbers alone.
 
-Not a transcription you have to read. A brief: what the owner's primary concern was, whether a commitment was made, what the recommended next step is, and where the rep could have handled something differently.
+Neither of those is coaching. One is a post-mortem and the other is a performance review.
 
-Managers don't have to sit in on calls to know how their reps are performing.
+After every call in Oratia, the rep gets a brief: what the owner's primary concern was, whether a commitment was made, what the recommended next step is, and where the call could have gone differently.
 
-Reps don't have to wait for a quarterly review to find out where they're losing deals.
+The manager gets the same view across all four reps. She can see that one rep pitches revenue before asking a single discovery question. She can see that another rep handles Skeptic owners well but loses momentum at the second appointment.
 
-The feedback loop closes after every call.
+She doesn't need to be on the calls. The pattern surfaces on its own.
+
+Coaching that specific produces improvement that sticks.
+
+[Screenshot: Post-call AI brief with owner concern, next step, and coaching note]
 
 #VRM #SalesCoaching #VacationRentals #CRM #PropTech

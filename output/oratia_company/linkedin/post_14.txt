@@ -4,16 +4,20 @@ CHANNEL: Oratia company page
 
 RELATIONSHIP TIMELINE
 
-Every owner in Oratia has a full relationship timeline.
+VRM owner relationships don't move in straight lines.
 
-Every call. Every email. Every note. Every commitment made, and whether it was followed up on.
+An owner expresses interest in March. Goes quiet in May because their spouse wants to self-manage through the summer. Reaches back out in September when the summer didn't go as planned. Has a new concern in October about a competitor's fee structure.
 
-When a rep picks up a lead that's been dormant for four months, they don't guess at the history. They read it.
+By November, when the rep finally has a serious close conversation, there are eight months of context behind it.
 
-When a manager reviews a rep's pipeline, they see actual activity, not a self-reported summary.
+In most CRMs, that context lives across a dozen scattered notes, three email threads, and whatever the rep can remember.
 
-When someone new joins the team and inherits a book of leads, they start informed, not from scratch.
+In Oratia, it's a single timeline. Every call, every message, every commitment made and whether it was kept. The rep opens it before the November call and reads the full history in two minutes.
 
-The relationship belongs to the company. Not to the person who built it.
+They walk in knowing what the owner has said, what they've worried about, and what they've been promised.
+
+That's not a CRM feature. That's the difference between a rep who sounds like they know this owner and one who sounds like they're starting over.
+
+[Screenshot: Full owner relationship timeline]
 
 #VRM #CRM #VacationRentals #PropertyManagement #OwnerAcquisition
