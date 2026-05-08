@@ -7,7 +7,7 @@ Property owners don't care about your software. They care about their broken rea
 
 Many VRM operators walk into an acquisition meeting and immediately open their laptop to show off their dynamic pricing algorithms, unified inbox, and noise monitoring sensors. They're losing the room before the pitch starts.
 
-Owners aren't making a feature-driven decision, or at least not yet. When you lead with capabilities, you trigger cognitive overload. The owner isn't thinking about API integrations. They're sitting there anxious, worried about strangers in their home, exhausted by the current state of their property, and quietly dreading whatever problem comes next. They don't want a software stack. They want someone to take the problem off their plate.
+When you lead with capabilities, you trigger cognitive overload. The owner isn't thinking about API integrations. They're anxious, worried about strangers in their home, dreading whatever problem comes next. They want someone to take the problem off their plate.
 
 THE CONTEXT-FIRST SEQUENCE
 
@@ -15,15 +15,15 @@ April Dunford's core principle: the solution doesn't land until the problem cont
 
 The sequence:
 
-STEP 1: Name the market shift. What has changed in the last 18 to 24 months that makes self-managing harder? ADR compression, review-algorithm dependency, direct booking becoming a meaningful revenue share. Give them a picture of what's changed.
+STEP 1: Name the market shift. What has changed in the last 18-24 months that makes self-managing harder? ADR compression, review-algorithm dependency, direct booking share. Give them a picture of what's changed.
 
 STEP 2: Describe the two failed alternatives. Self-management: working nights and weekends, answering guest texts at 11 PM, learning revenue management in your spare time. The national firm: a call center in another state, a revolving door of local managers, your home treated as one of ten thousand identical doors.
 
 STEP 3: Introduce the third way. Only after the problem is felt and the alternatives have been found wanting do you present your service. At this point, it arrives as the inevitable solution rather than one option on a menu.
 
-STEP 4: Connect features to outcomes. Present each capability not as a feature, but as the specific mechanism that delivers the reality the owner now wants. "Dynamic pricing" is a feature. "Your rates optimize daily so you capture top-of-market revenue without ever thinking about pricing again" is an outcome.
+STEP 4: Connect features to outcomes. Each capability is the specific mechanism that delivers the reality the owner wants. "Dynamic pricing" is a feature. "Your rates optimize daily so you capture top-of-market revenue without thinking about pricing again" is an outcome.
 
-Script: "Before I walk you through what we do, I want to spend two minutes on what's changed in this market. Peak ADRs have compressed. Review scores now carry more algorithmic weight than they did two years ago. And owners who've figured out direct booking are capturing a revenue premium that most others are leaving entirely on the table. The managers who haven't adapted are underperforming the market by 15 to 20%. Self-managing in this environment requires more sophistication than it did three years ago, not less. That's the backdrop. Now let me show you what we've built for it."
+Script: "Before I walk you through what we do, I want to spend two minutes on what's changed. Peak ADRs have compressed. Review scores carry more algorithmic weight than two years ago. Owners who've figured out direct booking are capturing a premium that most others leave on the table. Managers who haven't adapted are underperforming the market by 15 to 20%. Self-managing requires more sophistication than it did, not less. That's the backdrop. Now let me show you what we've built for it."
 
 Lead with the diagnosis, not the cure.
 
