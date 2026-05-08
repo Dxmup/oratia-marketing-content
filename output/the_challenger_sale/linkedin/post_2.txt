@@ -20,6 +20,7 @@ THE OBSERVATION: Something specific and verifiable about the owner's comp set. "
 THE DIAGNOSIS: What's causing the gap. "Those listings are built around the summer family segment, the dominant booking profile in this zip code. Yours isn't."
 
 THE IMPLICATION: What it means for the owner. "You're leaving the highest-value guest profile on the table and suppressing your shoulder season rates."
+
 DATA SOURCES TO PULL FROM WEEKLY
 
 KeyData or AirDNA: Pull ADR and occupancy for the top 10% of performers in every neighborhood where you're prospecting. Know the gap between median and top-quartile performance. That gap is your insight.
