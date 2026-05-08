@@ -1,0 +1,19 @@
+SERIES: Company | Post 1 of 3
+SCHEDULED: Monday, May 25, 2026 @ 9:00 AM
+CHANNEL: Oratia company page
+
+WHY WE BUILT ORATIA
+
+Every CRM we tried was designed for someone else.
+
+HubSpot was designed for B2B SaaS companies with dedicated sales teams. Salesforce was designed for enterprises with Salesforce admins. Generic CRMs were designed for industries where a "contact" doesn't also own a $600,000 asset they care deeply about.
+
+Vacation rental acquisition is different. The stakes per conversation are high. The operator is time-poor. The relationship is personal before it is commercial.
+
+Oratia is built for that specific workflow. Nothing had to be configured. No fields had to be renamed. No consultant was required.
+
+It opens to your pipeline. It knows your owners. It tells you what to do next.
+
+Built by operators, for operators.
+
+#VRM #CRM #VacationRentals #PropTech #StartupStory

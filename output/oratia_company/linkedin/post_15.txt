@@ -1,0 +1,19 @@
+SERIES: The Problem | Post 4 of 5
+SCHEDULED: Monday, June 29, 2026 @ 9:00 AM
+CHANNEL: Oratia company page
+
+WHY GENERIC CRMS FAIL VRM OPERATORS
+
+Generic CRMs are built for a different kind of sale.
+
+In a standard B2B sales process, a "contact" is a professional at a company. The relationship is commercial from the first conversation. The product is a subscription.
+
+In VRM acquisition, the "contact" is a homeowner. The asset they're considering handing over is often their most valuable possession, and in many cases, one they're emotionally attached to.
+
+The fields don't map. The workflows don't translate. The language is wrong.
+
+An "opportunity stage" that says "Proposal Sent" doesn't account for the owner who loved the appointment but is waiting for their spouse to finish a kitchen renovation before committing.
+
+Oratia is built for the actual dynamics of the conversation, not a generic version of it.
+
+#VRM #CRM #VacationRentals #PropTech #PropertyManagement

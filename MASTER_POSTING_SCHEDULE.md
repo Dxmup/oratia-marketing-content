@@ -30,6 +30,39 @@ This is the canonical schedule for the Book-to-LinkedIn Content Factory.
 | **16** | Aug 03 - Aug 09 | **Elite Sales Strategies** | Scheduled |
 | **17** | Aug 10 - Aug 16 | **$100M Offers** | Scheduled |
 
+---
+
+## Oratia Company Page Schedule
+
+Channel: linkedin.com/company/oratia-io
+Cadence: Monday @ 9:00 AM and Thursday @ 9:00 AM
+Source files: `output/oratia_company/linkedin/post_XX.txt`
+
+Series rotation (interleaved — no two consecutive posts from same series):
+- **P** = The Problem (5 posts)
+- **PR** = The Product (6 posts)
+- **S** = Operator Scenarios (6 posts)
+- **OI** = Owner Intelligence (5 posts)
+- **C** = Company (3 posts)
+
+| Week | Monday | Thursday |
+| :--- | :--- | :--- |
+| **4** | May 11 — post_01 (P) | May 14 — post_02 (PR) |
+| **5** | May 18 — post_03 (S) | May 21 — post_04 (OI) |
+| **6** | May 25 — post_05 (C) | May 28 — post_06 (P) |
+| **7** | Jun 01 — post_07 (PR) | Jun 04 — post_08 (S) |
+| **8** | Jun 08 — post_09 (OI) | Jun 11 — post_10 (P) |
+| **9** | Jun 15 — post_11 (PR) | Jun 18 — post_12 (S) |
+| **10** | Jun 22 — post_13 (OI) | Jun 25 — post_14 (PR) |
+| **11** | Jun 29 — post_15 (P) | Jul 02 — post_16 (S) |
+| **12** | Jul 06 — post_17 (OI) | Jul 09 — post_18 (PR) |
+| **13** | Jul 13 — post_19 (S) | Jul 16 — post_20 (OI) |
+| **14** | Jul 20 — post_21 (PR) | Jul 23 — post_22 (S) |
+| **15** | Jul 27 — post_23 (P) | Jul 30 — post_24 (C) |
+| **16** | Aug 03 — post_25 (C) | — |
+
+---
+
 ## Twitter (X) Daily Drip Schedule (Suggested)
 - **Daily @ 8:15 AM**: High-impact "nugget" or quote.
 - **Mon/Wed/Fri @ 2:00 PM**: Deep insight/link to LinkedIn theme.
