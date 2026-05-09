@@ -1,0 +1,43 @@
+VRM Sales Library | The Experience Economy | B. Joseph Pine II & James H. Gilmore
+Post 3 of 3
+
+THE OWNER EXPERIENCE AUDIT
+
+Owners don't score their property manager on average. They score on their worst moment.
+
+Pine and Gilmore are specific about this: the experience is only as strong as its weakest touchpoint. Negative cues don't average out. They anchor. Most VRM operators are adding positive touchpoints without auditing the negative ones. That is exactly backwards.
+
+THE AUDIT
+
+Go through every touchpoint in the first 90 days of a new owner relationship. For each one, ask: positive cue, neutral, or negative cue?
+
+The onboarding call where you walk through property setup together. Positive cue.
+
+The DocuSign link that arrives three days later with no cover message or context. Negative cue.
+
+The maintenance issue handled in 24 hours with an update text and a photo. Positive cue.
+
+The 9 PM maintenance text: "something came up with the hot water heater," no resolution until morning. Negative cue.
+
+The revenue statement with a brief note on performance. Positive cue.
+
+The revenue statement on the 15th with no narrative, no comparison to last month, no explanation of fee deductions. Neutral at best.
+
+Most operators who do this audit are surprised by how many neutrals and negatives they have in the first 30 days. The onboarding packet they're proud of is one positive in a sequence that quickly becomes forgettable.
+
+THE PRIORITY
+
+Before you add new positive experiences, eliminate the worst negative cues. The emotional ledger is not symmetric. Owners weight bad experiences more heavily than good ones. A genuinely bad moment at day 30 can erase the goodwill from a strong onboarding week.
+
+Two fixes with disproportionate impact:
+
+1. Every contract document gets a brief cover note. Three sentences: what this is, what to do if something looks wrong, and who to call. This converts a neutral into a positive and eliminates the confusion that generates unnecessary owner anxiety.
+
+2. Maintenance texts that open a loop must close the loop. "Something came up with the hot water heater" must be followed by a resolution update before end of evening. Owners who go to sleep not knowing what happened wake up with a churn mindset.
+
+Field note: The Controller owner is hit hardest by open-loop maintenance communication. For this owner type, an unresolved maintenance issue overnight can undo weeks of good performance. The fix is operational, not relational: close the loop in writing before 10 PM.
+
+---
+Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #ExperienceEconomy

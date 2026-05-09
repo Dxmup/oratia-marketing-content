@@ -1,0 +1,29 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three LinkedIn posts and the newsletter meet the standard for substance, VRM specificity, and Chad's voice. Post 1 establishes the framework with a strong contrarian angle. Post 2 applies it to the listing appointment with a usable diagnostic and a concrete script. Post 3 is the most operationally actionable of the three. The newsletter genuinely extends rather than repeats the posts, with the transformation tier section being the most novel and useful content in the set.",
+  "strengths": [
+    "Post 1 opens with the core claim before setting it up, which is the right priority for LinkedIn's See More cutoff. 'Commoditization is not something that happens to you' is a hook that earns the read.",
+    "Post 2 includes a specific script ('Before I show you anything about how we work, I want to understand something...') that sounds like something a real operator would say, not a sales training manual.",
+    "Post 3 is the strongest operationally. The negative cue audit with specific touchpoint examples (DocuSign, 9 PM maintenance text, revenue statement with no narrative) gives operators something to act on immediately.",
+    "Newsletter correctly extends rather than repeats: the transformation tier section, the referral flywheel framing, and the specific onboarding touchpoints are all substantive additions not covered in the posts.",
+    "Field notes across all three posts are owner-type specific: Skeptic in post 2, Controller in post 3. This is correct usage of the framework.",
+    "Twitter posts have appropriate variety: sharp opinions, recognition posts, an engagement question, a story detail, and a thread. The thread structure is clean and each tweet can stand alone.",
+    "No consultant-speak or hollow intensifiers detected across any piece."
+  ],
+  "problems": [
+    "Post 1 is the longest of the three at approximately 600 words. This is within the 2,900 character limit but the Field note could be tightened slightly.",
+    "The newsletter's NEXT WEEK section is minimal and generic. It could reference the specific next book title if known, or otherwise lean into the framework tease more specifically.",
+    "The author engagement tweet could be sharper. 'The gap shows up in churn rates' is slightly vague as a closing observation."
+  ],
+  "required_fixes": [
+    "Verify character count on all three posts does not exceed 2,900 characters including the CTA footer.",
+    "Confirm the opening 210 characters of each post are strong enough to stop the scroll without the See More expansion.",
+    "The newsletter NEXT WEEK section should be sharpened or made more specific if the next book in the queue is known."
+  ],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 8,
+  "style_match_score": 9,
+  "format_compliance_score": 10
+}

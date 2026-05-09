@@ -1,0 +1,164 @@
+{
+  "book": "The Experience Economy",
+  "book_slug": "the_experience_economy",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "commoditization as a choice",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "Commoditization isn't something that happens to VRM operators. It's something they build, one templated listing appointment at a time.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_experience_economy",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "commoditization_is_a_choice",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "service vs experience tier",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "The owner portal quality, the response-time guarantee, the five-star Google reviews. These are table stakes, not differentiators. Every manager in the market has versions of all of them.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_experience_economy",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "service_tier_differentiation",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "listing appointment design",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "Six months after signing, ask an owner why they chose their manager. It's almost never the fee or the software. It's a moment. One question that felt different. One thing the manager said no one else had said.\n\nMost VRM operators design zero moments into their listing appointment.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_experience_economy",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "designed_moments_in_listing_appointment",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "negative cues in owner experience",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Owners don't score their property manager on average. They score on their worst moment. A 9 PM maintenance text with no resolution is worth more than three months of smooth operations in terms of churn risk.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_experience_economy",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "negative_cue_anchoring",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "engagement",
+      "source_theme": "owner experience audit",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Go through every owner touchpoint in your first 30 days. Mark each one: positive cue, neutral, or negative cue.\n\nFor most operators, the neutrals and negatives outnumber the positives by a wide margin.\n\nWhat's the worst negative cue you've found in your own process?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "the_experience_economy",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "owner_experience_audit",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "transformation economy in VRM",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "The VRM manager who sends an annual review showing where the property sits relative to comparables, what one renovation would do to ADR, and what a pricing shift means for Q4 is not delivering a service.\n\nThey're changing how the owner thinks about the property. That owner doesn't leave.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_experience_economy",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "transformation_tier_retention",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "recognition",
+      "source_theme": "designed vs defaulted touchpoints",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Friday",
+      "text": "Every touchpoint in the owner relationship is either designed or defaulted. Defaulted touchpoints produce forgettable service. You can't build a referral flywheel on forgettable.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_experience_economy",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "designed_vs_defaulted",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "experience economy series wrap",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper on The Experience Economy in this week's VRM Sales Library newsletter. The full value progression mapped onto VRM owner acquisition and retention, including what it looks like to move into the transformation tier. Link in bio.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_experience_economy",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "newsletter_promo",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "experience economy applied to service businesses",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Wednesday",
+      "text": "Applying Pine and Gilmore's Experience Economy to VRM owner acquisition this week. The operators competing on management fee and portal quality are in the service tier. The ones who design the listing appointment and the first 90 days are in the experience tier. The gap shows up in churn rates.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_experience_economy",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "service_to_experience_tier",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "listing appointment as experience design",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM listing appointments have good content and no design. That's why they end in 'let me think about it.'",
+        "Pine and Gilmore's framework: every interaction is either designed or defaulted. Defaulted appointments are forgettable. Forgettable appointments lose to whoever is cheapest.",
+        "Three questions to audit your listing appointment as an experience designer: What's your theme? What negative cues exist right now? What's the one moment the owner will still remember next week?",
+        "If you can't answer the third one, the appointment is forgettable. And forgettable is a commodity position.",
+        "The operators with the lowest churn rarely have the lowest fees. They have the most designed owner experience. Different problem, different fix."
+      ],
+      "source_trace": {
+        "book_slug": "the_experience_economy",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "listing_appointment_experience_design",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    }
+  ]
+}
