@@ -1,0 +1,174 @@
+{
+  "book": "The Mom Test",
+  "book_slug": "the_mom_test",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "mom test for owner conversations",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "VRM listing appointments feel like discovery. Most of them are validation exercises. The questions are designed to get a yes, and they do. That's the whole problem.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "the_mom_test",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "mom_test_question_design",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "hypothetical vs historical questions",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "\"Are you happy with your current manager?\" gets you \"mostly, yeah.\"\n\n\"What was the last thing that frustrated you about how this property is managed?\" gets you the actual appointment.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "the_mom_test",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "past_behavior_questions",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "sharp_opinion",
+      "source_theme": "compliments are not commitments",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "The owner who says \"this is exactly what I've been looking for\" and asks zero questions about transition or fees is not your best prospect. They're your most polite one.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "the_mom_test",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "compliments_not_commitments",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "danger of enthusiasm",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Owners who ask hard questions about transition logistics and fee structure are more likely to sign than owners who tell you the platform looks impressive.\n\nHard questions mean the decision is real for them.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "the_mom_test",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "danger_of_enthusiasm",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "diagnostic",
+      "source_theme": "specifics vs generalities",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "\"I'd like better communication\" tells you almost nothing about where an owner is or how serious the pain is.\n\n\"The manager didn't call back for two days during a guest complaint and I drove there at 9 PM\" tells you everything.\n\nAsk about the incident, not the preference.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "the_mom_test",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "specifics_vs_generalities",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "failure modes in owner questions",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "Three questions VRM operators ask that sound like discovery but aren't:\n\n\"Would you like better maintenance communication?\" Invites yes, produces no information.\n\"We use dynamic pricing, which most owners prefer. Are you open to that?\" Solution before diagnosis.\n\"You're probably frustrated with how your current manager handles communication, right?\" Confirming your assumption, not theirs.\n\nAll three get agreement. None of them get truth.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "the_mom_test",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "failure_modes_in_questions",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "owner enthusiasm as signal",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Curious what pattern others are seeing: are the owners who sign usually the ones who were warm and easy in the appointment, or the ones who pushed back and asked harder questions?\n\nI've found it's more often the second group.",
+      "engagement_prompt": true,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "the_mom_test",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "enthusiasm_vs_intent",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "mom test applied to vrm",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper this week in the VRM Sales Library on Rob Fitzpatrick's Mom Test applied to listing appointments: the three question failure modes, what owner enthusiasm actually signals, and when to pivot from discovery to solution. Newsletter is up at linkedin.com/in/chadhensel.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "the_mom_test",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "week_summary",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "mom test framework",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Tuesday",
+      "text": "Been applying @robfitz's Mom Test to VRM listing appointments this week. The principle translates directly: owners answer the question you actually asked, and most listing appointment questions are designed to get a yes. Useful framework for anyone in a relationship-driven sale.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "the_mom_test",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "mom_test_framework",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "question audit for listing appointments",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Before your next listing appointment, write down the three questions you plan to ask. Then ask yourself: does each one allow the owner to give me genuinely negative information?",
+        "\"Are you happy with your current situation?\" No.\n\"What would better management look like to you?\" No.\n\"What was the last thing that frustrated you about how this property is managed?\" Yes.",
+        "Hypothetical questions get hypothetical answers. Past-behavior questions get real diagnosis. The owner's last bad experience tells you more than any preference they can state.",
+        "This is the core of Fitzpatrick's Mom Test applied to VRM discovery. Owners aren't lying. They're answering the question you asked. The question design is the problem.",
+        "Three-minute pre-appointment audit. Write the questions. Test each one. Restructure the ones that only invite agreement. Do it before the next appointment."
+      ],
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "the_mom_test",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "question_audit",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}
