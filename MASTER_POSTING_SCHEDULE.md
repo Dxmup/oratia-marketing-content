@@ -8,7 +8,7 @@ This is the canonical schedule for the Book-to-LinkedIn Content Factory.
 - **Post 3**: Thursday @ 10:40 AM
 - **Newsletter**: Sunday @ 5:00 PM
 
-## 17-Week Calendar (2026)
+## 50-Week Calendar (2026–2027)
 
 | Week | Dates | Book Title | Status |
 | :--- | :--- | :--- | :--- |
@@ -29,6 +29,39 @@ This is the canonical schedule for the Book-to-LinkedIn Content Factory.
 | **15** | Jul 27 - Aug 02 | **Exactly What to Say** | Scheduled |
 | **16** | Aug 03 - Aug 09 | **Elite Sales Strategies** | Scheduled |
 | **17** | Aug 10 - Aug 16 | **$100M Offers** | Scheduled |
+| **18** | Aug 18 - Aug 23 | **To Sell Is Human** | Scheduled |
+| **19** | Aug 25 - Aug 30 | **Predictably Irrational** | Scheduled |
+| **20** | Sep 1 - Sep 6 | **Thinking, Fast and Slow** | Scheduled |
+| **21** | Sep 8 - Sep 13 | **The Lost Art of Closing** | Scheduled |
+| **22** | Sep 15 - Sep 20 | **What Great Salespeople Do** | Scheduled |
+| **23** | Sep 22 - Sep 27 | **Made to Stick** | Scheduled |
+| **24** | Sep 29 - Oct 4 | **Eat Their Lunch** | Scheduled |
+| **25** | Oct 6 - Oct 11 | **Contagious** | Scheduled |
+| **26** | Oct 13 - Oct 18 | **The Power of Habit** | Scheduled |
+| **27** | Oct 20 - Oct 25 | **Atomic Habits** | Scheduled |
+| **28** | Oct 27 - Nov 1 | **Scientific Advertising** | Scheduled |
+| **29** | Nov 3 - Nov 8 | **New Sales. Simplified.** | Scheduled |
+| **30** | Nov 10 - Nov 15 | **Demand-Side Sales 101** | Scheduled |
+| **31** | Nov 17 - Nov 22 | **Pre-Suasion** | Scheduled |
+| **32** | Nov 24 - Nov 29 | **Nudge** | Scheduled |
+| **33** | Dec 1 - Dec 6 | **The Catalyst** | Scheduled |
+| **34** | Dec 8 - Dec 13 | **Selling to VITO** | Scheduled |
+| **35** | Dec 15 - Dec 20 | **Sell Without Selling Out** | Scheduled |
+| **36** | Dec 22 - Dec 27 | **Decisive** | Scheduled |
+| **37** | Dec 29 - Jan 3 | **Sell the Way You Buy** | Scheduled |
+| **38** | Jan 5 - Jan 10 | **Agile Selling** | Scheduled |
+| **39** | Jan 12 - Jan 17 | **Let's Get Real or Let's Not Play** | Scheduled |
+| **40** | Jan 19 - Jan 24 | **The Paradox of Choice** | Scheduled |
+| **41** | Jan 26 - Jan 31 | **Obviously Awesome** | Scheduled |
+| **42** | Feb 2 - Feb 7 | **The Science of Selling** | Scheduled |
+| **43** | Feb 9 - Feb 14 | **Thinking in Bets** | Scheduled |
+| **44** | Feb 16 - Feb 21 | **The Experience Economy** | Scheduled |
+| **45** | Feb 23 - Feb 28 | **The Mom Test** | Scheduled |
+| **46** | Mar 2 - Mar 7 | **Breakthrough Advertising** | Scheduled |
+| **47** | Mar 9 - Mar 14 | **The Qualified Sales Leader** | Scheduled |
+| **48** | Mar 16 - Mar 21 | **Building a StoryBrand** | Scheduled |
+| **49** | Mar 23 - Mar 28 | **SNAP Selling** | Scheduled |
+| **50** | Mar 30 - Apr 4 | **Value Proposition Design** | Scheduled |
 
 ---
 
