@@ -1,0 +1,10 @@
+Book: Selling to VITO
+Author: Anthony Parinello
+Slug: selling_to_vito
+
+Cover image for VRM Sales Library newsletter. Use the standard cover_template.html with:
+- book-title: Selling to VITO
+- author-name: Anthony Parinello
+- book-cover image: search Open Library for "Selling to VITO Anthony Parinello"
+
+Output: output/selling_to_vito/newsletter/cover_image.png at 1200x644px.

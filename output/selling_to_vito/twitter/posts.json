@@ -1,0 +1,149 @@
+{
+  "book": "Selling to VITO",
+  "book_slug": "selling_to_vito",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "hidden decision-maker",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "Most VRM listing appointments that end with 'sounds great, I'll think about it' didn't fail because of the pitch. They failed because the person in the room couldn't actually say yes.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "selling_to_vito",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "hidden_decision_maker",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "co-decision-maker in VRM",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "The spouse who wasn't at the listing appointment is often the one who kills the deal. One question prevents most of this: 'Is there anyone else who should be part of this conversation before we get into the details?'",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "selling_to_vito",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "hidden_decision_maker",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "feature vs outcome language",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "Owners don't buy your software. They buy what it produces. 'We use dynamic pricing' requires them to do translation work. '15 to 22 percent higher seasonal revenue' doesn't. Most VRM pitches force owners to do work that should have been done in prep.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "selling_to_vito",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "outcome_language",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "equal business stature",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Wanting the listing too visibly is a liability. Owners hand major assets to people they trust, and an operator who adjusts their position under pressure signals they'll adjust their standards under pressure too.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "selling_to_vito",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "equal_business_stature",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "story_detail",
+      "source_theme": "qualifying opener",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "The listing appointment opener that changes the dynamic: 'Before I show you what we do, I want to make sure we're the right fit for each other. We're selective about properties, and I have a few questions.' Owner's posture shifts in 60 seconds.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "selling_to_vito",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "equal_business_stature",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "decision-maker identification",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Curious how you handle the co-decision-maker situation in VRM appointments. Do you ask upfront who else is involved, or do you find out after the fact when the deal stalls? What's worked?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "selling_to_vito",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "hidden_decision_maker",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "recognition",
+      "source_theme": "Investor owner type and VITO",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "The Investor owner in VRM is Parinello's VITO. They decide fast, they test for confidence, and they will disengage from any operator who softens under pressure. Outcome language from sentence one. No warm-up.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "selling_to_vito",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "vito_owner_type_mapping",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "VRM Sales Library series",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "This week's VRM Sales Library newsletter maps Parinello's VITO personality framework onto all six VRM owner types. Different registers, different outcomes. Worth reading before your next listing appointment.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "selling_to_vito",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "vito_owner_type_mapping",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "feature-to-outcome translation",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Here's an exercise that takes 15 minutes and improves every listing appointment: take every sentence in your pitch that starts with 'We...' and rewrite it as an outcome the owner experiences.",
+        "'We have dynamic pricing software' becomes '15 to 22 percent higher revenue in the first season.'",
+        "'We have a 24/7 guest line' becomes 'Most owners tell us their after-hours calls drop 90 percent within 60 days.'",
+        "Same service. Different register. The second version doesn't require the owner to do any translation work. Decision-makers don't translate. They decide based on what they hear."
+      ],
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "selling_to_vito",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "outcome_language",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    }
+  ]
+}

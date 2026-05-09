@@ -45,6 +45,7 @@ Only list a book here when its output folder and core files actually exist on di
 - Pre-Suasion — processed
 - Nudge — processed
 - The Catalyst — processed
+- Selling to VITO — processed
 
 ## Notes
 - Update this file when new per-book folders are created and verified.

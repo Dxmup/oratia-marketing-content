@@ -1,0 +1,26 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three LinkedIn posts and the newsletter meet the depth and specificity standard. Post 1 uses a personal failure scenario to anchor the hidden decision-maker concept, which grounds it immediately. Post 2 delivers the feature-to-outcome translation as a usable exercise. Post 3 provides a specific script opener for EBS that sounds like something an operator would actually say. Newsletter extends all three with the VITO personality matrix mapped onto VRM owner types, which is the newsletter's strongest distinctive contribution.",
+  "strengths": [
+    "Post 1's personal failure scenario (the wife who killed the deal) is the strongest opening in the batch. It earns the conceptual framework by starting with the consequence.",
+    "Post 2's side-by-side translation pairs are immediately actionable. This is a post operators will screenshot and use in appointment prep.",
+    "Post 3's qualifying opener script is specific and tested-sounding. 'We're selective about the properties we take on' changes the posture of the appointment from the first sentence.",
+    "Newsletter's owner-type-to-VITO mapping is a genuine extension of the posts, not a recap. Each owner type gets a distinct prescription rather than a generic observation.",
+    "Field notes in posts 1 and 3 are owner-type-specific rather than generic, which is the standard the style guide requires."
+  ],
+  "problems": [
+    "Post 2's 'Decision-makers speak in outcomes' is a slightly abstract opener. Could be sharper by opening with the consequence of feature language rather than a principle statement.",
+    "Newsletter's CONTROLLER section is slightly longer than it needs to be. Could tighten by one sentence."
+  ],
+  "required_fixes": [
+    "No em dashes found in any file. Packaging format verified across all three posts. CTA footer intact.",
+    "Character counts are within limits.",
+    "No fixes required before approval."
+  ],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}
