@@ -98,3 +98,38 @@ To check sharpening backlog: `processing_log.json` — look for `status: pending
 - Post 3: Thursday 10:40 AM
 - Newsletter: Sunday 5:00 PM
 - X daily drip: 8:15 AM nugget, Mon/Wed/Fri 2:00 PM insight, Sat 10:00 AM thread, Sun 5:00 PM newsletter promo
+
+---
+
+## Scheduling posts via Buffer MCP
+
+Posts are scheduled programmatically via the Buffer MCP tool (`mcp__buffer__create_post`).
+
+**Channel IDs (Oratia "My Organization"):**
+- Chad Hensel personal LinkedIn: `69e92e76031bfa423c3154a4`
+- Oratia.io company page: `69ff45835c4c051afa29efa4`
+
+**Oratia company page cadence:** Monday + Thursday @ 9:00 AM EDT (`-04:00` May–Nov, `-05:00` Dec–Mar)
+
+**Image handling — IMPORTANT:**
+The Buffer API requires publicly hosted image URLs — it cannot accept local file paths. Before scheduling any post that includes an image:
+
+1. Upload the image to Vercel Blob using the token in `oratia/.env.local` (`BLOB_READ_WRITE_TOKEN`):
+   ```bash
+   curl -s -X PUT "https://blob.vercel-storage.com/oratia-company/{filename}.png" \
+     -H "Authorization: Bearer {BLOB_READ_WRITE_TOKEN}" \
+     -H "Content-Type: image/png" \
+     -H "x-api-version: 7" \
+     --data-binary @output/oratia_company/linkedin/{filename}.png
+   ```
+2. Use the returned `url` field as the image URL in `create_post`.
+
+**Images for Oratia company posts (already uploaded to Vercel Blob):**
+| Post | Image file | Blob URL |
+|------|-----------|----------|
+| post_02 | post_02alt_image.png | `https://med2hcizshekqlqq.public.blob.vercel-storage.com/oratia-company/post_02alt_image-GeXPO1IAuksabBQliLqa5OL4zlcQfY.png` |
+| post_07 | post_11_image.png | `https://med2hcizshekqlqq.public.blob.vercel-storage.com/oratia-company/post_11_image-zJoZTNZw0L8oW45UF9z07JtgTq927a.png` |
+| post_11 | post_11_image.png | (same URL as post_07) |
+| post_14 | post_14_image.png | upload when scheduling |
+| post_18 | post_18_image.png | upload when scheduling |
+| post_21 | post_21a_image.png + post_21b_image.png | upload when scheduling (two images) |
