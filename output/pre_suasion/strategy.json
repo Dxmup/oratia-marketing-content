@@ -1,0 +1,98 @@
+[
+  {
+    "concept": "Pre-Suasion Privileged Moments — The five minutes before your pitch matter more than the pitch",
+    "best_format": "long_form",
+    "post_type": "contrarian_take",
+    "target_audience": "VRM operators running listing appointments",
+    "actual_argument": "The listing appointment is won or lost before the pitch begins. The property walk, the opening exchange, and the first question the operator asks prime the owner's mental state for everything that follows. Operators who treat this as setup time are wasting the highest-leverage moment in the appointment.",
+    "bad_assumption_to_attack": "The pitch is where I win or lose the appointment.",
+    "behavior_change": "Treat the five minutes before the pitch as deliberately as the pitch itself. Use the opening exchange to prime the owner's attention toward the problem you solve before you describe the solution.",
+    "operator_example": "An operator walks from the car to the front door with the owner. During that walk they mention: 'I was looking at the comparable properties in your area before I came over. A few of them are sitting at 58% occupancy right now. That's typical for self-managed properties in this market, and it's exactly the gap we target.' The pitch hasn't started. The frame has.",
+    "hook_options": [
+      "The listing appointment is won in the first five minutes. Not the last twenty.",
+      "VRM operators prepare for the pitch and forget to prepare for the setup.",
+      "Robert Cialdini calls it the privileged moment. VRM operators call it small talk. They're not the same thing."
+    ],
+    "lead_in": "Cialdini's Pre-Suasion is about influence that happens before the message arrives. For VRM operators, that moment is specific and reproducible.",
+    "angle": "Reframe the pre-pitch minutes as the highest-leverage part of the appointment. Teach the mechanism: what happens before the pitch primes how the pitch lands. Give the reader a concrete opening sequence they can use next week.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "follow-focused: following this week's series",
+    "cluster_role": "pillar",
+    "companion_ideas": ["Channeling Attention", "Focusing Questions"],
+    "notes": "Post 1 of the series. Lead with the counter-intuitive claim: the pitch isn't where you win. The pre-pitch setup is. Then teach the mechanics and give a concrete example of what pre-suasive appointment opening looks like."
+  },
+  {
+    "concept": "The Focusing Question — Controlling the decision frame before you pitch",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators doing owner acquisition and listing appointments",
+    "actual_argument": "The questions you ask before you pitch don't just gather information. They direct the owner's attention to the problem your service solves, which makes that problem the lens through which the entire appointment is evaluated. The right opening question is not discovery; it's pre-suasion.",
+    "bad_assumption_to_attack": "Discovery questions are for gathering information. The pitch is for making the case.",
+    "behavior_change": "Replace generic discovery questions with focused questions that channel the owner's attention to their operational pain before any capabilities are presented. The question primes the frame; the pitch fills it.",
+    "operator_example": "Generic: 'Tell me a little about the property and how things are going.' Pre-suasive: 'Before I walk you through what we do, I want to understand what's actually costing you the most right now, not just in dollars but in time and headspace. What's the one thing you most wish wasn't your problem?' Same intent, different frame set.",
+    "hook_options": [
+      "The best question in a VRM listing appointment is the one you ask before you start pitching.",
+      "You don't win a listing appointment with a better answer. You win it with a better question.",
+      "What VRM operators call discovery, Cialdini calls pre-suasion."
+    ],
+    "lead_in": "Cialdini's research on focusing questions shows that where attention goes, importance follows. The operator who controls the first question controls the frame.",
+    "angle": "Teach the distinction between information-gathering questions and pre-suasive focusing questions. Give a specific set of focusing questions that channel owner attention toward operational pain. Show how the subsequent pitch lands differently when the frame is set first.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "follow-focused: weekly newsletter at linkedin.com/in/chadhensel",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Channeling Attention", "What Is Focal Is Causal"],
+    "notes": "Post 2. Highly practical. The deliverable is a set of pre-suasive discovery questions with the mechanism explained. Contrast generic discovery questions with focused pre-suasive ones."
+  },
+  {
+    "concept": "What Is Focal Is Causal — The decision driver is whatever you made focal first",
+    "best_format": "long_form",
+    "post_type": "myth_bust",
+    "target_audience": "VRM operators losing on features they didn't intend to compete on",
+    "actual_argument": "Owners don't evaluate VRM operators on the basis of the operator's most important feature. They evaluate on the basis of whatever is in the foreground of their attention during the decision. The operator who leads with technology gets evaluated on technology. The operator who leads with owner communication gets evaluated on owner communication. The decision driver is the first thing made focal.",
+    "bad_assumption_to_attack": "I need to present all of my strengths and let the owner decide what matters most.",
+    "behavior_change": "Decide before the appointment what dimension you want to compete on. Lead with that dimension in the opening exchange. Everything else should fill in behind it.",
+    "operator_example": "Two operators visit the same owner. Operator A leads with their dynamic pricing technology and OTA distribution. Operator B leads with: 'The biggest thing we focus on is owner communication. I want you to always know what's happening with your property before you have to ask.' After the appointment, the owner compares both on communication quality, which is the dimension Operator B set as focal. Operator A set the wrong dimension as focal and is now competing on someone else's terms.",
+    "hook_options": [
+      "Owners don't evaluate VRM operators on your best feature. They evaluate on your first feature.",
+      "In a listing appointment, what you lead with becomes what the decision is about.",
+      "Most operators compete on the wrong dimension because they let the owner set the comparison frame."
+    ],
+    "lead_in": "Cialdini's 'what is focal is causal' principle explains a listing appointment failure pattern that's common but rarely diagnosed correctly.",
+    "angle": "Teach the mechanism: focal attention drives causal attribution, which drives the decision. Show what happens when the wrong dimension is made focal (the technology pitch to an owner who cares about peace of mind). Give the operator a framework for deciding what to lead with and why.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "follow-focused: subscribe to the VRM Sales Library newsletter",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Pre-Suasion Privileged Moments", "Focusing Questions"],
+    "notes": "Post 3. The strongest contrarian angle in the series. Most operators have no framework for deciding what to make focal. This gives them one."
+  },
+  {
+    "concept": "Pre-Suasion synthesis: the full pre-pitch framework (newsletter)",
+    "best_format": "newsletter_seed",
+    "post_type": "breakdown",
+    "target_audience": "VRM operators reading the full week's content",
+    "actual_argument": "The three posts this week covered the pre-pitch window: privileged moments, focusing questions, and what is focal is causal. The newsletter synthesizes these into a complete pre-appointment and opening sequence with specific language. It also goes deeper on Cialdini's Unity concept and pre-suasive reciprocity as tools for building pre-appointment trust before the owner even shows up.",
+    "bad_assumption_to_attack": "What I do before and during the appointment determines the outcome.",
+    "behavior_change": "Design a pre-suasion sequence that begins before the appointment, not at the door.",
+    "operator_example": "A complete pre-appointment to opening sequence: the pre-appointment touch (what you send or say before the meeting), the arrival exchange (what you say in the first two minutes), the opening focusing question, the transition to diagnostic, and the frame you've set before your pitch begins.",
+    "hook_options": [
+      "What happens before your pitch is your pitch",
+      "The full pre-suasion sequence for VRM listing appointments",
+      "Building the frame before you walk in the door"
+    ],
+    "lead_in": "This week's posts covered the pre-pitch window. The newsletter builds the complete sequence.",
+    "angle": "Synthesize the week's posts into a full pre-suasion system: what you do before the appointment, what you say in the opening exchange, what questions you ask, and what dimension you make focal. Add Unity and pre-suasive reciprocity as pre-appointment tools. Produce specific language for each stage.",
+    "mention_book": true,
+    "mention_oratia": true,
+    "oratia_style": "light_example",
+    "cta": "subscribe at linkedin.com/in/chadhensel",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["Unity", "Reciprocity as Pre-Suasion"],
+    "notes": "Newsletter should include: recap of three posts, the full pre-suasion sequence with specific language at each stage, a Unity section on shared identity with owners, a reciprocity section on pre-appointment value delivery, and a NEXT WEEK teaser."
+  }
+]

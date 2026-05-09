@@ -1,0 +1,166 @@
+{
+  "book": "Pre-Suasion",
+  "book_slug": "pre_suasion",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "privileged moment",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "VRM operators prep obsessively for the pitch and give almost no thought to the five minutes before it. That's the highest-leverage five minutes in the whole appointment.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "pre_suasion",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "privileged_moment",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "focusing question",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "The question you ask before you start pitching does more work than most of the pitch. It sets what the owner is thinking about for the rest of the appointment. Most VRM operators ask the wrong question first.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "pre_suasion",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "focusing_question",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "focal dimension",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "Before your next listing appointment: what single dimension do you want this owner to use when comparing you against every other manager they talk to? If you don't choose it deliberately, the owner chooses it for you. You probably won't like what they pick.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "pre_suasion",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "focal_dimension",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "pre-appointment value",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Sending an owner something genuinely useful before the listing appointment, no pitch attached, changes the conversation before it starts. Most operators wait until they're in the room. By then the frame is already set.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "pre_suasion",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "pre_appointment_reciprocity",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "sharp_opinion",
+      "source_theme": "focal dimension and evaluation",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Owners don't evaluate VRM operators on their best feature. They evaluate on their first feature. The one that was focal when they started forming an opinion. That moment is earlier than most operators think.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "pre_suasion",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "focal_is_causal",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "arrival exchange",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "The walk from the car to the front door with the owner is not small talk time. It's the privileged moment. The operator who uses those two minutes to make a specific market observation arrives at the pitch table with an owner whose attention is already where it needs to be.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "pre_suasion",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "arrival_exchange",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "opening question in listing appointments",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "What's the first question you ask in a listing appointment before you start pitching? Curious what's working for people. I think this is one of the most underinvested parts of the VRM sales process.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "pre_suasion",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "focusing_question",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "VRM Sales Library series",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "This week's VRM Sales Library series applied Cialdini's Pre-Suasion to listing appointments: the privileged moment, focusing questions, and the focal dimension principle. Newsletter goes deeper with the full pre-suasion sequence. linkedin.com/in/chadhensel",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "pre_suasion",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_series_recap",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "pre-suasion applied to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Friday",
+      "text": "Been applying Robert Cialdini's Pre-Suasion framework to VRM listing appointments this week. The focal dimension concept is the most counterintuitive: owners don't evaluate on your best feature, they evaluate on the first feature made salient. Changes what you open with.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "pre_suasion",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "focal_is_causal",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "pre-suasion sequence for VRM listing appointments",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Cialdini's Pre-Suasion applied to VRM listing appointments. The sequence that matters.",
+        "Most operators start the pitch too early. The frame is set before the pitch begins, in the five minutes before you sit down. If you're not using those minutes deliberately, someone else is setting the frame for you.",
+        "The pre-appointment touch: send something genuinely useful before you arrive. Market data, a specific property observation, something with no pitch attached. Creates reciprocity before you walk in.",
+        "The arrival exchange: the first two minutes are not small talk. Make a specific market observation or ask a pointed question before you sit down. Channel attention before the pitch begins.",
+        "The focusing question: ask what's costing the owner the most before you describe your solution. Where attention goes, importance follows. The owner who names their own pain is already evaluating you as the solution.",
+        "The focal dimension: decide before the appointment what you want the comparison to be about. Lead with it. Return to it at the end. The owner evaluates on whatever was focal first.",
+        "The pitch is not where you win. It's where you confirm what the pre-suasion sequence already set up."
+      ],
+      "source_trace": {
+        "book_slug": "pre_suasion",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_pre_suasion_sequence",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}
