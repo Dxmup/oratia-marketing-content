@@ -1,0 +1,167 @@
+{
+  "book": "What Great Salespeople Do",
+  "book_slug": "what_great_salespeople_do",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "buyer emotional stages",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "Most VRM listing appointments fail before the pitch starts. The operator pitches stage four to an owner who is still at stage two. Data lands fine. The owner just isn't ready to act on it yet.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "what_great_salespeople_do",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "buyer_emotional_stages",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "vulnerability as trust",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "The listing appointment moment most operators dread: the owner asks what you're not good at. The operators who answer that question directly are the ones who walk out with the contract.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "what_great_salespeople_do",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "vulnerability_trust",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "objection handling",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "When a VRM owner says the fee is too high, they're usually not doing math. They're managing doubt. Answering the fee question doesn't resolve the doubt. Naming the doubt does.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "what_great_salespeople_do",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "objection_as_emotional_container",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "story vs. pitch",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "The owner who signs isn't the one who was most persuaded by your pitch. It's the one who heard your story and saw themselves in it. You can't manufacture that with a better revenue projection.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "what_great_salespeople_do",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "story_vs_pitch",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "sharp_opinion",
+      "source_theme": "belief change",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Owners who self-manage or stay with a bad manager usually aren't doing it because they lack information about better options. They're doing it because they believe switching is riskier than staying. That's a belief problem. No revenue projection fixes it.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "what_great_salespeople_do",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "belief_change",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "listing appointment diagnostics",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "In a listing appointment, at what point do you shift from diagnostic questions to your actual pitch? Curious whether operators are finding that varies by owner type or by how the conversation is going.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "what_great_salespeople_do",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "diagnostic_before_pitch",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "story_detail",
+      "source_theme": "objection handling empathy",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Had an owner tell me the fee was 'a little high' in a listing appointment a while back. Stopped and asked what would make her feel confident about the move. She talked for ten minutes about what her prior manager had done. Fee was never mentioned again. She signed.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "what_great_salespeople_do",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "objection_empathy",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "story structure",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper this week on story structure for listing appointments in the VRM Sales Library newsletter. Specifically: which owner story to tell, to which owner type, and when in the appointment to tell it. It's in the newsletter at linkedin.com/in/chadhensel",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "what_great_salespeople_do",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "owner_story_library",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "story selling",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Friday",
+      "text": "Applying @MikeBosworth's What Great Salespeople Do to VRM owner acquisition this week. The owner story framework translates directly. The operators who have structured stories for each owner type they encounter consistently outperform the ones relying on pitch decks.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "what_great_salespeople_do",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "story_selling_vrm",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "buyer emotional stages in the listing appointment",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "VRM listing appointments fail at the same moment every time.",
+        "The owner is at stage two: they know something isn't working, but they haven't decided to change yet.",
+        "The operator pitches stage four. Revenue projections. Service features. Team structure.",
+        "The owner hears it. Nods. Says 'let me think about it.'",
+        "The operator thinks they lost on price. They lost on sequence.",
+        "The diagnostic questions that would have moved the owner to stage three weren't asked. The owner left with the same belief about switching that they walked in with.",
+        "Stage three is where data starts to land. Pitching before stage three is just noise.",
+        "The fix: open every listing appointment with 'tell me what's been going on with the property' and follow every answer with 'what specifically?' before showing anything."
+      ],
+      "source_trace": {
+        "book_slug": "what_great_salespeople_do",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "buyer_stages_sequence",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

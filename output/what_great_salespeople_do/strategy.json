@@ -1,0 +1,98 @@
+[
+  {
+    "concept": "Buyer's Journey Emotional State Mapping",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators running listing appointments",
+    "actual_argument": "Most listing appointments fail before the pitch starts because the operator treats an owner who is still in awareness mode as if they're already in decision mode. Diagnosis before prescription is not a nice-to-have — it is the sequence.",
+    "bad_assumption_to_attack": "Owners are ready to evaluate options when they show up to a listing appointment",
+    "behavior_change": "Open every listing appointment with diagnostic questions about what the owner is experiencing today — before showing any data, projections, or service features",
+    "operator_example": "Owner says 'I've been self-managing for two years and it's getting to be a lot.' Most operators hear this and immediately pivot to pitch mode. The owner is still in the awareness stage. They haven't decided they want to change yet. The operator who asks 'what specifically is getting to be a lot?' is doing the right work. The one who immediately shows a revenue projection has already lost the thread.",
+    "hook_options": [
+      "Most listing appointments fail before the pitch starts.",
+      "The owner showed up to your listing appointment. That doesn't mean they're ready to buy.",
+      "Walking into a listing appointment and starting with your pitch is like a doctor prescribing before diagnosing."
+    ],
+    "lead_in": "Not because the pitch was bad. Because the pitch came before the owner was ready to hear it.",
+    "angle": "The book's framework on buyer emotional stages maps directly onto the listing appointment. Bosworth and Zoldan identify four emotional states buyers move through. VRM operators consistently skip the first two and try to close at the third. The post builds a diagnostic model that operators can apply in the room.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for more posts applying sales frameworks to VRM owner acquisition",
+    "cluster_role": "pillar",
+    "companion_ideas": ["Story Selling vs. Feature Telling", "The Difference Between Telling and Co-Creating"],
+    "notes": "This is the pillar post — it establishes the diagnostic framework. Write it with a clear stage-by-stage breakdown that operators can use as a field checklist."
+  },
+  {
+    "concept": "Vulnerability as Trust Architecture",
+    "best_format": "long_form",
+    "post_type": "contrarian_take",
+    "target_audience": "VRM operators in active owner acquisition",
+    "actual_argument": "The instinct to appear flawless in a listing appointment is exactly wrong. Voluntary disclosure of limitations and past failures does more to build owner trust than any credential or case study.",
+    "bad_assumption_to_attack": "Owners sign with the manager who presents as the most polished and capable",
+    "behavior_change": "Lead each listing appointment with one honest disclosure — something you don't do well, a situation where you're not the right fit, or a past failure and what you learned from it",
+    "operator_example": "Two operators competing for the same listing. Operator A opens with their portfolio size, average review score, and a revenue projection. Operator B opens with: 'Before I show you what we do, I want to tell you about a listing we lost last year and why.' Operator B walks out with the contract.",
+    "hook_options": [
+      "Looking perfect in a listing appointment is one of the fastest ways to lose it.",
+      "The listing appointment tactic most operators refuse to try: tell the owner what you're bad at.",
+      "Owners don't trust the manager who has no flaws. They trust the manager who can name their own."
+    ],
+    "lead_in": "Polished competence reads as a performance. Owners who have been burned before are looking for signs you're hiding something.",
+    "angle": "Bosworth and Zoldan's research shows that voluntary disclosure of limitations activates the buyer's trust mechanism — it signals the salesperson is safe to buy from. The post applies this to VRM listing appointments and gives operators a specific script for leading with honest disclosure.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for more direct applications of sales frameworks to VRM owner acquisition",
+    "cluster_role": "supporting",
+    "companion_ideas": ["The Empathy First Principle", "Belief Change Before Behavior Change"],
+    "notes": "Include a concrete script for what a voluntary disclosure opener sounds like in practice. The contrast between polished operator and honest operator is the engine of the post."
+  },
+  {
+    "concept": "The Empathy First Principle",
+    "best_format": "long_form",
+    "post_type": "mistake",
+    "target_audience": "VRM operators handling owner objections",
+    "actual_argument": "Owner objections in VRM are almost never about the thing they appear to be about. Responding to the stated objection while missing the emotional subtext is the most common mistake in the listing appointment — and it's invisible to most operators because they think they answered the question.",
+    "bad_assumption_to_attack": "Fee objections are about price, hesitation is about timing, and 'let me think about it' is about needing more information",
+    "behavior_change": "When an owner raises an objection, respond first with a question that investigates the emotional driver rather than addressing the stated content",
+    "operator_example": "Owner says 'your management fee is higher than the other manager I spoke with.' The wrong response: a breakdown of what the fee covers. The right response: 'It sounds like you want to make sure this is the right move before committing. What would make you feel confident about the decision?' The objection was never really about the fee.",
+    "hook_options": [
+      "The owner said 'your fee is too high.' They didn't mean it.",
+      "Most owner objections in VRM are about fear, not facts.",
+      "Responding to what an owner says instead of what they mean is the most expensive mistake in owner acquisition."
+    ],
+    "lead_in": "The objection you're hearing is almost never the objection that matters.",
+    "angle": "Bosworth and Zoldan's empathy framework applied to VRM objection handling. The post gives operators a diagnostic tool: for every objection, ask what emotional state would produce this statement. Then name that state rather than answering the surface question. Includes specific VRM scenarios and response scripts.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for more posts on owner acquisition done right",
+    "cluster_role": "supporting",
+    "companion_ideas": ["The Difference Between Telling and Co-Creating", "Buyer's Journey Emotional State Mapping"],
+    "notes": "This is the most immediately actionable post for operators running listing appointments. Prioritize concrete scripts and specific objection scenarios. Include at least two owner type examples."
+  },
+  {
+    "concept": "Story Selling vs. Feature Telling + The Emotionally Connected Story Structure",
+    "best_format": "newsletter_seed",
+    "post_type": "framework",
+    "target_audience": "VRM operators and BD leads",
+    "actual_argument": "The reason VRM operators lose listing appointments they should win is not that their service is worse — it is that their story about their service doesn't create emotional identification. The operator with the better story wins, not the operator with the better pitch deck.",
+    "bad_assumption_to_attack": "Owner acquisition is about presenting the best combination of service features and revenue projections",
+    "behavior_change": "Develop a set of 3-4 structured owner stories (each featuring a different owner type) that map the protagonist's fear, the turning point, and the transformed state — and deploy them deliberately in listing appointments",
+    "operator_example": "A Skeptic owner who was burned by their prior manager and wouldn't trust anyone. The story of how one VRM operator earned that owner's trust: what they disclosed upfront, how the first two weeks went, and where that owner is now. This story does more work than any revenue projection because the listening Skeptic in the room sees themselves in the protagonist.",
+    "hook_options": [
+      "The listing appointment you lost wasn't lost on price. It was lost on story.",
+      "The operator with the best story wins more listings than the operator with the best pitch.",
+      "Owner acquisition has a story problem. Most operators are telling the wrong one."
+    ],
+    "lead_in": "Data doesn't change beliefs. Stories do.",
+    "angle": "Newsletter synthesizes the three posts under the lens of the core book argument: buyers make decisions emotionally and rationalize them logically. The newsletter goes deeper on story structure (protagonist, challenge, turning point, resolution) and gives operators a framework for building their own owner story library. Include owner-type-specific story prompts.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Subscribe to the VRM Sales Library newsletter at linkedin.com/in/chadhensel",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["Buyer's Journey Emotional State Mapping", "Vulnerability as Trust Architecture", "The Empathy First Principle"],
+    "notes": "The newsletter should build the owner story framework in detail: story structure template, how to identify which owner type each story serves, and guidance on when to deploy which story in a listing appointment."
+  }
+]

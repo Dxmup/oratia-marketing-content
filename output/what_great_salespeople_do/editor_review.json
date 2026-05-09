@@ -1,0 +1,27 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three posts and the newsletter clear the bar. Each piece has a real argument grounded in operator behavior, specific scripts, and VRM owner type application. The newsletter extends the posts rather than repeating them, adding the owner story library framework not present in any individual post.",
+  "strengths": [
+    "Post 1 stages the emotional sequence clearly and gives operators a concrete diagnostic model with specific field application",
+    "Post 2 includes a working script for voluntary disclosure and ties it to specific owner types (Controller, Skeptic)",
+    "Post 3 names the real objection underneath the stated objection and provides a direct script response",
+    "Newsletter builds genuinely new material: the protagonist-matching framework and the owner story library by owner type",
+    "No em dashes, no exclamation points, CTA footer intact on all posts",
+    "All-caps section headers used deliberately, not mechanically",
+    "Field notes add owner-type-specific observations that don't restate the body copy"
+  ],
+  "problems": [
+    "Post 1 is slightly long at the section breakdown. Could tighten the four-stage descriptions without losing the substance.",
+    "The thread in twitter/posts.json is eight tweets — the later tweets ('The fix: open every listing appointment...') explain too much after the diagnosis has already landed. Could end at tweet 6 or 7."
+  ],
+  "required_fixes": [
+    "Post 1: tighten the four stage descriptions — each should be one sentence, not two to three",
+    "Twitter thread: consider trimming to 6 tweets — the final 'fix' tweet is too explanatory for X"
+  ],
+  "depth_score": 8,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}

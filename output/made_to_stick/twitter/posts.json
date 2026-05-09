@@ -1,0 +1,154 @@
+{
+  "book": "Made to Stick",
+  "book_slug": "made_to_stick",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "Curse of Knowledge",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "The more you know about property management, the worse your listing appointment pitch probably is. Expertise creates a communication gap most operators never notice.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "made_to_stick",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "curse_of_knowledge",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "Curse of Knowledge in action",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "VRM listing appointments where the operator explains the software, the channel strategy, the cleaning protocol, and the pricing model. The owner nods through all of it. Then picks the manager they liked personally. This happens constantly.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "made_to_stick",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "curse_of_knowledge",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "Abstract vs. concrete pitch",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "\"We have excellent communication with our owners\" is in almost every VRM pitch. It means nothing because the owner cannot picture it. Replace it with: what specifically happens when they send you a message at 9 PM on a Saturday.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "made_to_stick",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "concrete_specifics",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "Stories vs. testimonials",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "A five-star review tells a prospective owner that someone else trusted you. A story about the 11 PM maintenance call tells them what it looks like when something goes wrong. Operators over-rely on the credential and under-rely on the story.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "made_to_stick",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "stories_vs_testimonials",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "recognition",
+      "source_theme": "The nod problem",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "The owner nods through your entire pitch and then chooses based on price. That outcome is predictable. You filled the appointment with things they could not evaluate and left them with the one thing they could.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "made_to_stick",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "curse_of_knowledge",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "Gap opener in practice",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "One question that changes the shape of a listing appointment: \"What's the part of property management that's surprised you most, positive or negative?\" It surfaces what the owner actually knows. Gives you the roadmap before you start the pitch. Most operators skip it.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "made_to_stick",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "gap_opener",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "Owner retention of pitch",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Call an owner back 48 hours after a listing appointment and ask what they took away from the conversation. If they say your price, the pitch failed. If they can name the specific thing that makes you different, you're close. What do they usually say?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "made_to_stick",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "simplicity_test",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "Week connector",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "This week's VRM Sales Library newsletter goes deeper on Made to Stick: the gap-opening opener, owner-type-specific emotional hooks, and a full listing appointment diagnostic. All six principles applied.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "made_to_stick",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "success_framework",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "SUCCESs framework applied to VRM appointments",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "day_of_week": "Saturday",
+      "tweets": [
+        "Most VRM listing appointments fail the same way. Not the close. The communication design.",
+        "Made to Stick has a six-principle framework: Simple, Unexpected, Concrete, Credible, Emotional, Stories. It is a near-perfect diagnostic for listing appointment failure.",
+        "Simple: do you have one clear thing the owner should leave believing? Or a list of features?",
+        "Unexpected: does your opening create a gap in their mental model, or confirm what they already expected?",
+        "Concrete: can the owner picture your service, or is it a collection of abstract promises?",
+        "Credible: are you relying on internal credentials, or testable specifics the owner can verify tonight?",
+        "Emotional: do you know which owner type you're sitting across from? Is the hook calibrated to what they specifically care about?",
+        "Stories: do you have one conflict-and-resolution story? Not a testimonial. A real scenario with a problem, a response, and an outcome.",
+        "Run your current pitch through that checklist. Whatever you can't answer yes to is where the appointment is leaking."
+      ],
+      "source_trace": {
+        "book_slug": "made_to_stick",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "success_framework_diagnostic",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

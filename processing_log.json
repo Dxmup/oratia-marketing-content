@@ -736,6 +736,66 @@
       "path": "output/what_great_salespeople_do/twitter/posts.json",
       "status": "sharpened",
       "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/made_to_stick/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/made_to_stick/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/made_to_stick/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/made_to_stick/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/made_to_stick/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/made_to_stick/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/eat_their_lunch/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/eat_their_lunch/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/eat_their_lunch/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/eat_their_lunch/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/eat_their_lunch/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/eat_their_lunch/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
     }
   ]
 }
