@@ -1,0 +1,25 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "Strong set across all three posts and newsletter. The diagnostic vs. pitch distinction in Post 1 is the sharpest piece in the batch. The pipeline discipline post lands well because it names the exact mechanism, not just the symptom. Post 3 is more tactical and practical, which rounds out the set. Newsletter extends meaningfully with the full system architecture and outreach script.",
+  "strengths": [
+    "Post 1 uses concrete scenario contrast effectively: two operators, same property, different opener. The Skeptic field note is type-specific and adds real value.",
+    "Post 2 names the exact mechanism of slumps (pipeline discipline 90 days prior) rather than the generic 'stay consistent' advice. The Controller field note is well-placed.",
+    "Post 3 is operational and actionable. The four-step list framework translates Weinberg's abstract advice into a VRM-specific workflow.",
+    "Newsletter genuinely extends the posts: the message architecture section gives the reader actual language, not just principles. The 12-week cadence breakdown is concrete and useful.",
+    "No em dashes. No exclamation points. All formatting compliance checks pass."
+  ],
+  "problems": [
+    "Post 3 is close to the 2,900-character limit and may need light trimming if the header and footer push it over. Should be verified.",
+    "The newsletter NEXT WEEK teaser is brief but adequate. Could name Agile Selling's VRM mapping more specifically."
+  ],
+  "required_fixes": [
+    "Verify character counts on all three posts before publishing. Post 3 is the longest candidate.",
+    "Check Post 2 opening: 'You built it 90 days ago' is strong in the title; make sure the body's first paragraph doesn't over-explain before it gets moving."
+  ],
+  "depth_score": 8,
+  "specificity_score": 8,
+  "operator_value_score": 8,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}

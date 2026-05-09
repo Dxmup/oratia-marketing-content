@@ -1,0 +1,87 @@
+VRM Sales Library | New Sales. Simplified. | Mike Weinberg
+linkedin.com/in/chadhensel
+
+---
+
+This week's three posts covered Mike Weinberg's New Sales. Simplified. applied to VRM owner acquisition: why the diagnostic opener beats the company pitch, how pipeline discipline failures create slumps 90 days later, and why prospecting without a named target list is just wandering.
+
+The newsletter goes deeper on what it looks like to build a full acquisition system from Weinberg's framework, including the outreach sequence, the message architecture, and the minimum floor that keeps it running through busy seasons.
+
+---
+
+THE ACQUISITION SYSTEM MOST VRM OPERATORS DON'T HAVE
+
+Weinberg's thesis in New Sales. Simplified. is that new business development fails not because salespeople are bad at closing. It fails because they never built the front end: no defined targets, no problem-first messaging, no systematic cadence, no discipline floor.
+
+In VRM, the same failure shows up differently. The operator who wins new owners consistently is not necessarily the best at the listing appointment. They're the one who built a system that gets them into more listing appointments, with better-qualified owners, with a message that creates recognition before they walk in the door.
+
+Here's how the system breaks down.
+
+THE TARGET LIST
+
+Before you send a single email or make a single call, you need a named list of specific properties.
+
+Not a market. A list.
+
+The ideal target property for a VRM operator is specific: a property you can manage profitably, in a neighborhood where your performance will be visible, currently not managed professionally or with a manager the owner is dissatisfied with, owned by someone who is at least approaching the point of considering professional management.
+
+Getting to that list requires research:
+
+- Search Airbnb and Vrbo for properties in your target neighborhoods that appear self-managed (inconsistent professional photography, sparse reviews, unoptimized pricing patterns)
+- Cross-reference with county property records to identify out-of-market owners (more likely to consider full-service management)
+- Identify properties coming off leases with other managers (a common opportunity in established VRM markets)
+- Talk to your existing owners about neighbors who are on the fence
+
+Aim for a working list of 30-50 specific targets. Each target needs a status, a contact record, and a next action. That's your acquisition pipeline.
+
+THE MESSAGE ARCHITECTURE
+
+Weinberg is specific about what separates outreach that gets responses from outreach that gets deleted. The message has to name a problem the prospect actually has, not describe your company's features.
+
+In VRM, the problem-first message sounds like this:
+
+"If you're managing your property yourself, you're likely at a pricing disadvantage compared to properties under professional management. Platform algorithms favor professional accounts for search placement, and the gap in occupancy rates between self-managed and professionally managed properties in most markets is 12-20%. I'd like to show you what that difference looks like for your specific property."
+
+That's a message. It describes a specific, concrete problem (pricing disadvantage, occupancy gap) in a way that creates recognition. The owner who is self-managing and has noticed their occupancy is lower than neighboring properties reads that and responds. The owner who isn't aware of the problem yet reads it and gets curious.
+
+Compare that to: "We manage vacation rentals in the Smoky Mountains and we'd love to connect about your property."
+
+Same market. Completely different message.
+
+THE CADENCE
+
+Most operators abandon outreach after one or two attempts. Weinberg's framework calls for a multi-touch sequence that persists through silence without becoming harassment.
+
+A working cadence for VRM owner acquisition:
+
+Week 1: First contact (email or direct message with the problem-first message above)
+Week 2: Phone call follow-up with a brief voicemail referencing the email
+Week 3: A second email with a specific data point relevant to their neighborhood
+Week 5: LinkedIn connection request with a brief note
+Week 8: Check-in email with an updated data point (seasonal trend, comparable occupancy)
+Week 12: Phone attempt with a more direct ask for a brief call
+
+This is six touchpoints over 12 weeks. Most operators make one. The owner who didn't respond to the first email is often not uninterested. They're busy. The one who follows up is the one who gets the conversation.
+
+THE DISCIPLINE FLOOR
+
+The system only works if you maintain it through busy seasons.
+
+Define a minimum: the lowest number of new outreach contacts you'll make in any given week, regardless of what's happening in operations. If your normal cadence is ten per week, the floor might be three. The floor is not a goal. It's a commitment.
+
+The operators who don't define a floor are the ones who look up in October and find an empty pipeline they built back in July.
+
+PUTTING IT TOGETHER
+
+The full system looks like this: a named list of 30-50 target properties, a problem-first outreach message tailored to the owner type (Investor, Steward, Skeptic), a 12-week multi-touch cadence, and a non-negotiable minimum floor maintained through peak season.
+
+Nothing in that system is technically complicated. What it requires is treating owner acquisition as a function that runs on its own track, separate from operations. Weinberg's point in New Sales. Simplified. is that this separation is the difference between operators who grow predictably and operators who grow reactively.
+
+The reactive ones aren't bad operators. They just haven't built the system.
+
+NEXT WEEK
+
+Moving to Jill Konrath's Agile Selling, which addresses a different challenge: how to learn a new market, new product, or new pitch faster than the competition. In VRM, this maps directly to onboarding new owner types, adapting to seasonal shifts, and closing the knowledge gap when you're competing against a manager with more experience.
+
+---
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #NewSalesSimplified

@@ -1,0 +1,166 @@
+{
+  "book": "New Sales. Simplified.",
+  "book_slug": "new_sales_simplified",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "diagnostic vs company pitch",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "The operator who opens a listing appointment with 'let me tell you about our company' has already lost ground to the one who says 'before I tell you anything, what's been the hardest part of managing this yourself?' One is a pitch. The other is a conversation.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "new_sales_simplified",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "diagnostic_opener",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "pipeline discipline failure",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "October is empty because July was full. The operator who stopped prospecting during peak season because they were slammed with operations built their own slump. The market didn't do it.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "new_sales_simplified",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "pipeline_discipline",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "sharp_opinion",
+      "source_theme": "target list vs wandering",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Doing outreach is not prospecting. Prospecting starts with a specific list of properties you've decided you want. If you can't name them, you're wandering.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "new_sales_simplified",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "target_list",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "reactive vs proactive acquisition",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Growing by referral feels like it's working until you realize you're growing at the pace of other people's decisions. Proactive outreach to specific target properties is the lever most VRM operators have never turned on.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "new_sales_simplified",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "proactive_vs_reactive",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "diagnostic",
+      "source_theme": "problem-first messaging",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "The outreach message that describes your company gets deleted. The one that names the owner's specific problem gets a response. 'We manage vacation rentals in your area' is not a message. 'If you're self-managing, you're likely at a 12-20% occupancy disadvantage versus professionally managed properties' is a message. What are you sending?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "new_sales_simplified",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "message_architecture",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "multi-touch persistence",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "Most VRM operators reach out once, hear silence, and conclude the owner isn't interested. The owner usually isn't ignoring you. They're managing a Gatlinburg three-bedroom at 9 PM and your email got buried. The one who follows up is the one who gets the conversation. Most give up after one.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "new_sales_simplified",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "persistence_cadence",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "prospecting floor",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Weinberg calls it a discipline floor: the minimum prospecting activity you maintain regardless of how busy operations gets. Not a goal. A floor. Do you have one, or does your prospecting stop when the summer gets loud?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "new_sales_simplified",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "discipline_floor",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "full acquisition system",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "This week's VRM Sales Library newsletter builds the full owner acquisition system from Weinberg's framework: target list, message architecture, 12-week cadence, and the discipline floor. Went deeper than the posts could. At linkedin.com/in/chadhensel if you want the full stack.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "new_sales_simplified",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_system",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "new business hunting mindset",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Tuesday",
+      "text": "Been applying @MikeWeinberg1's New Sales. Simplified. to VRM owner acquisition this week. The hunting vs. farming distinction maps almost perfectly. Operators who got good at retaining owners often stop being comfortable going cold. It's the same person doing both functions and the instincts conflict.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "new_sales_simplified",
+        "source_file": "nuggets.json",
+        "theme": "hunting_mindset",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "building the VRM acquisition system",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM operators don't have an acquisition system. They have acquisition habits. The difference shows up in October.",
+        "Weinberg's New Sales. Simplified. maps cleanly onto VRM owner acquisition. Here's the framework applied:",
+        "Step 1: Build a named list. Not 'owners in our market.' Specific properties you've identified and decided you want. 30-50 targets. Each with a status, contact, and next action.",
+        "Step 2: Write a message that names their problem. Not your company. Not your commission rate. The specific thing that's costing them money or peace of mind as a self-manager.",
+        "Step 3: Build a 12-week cadence. Six touchpoints over 12 weeks. Most operators make one. The owner who didn't respond to the first email is often not uninterested. They're busy.",
+        "Step 4: Define a floor. The minimum outreach you'll do in any given week, including peak season. Not a goal. A commitment. The floor is what prevents the October slump.",
+        "Four steps. None of them are complicated. What they require is treating acquisition as a function that runs on its own track, separate from operations. Most operators never separate the two tracks."
+      ],
+      "source_trace": {
+        "book_slug": "new_sales_simplified",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_acquisition_system",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    }
+  ]
+}
