@@ -1,0 +1,36 @@
+VRM Sales Library | Thinking in Bets | Annie Duke
+Post 2 of 3
+
+YOUR CHURN PROBLEM STARTS BEFORE YOU SIGN THE OWNER
+
+You already know what your most common churn patterns look like.
+
+The owner who was never going to hand over control. The property with maintenance debt that became a guest complaint cascade in month two. The revenue expectations that were structurally unachievable at the fee you charged.
+
+You can describe them because you've lived through them. The question is whether you're checking for them before the contract is signed.
+
+Annie Duke's pre-mortem technique: before committing to a decision, imagine it has already failed. Work backwards to identify what caused the failure. Forward-looking optimism hides risks that backwards-looking honesty surfaces immediately.
+
+For VRM operators, the application is direct.
+
+Before signing any owner, ask this: if this owner churns in 90 days, what was the most likely cause?
+
+Don't answer it optimistically. Answer it based on what you actually observed in the appointment.
+
+Walk through what you know. The owner asked about commission rates three times. He mentioned his brother-in-law has some property management experience. He wants to be copied on all guest communications. Standard close energy: interested, liked the revenue projection, agreed to a follow-up.
+
+Now run the pre-mortem. If this relationship ends in 90 days, why?
+
+High involvement expectations. A competing influence in the decision. Fee sensitivity that resurfaces the first time revenue disappoints. That combination doesn't predict failure with certainty. But it identifies the specific risks you'd need to address before signing, or accept going in.
+
+Sometimes you can handle the concern directly at the proposal stage. There's a conversation about access expectations that belongs before onboarding, not during it. Sometimes the pre-mortem tells you the risk is manageable. Sometimes it tells you to walk away from a deal that looks fine on the surface.
+
+The goal isn't to reject every owner who presents a flag. The goal is to make the decision with accurate information rather than with optimism.
+
+VRM churn is expensive. Onboarding an owner who leaves in three months costs you operationally, in reviews, and in calendar disruption. And it's often preventable if the pattern was caught at the acquisition stage.
+
+Run the pre-mortem before you sign. Not after.
+
+---
+Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #ThinkingInBets

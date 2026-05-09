@@ -1,0 +1,98 @@
+[
+  {
+    "concept": "Resulting: Judging Decisions by Outcomes",
+    "best_format": "long_form",
+    "post_type": "myth_bust",
+    "target_audience": "VRM operators and BD managers evaluating sales performance",
+    "actual_argument": "Close rate is a corrupted performance signal. It conflates decision quality with outcome quality. An operator who lost three appointments for uncontrollable reasons and won one well-structured deal is not underperforming the operator who closed six poorly-qualified owners through persistence and luck.",
+    "bad_assumption_to_attack": "If the owner signed, the pitch was good. If the owner didn't sign, something went wrong in the process.",
+    "behavior_change": "Build a post-appointment debrief that separates process quality from outcome. Score the pitch separately from the result.",
+    "operator_example": "A BD rep loses two listing appointments in a week. Owner one had a family member who offered to manage for free. Owner two signed with a competitor 24 hours after agreeing to schedule an appointment. The rep concludes their pitch is broken and spends the next two weeks changing their approach. The pitch wasn't broken -- the outcome signal was corrupted by factors outside their control.",
+    "hook_options": [
+      "Your close rate is lying to you.",
+      "Winning a bad pitch teaches you the wrong lesson.",
+      "The worst thing that can happen to a VRM salesperson is closing a deal they shouldn't have."
+    ],
+    "lead_in": "It happens constantly in VRM acquisition: a rep wins a deal through persistence, luck, or timing -- and then doubles down on the behavior that wasn't actually responsible for the close.",
+    "angle": "Resulting is the habit of reading decision quality backward from outcome quality. In VRM owner acquisition, this means attributing signed deals to pitch quality and lost deals to pitch failure -- when in reality, outcome variance is high enough that neither inference is reliable. The post argues for a process-first evaluation standard and offers a practical debrief framework.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for more frameworks applied to VRM owner acquisition.",
+    "cluster_role": "pillar",
+    "companion_ideas": ["Separating Luck from Skill", "Working Backwards from Bad Outcomes"],
+    "notes": "This is the strongest concept for a pillar post. The close-rate-as-corrupted-signal framing is genuinely counterintuitive for most VRM operators. Lead with the myth, dismantle it with the BD rep scenario, offer the alternative framework. Do not mention Oratia -- the concept stands stronger as a clean operator insight."
+  },
+  {
+    "concept": "Working Backwards from Bad Outcomes (Pre-mortem)",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators making owner acquisition decisions and evaluating prospective owner fit",
+    "actual_argument": "Before signing an owner, ask: if this relationship churns in 90 days, what was the most likely cause? The answer almost always reveals a pattern the operator could have acted on before signing. Pre-mortems on prospective owners are a churn-prevention tool that lives in the acquisition process.",
+    "bad_assumption_to_attack": "Churn analysis belongs after the fact -- post-mortem, not pre-mortem. Operators look at why owners left, not at what was knowable about churn risk before they signed.",
+    "behavior_change": "Run a pre-mortem on every prospective owner before signing. Make it a step in the qualification process, not a retrospective exercise.",
+    "operator_example": "An operator meets with a three-bedroom owner who pushes back on the fee structure twice, mentions that his brother-in-law 'has some property management experience,' and says he wants to be copied on all guest communications. Standard close energy: the owner seems interested, liked the revenue projection, scheduled a follow-up. Pre-mortem question: if this owner churns in 90 days, what caused it? Answer: too much involvement expectation, competing influence in the decision, fee price-sensitivity. That combination predicts a difficult management relationship. The operator now has a choice -- address those specific concerns before signing, or walk away from the deal.",
+    "hook_options": [
+      "Your churn problem starts before you sign the owner.",
+      "Most VRM operators run post-mortems on churn. The operators who run pre-mortems have less of it.",
+      "The owner who will cost you the most is usually detectable before you sign them."
+    ],
+    "lead_in": "You already know what your most common churn patterns look like. The question is whether you're checking for them before the contract is signed.",
+    "angle": "Drawn from Annie Duke's pre-mortem concept in Thinking in Bets. The post reframes churn prevention as an acquisition-stage discipline, not a post-churn exercise. Offers a specific pre-mortem question and walks through the owner scenario to demonstrate how it works in practice.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for weekly frameworks applied to VRM owner acquisition.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Resulting: Judging Decisions by Outcomes", "Separating Luck from Skill"],
+    "notes": "This is the most immediately actionable concept for VRM operators. Lead with the churn-prevention angle, not the philosophy. The scenario of the difficult prospective owner should be detailed and specific enough that readers recognize the archetype."
+  },
+  {
+    "concept": "Forming Beliefs as Bets / Pipeline as Probability",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators managing a BD pipeline or small BD team",
+    "actual_argument": "Pipeline stages should carry probability weights, not binary in/out designations. An owner at 'agreement sent' is not the same as a signed owner. Treating them as near-equivalent because the deal 'feels solid' is resulting applied to pipeline management -- and it leads to bad capacity planning, overpromising, and surprise when deals fall out.",
+    "bad_assumption_to_attack": "If an owner has made it through discovery and seen a proposal, they're essentially closed. The hard part is done.",
+    "behavior_change": "Assign an explicit probability estimate to every owner in the pipeline. Update it at each stage transition. Use it to make honest capacity decisions rather than planning based on optimistic assumptions.",
+    "operator_example": "An operator with 12 owners 'in pipeline' plans for six new properties in Q1. Three fall out at the contract review stage. Two more stall indefinitely. The operator has overcommitted operations capacity, turned down two smaller but certain deals, and is now chasing unstaged deals trying to fill the gap. A probability-weighted pipeline would have shown the expected value was closer to 4-5 signed owners, not 12.",
+    "hook_options": [
+      "Your pipeline isn't full. It's full of bets at different odds.",
+      "Twelve prospects in the pipeline means something very different depending on where they are and how honest you're being about probability.",
+      "The stage an owner is in tells you where they are. The probability they sign tells you what they're worth to plan around."
+    ],
+    "lead_in": "Many VRM operators plan their operational capacity around their pipeline as if it were already signed. Then Q1 arrives.",
+    "angle": "Applies Annie Duke's 'beliefs as bets' framework to VRM pipeline management. Each pipeline stage has an implied probability of closing. Naming that probability explicitly changes how operators plan and how BD managers evaluate their team's work. Offers a simple probability framework by pipeline stage.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow to get the rest of this week's posts on decision-making in owner acquisition.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Resulting: Judging Decisions by Outcomes", "Working Backwards from Bad Outcomes"],
+    "notes": "This post works best as a practical framework post, not a philosophy post. Lead with the scenario, introduce the framework as the fix, give a concrete probability scale the reader can apply immediately. The newsletter can go deeper on the full pipeline probability model."
+  },
+  {
+    "concept": "Synthesis: Resulting, Pre-Mortem, and Pipeline Calibration in VRM Owner Acquisition",
+    "best_format": "newsletter_seed",
+    "post_type": "breakdown",
+    "target_audience": "VRM operators focused on owner acquisition and BD team development",
+    "actual_argument": "The three posts this week share a common thread: VRM owner acquisition is corrupted by outcome bias at every stage. How we evaluate past pitches, how we qualify current prospects, and how we plan from our pipeline are all affected by the same thinking error. Duke's framework offers a coherent correction to all three.",
+    "bad_assumption_to_attack": "Results are the right feedback signal for sales process improvement.",
+    "behavior_change": "Adopt process-quality evaluation standards at every stage: debrief pitches on process not outcome, qualify owners with a pre-mortem before signing, and plan capacity from probability-weighted pipeline not optimistic assumptions.",
+    "operator_example": "A VRM operator who applies all three concepts: runs post-appointment debriefs that separate controllable from uncontrollable factors, uses a pre-mortem question before every signing, and tracks pipeline probability by stage. Their BD decisions are systematically better calibrated than the operator who uses outcome as the only signal.",
+    "hook_options": [
+      "Three posts this week on how outcome bias corrupts VRM owner acquisition.",
+      "The common thread in this week's posts: you're probably getting feedback from the wrong signal.",
+      "This week applied Annie Duke's Thinking in Bets to the three places VRM operators need it most."
+    ],
+    "lead_in": "This newsletter goes deeper on how to apply these ideas operationally: a debrief template, a pre-mortem qualification checklist, and a pipeline probability model you can build in a spreadsheet.",
+    "angle": "Newsletter synthesizes the week's three posts and goes substantively deeper on practical implementation. Should include: a post-appointment debrief structure, a pre-mortem checklist for prospective owners, and a pipeline probability framework with suggested percentages by stage.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Subscribe to get the weekly newsletter with the full operational depth.",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["Resulting: Judging Decisions by Outcomes", "Working Backwards from Bad Outcomes", "Forming Beliefs as Bets"],
+    "notes": "The newsletter should extend substantially beyond the posts. The debrief template, pre-mortem checklist, and pipeline probability model are all genuinely useful tools that will have readers saving this edition. Do not repeat post content at length -- brief recap then dive into the operational tools."
+  }
+]

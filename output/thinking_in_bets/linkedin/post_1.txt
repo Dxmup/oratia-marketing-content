@@ -1,0 +1,40 @@
+VRM Sales Library | Thinking in Bets | Annie Duke
+Post 1 of 3
+
+YOUR CLOSE RATE IS LYING TO YOU
+
+A VRM rep has a bad week. Two listing appointments. No signatures.
+
+Owner one: her adult daughter called the night before and offered to manage the property for free. Owner two: signed with a competitor 18 hours after agreeing to schedule a second meeting.
+
+The rep concludes her pitch is broken. She spends the next two weeks rebuilding her approach from scratch.
+
+The pitch wasn't broken. The feedback signal was.
+
+Annie Duke calls this "resulting" -- the habit of reading decision quality backward from outcome quality. In poker, a professional can make the right call and still lose the hand. The cards are the cards. The mark of skill is evaluating the decision independently of what happened next.
+
+VRM owner acquisition works the same way. Outcome variance is real and it's high.
+
+An owner's daughter offering to manage for free is not feedback on your pitch. An owner who was always going to stay with the incumbent and used your appointment to benchmark price is not a lost deal you should have won. Treating both as pitch failures produces a corrupted learning signal.
+
+The reverse is equally dangerous. An operator who closes a poorly-qualified owner through persistence and flattery learns the wrong lesson from the win. The close validates the behavior. The churn six months later becomes someone else's problem to explain.
+
+The fix is not to ignore outcomes. Outcomes matter. But they're only one input.
+
+After every appointment, win or loss, ask two questions separately:
+
+First: what was within our control? Was the owner properly qualified before we walked in? Did we diagnose the real concern or pitch over it? Was there a specific next step?
+
+Second: what was outside our control? Did the owner's circumstances change? Did a competing relationship surface that wasn't visible before?
+
+The answers to the first question are coachable. The answers to the second are not. Conflating them produces a rep who is constantly fixing things that aren't broken and ignoring the things that are.
+
+Close rate is a useful lagging indicator of volume. It is a poor feedback signal for individual decision quality.
+
+An operator who loses three pitches to uncontrollable factors and wins one well-structured appointment is not underperforming. They're operating correctly in a high-variance environment.
+
+Build the debrief. Separate the signal.
+
+---
+Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #ThinkingInBets

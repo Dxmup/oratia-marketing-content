@@ -1,0 +1,25 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three posts and the newsletter carry real operational depth and dismantle specific mistaken beliefs rather than summarizing frameworks. The pillar post's 'corrupted feedback signal' framing is strong and earns its length. Post 2's pre-mortem checklist and the newsletter's extended qualification and pipeline tools give this package genuine practitioner value beyond inspiration.",
+  "strengths": [
+    "Pillar post (post_1) dismantles the close-rate-as-feedback-signal assumption with a specific, recognizable scenario before introducing the framework -- earns the argument instead of asserting it",
+    "Post 2's pre-mortem question is immediately applicable and the owner scenario (fees pushed back twice, brother-in-law reference, copy-on-guest-comms request) is specific enough that readers will recognize the type",
+    "Post 3's pipeline probability model is genuinely useful: specific percentage ranges by stage, clear consequence for over-reliance on headline count, concrete decision impact (which deals you decline)",
+    "Newsletter extends substantially beyond the posts: debrief structure, pre-mortem checklist, and pipeline probability model are all new operational material that justifies the format",
+    "Twitter posts are appropriately differentiated from LinkedIn -- no paragraph recycling, VRM-specific voice throughout, thread is additive not repetitive"
+  ],
+  "problems": [
+    "Post 3 opens with a scenario before stating a sharp claim -- the hook could be front-loaded more aggressively to stop the scroll before the 210-character LinkedIn cutoff",
+    "Newsletter's NEXT WEEK teaser is vague ('how owners make decisions under uncertainty') -- does not connect to a specific named next book or concept, which reduces anticipation"
+  ],
+  "required_fixes": [
+    "Post 3: move the probability-framework hook ('Your pipeline isn't full. It's full of bets at different odds.') to the first line so it appears before the 210-character LinkedIn cutoff; the current opener (scenario) can follow",
+    "Newsletter: NEXT WEEK section should name the specific concept or book for next week if known, or be made slightly more specific about what the next framework addresses"
+  ],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}

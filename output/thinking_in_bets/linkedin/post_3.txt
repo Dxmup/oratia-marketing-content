@@ -1,0 +1,36 @@
+VRM Sales Library | Thinking in Bets | Annie Duke
+Post 3 of 3
+
+YOUR PIPELINE ISN'T FULL. IT'S FULL OF BETS AT DIFFERENT ODDS.
+
+Twelve owners in the pipeline doesn't mean twelve are signing.
+
+An owner who attended one discovery call is not at the same probability as an owner who has reviewed a contract. An owner who pushed back on fees twice is not at the same probability as one who is asking about onboarding timing. But the pipeline treats them the same.
+
+This is the operator who turns down two smaller, certain deals because the bandwidth looks tight. She passes on a five-property owner because onboarding would stretch the team. Then Q1 arrives. Three deals fall out at contract review. Two more stall indefinitely. She ends the quarter with four new properties and a team ramped up for six.
+
+Not a sales problem. A probability problem.
+
+Annie Duke's argument in Thinking in Bets: every belief about the future is a bet with a probability of being true. When we treat pipeline stages as near-certainties rather than probability estimates, we plan based on a distorted picture.
+
+A probability-weighted pipeline assigns an explicit estimate to each owner based on where they are and what you've observed:
+
+First conversation, no strong fit signal: 15 to 20 percent.
+Discovery complete, proposal sent: 35 to 45 percent.
+Objections addressed, agreement drafted: 60 to 75 percent.
+Agreement sent, owner in review: 75 to 85 percent.
+Agreement reviewed, timing question only: 85 to 95 percent.
+
+Add those up and you get an expected value -- not a hope count. The operator with twelve owners spread across those stages probably has an expected value of four to five signed owners, not twelve.
+
+That changes the capacity decision. That changes which certain deals you decline. That changes how you plan the onboarding team's schedule.
+
+The most common version of this error: operators count "active conversations" as if they're equally weighted. Some of those conversations are live bets. Some are courtesy meetings that will never convert. Treating them the same corrupts every downstream decision.
+
+Name the probability explicitly. Update it at each stage transition. Use it to make honest capacity decisions rather than planning based on what it would feel like if everything closed.
+
+The goal isn't to be pessimistic. The goal is to be calibrated.
+
+---
+Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #ThinkingInBets

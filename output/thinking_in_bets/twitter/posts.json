@@ -1,0 +1,164 @@
+{
+  "book": "Thinking in Bets",
+  "book_slug": "thinking_in_bets",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "resulting: outcome bias in pitch evaluation",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "Close rate is a volume metric. It is not a pitch quality metric. An owner whose daughter offered to manage for free was never yours to win. Scoring that as a pitch failure corrupts every lesson you draw from it.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_in_bets",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "resulting",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "resulting: outcome bias in pitch evaluation",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "VRM reps rebuild their pitch after losing to a family member who offered to manage for free. They tighten their approach after an owner signs with the incumbent they never had a chance against. The pitch wasn't the problem. The feedback signal was.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_in_bets",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "resulting",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "pre-mortem qualification",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "Before signing an owner, ask one question: if this relationship churns in 90 days, what was the most likely cause?\n\nThe answer is almost always visible before you sign. The question is whether you're looking.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_in_bets",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "pre_mortem",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "story_detail",
+      "source_theme": "pre-mortem qualification",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "Owner pushed back on fees twice. Mentioned his brother-in-law has property management experience. Wants to be copied on all guest communications.\n\nStandard close energy. Revenue projection looked good. Second meeting scheduled.\n\nRun the pre-mortem: if this churns in 90 days, why? The answer is sitting right there.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_in_bets",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "pre_mortem",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "sharp_opinion",
+      "source_theme": "pipeline probability weighting",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Twelve owners in the pipeline is not useful information. Twelve owners at specified probabilities by stage is. One of those numbers tells you how busy you feel. The other tells you how many properties you're actually going to onboard.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_in_bets",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "pipeline_probability",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "pipeline probability weighting",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Many VRM operators plan Q1 capacity based on pipeline optimism and then wonder why they're scrambling in February.\n\nDo you weight your pipeline stages by probability, or do you count every active conversation at face value? Genuinely curious what systems people are using.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "thinking_in_bets",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "pipeline_probability",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "recognition",
+      "source_theme": "separating luck from skill",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "The most dangerous outcome in VRM sales is closing a bad deal through persistence. It teaches you the wrong lesson from the win. The churn six months later rarely gets traced back to the pitch.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_in_bets",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "resulting",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "newsletter synthesis",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper in this week's VRM Sales Library newsletter: a post-appointment debrief structure, a pre-mortem checklist for prospective owners, and a pipeline probability model by stage. All based on Annie Duke's Thinking in Bets applied to owner acquisition.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_in_bets",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "synthesis",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "resulting applied to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Friday",
+      "text": "Applying @AnnieDuke's Thinking in Bets to VRM owner acquisition this week. The resulting concept is underrated in service sales: you can make the right call at every stage of a listing appointment and still lose the deal to an owner's brother-in-law. Close rate is a bad individual feedback signal for exactly this reason.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_in_bets",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "resulting",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "three-part framework for better VRM owner acquisition decisions",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Applied Annie Duke's Thinking in Bets to VRM owner acquisition this week. Three concepts. Each one changes a specific decision VRM operators make constantly.",
+        "1. Resulting. You're evaluating pitch quality by whether the owner signed. That signal is corrupted. A lost deal to an owner's family member is not feedback on your pitch. A won deal from a poorly-qualified owner is not evidence your pitch is working.",
+        "2. Pre-mortem. Before signing an owner, ask: if this relationship churns in 90 days, what caused it? The answer is usually visible in the appointment -- high involvement expectations, competing influence, fee sensitivity, unrealistic revenue expectations. Most of it is preventable.",
+        "3. Pipeline probability. Twelve owners in the pipeline is not a plan. Twelve owners at weighted probabilities by stage tells you your expected value is probably 4 to 5 signed owners, not 12. That changes what you decline, what you take, and how you staff.",
+        "The common thread: in VRM owner acquisition, you're frequently making decisions based on the wrong feedback signal. Results corrupt learning. Optimism corrupts pipeline. These three frameworks are the correction. Longer versions in this week's posts and newsletter."
+      ],
+      "source_trace": {
+        "book_slug": "thinking_in_bets",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "synthesis",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

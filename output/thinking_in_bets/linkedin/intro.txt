@@ -1,0 +1,6 @@
+VRM Sales Library | Thinking in Bets | Annie Duke
+Most VRM operators think their close rate tells them how good their pitch is. That framing makes the problem harder than it is.
+
+Annie Duke's Thinking in Bets reframes it. The real issue is that outcomes are a corrupted feedback signal -- and using them as the primary measure of decision quality prevents operators from improving the things that are actually within their control.
+
+Three posts this week working through the application. Worth following if owner acquisition is part of your job.
