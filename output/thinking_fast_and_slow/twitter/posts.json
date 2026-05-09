@@ -1,0 +1,165 @@
+{
+  "book": "Thinking, Fast and Slow",
+  "book_slug": "thinking_fast_and_slow",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "loss aversion",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "VRM operators lead with revenue projections because they're the most defensible thing in the room. They're also often the wrong thing to lead with. The owner who has been handling 2 AM guest calls for two years isn't doing math. They're exhausted.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_fast_and_slow",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "loss_aversion",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "anchoring",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "The commission objection in a VRM listing appointment is almost never actually about commission. It's about what number the owner had in their head before you opened your mouth.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_fast_and_slow",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "anchoring",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "loss aversion diagnosis",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "Before your next listing appointment, ask: is this owner trying to gain something or stop losing something? The pitch is different. The opener is different. Even the questions you ask first are different. Most operators don't check.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "thinking_fast_and_slow",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "loss_aversion",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "peak-end rule",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Owners don't remember your listing appointment as an average of all ninety minutes. They remember the most intense moment and the last ten minutes. The middle of your pitch matters less than you think.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_fast_and_slow",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "peak_end_rule",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "sharp_opinion",
+      "source_theme": "system 1 decision making",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Owner acquisition decisions are emotional decisions explained rationally after the fact. The operators winning listing appointments have stopped pitching to the System 2 mind and started managing the System 1 read.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_fast_and_slow",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "system_1_system_2",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "anchoring in fee conversations",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "If you're charging 22% and the owner's last manager charged 15%, you're not pitching value from the jump. You're defending a 7-point gap. The operator who anchors on gross income and occupancy upside before naming their fee is playing a different game entirely.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_fast_and_slow",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "anchoring",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "listing appointment close rates",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "What's the last thing you say in a listing appointment before you walk out? Asking because I think the final ten minutes are the most underinvested part of the VRM sales process.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "thinking_fast_and_slow",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "peak_end_rule",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "VRM Sales Library series",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "This week's VRM Sales Library series applied Kahneman's Thinking, Fast and Slow to listing appointments: loss aversion, anchoring, and the peak-end rule. The newsletter goes deeper on the full System 1-aware appointment structure. linkedin.com/in/chadhensel",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_fast_and_slow",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_series_recap",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "Kahneman applied to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Friday",
+      "text": "Been applying Daniel Kahneman's loss aversion research to VRM listing appointments this week. The operators who lead with revenue projections are solving for the wrong motivation. The ones who lead with loss surface are closing at a different rate.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "thinking_fast_and_slow",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "loss_aversion",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "System 1 listing appointment framework",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "VRM listing appointments are lost before the pitch starts. Here's the Kahneman explanation.",
+        "Owners make decisions in System 1: fast, emotional, pattern-matching. They explain those decisions in System 2: slow, analytical, rational. Most operators pitch to System 2 and wonder why good appointments don't close.",
+        "What System 1 is doing in the first two minutes of your appointment: deciding if you're credible, deciding if you understand their situation, deciding if this feels like a peer conversation or a sales pitch.",
+        "The operator who opens with a property-specific observation creates a credibility halo. The operator who opens with a company overview hands the pattern-matching over to the owner's default category: another salesperson.",
+        "Three variables you control: the first two minutes (halo), the peak moment (transition removal), the final ten minutes (named next step). The middle is less important than you think.",
+        "Kahneman's framework doesn't tell you to be manipulative. It tells you to stop optimizing for the wrong part of the conversation."
+      ],
+      "source_trace": {
+        "book_slug": "thinking_fast_and_slow",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "system_1_appointment_framework",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

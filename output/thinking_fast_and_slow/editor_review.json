@@ -1,0 +1,26 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "Strong batch grounded in Kahneman's actual research with direct, specific VRM application throughout. Each post has a concrete operator scenario, a real mistaken belief being dismantled, and at least one script. The newsletter genuinely extends the posts rather than repeating them.",
+  "strengths": [
+    "Post 1 correctly identifies the loss aversion / gain motivation diagnostic split and gives a concrete script for surfacing it before the pitch starts",
+    "Post 2's anchoring sequence is actionable and specific, including the exact math of a 22% fee conversation",
+    "Post 3 uses the peak-end rule to diagnose a specific close failure pattern and provides two closing scripts",
+    "Newsletter extends all three posts with the System 1 architecture framework and a complete redesigned appointment structure",
+    "Owner type references (Delegator, Skeptic, Investor, Steward) are used correctly and specifically throughout"
+  ],
+  "problems": [
+    "Post 3 opening anecdote ('an operator I know') is slightly soft for the opener of a post about closing. Consider hardening the first sentence to the actual claim rather than the setup story.",
+    "Post 2's 'Too many operators' in 'Too many operators open the fee conversation in response to the owner's question' should be softened to 'Many operators' per voice rules."
+  ],
+  "required_fixes": [
+    "Soften 'Too many operators' to 'Many operators' in Post 2",
+    "Verify no em dashes in any file before commit",
+    "Confirm all posts under 2,900 characters"
+  ],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}

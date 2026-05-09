@@ -1,0 +1,98 @@
+[
+  {
+    "concept": "Loss Aversion — Owners aren't buying upside, they're buying relief",
+    "best_format": "long_form",
+    "post_type": "myth_bust",
+    "target_audience": "VRM operators running listing appointments",
+    "actual_argument": "The owner who is self-managing or unhappy with their current manager is not motivated by projected revenue gains. They are motivated by loss avoidance: wanting to stop losing sleep, weekends, and control. Pitching upside to a loss-averse owner is solving for the wrong problem.",
+    "bad_assumption_to_attack": "If I show the owner they'll earn more with us, they'll sign.",
+    "behavior_change": "Diagnose whether the owner is gain-motivated or loss-motivated before starting the pitch. Lead with relief language and loss-surface questions for loss-averse owners before introducing revenue projections.",
+    "operator_example": "An owner who has been self-managing for two years and getting 2 AM guest calls isn't doing math. They're exhausted. Showing them a 22% revenue increase when they want their weekends back is a pitch mismatch.",
+    "hook_options": [
+      "Most VRM revenue projections solve for the wrong problem.",
+      "Owners don't sign because of the upside. They sign because of what they're tired of.",
+      "The listing appointment that leads with RevPAR projections is already losing the room."
+    ],
+    "lead_in": "Kahneman's research on loss aversion explains something VRM operators see in the field every week but rarely name correctly.",
+    "angle": "Reframe owner acquisition as a loss-surface conversation first, revenue conversation second. Most operators have it backwards. The operator who diagnoses owner exhaustion and names it specifically wins the appointment before the data hits the table.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "follow-focused: if you work in VRM business development, follow for the rest of this week's series",
+    "cluster_role": "pillar",
+    "companion_ideas": ["Anchoring Effect", "Peak-End Rule"],
+    "notes": "This is the strongest concept for VRM application. Lead with it as Post 1. The loss aversion diagnosis maps cleanly onto the owner types framework — particularly the Delegator (wants relief), the Steward (wants peace of mind), and the Skeptic (wants protection from bad outcomes). Name the specific owner type where relevant."
+  },
+  {
+    "concept": "Anchoring Effect — Who sets the number first, wins the number",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators handling fee conversations",
+    "actual_argument": "The first reference point introduced in a conversation disproportionately shapes everything that follows. VRM operators who let owners anchor on their current rate or expected commission lose the entire fee frame before the pitch begins. Operators who anchor first on total income, occupancy value, and stress-reduction outcomes reframe the conversation before commission appears.",
+    "bad_assumption_to_attack": "The best way to handle the commission question is to answer it directly and justify it with value.",
+    "behavior_change": "Never let the commission number be the first number in the conversation. Anchor on gross income, occupancy value, and transition cost before commission comes up. When commission appears, it is a fraction of what you've already framed as significant.",
+    "operator_example": "An operator charges 22% management fee. If the owner walks in anchored on 15% (their last manager's rate), the operator spends the appointment defending 7 points. If the operator anchors first on projected gross income of $85,000 and the $18,000 they're currently leaving on the table from unbooking gaps, the 22% feels like a detail, not a negotiation.",
+    "hook_options": [
+      "In VRM fee conversations, whoever speaks first wins.",
+      "The commission objection is almost always set up before you get to commission.",
+      "Your fee isn't the problem. Your sequencing is."
+    ],
+    "lead_in": "Daniel Kahneman's work on anchoring explains why operators who lead with capability lose to operators who lead with framing.",
+    "angle": "Teach the sequencing mechanics of a listing appointment using anchoring as the framework. Show what an anchored conversation looks like versus a reactive one. Give the reader something they can change tomorrow in how they structure the first twenty minutes.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "follow-focused: following this series for the week",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Loss Aversion", "System 1 and System 2"],
+    "notes": "Post 2 of the series. Highly tactical. Include a script or at minimum a sequencing diagram in text form. The contrast between anchored and reactive appointment structures is where this post earns its keep."
+  },
+  {
+    "concept": "Peak-End Rule — The appointment isn't remembered how you think it is",
+    "best_format": "long_form",
+    "post_type": "contrarian_take",
+    "target_audience": "VRM operators who lose deals after good appointments",
+    "actual_argument": "Owners remember a listing appointment based on its peak (most emotionally intense moment) and its final moments, not the average of the full hour. Operators who invest heavily in the middle of the pitch and let appointments trail off into a vague 'I'll send you the contract' are optimizing for the wrong part.",
+    "bad_assumption_to_attack": "If the appointment goes well overall, the owner will remember it that way.",
+    "behavior_change": "Design the final ten minutes of a listing appointment as deliberately as the opening. Create a clear peak moment (the offer, the transition removal, the specific commitment) and a clean, specific ending. The owner's memory of the conversation is your closing argument.",
+    "operator_example": "An operator has a solid 90-minute listing appointment. The pitch lands. The owner seems interested. Then the operator says 'I'll get you the contract Monday' and walks out. The owner talks to their spouse that night and describes a meeting where the manager seemed good but nothing specific was committed to. Three days later, inertia wins.",
+    "hook_options": [
+      "The best listing appointment in VRM can still lose to a weak ending.",
+      "Owners don't remember the middle of your pitch. They remember the last ten minutes.",
+      "The appointment the owner describes to their spouse isn't the one you thought you gave."
+    ],
+    "lead_in": "Kahneman's peak-end rule changes where you should invest your energy in a listing appointment.",
+    "angle": "Use the peak-end rule to diagnose why appointments that 'went well' don't close. The mechanism is specific: memory is not an average. Operators can fix this with a deliberate closing structure. Show what a strong peak moment looks like and what a strong appointment ending sounds like.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "follow-focused: subscribe to the weekly VRM Sales Library newsletter",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Loss Aversion", "WYSIATI"],
+    "notes": "Post 3 of the series. Include a script for the final ten minutes of a listing appointment. The peak moment (transition removal, specific commitment, named next step) is the tactical anchor. The contrast between trailing-off appointments and designed endings is the argument."
+  },
+  {
+    "concept": "WYSIATI + Loss Aversion + Halo Effect (newsletter synthesis)",
+    "best_format": "newsletter_seed",
+    "post_type": "breakdown",
+    "target_audience": "VRM operators reading the full week's content",
+    "actual_argument": "The three posts this week cover three distinct failure modes in VRM listing appointments: pitching the wrong motivation (loss aversion), losing the frame before commission (anchoring), and misremembering how the appointment ended (peak-end rule). The newsletter goes deeper on the mechanism that underlies all three: owners are not evaluating you rationally, and the operator who designs for System 1 consistently beats the operator who designs for System 2.",
+    "bad_assumption_to_attack": "A well-prepared pitch with strong data is sufficient to win a listing appointment.",
+    "behavior_change": "Redesign the listing appointment from first impression through closing around how owners actually make decisions, not how operators wish they did.",
+    "operator_example": "Walk through a complete listing appointment from first-impression halo through the closing peak-end structure. Show where each concept from the week's posts intersects with a specific moment in the appointment flow.",
+    "hook_options": [
+      "The full listing appointment diagnostic",
+      "Where VRM appointments are actually lost",
+      "What Kahneman would say about your listing appointment"
+    ],
+    "lead_in": "This week's posts covered three specific decision-science concepts and how they apply to VRM owner acquisition. The newsletter goes deeper.",
+    "angle": "Synthesize the week's three posts into a complete listing appointment framework built on Kahneman's System 1 architecture. Add WYSIATI (surfacing hidden problems the owner doesn't know they have) and the halo effect (first impression mechanics) as the connective tissue. Produce a full diagnostic and a redesigned appointment structure.",
+    "mention_book": true,
+    "mention_oratia": true,
+    "oratia_style": "light_example",
+    "cta": "subscribe at linkedin.com/in/chadhensel",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["System 1 and System 2", "WYSIATI", "Halo Effect"],
+    "notes": "Newsletter should include: brief recap of the three posts, the full diagnostic stack (what the owner is doing at each stage of the appointment from a System 1 perspective), a redesigned appointment structure from opening credibility signal through closing peak, and a NEXT WEEK teaser."
+  }
+]
