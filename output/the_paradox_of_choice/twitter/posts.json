@@ -1,0 +1,166 @@
+{
+  "book": "The Paradox of Choice",
+  "book_slug": "the_paradox_of_choice",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "decision paralysis",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "'Let me think about it' after a listing appointment usually means one thing: the decision was too complex. More follow-up information makes it worse. The fix is a smaller ask, not a larger proposal.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_paradox_of_choice",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "decision_paralysis",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "menu close failure",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "Giving a VRM owner three service tiers and asking them to pick one feels like flexibility. Schwartz's research says it produces anxiety, delay, and lower satisfaction with whatever they finally choose. Fewer options close faster.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_paradox_of_choice",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "recommendation_close",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "maximizer owner identification",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "Signs you're sitting with a maximizer owner: they mention other managers by name, they have specific questions about every line item, and they seem unsatisfied with answers they logically should accept. Give them the evaluation framework, not more of your data.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_paradox_of_choice",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "maximizer_owner",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "anticipated regret",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Owners who have had a bad manager don't need better revenue projections from the next one. They need to believe this time won't end the same way. Addressing anticipated regret directly is different from just having a better pitch.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_paradox_of_choice",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "anticipated_regret",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "sharp_opinion",
+      "source_theme": "recommendation advantage",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Many VRM operators end listing appointments by handing the decision back to the owner. The close is the recommendation: 'Here's what I'd do for your property and why.' Then stop talking. The owner with a recommendation to accept is in a different position than the owner with a menu to evaluate.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_paradox_of_choice",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "recommendation_advantage",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "expectation calibration as retention",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "The revenue projection you give at the listing appointment is the expectation you'll be held to at year one. Closing with an optimistic number sets up a churn event 12 months out. Expectation calibration at signing isn't a weak close. It's a retention decision.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_paradox_of_choice",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "expectation_calibration",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "decision paralysis in VRM",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "When an owner goes quiet after a solid listing appointment, what's the first move? Curious how people handle this because the 'more information' instinct usually makes it worse.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "the_paradox_of_choice",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "decision_paralysis",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "VRM Sales Library series",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "This week's VRM Sales Library applied Schwartz's Paradox of Choice to owner acquisition: decision paralysis, the maximizer owner, and why the recommendation close works better than a menu. Newsletter has the full closing sequence. linkedin.com/in/chadhensel",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_paradox_of_choice",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_series_recap",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "Schwartz applied to VRM sales",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Friday",
+      "text": "Applied Barry Schwartz's Paradox of Choice to VRM listing appointments this week. The maximizer owner concept maps cleanly: the owner running exhaustive comparisons doesn't need more features. They need the right comparison framework.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_paradox_of_choice",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "maximizer_owner",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "Decision reduction sequence for VRM listing appointments",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "VRM operators lose more deals to complexity than to competition. The decision reduction sequence.",
+        "Most listing appointments produce too many decisions. Service tier. Commission rate. Contract length. Onboarding timeline. Every decision added is a barrier to the close.",
+        "Step 1: Give one recommendation. Not a menu. One confident, specific recommendation for the owner's property with the reason why. Options are available if asked. They rarely are.",
+        "Step 2: If the owner stalls, make the next yes smaller. Not 'do you want to sign?' but 'can we do 20 minutes Thursday to walk through the contract?' Small yeses move toward large ones.",
+        "Step 3: For comparison shoppers, give them the evaluation framework before they leave. Three questions built around your genuine strengths. Every other manager gets evaluated against your criteria.",
+        "Step 4: Set expectations at closing that the actual experience can meet. The gap between projected and actual drives year-one churn. You set the projection. You set the risk.",
+        "The close is not about adding more reasons. It's about reducing the number of decisions required to say yes."
+      ],
+      "source_trace": {
+        "book_slug": "the_paradox_of_choice",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "decision_reduction_sequence",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    }
+  ]
+}

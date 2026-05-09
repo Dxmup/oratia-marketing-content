@@ -1,0 +1,26 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "Strong batch with highly actionable VRM application throughout. Post 1's reframe of 'let me think about it' as a complexity signal is the sharpest contrarian claim in the series. Post 2's comparison framework tactic is immediately usable. Post 3's menu vs. recommendation contrast is specific and includes a closing script. Newsletter extends substantively with the anticipated regret and expectation calibration concepts.",
+  "strengths": [
+    "Post 1 correctly identifies the complexity mechanism behind the most common VRM closing stall and gives a specific, usable follow-up response",
+    "Post 2's 'give them better columns' approach to the maximizer owner is specific and tactical, with three actual questions operators can use",
+    "Post 3's closing script is clean, confident, and field-ready",
+    "Newsletter adds meaningful depth with the anticipated regret and expectation calibration sections not covered in the week's posts",
+    "Owner type references are accurate: Delegator, Investor, Controller all used correctly and specifically"
+  ],
+  "problems": [
+    "Post 1 uses 'most VRM operators' in the opening setup. Should be softened to 'many VRM operators' per voice rules.",
+    "Post 3 opens with 'The typical VRM listing appointment ends with a menu' which is slightly generic. Consider hardening to a more specific observation."
+  ],
+  "required_fixes": [
+    "Soften 'most VRM operators' to 'many VRM operators' in Post 1 opening",
+    "Verify no em dashes in any file",
+    "Confirm all LinkedIn posts under 2,900 characters"
+  ],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}
