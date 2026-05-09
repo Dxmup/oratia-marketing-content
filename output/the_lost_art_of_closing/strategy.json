@@ -1,0 +1,98 @@
+[
+  {
+    "concept": "Closing is a series of commitments, not a single event",
+    "best_format": "long_form",
+    "post_type": "myth_bust",
+    "target_audience": "VRM operators running listing appointments",
+    "actual_argument": "The close is not a moment. It is the result of commitments built throughout the entire acquisition process. Operators who miss this work harder on their pitch and wonder why they keep losing deals they thought they had.",
+    "bad_assumption_to_attack": "That a strong presentation at the end of the appointment will close the deal, and that objections at the close mean the pitch was weak.",
+    "behavior_change": "Build micro-commitments throughout every owner interaction, not just at the end. Treat each touchpoint as a step in a commitment sequence.",
+    "operator_example": "An operator who does a polished listing appointment but has never asked the owner to share their financials, never confirmed the owner is open to change, and never asked who else is involved in the decision shows up to close having done none of the actual closing work.",
+    "hook_options": [
+      "The listing appointment is not where most VRM deals are won or lost.",
+      "Operators who lose deals they thought they had usually make the same mistake.",
+      "Closing a vacation rental owner is not a moment at the end of a presentation."
+    ],
+    "lead_in": "The close happens across the whole process. Or it does not happen at all.",
+    "angle": "Frame the commitment sequence as the hidden architecture of every successful close. Use the failed appointment as the setup: everything seemed to go well, but the operator never built the foundation. The pitch quality was irrelevant.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for more posts this week on Iannarino's commitment framework applied to VRM owner acquisition.",
+    "cluster_role": "pillar",
+    "companion_ideas": ["The commitment to explore change", "Avoiding the Alchemist Trap in closing"],
+    "notes": "This is the pillar post. It sets up the series by reframing what closing actually is. All subsequent posts zoom in on specific commitments. Keep the tone authoritative and operator-specific. This post should feel like someone who has watched listings deals die for the wrong diagnosed reason."
+  },
+  {
+    "concept": "The commitment to explore change",
+    "best_format": "short_text",
+    "post_type": "contrarian_take",
+    "target_audience": "VRM operators prospecting self-managing owners and dissatisfied owners",
+    "actual_argument": "Agreeing to a meeting is not the same as committing to explore change. Most VRM operators conflate the two and spend their pitch time talking to an owner who has not yet decided that change is even on the table.",
+    "bad_assumption_to_attack": "That an owner who agrees to a listing appointment is already open to changing their situation.",
+    "behavior_change": "Explicitly surface the status quo and confirm the owner is open to change before building any case for your service.",
+    "operator_example": "A self-managing owner who agreed to a meeting 'just to see what managers are like' is not the same as an owner who has decided that self-managing is not working. The operator who never names this distinction spends 45 minutes presenting to someone who was never actually evaluating.",
+    "hook_options": [
+      "An owner who agrees to a meeting has not committed to changing anything.",
+      "The listing appointment begins before the appointment.",
+      "Self-managing owners agree to meetings for a lot of reasons. Curiosity is one of them."
+    ],
+    "lead_in": "If the owner has not committed to exploring change, your pitch is being evaluated against a default answer that is already yes.",
+    "angle": "Open with the distinction between meeting agreement and change commitment. Use the self-managing owner scenario. Provide a script that surfaces the owner's actual position before the pitch begins.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for Post 3 of this week's series on Iannarino's commitment framework.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Closing is a series of commitments, not a single event"],
+    "notes": "Keep this tight. The insight is self-contained. The script angle is what makes it useful rather than just interesting."
+  },
+  {
+    "concept": "The commitment to build consensus",
+    "best_format": "short_text",
+    "post_type": "breakdown",
+    "target_audience": "VRM operators losing deals after strong appointments",
+    "actual_argument": "Deals die because a decision-maker who was never part of the conversation says no in private. Operators who ask who else is involved in the decision before they leave the first meeting protect their own time.",
+    "bad_assumption_to_attack": "That the person in the listing appointment is the only decision-maker.",
+    "behavior_change": "Ask who else is involved in the decision at every listing appointment and offer to meet with all relevant parties before advancing.",
+    "operator_example": "An operator who does a strong appointment with a husband, sends a proposal, and then waits for an answer that never comes, because the wife had concerns no one ever addressed directly.",
+    "hook_options": [
+      "Many VRM listing deals die in conversations the operator was never part of.",
+      "The 'let me talk to my wife' stall is preventable.",
+      "If you only presented to one of three decision-makers, you have not actually presented."
+    ],
+    "lead_in": "The person in the room is not always the person who decides.",
+    "angle": "Name the co-ownership dynamic directly. Use the spouse/partner scenario. Provide a one-question script that operators can use at every appointment to surface hidden decision-makers.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for the full series. This week is on Iannarino's Lost Art of Closing applied to VRM.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["The commitment to explore change", "The commitment to resolve concerns"],
+    "notes": "Third post. Should feel like a field observation more than a framework explanation. The spouse/partner scenario is widely recognizable in VRM and will get operators nodding."
+  },
+  {
+    "concept": "Commitment sequence full architecture",
+    "best_format": "newsletter_seed",
+    "post_type": "breakdown",
+    "target_audience": "VRM operators who want a complete owner acquisition process",
+    "actual_argument": "The full commitment sequence, from exploring change through deciding, is a complete acquisition architecture. Operators who understand it can diagnose exactly where their process breaks down.",
+    "bad_assumption_to_attack": "That closing is about skill at the moment of ask, not about the process that precedes it.",
+    "behavior_change": "Map current acquisition process against the full commitment sequence and identify the first commitment that is being skipped.",
+    "operator_example": "An operator who has never formally asked a prospect to commit to exploring change, collaborate with real data, include all decision-makers, resolve concerns out loud, understand the investment, and decide on a timeline is running a process with five structural gaps.",
+    "hook_options": [
+      "The full architecture of a close that actually sticks.",
+      "Six commitments. Most operators are only asking for one.",
+      "If your pipeline stalls at the proposal stage, here is where the problem actually started."
+    ],
+    "lead_in": "The newsletter this week goes deeper on the full sequence and gives you a diagnostic for your own process.",
+    "angle": "The newsletter section builds the full six-commitment stack. Each commitment gets a section with the VRM application, a diagnostic question, and where most operators break down. Close with a self-assessment the reader can run on their last three deals.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "light_example",
+    "cta": "Subscribe to the VRM Sales Library newsletter for the full breakdown.",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["All six commitment concepts"],
+    "notes": "Newsletter should be the full map. It is the place to put the commitment-to-invest and commitment-to-resolve-concerns content that did not make it into the three posts. The self-diagnostic at the end is high-value and shareable."
+  }
+]

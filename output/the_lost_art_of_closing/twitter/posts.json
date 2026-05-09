@@ -1,0 +1,148 @@
+{
+  "book": "The Lost Art of Closing",
+  "book_slug": "the_lost_art_of_closing",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "closing is a sequence not a moment",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "VRM operators who keep losing deals they thought they had are usually looking at the wrong part of the process. The pitch is fine. The commitments they never built are the problem.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_lost_art_of_closing",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "commitment_sequence",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "meeting agreement vs change commitment",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "Owners agree to listing appointments for a lot of reasons. Curiosity is one of them. Agreeing to meet and committing to change are not the same thing, and the appointment that treats them as identical is already off track.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_lost_art_of_closing",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "commitment_to_explore_change",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "consensus and hidden decision-makers",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "Most VRM deals that die after a good appointment die in a conversation the operator was never in. One question prevents this: 'Is there anyone else involved in this decision who should hear this?' Ask it before you leave the first meeting.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_lost_art_of_closing",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "commitment_to_build_consensus",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "story_detail",
+      "source_theme": "commitment to resolve concerns",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "The owner who says 'I'm a little worried about guest vetting' during the appointment is giving you a gift. Address it. Then confirm it's resolved: 'Does that fully address your concern or is there something else we should work through?' Most operators skip the second part.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_lost_art_of_closing",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "commitment_to_resolve_concerns",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "sharp_opinion",
+      "source_theme": "commitment to decide",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Ending a listing appointment with 'just let me know what you decide' is not courtesy. It is fear of rejection dressed up as respect for the owner's time. Ask for the decision. Name a timeline. Deals left without a deadline drift.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_lost_art_of_closing",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "commitment_to_decide",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "where VRM operators lose the close",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "In VRM acquisition, where do deals most often stall after a good first appointment? Curious what operators are seeing.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "the_lost_art_of_closing",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "commitment_sequence",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "channel_connector",
+      "source_theme": "full commitment diagnostic",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper on Iannarino's full commitment sequence in this week's VRM Sales Library newsletter. Includes a diagnostic you can run on your last three stalled deals. At linkedin.com/in/chadhensel.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_lost_art_of_closing",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "commitment_sequence",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "author_engagement",
+      "source_theme": "commitment sequence applied to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Wednesday",
+      "text": "Applying @iannarino's Lost Art of Closing to VRM owner acquisition this week. The commitment sequence maps cleanly: operators who skip the consensus step lose deals in conversations they were never part of.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_lost_art_of_closing",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "commitment_to_build_consensus",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "full commitment sequence for VRM operators",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "VRM operators who close well aren't better presenters. They build commitments throughout the process, not just at the end.",
+        "The commitment stack: explore change, collaborate with real info, include all decision-makers, resolve concerns explicitly, walk through the investment, ask for a decision with a timeline.",
+        "Most stalled deals are missing two or three of these. The final ask failed because the earlier ones were skipped.",
+        "Run your last three lost deals against this list. The gap shows up fast."
+      ],
+      "source_trace": {
+        "book_slug": "the_lost_art_of_closing",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "commitment_sequence_diagnostic",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}
