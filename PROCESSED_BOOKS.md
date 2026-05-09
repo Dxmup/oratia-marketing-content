@@ -57,6 +57,7 @@ Only list a book here when its output folder and core files actually exist on di
 - Thinking in Bets — processed
 - The Experience Economy — processed
 - The Mom Test — processed
+- Breakthrough Advertising — processed
 
 ## Notes
 - Update this file when new per-book folders are created and verified.

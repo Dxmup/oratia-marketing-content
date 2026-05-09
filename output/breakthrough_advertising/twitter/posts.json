@@ -1,0 +1,167 @@
+{
+  "book": "Breakthrough Advertising",
+  "book_slug": "breakthrough_advertising",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "market sophistication",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "VRM markets don't stay fresh. The pitch that closed deals in year two of your business is noise by year five. Not because your service got worse. Because owners have heard it from everyone.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "breakthrough_advertising",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "market sophistication",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "standard pitch as noise",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "\"We maximize your revenue.\" \"We treat your home like our own.\" \"Our team is local and responsive.\" Three claims every VRM manager makes. None of them are differentiators anymore. They're the floor owners assume before the appointment starts.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "breakthrough_advertising",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "claim fatigue",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "awareness ladder",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "One question that changes every listing appointment: \"What prompted you to look at your options now?\" The owner who says they've been self-managing for two seasons needs a different conversation than the one whose neighbor told them to call someone. Same appointment. Different pitch.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "breakthrough_advertising",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "awareness ladder",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "mechanism vs claim",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "The mechanism is the differentiator, not the claim. \"We maximize your revenue\" is what every competitor says. \"We calibrate pricing every 24 hours against comparables within two miles, which is why our owners average 18% more\" is something most of them can't follow up.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "breakthrough_advertising",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "mechanism",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "recognition",
+      "source_theme": "identification",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Some appointments close before you've finished talking. The owner already knows. That usually happens because they recognized themselves in how you described who you work with, not because you had a better feature list.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "breakthrough_advertising",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "identification",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "owner type mapping",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "The Steward doesn't close on the mechanism. They close on recognition. \"Most of our clients take real pride in the property itself, not just the revenue. We tend to work with owners who are particular, because our standards are high enough to match that.\" That sentence is not a pitch. It's a mirror.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "breakthrough_advertising",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "identification and owner types",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "pitch evolution",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Eugene Schwartz mapped in 1966 why good pitches stop working: the market hears them enough times that they stop registering as information. Many VRM operators are running a Stage 3 pitch in a Stage 4 market. Are you still closing at the rate you were two years ago?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "breakthrough_advertising",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "market sophistication",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "full framework",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper in this week's VRM Sales Library newsletter on how the Breakthrough Advertising framework maps onto each owner type. The Investor, the Steward, the Skeptic, the Controller: each one needs a different layer of the pitch. Newsletter is at linkedin.com/in/chadhensel.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "breakthrough_advertising",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full framework",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "market sophistication",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Friday",
+      "text": "Applied Eugene Schwartz's market sophistication stages to VRM owner acquisition this week. The framework was built for advertising but it maps directly onto listing appointments: most established markets are at Stage 3 or 4, and the operators running Stage 1 claims are wondering why conversion dropped.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "breakthrough_advertising",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "market sophistication",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "full sophistication framework applied to VRM",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM listing appointments fail at the pitch level. The pitch isn't wrong. It's designed for a different stage of the market than the one you're operating in.",
+        "Eugene Schwartz mapped five stages of market sophistication. Every market moves through them as buyers become more familiar with available options and available claims.",
+        "Stages 1 and 2: a direct claim is enough. 'We maximize your revenue and handle everything.' In a new market, this closes deals.",
+        "Stage 3: the market has heard the claim. Owners have heard it from three managers already. The claim is now the floor, not the differentiator.",
+        "Stage 4: add the mechanism. Not just 'we maximize your revenue' but the specific practice that produces the result and why it works. That specificity is what differentiates in a mature market.",
+        "Stage 5: identification. The owner isn't asking if it works. They're asking if it's for someone like them. The operator who makes them feel recognized closes without a hard pitch.",
+        "Most established VRM markets are at Stage 3 or Stage 4. If conversion has dropped since you started, the market has moved. The pitch needs to move with it."
+      ],
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "breakthrough_advertising",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "five stages of sophistication",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}
