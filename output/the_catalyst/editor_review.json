@@ -1,0 +1,22 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three posts and newsletter meet the depth and specificity standard. The friction vs. persuasion framing is precise and non-generic, the reactance and IKEA effect applications are VRM-specific, and the newsletter genuinely extends the posts with actionable re-engagement scripts for each of the five barriers.",
+  "strengths": [
+    "Post 1 correctly frames the stall as a friction problem before prescribing the diagnostic question. The script lands in a credible register.",
+    "Post 2 effectively combines two psychological concepts (reactance and IKEA effect) without making either feel academic. The self-managing owner scenario is specific.",
+    "Post 3 introduces the distance concept clearly and closes with a concrete small-step offer structure that operators can use in their next conversation.",
+    "Newsletter delivers genuine extension of the posts: covers all five Berger barriers with a specific re-engagement script for each. The cost-of-inaction section adds material not in any of the posts.",
+    "Owner type references (Controller in Post 2) are correct and specific, not generic.",
+    "Scripts throughout read as real conversation language, not sales training manual language."
+  ],
+  "problems": [
+    "Post 3 Oratia mention is slightly brief and could integrate more smoothly into the surrounding field note structure."
+  ],
+  "required_fixes": [],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 10
+}

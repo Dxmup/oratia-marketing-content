@@ -1036,6 +1036,66 @@
       "path": "output/nudge/twitter/posts.json",
       "status": "sharpened",
       "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_catalyst/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_catalyst/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_catalyst/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_catalyst/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_catalyst/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_catalyst/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/selling_to_vito/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/selling_to_vito/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/selling_to_vito/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/selling_to_vito/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/selling_to_vito/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/selling_to_vito/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
     }
   ]
 }

@@ -1,0 +1,152 @@
+{
+  "book": "The Catalyst",
+  "book_slug": "the_catalyst",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "Friction vs. persuasion",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "The owner who says they need more time doesn't need more reasons to switch. Something specific is in the way. More data doesn't move them. Finding the barrier and removing it does.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_catalyst",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "friction_vs_persuasion",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "The follow-up mistake",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "The VRM follow-up sequence that sends progressively stronger revenue comparisons to a stalled owner is solving the wrong problem. The owner who went quiet after a good appointment wasn't waiting for better numbers.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_catalyst",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "friction_vs_persuasion",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "sharp_opinion",
+      "source_theme": "Reactance",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Following up a third time with a stalled owner doesn't signal persistence. It often signals pressure. And pressure makes the owner quieter, not more likely to move.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_catalyst",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "reactance",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "diagnostic",
+      "source_theme": "IKEA effect with self-managing owners",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "The self-managing owner who's been running their Airbnb for three years doesn't hear your pitch as an upgrade. They hear it as a criticism of something they built. Acknowledging what they did right before presenting an alternative is not flattery. It's accurate positioning.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_catalyst",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "ikea_effect",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "recognition",
+      "source_theme": "Distance effect",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Asking a self-managing owner who controls every aspect of their property to sign a full management agreement at the end of a first conversation is asking them to travel a long distance in one step. Many of them just stop.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_catalyst",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "distance_effect",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "Small first step",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "One thing that converts more stalled VRM pipeline than better revenue projections: a structured small first step. A property inspection and revenue analysis at no cost, no strings, no follow-up pressure. Most uncertain owners say yes. The second conversation is different.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_catalyst",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "shrink_the_change",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "Identifying the barrier",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "When an owner goes quiet after a solid listing appointment, what's your first move? More follow-up, a different angle, or something else? What are you finding actually opens those conversations back up?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "the_catalyst",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "barrier_diagnosis",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "Week connector",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "This week's VRM Sales Library newsletter covers all five barriers from The Catalyst: reactance, endowment, distance, uncertainty, and evidence stalls. Includes a re-engagement script for each barrier type.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_catalyst",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "five_barriers",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "Five barriers in VRM owner acquisition",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "day_of_week": "Saturday",
+      "tweets": [
+        "Jonah Berger's The Catalyst identifies five barriers that prevent change. All five show up in VRM owner acquisition. Here's what each looks like and what to do about it.",
+        "Reactance: the owner feels pushed and goes quiet. Fix: give control back. 'Is this still something you're thinking about? If not, that's genuinely fine.'",
+        "Endowment (IKEA effect): the self-managing owner hears your pitch as a criticism of what they built. Fix: validate the work before presenting the alternative.",
+        "Distance: the full management proposal is too far from where they're standing to evaluate. Fix: offer a small first step, a property audit or revenue analysis, before the agreement conversation.",
+        "Uncertainty: the transition feels opaque. Fix: send a concrete one-page overview of exactly what the first 30 days look like.",
+        "Evidence: one voice isn't enough. Fix: connect them to a current owner in a similar situation for a peer conversation.",
+        "Most stalled VRM pipeline has a specific active barrier. The operators who convert more of it are the ones who can tell which one they're dealing with."
+      ],
+      "source_trace": {
+        "book_slug": "the_catalyst",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "five_barriers_framework",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

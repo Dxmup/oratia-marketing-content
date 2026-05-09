@@ -1,0 +1,76 @@
+VRM Sales Library | The Catalyst | Jonah Berger
+linkedin.com/in/chadhensel
+
+---
+
+This week covered three posts from Jonah Berger's The Catalyst. The common thread: when an owner doesn't move, it is almost never because they lack reasons to switch. It is because something specific is in the way. The posts covered friction vs. persuasion, reactance and the IKEA effect, and the distance problem with full management proposals. This newsletter maps Berger's full five-barrier framework to VRM pipeline and gives a re-engagement script for each barrier type.
+
+THE FIVE BARRIERS IN A VRM PIPELINE
+
+Berger identifies five categories of barriers that prevent change. In VRM owner acquisition, all five show up regularly. Here is what each looks like in practice.
+
+REACTANCE
+
+The reactance stall happens when the owner feels pushed. They are not opposed to professional management. They are opposed to being moved. The signals: they stopped answering calls but still occasionally open your emails. They respond warmly when you catch them in person but go quiet after scheduled follow-up. They are avoiding the conversation, not the decision.
+
+Re-engagement script for reactance: "I've been in the habit of following up, and I want to make sure I'm being useful, not persistent. Is this still something you're thinking about? And if the timing isn't right, that's genuinely fine. I'd rather know than keep following up at the wrong moment."
+
+That message does not ask for anything. It gives control back to the owner. Reactance-stalled owners often re-engage within a week of receiving a message like this.
+
+ENDOWMENT (THE IKEA EFFECT)
+
+The endowment stall happens primarily with self-managing owners. They have built something. Their Airbnb listing is theirs. Their guest communication process is theirs. Their pricing calendar is theirs. The pitch that implies they need professional management implies that what they built wasn't good enough.
+
+The re-engagement move is explicit validation before the ask.
+
+Re-engagement script for endowment: "One thing I've been thinking about since we talked: what you've built on the revenue side is genuinely strong. Your average rating and your occupancy for self-managed in this market are better than most. What we'd add is mostly the operational infrastructure that's hard to scale without a team behind it, not a replacement for what you've already figured out."
+
+That message acknowledges the work. It does not require the owner to admit they were wrong. It positions the relationship as an expansion, not a replacement.
+
+DISTANCE
+
+The distance stall happens when the full proposal is too far from the owner's current position to evaluate rationally. This is most common with self-managing owners in primary markets who are actively involved in their property.
+
+The re-engagement move is a smaller first step.
+
+Re-engagement script for distance: "I want to offer something before we talk about a management structure. I'd like to do a complimentary property inspection and current market analysis for your property. It gives you a concrete picture of where your revenue sits and where the gap is. No strings, no follow-up pressure. If the numbers are useful to you, great. If you decide you want to stay self-managed after seeing them, that's a reasonable outcome."
+
+Most owners say yes to this. And after a second in-person touchpoint, the relationship has a different foundation.
+
+UNCERTAINTY
+
+The uncertainty stall happens when the owner doesn't know exactly what they would be getting into. The transition feels opaque. They do not know what happens with their existing bookings, their Airbnb reviews, their existing guest relationships. The transition cost is larger in their imagination than it is in reality.
+
+The re-engagement move is to make the transition concrete.
+
+Re-engagement script for uncertainty: "One thing I didn't cover well when we talked is exactly what the transition looks like, step by step. Can I send you a one-page overview? It covers what happens in the first 30 days: how we handle existing bookings, what happens with your current Airbnb profile, what the onboarding call looks like, and who your direct contact is from day one."
+
+That script identifies the barrier (the unknown transition), reduces it to a concrete document, and gives the owner a low-cost way to evaluate the specific thing blocking them.
+
+CORROBORATING EVIDENCE
+
+The evidence stall happens when one voice isn't enough. The owner needs to hear the same thing from multiple sources before they trust it. This is common with Investor owners who are data-driven, and with couples where one partner is more skeptical than the other.
+
+The re-engagement move is to add a second voice, not just more of yours.
+
+Re-engagement script for evidence: "Would it be useful to talk to one of our current owners directly? I have two or three who have been in the same situation you're in now, self-managing before they came to us, and they're open to a quick call. Not a sales reference. Just a peer conversation."
+
+A direct owner reference is more persuasive than any number of your own claims. The evidence stall resolves when the owner hears the same thing from someone in their own position.
+
+THE COST OF INACTION
+
+One tool that works across all five barrier types is the cost-of-inaction frame. Most VRM pitches lead with the benefits of switching. Very few help the owner calculate the specific, ongoing cost of staying where they are.
+
+If the owner is self-managing and leaving 15 to 20 percent of potential revenue on the table, that loss accumulates every month. It is not visible because it is a missed gain, not a felt loss. Making it visible changes the conversation.
+
+The specific version: "Based on comparable managed properties in your area, you're in the range of $8,000 to $12,000 below what a managed property with your specs typically earns annually. That's not a projection of what we'd guarantee. It's the current gap between your performance and managed performance in this market."
+
+Now the fee is not the cost of switching. The gap is the cost of not switching. That is a different conversation.
+
+NEXT WEEK
+
+Next week: April Dunford's Obviously Awesome. Why positioning decisions are more consequential than pitch improvements, and what most VRM operators get wrong about how owners categorize them before the appointment even starts.
+
+---
+Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #TheCatalyst
