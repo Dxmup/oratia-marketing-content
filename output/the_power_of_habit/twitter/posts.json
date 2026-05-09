@@ -1,0 +1,166 @@
+{
+  "book": "The Power of Habit",
+  "book_slug": "the_power_of_habit",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "habit loop and prospecting failure",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "VRM prospecting fails most often not because of effort. It fails because there's no cue and no reward loop. The brain won't run a habit it can't anticipate.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_power_of_habit",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "habit_loop",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "urgency habit winning against prospecting",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "The urgency routine always beats the prospecting routine when there's no cue. Guest complaint has a clear trigger, a clear action, and a clear payoff when it's resolved. Prospecting has none of that unless you build it.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_power_of_habit",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "habit_loop",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "feature-dumping as a habit",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "When an owner goes quiet or pushes back on fee, reps default to listing services. That's not a knowledge gap. It's a habit with a groove two years deep. The fix is not a reminder. It's a replacement routine practiced at the exact moment the old one fires.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_power_of_habit",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "golden_rule_habit_change",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "knowing vs. doing in sales training",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Reps don't revert to bad habits because they forgot the training. They revert because the old habit loop is still intact and the new one isn't deep enough yet.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_power_of_habit",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "golden_rule_habit_change",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "sharp_opinion",
+      "source_theme": "keystone habit and BD overhaul failure",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Trying to fix VRM owner acquisition by changing everything at once is usually why nothing changes. One protected weekly habit produces more movement than ten initiatives that all collapse by week six.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_power_of_habit",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "keystone_habits",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "weekly pipeline review as keystone habit",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "The weekly pipeline review is the keystone habit for most VRM BD functions. It forces categorization, triggers outreach, and creates visible progress. What's the one BD habit that, if you protected it, would pull everything else forward? Are you seeing a different keystone in your operation?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "the_power_of_habit",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "keystone_habits",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "story_detail",
+      "source_theme": "organizational habit undermining BD",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "A VRM company that tracks occupancy, RevPAR, and guest scores in every stand-up but never mentions new owner adds has made a choice. The rep reads that meeting agenda and knows exactly what the company actually prioritizes. The training doesn't override the meeting structure.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_power_of_habit",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "institutional_habits",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "newsletter and week wrap",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper in this week's VRM Sales Library newsletter on the organizational habit problem: what happens when you've built the right individual BD habits but the company's institutional routines are quietly undoing them. Worth reading if owner acquisition is part of your job.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_power_of_habit",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "institutional_habits",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "habit loop applied to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Tuesday",
+      "text": "Applying Charles Duhigg's Power of Habit to VRM owner acquisition this week. The cue-routine-reward loop maps directly onto why VRM prospecting collapses under operational pressure. No cue, no loop. No loop, no pipeline.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_power_of_habit",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "habit_loop",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "habit architecture for VRM BD",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM BD failures aren't effort failures. They're architecture failures. A thread on why:",
+        "Every reliable behavior runs on a cue-routine-reward loop. The cue tells the brain when to start. The reward tells it to run again next time.",
+        "Most VRM prospecting has no cue. 'I'll do outreach when I have time' is a wish. It competes with every urgent thing in operations and loses every time.",
+        "Fix is not motivation. Fix is engineering the cue. A specific time, a specific trigger. Something the brain can anticipate and protect.",
+        "The reward matters too. Visible progress is a reward. An invisible completed action isn't. If nothing registers as done, the loop doesn't reinforce.",
+        "One protected cue and one visible reward will produce more consistent BD activity than any amount of resolve to 'prospect more this quarter.'",
+        "The Power of Habit by Charles Duhigg. Worth the read if BD consistency is a problem in your operation."
+      ],
+      "source_trace": {
+        "book_slug": "the_power_of_habit",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "habit_loop",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

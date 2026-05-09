@@ -1,0 +1,97 @@
+[
+  {
+    "concept": "The Habit Loop",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators trying to build consistent BD activity",
+    "actual_argument": "VRM prospecting fails not because operators lack effort but because they lack habit architecture. The cue-routine-reward loop is missing, so activity collapses every time operations gets loud.",
+    "bad_assumption_to_attack": "That prospecting consistency is a motivation or discipline problem. Operators assume they need to want it more. They actually need an environmental cue and a visible reward loop.",
+    "behavior_change": "Set a specific recurring cue (time, location, context) that triggers pipeline review. Build a visible reward (pipeline board, progress tracking) that reinforces the routine.",
+    "operator_example": "A BD rep who does outreach 'when there's time' never builds the habit. A BD rep who sits down every Monday at 8 AM before stand-up and reviews 10 pipeline contacts for 20 minutes builds a loop the brain will start anticipating and protecting.",
+    "hook_options": [
+      "Prospecting fails for most VRM operators before they even pick up the phone.",
+      "The reason your BD activity collapses when operations gets loud isn't effort. It's architecture.",
+      "Your pipeline isn't stalling because you're not trying hard enough."
+    ],
+    "lead_in": "Charles Duhigg mapped why in The Power of Habit. The diagnosis applies directly to how VRM operators fail at owner acquisition.",
+    "angle": "Open with the misdiagnosis (it's not effort or motivation), introduce the Habit Loop, translate cue-routine-reward into VRM BD context. Show what a missing cue looks like vs. a built one.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for the full week's series applying The Power of Habit to VRM owner acquisition.",
+    "cluster_role": "pillar",
+    "companion_ideas": ["Keystone Habits", "The Craving Brain"],
+    "notes": "This is Post 1. Strong opener because it attacks a misdiagnosis. Keep the framework translation tight — cue, routine, reward mapped explicitly to BD workflow. Include a concrete 'built loop' example."
+  },
+  {
+    "concept": "The Golden Rule of Habit Change — Replacing the Appointment Routine",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators training reps or managing their own appointment behavior",
+    "actual_argument": "You cannot eliminate bad appointment habits through willpower. The cue triggers a craving that won't stop. You can only replace the routine. In VRM appointments, the cue is owner uncertainty; the old routine is feature-dumping; the reward is filling silence. The fix is a replacement routine trained into the same cue-reward structure.",
+    "bad_assumption_to_attack": "That telling reps 'lead with discovery' is training. It is not. Training is: when you see this specific cue, run this specific routine instead.",
+    "behavior_change": "Identify the specific moment in listing appointments that triggers feature-dumping. Design a single replacement question or move for that moment. Practice the replacement until it runs automatically.",
+    "operator_example": "When an owner asks 'What makes you different?' most reps launch into a features list. That's the old routine. A replacement: 'Before I answer that, can I ask a few questions so I can be specific about what matters to you?' Same cue (the question), same reward (fills the silence with something useful), different behavior.",
+    "hook_options": [
+      "You cannot stop a bad sales habit. You can only replace it.",
+      "The reason your rep reverts to feature-dumping under pressure isn't lack of training. It's habit architecture.",
+      "When owners push back on fees, your rep has about two seconds before an old habit takes over."
+    ],
+    "lead_in": "Duhigg's Golden Rule of Habit Change explains why most sales training doesn't stick — and what to do about it.",
+    "angle": "Attack the myth that 'knowing better' is enough to change appointment behavior. Introduce the replacement routine concept. Give a specific VRM example of cue, old routine, new routine, same reward.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for more on applying sales behavior research to VRM owner acquisition.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["The Habit Loop", "The Craving Brain"],
+    "notes": "Post 2. Strong practical application of the Golden Rule. The replacement script example is the heart of the post. Make the replacement script feel like something a real operator would actually say."
+  },
+  {
+    "concept": "Keystone Habits — The VRM BD Foundation",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators trying to build a BD function from scratch or repair a broken one",
+    "actual_argument": "Most VRM operators try to fix owner acquisition by changing everything at once. The insight from keystone habits: one structural habit, protected and consistent, cascades into the behaviors around it. For VRM BD, the weekly pipeline review is likely the keystone.",
+    "bad_assumption_to_attack": "That you need a complete BD overhaul to get results. Operators who try to change everything at once change nothing. One keystone habit, anchored, produces more change than ten initiatives that all collapse.",
+    "behavior_change": "Identify the single BD habit that, if done consistently, would force the other behaviors to follow. Protect it as if it were a standing appointment with your best owner.",
+    "operator_example": "A 30-minute weekly pipeline review forces categorization (who is warm, who is cold, who needs a call this week), triggers outreach, reveals stalls, and creates accountability. Operators who run it consistently don't need to remind their reps to follow up. The review does it automatically.",
+    "hook_options": [
+      "You don't need to rebuild your entire BD process. You need one keystone habit.",
+      "The VRM operators I've watched build real pipelines didn't overhaul everything at once.",
+      "Trying to fix owner acquisition by changing everything is usually why nothing changes."
+    ],
+    "lead_in": "Charles Duhigg's research on keystone habits explains why that pattern holds — and what to anchor instead.",
+    "angle": "Open with the common failure mode (change overload). Introduce keystone habits. Propose the weekly pipeline review as the VRM keystone. Show what cascades from it when it's protected.",
+    "mention_book": true,
+    "mention_oratia": true,
+    "oratia_style": "soft",
+    "cta": "Follow for the full week's VRM Sales Library series on The Power of Habit.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["The Habit Loop", "Institutional Habits"],
+    "notes": "Post 3. Can close with a soft Oratia observation since by Post 3 authority is established. Keep it a single sentence, natural."
+  },
+  {
+    "concept": "Newsletter — Full Stack: Habit Architecture for VRM Owner Acquisition",
+    "best_format": "newsletter_seed",
+    "post_type": "breakdown",
+    "target_audience": "VRM operators at any BD maturity level",
+    "actual_argument": "The Power of Habit maps the entire architecture of why VRM owner acquisition fails and how to rebuild it. This newsletter goes deeper on the organizational layer: what happens when the institutional habits of a VRM company actively undermine individual BD behavior, and what to change first.",
+    "bad_assumption_to_attack": "That BD failures are individual performance failures. Most are organizational habit failures. The company's routines around what gets measured, reported, and celebrated determine what actually gets done.",
+    "behavior_change": "Audit the organizational habits that surround your BD function. What gets reported in stand-up? What gets celebrated publicly? What gets cut first under operational pressure? Those answers tell you what your company actually prioritizes.",
+    "operator_example": "A VRM operator who tracks occupancy, RevPAR, and guest scores in every stand-up but never mentions new owner adds or pipeline activity has an organizational habit that will starve any individual BD effort. The rep will feel the pressure to prioritize what gets measured.",
+    "hook_options": [
+      "The posts this week covered the habit loop, replacement routines, and keystone habits for VRM BD.",
+      "Three posts this week applying The Power of Habit to owner acquisition."
+    ],
+    "lead_in": "This newsletter goes deeper on the layer most operators skip: the organizational habits that either support or suffocate the individual BD behaviors you're trying to build.",
+    "angle": "Recap the week's posts. Extend into institutional habits, small wins structure, the craving mechanism, and the community reinforcement concept. Include a diagnostic for identifying which organizational habits are undermining BD.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Subscribe at linkedin.com/in/chadhensel.",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["Keystone Habits", "Institutional Habits", "Small Wins", "Belief and Community"],
+    "notes": "Newsletter should go substantially deeper than the posts. Include: habit loop diagnostic, replacement routine design exercise, keystone habit identification for VRM BD, organizational habit audit, and the community reinforcement argument."
+  }
+]

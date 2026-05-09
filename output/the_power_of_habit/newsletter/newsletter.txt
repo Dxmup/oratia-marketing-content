@@ -1,0 +1,101 @@
+VRM Sales Library | The Power of Habit | Charles Duhigg
+linkedin.com/in/chadhensel
+
+---
+
+This week covered Charles Duhigg's The Power of Habit across three posts: the Habit Loop and why VRM prospecting fails architecturally, the Golden Rule of Habit Change and how to replace appointment habits under pressure, and Keystone Habits and why one protected weekly routine matters more than ten BD initiatives.
+
+The common thread: VRM owner acquisition fails most often not because operators lack effort or intent, but because the habit architecture is missing or broken.
+
+This newsletter goes deeper on the layer the posts didn't have room for: what happens at the organizational level, and what to do when you've built the right individual habits but the company's institutional routines are undoing them.
+
+---
+
+THE CRAVING PROBLEM MOST OPERATORS DON'T KNOW THEY HAVE
+
+One of the more counterintuitive findings in Duhigg's research is that habits don't just trigger behavior. They create cravings. The brain begins anticipating the reward before the routine even starts. The cue alone is enough to set off the craving.
+
+This is why breaking a bad habit is so hard. It's not willpower against behavior. It's willpower against an already-activated craving. The craving fires whether or not the person wants it to.
+
+This has a direct application to VRM sales behavior.
+
+A rep who has spent two years defaulting to feature-dumping when an owner pushes back has built a craving for the reward that the dump provides: the feeling of having filled silence with something useful. When the cue appears, the craving fires before the rep is consciously aware of it.
+
+The fix isn't willpower. The fix is building a new craving. A replacement routine that delivers the same reward but through a different behavior. And the only way to build a new craving is to run the replacement routine enough times at the same cue that the brain begins anticipating the new reward instead.
+
+This is why role-play at the specific cue matters more than general skills training. You're not teaching the rep a better response. You're building a new craving response to a specific trigger.
+
+---
+
+THE DIAGNOSTIC: FINDING YOUR ACTUAL CUE
+
+Duhigg prescribes a specific experiment for identifying habit cues. Every time you feel the urge to run a habit, write down five things: the time, your location, your emotional state, who else is present, and what action immediately preceded the urge.
+
+Do this for a week. Patterns emerge.
+
+Most operators and reps cannot accurately identify their appointment cues without doing this exercise. They know the feeling. They don't know the trigger. "I get defensive when owners question fees" is not a cue. The cue might be: the moment the owner glances at the contract page without reading it.
+
+The diagnostic matters because you cannot design a replacement routine for a cue you haven't identified.
+
+For VRM BD work, the most common cues worth identifying:
+- The specific moment in an appointment when the rep stops asking questions and starts listing services
+- The specific trigger that causes a rep to skip follow-up on a deal marked "thinking about it"
+- The specific conditions under which a pipeline review gets cancelled or shortened
+
+Each of these cues is trainable once it's visible. It cannot be trained when it's still described as "I just wasn't feeling it this week."
+
+---
+
+THE ORGANIZATIONAL HABIT PROBLEM
+
+Here is where most operators miss the larger picture.
+
+Even if a rep builds the right individual habits around prospecting and appointments, the organizational habits of the VRM company can undo them.
+
+Organizational habits are the routines that define how decisions get made, what information gets shared, what gets celebrated, and what gets ignored. They are mostly invisible until they break. But they are powerful. They shape what is actually possible inside a company.
+
+A VRM operator who tracks occupancy, RevPAR, and guest satisfaction scores in every stand-up meeting but never mentions new owner adds or pipeline activity has an organizational habit that sends a clear message to the team: those metrics are real work. BD is background work.
+
+That organizational habit will outlast any individual training initiative. A rep who joins a company where BD is not on the stand-up agenda, not in the weekly metrics, not celebrated publicly, will drift toward the behaviors that are visible and rewarded. The organizational habit wins.
+
+THE AUDIT
+
+The organizational habit audit is simpler than it sounds. Answer these questions honestly:
+
+What gets reported in your stand-up or weekly team meeting? If owner acquisition metrics are not in that list, they are organizationally deprioritized regardless of what you say in one-on-ones.
+
+What gets celebrated publicly in your company? If a closed deal produces the same acknowledgment as a maintenance ticket resolved, you have an organizational habit that treats acquisition as equivalent to operations.
+
+What gets cut first when operations gets loud? If the pipeline review is the first thing moved or skipped, that is an organizational habit telling everyone on the team that BD is optional.
+
+The fix is not a pep talk. The fix is changing what gets measured, what gets reported, and what gets protected. The institutional habit follows the structure you build, not the values you declare.
+
+---
+
+SMALL WINS AND THE EARLY-ATTRITION PROBLEM
+
+One more concept from Duhigg worth applying directly to VRM BD: the small wins structure.
+
+Keystone habits work partly because they produce small wins early. A win is any piece of visible evidence that the new behavior is producing results. It doesn't have to be a closed deal. It has to be visible and attributable to the new routine.
+
+The first three weeks of any new BD habit are the highest-attrition period. Reps who see no visible progress by week three will default back to reactive behavior. Operators who don't build early-win mechanisms into their BD structure are building for attrition.
+
+What counts as a win in the first 30 days of a new BD routine:
+- A previously cold contact responds to outreach
+- A referral source provides a name
+- An owner who declined six months ago agrees to a follow-up call
+- The pipeline board shows names in the warm column that weren't there last week
+
+None of these are a close. All of them are evidence that the routine is working. They build the belief that the larger goal is achievable.
+
+Without early wins, you're asking reps to sustain effort against an invisible horizon. That's a harder ask than most operators realize.
+
+---
+
+NEXT WEEK
+
+Next week's series applies Atomic Habits by James Clear to VRM owner acquisition. Clear builds on Duhigg's foundation and adds a layer that VRM operators will find directly applicable: how the identity of the organization shapes which habits stick, and how to design the environment to make the right behavior the easy behavior.
+
+Follow along at linkedin.com/in/chadhensel.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #OwnerAcquisition
