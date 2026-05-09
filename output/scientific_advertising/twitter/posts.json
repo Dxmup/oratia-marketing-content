@@ -1,0 +1,176 @@
+{
+  "book": "Scientific Advertising",
+  "book_slug": "scientific_advertising",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "advertising as salesmanship",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "VRM marketing copy that wouldn't close a single owner in a direct conversation won't close at scale either. Hopkins proved this in 1923. Most VRM websites still haven't caught up.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "scientific_advertising",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "advertising_as_salesmanship",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "specificity over cleverness",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "Every VRM company in your market claims \"hands-on service\" and \"local expertise.\" When every operator makes the same claim, the claim closes no one. Schlitz went from fifth to first in market share not by doing something different but by describing what they already did specifically.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "scientific_advertising",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "specificity_over_cleverness",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "test everything",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "The most common VRM outreach decision process: write a few options, team votes on which they like, that one goes out. Hopkins was running controlled split tests in 1910. The discipline is the part that's missing, not the tools.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "scientific_advertising",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "test_everything",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "headline as gatekeeper",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Five times as many people read the headline as read the body copy. Hopkins figured this out before email existed. The subject line of your owner outreach is the headline. Everything else is contingent on it.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "scientific_advertising",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "headline_as_gatekeeper",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "recognition",
+      "source_theme": "customer research before copy",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Owner outreach that sounds like the operator didn't listen to enough owners. The specific fear a Steward names in a listing appointment is the copy. Not a category of fear. The specific one.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "scientific_advertising",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "customer_research",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "reason-why copy structure",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "\"We respond quickly to guests\" closes fewer Investor owners than \"we respond within 90 minutes, which keeps our response score above 95%, which affects your search ranking.\" The mechanism is the persuasion. Hopkins called this reason-why copy. VRM listing presentations rarely use it.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "scientific_advertising",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "reason_why_copy",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "test everything",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "The minimum viable VRM split test: two outreach messages, two matched segments of 50 owners, two weeks, track reply rates. That's it. What objection or hesitation are you seeing most in cold outreach right now?",
+      "engagement_prompt": true,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "scientific_advertising",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "test_everything",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "full stack scientific advertising",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper on Scientific Advertising in this week's VRM Sales Library newsletter: customer research before copy, reason-why structure for listing appointments, and a four-question audit for your current owner acquisition marketing. Link in bio.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "scientific_advertising",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_stack_scientific_advertising",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "advertising as salesmanship",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Tuesday",
+      "text": "Been applying Claude Hopkins' Scientific Advertising to VRM owner acquisition this week. The operators whose outreach actually gets replies write copy that names the owner's specific problem. Hopkins said the same thing in 1923. Some fundamentals don't move.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "scientific_advertising",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "advertising_as_salesmanship",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "four-question outreach audit",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "day_of_week": "Saturday",
+      "tweets": [
+        "Hopkins' four requirements for advertising that actually closes. Most VRM owner acquisition marketing fails all four.",
+        "1. Does it start with the owner's problem, not your service? Check your homepage. Check your outreach opener. If it leads with what you do, it's failing.",
+        "2. Are the claims specific and verifiable? \"Hands-on service\" is not a claim. \"Average owner response time under four hours\" is a claim. The owner can evaluate the second one.",
+        "3. Is there a specific offer with a reason to act now? \"Contact us to learn more\" is not an offer. A free market analysis with a defined scope is an offer. One creates urgency. The other gets filed under later.",
+        "4. Is it being tested against alternatives? The same outreach message running for six months with no variation has already told you everything it's going to tell you. Test one variable. Track it.",
+        "These aren't new ideas. Hopkins proved them with split-test data in the early 20th century. The discipline is what's missing, not the knowledge."
+      ],
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "scientific_advertising",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "four_question_audit",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

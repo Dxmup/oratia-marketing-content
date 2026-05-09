@@ -1,0 +1,30 @@
+VRM Sales Library | Scientific Advertising | Claude Hopkins
+Post 3 of 3
+
+HOPKINS RAN A/B TESTS IN 1920. VRM OPERATORS ARE STILL DECIDING BY COMMITTEE.
+
+The most common way VRM teams make outreach decisions: they write a few options, the team votes on which one they like best, and that one goes out.
+
+Hopkins was mailing different ad versions to different zip codes in 1910 and tracking coupon return rates by location. No computers. No dashboards. Just controlled variations and measured results. His teams knew within weeks which headlines, which offers, and which formats pulled the most response. They updated accordingly. Then they tested again.
+
+His principle was simple: the market always knows more than the marketer. Testing is the only way to ask it.
+
+One hundred years later, VRM operators are making outreach decisions based on what the team agrees on in a conference room. The problem isn't creativity or budget. The problem is that opinion replaced data somewhere along the way.
+
+THE MINIMUM VIABLE VRM SPLIT TEST
+
+You don't need a marketing platform or a campaign budget to run Hopkins' methodology. Here's what it looks like in practice:
+
+Take your current cold outreach message. Write a second version that changes one variable only: the subject line, the opening sentence, or the specific offer. Send version A to 50 matched prospects. Send version B to 50 matched prospects. Track reply rates for two weeks.
+
+That test will tell you more about what moves owners to respond than any amount of strategic planning. The version that wins goes forward. You run the next test on the next variable.
+
+Two meaningful tests per quarter produces a measurably better outreach operation within six months. Most VRM operators haven't run a single one.
+
+One observation from building Oratia: the operators who show up with data on their outreach conversion rates, even rough data, make better decisions about where to focus their BD time than operators working on instinct alone. The volume of testing doesn't have to be large. The discipline has to be consistent.
+
+Field note: Start with the subject line. It's the highest-leverage variable in cold outreach and the easiest to test cleanly. One version names the owner's property or market. The other leads with a specific result. The winner usually surprises the team.
+
+---
+Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #ScientificAdvertising

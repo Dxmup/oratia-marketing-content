@@ -1,0 +1,27 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three posts and the newsletter meet the depth standard. Each post dismantles a specific bad assumption, grounds the Hopkins framework in concrete VRM operator behavior, and includes a practical tactic or field note. The newsletter extends the posts substantially rather than repeating them.",
+  "strengths": [
+    "Post 1 applies the Hopkins test with a concrete operator example (the homepage copy test) and closes with a specific field note about what high-converting subject lines actually do — names a specific problem, not a category.",
+    "Post 2 uses the Schlitz story cleanly and builds a usable replacement framework with three before/after claim pairs that a VRM operator can apply immediately.",
+    "Post 3 establishes the historical contrast with precision (Hopkins 1910 vs. VRM teams today) and gives an operational split-test methodology that's specific and executable.",
+    "The newsletter goes substantially beyond the posts: covers customer research methodology, reason-why copy structure with listing appointment examples, headline discipline applied to email subject lines, and the four-question audit. This is the kind of extension the prompt called for.",
+    "Owner type specificity is handled correctly — Steward, Skeptic, Investor, and Delegator are invoked where they're relevant with type-specific observations rather than generic references.",
+    "No em dashes, no exclamation points outside scripts, no hollow intensifiers. Formatting is consistent across all four pieces."
+  ],
+  "problems": [
+    "Post 1 is close to the 2,900 character limit and should be checked before publishing. Some trimming may be needed.",
+    "Post 3's Oratia mention is brief and natural but should be verified against the voice guide's 'matter-of-fact' standard — it reads correctly but should not be the first thing an editor notices.",
+    "The newsletter NEXT WEEK section is present and functional but could be slightly more specific about what Iannarino's commitments framework looks like — it currently sells the topic without giving the reader a concrete preview."
+  ],
+  "required_fixes": [
+    "Verify post_1.txt character count — trim if over 2,900.",
+    "Confirm post_3.txt Oratia mention reads as observation, not pitch — current version passes but warrants a second read."
+  ],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}
