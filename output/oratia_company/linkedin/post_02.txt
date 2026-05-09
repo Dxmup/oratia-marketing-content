@@ -18,6 +18,10 @@ They read the card, pick up the phone, and start the call already knowing who th
 
 When they're done, the next card expands.
 
+Above the queue, a single line: "Good morning, Alex. Mike Thornton is your primary focus with a high 87 nurture score — reach out to see if he's ready to sign the agreement sent."
+
+Not a dashboard. Not a notification. One sentence that tells the rep exactly where to put their energy today.
+
 [Screenshot: post_02alt_image.png — full Power Queue view showing morning greeting, top lead expanded with context, and ranked queue below]
 
 #VRM #CRM #VacationRentals #OwnerAcquisition #PropTech
