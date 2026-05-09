@@ -1,0 +1,98 @@
+[
+  {
+    "concept": "Persuasion vs. problem-solving as the sales operating system",
+    "best_format": "long_form",
+    "post_type": "myth_bust",
+    "target_audience": "VRM operators who lose owner clients earlier than expected",
+    "actual_argument": "Operators trained in persuasion attract owners they persuaded. Those owners are more likely to second-guess, micromanage, and leave. The close is not the finish line; it is the start of a multi-year relationship that the quality of the acquisition process predicts.",
+    "bad_assumption_to_attack": "That being better at persuasion is the path to a better acquisition rate and a better portfolio.",
+    "behavior_change": "Shift from 'how do I get this owner to sign' to 'what does this owner actually need and am I the right fit for it.' Qualify harder, push less.",
+    "operator_example": "An operator with a high close rate and a 14-month average client tenure vs. an operator with a lower close rate and a 36-month average tenure. The second operator is building something; the first is churning.",
+    "hook_options": [
+      "Owners who felt pushed into signing are the most likely to leave early.",
+      "The operator with the best close rate is not always building the best portfolio.",
+      "Persuasion closes the deal. It also predicts when the client leaves."
+    ],
+    "lead_in": "Andy Paul's Sell Without Selling Out makes a point that most operators resist: persuasion is the root of client churn.",
+    "angle": "Use the close rate vs. tenure framing to make the cost of persuasion-first selling concrete. The operator focused on the signature is not seeing the churn rate that follows it.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for the rest of this week's series on Andy Paul's framework applied to VRM owner acquisition.",
+    "cluster_role": "pillar",
+    "companion_ideas": ["The autonomy problem", "Helpfulness as competitive advantage"],
+    "notes": "Strong pillar post. The churn framing is specific to VRM and not something most operators have diagnosed this way. Keep the tone observational, not accusatory."
+  },
+  {
+    "concept": "The four pillars: connection, curiosity, understanding, generosity",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators doing listing appointments",
+    "actual_argument": "Performed rapport is transparent and counterproductive. Genuine connection, curiosity, understanding, and generosity are behaviors that produce trust not because they are tactics but because owners recognize them as authentic. They replace the persuasion toolkit.",
+    "bad_assumption_to_attack": "That rapport is built through technique: small talk, mirroring, finding common ground before pitching.",
+    "behavior_change": "Enter listing appointments with genuine curiosity about the owner's situation rather than a pitch to deliver. Ask questions you actually want to know the answer to.",
+    "operator_example": "An operator who spends 15 minutes in genuine conversation about the owner's history with the property before ever mentioning their services vs. an operator who opens with a deck.",
+    "hook_options": [
+      "Owners can tell the difference between genuine curiosity and tactical rapport.",
+      "The four behaviors that actually build trust in a listing appointment.",
+      "Connection, curiosity, understanding, generosity. Not closing techniques. Replacements for them."
+    ],
+    "lead_in": "Andy Paul calls these the four human behaviors that work in sales precisely because they are not sales behaviors.",
+    "angle": "Walk through each of the four pillars with a VRM listing appointment application. Show what each one looks like in the room vs. what most operators actually do.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for Post 3 on autonomy and why it predicts whether an owner actually stays.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Persuasion vs. problem-solving", "The buyer's context as starting point"],
+    "notes": "Second post. The four pillars framework gives the post clear structure without becoming listicle-y."
+  },
+  {
+    "concept": "The autonomy problem: buyers' need to decide for themselves",
+    "best_format": "short_text",
+    "post_type": "contrarian_take",
+    "target_audience": "VRM operators with high early churn rates",
+    "actual_argument": "Owners who felt their decision was engineered are more likely to find a reason to leave. Early churn is not caused by operational failures; it is often caused by acquisition failures where the owner was persuaded into a decision they never fully owned.",
+    "bad_assumption_to_attack": "That early churn is an operations problem, not an acquisition problem.",
+    "behavior_change": "Give owners more space and time to decide during the acquisition process. Treat hesitation as information, not as an obstacle to overcome.",
+    "operator_example": "An owner who exits after 5 months citing a maintenance complaint that any operator would have handled similarly. The real reason is that the decision was never fully theirs.",
+    "hook_options": [
+      "The owner who leaves after 5 months over a maintenance complaint was never fully in.",
+      "Early client churn is usually diagnosed as an operations problem. Often it is an acquisition problem.",
+      "Owners who feel pushed into signing find reasons to leave. The maintenance complaint is just a door."
+    ],
+    "lead_in": "The decision made under pressure is a fragile decision.",
+    "angle": "Reframe early churn as evidence of acquisition failure, not operational failure. Specific owner behavior pattern: the complaint that triggers exit is disproportionate to the offense. The real issue is autonomy deficit.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow the VRM Sales Library series for the newsletter wrapping this week up with additional context.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Persuasion vs. problem-solving", "Helpfulness as competitive advantage"],
+    "notes": "Third post. Keep this tight and specific. The early churn reframe is the sharpest insight in this week's set."
+  },
+  {
+    "concept": "Full week: helpfulness and buyer context applied to VRM owner types",
+    "best_format": "newsletter_seed",
+    "post_type": "breakdown",
+    "target_audience": "VRM operators building a sustainable acquisition practice",
+    "actual_argument": "The newsletter synthesizes the week by applying Paul's problem-solving model to the major VRM owner types. What helpfulness looks like with a Skeptic is different from what it looks like with a Delegator. Understanding the owner's context is not a generic skill; it is type-specific.",
+    "bad_assumption_to_attack": "That problem-solving selling means being less decisive or less confident as an operator.",
+    "behavior_change": "Apply the problem-solving model intentionally by owner type. Know what genuine curiosity looks like with each type and what generosity looks like in practice.",
+    "operator_example": "A Skeptic who needs you to raise a concern proactively before they trust you vs. a Delegator who needs you to demonstrate confidence and decisiveness so they can fully hand off.",
+    "hook_options": [
+      "Selling without selling out looks different with every owner type.",
+      "The full application: Paul's four pillars for each of the six VRM owner types.",
+      "Helpfulness is not the same thing for every owner. Here is what it looks like in practice."
+    ],
+    "lead_in": "The newsletter this week goes deeper on what problem-solving selling actually looks like with each owner type.",
+    "angle": "The newsletter builds out the problem-solving model by owner type. Skeptic, Delegator, Steward, Controller at minimum. Specific diagnostic questions and generosity moves for each type.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "light_example",
+    "cta": "Subscribe to the VRM Sales Library newsletter for the full breakdown.",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["Four pillars framework", "Buyer's context as starting point"],
+    "notes": "Newsletter should be the most practically useful piece of the week. The owner type application is the extension that goes beyond what the posts cover."
+  }
+]

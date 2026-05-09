@@ -1,0 +1,165 @@
+{
+  "book": "Atomic Habits",
+  "book_slug": "atomic_habits",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "identity vs outcome goals",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "Setting a goal to close more owners this quarter won't change what you do Tuesday morning. Identity changes behavior. Goals describe a destination.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "atomic_habits",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "identity_based_habits",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "identity and BD self-image",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "Two VRM reps, same pipeline tool, same market. One sees missing the weekly review as a violation of who they are. The other sees it as a delay. Same system. Different identity. Different results.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "atomic_habits",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "identity_based_habits",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "habit stacking and friction",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "The VRM operators who prospect consistently haven't solved the motivation problem. They've solved the architecture problem. What fires the cue? What's one click away? Those are the questions that matter.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "atomic_habits",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "habit_stacking_environment",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "environment design reducing friction",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "One extra click between the cue and the BD action is not a minor inconvenience in a high-volume operations environment. It's enough to cut the habit. Remove friction like it costs real money. It does.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "atomic_habits",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "environment_design",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "recognition",
+      "source_theme": "high-season BD collapse",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "June arrives, the season goes loud, and prospecting disappears. September comes and the pipeline is empty. The BD habit that only survives calm weeks was never really a habit.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "atomic_habits",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "two_minute_rule",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "never miss twice recovery",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "Missing your BD habit once is an accident. Missing twice is the start of a new habit. What's your recovery protocol look like when high season takes over? Are you seeing operators around you rebuild systems rather than resume the one they had?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "atomic_habits",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "never_miss_twice",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "story_detail",
+      "source_theme": "two-minute rule and survivable floor",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "The question isn't what your BD habit looks like on a good week. It's what it looks like when a guest calls at 7 AM with a problem and two owners email before stand-up. That version of the habit is the one that actually runs your pipeline.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "atomic_habits",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "two_minute_rule",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "newsletter and four laws",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "This week's VRM Sales Library newsletter goes deeper on the two Atomic Habits laws the posts didn't cover: making BD attractive and making it satisfying. Also includes a complete four-law implementation stack you can deploy this week.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "atomic_habits",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "four_laws",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "applying Atomic Habits to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Tuesday",
+      "text": "Applying James Clear's Atomic Habits to VRM owner acquisition this week. The identity layer is where most BD training falls short. Outcome goals don't change daily behavior. Identity does.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "atomic_habits",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "identity_based_habits",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "four laws of behavior change for VRM BD",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "James Clear's four laws of behavior change, applied to VRM owner acquisition:",
+        "Law 1 — Make it obvious. Stack BD activity onto an existing daily habit. After morning metrics, check three pipeline contacts. After stand-up, send one outreach. Borrow the cue.",
+        "Law 2 — Make it attractive. Pair BD activity with something you genuinely look forward to. The association makes the obligatory feel less so over time.",
+        "Law 3 — Make it easy. Build a floor so small it can't be missed. Two minutes on the pipeline board on even the loudest days. The floor protects the identity.",
+        "Law 4 — Make it satisfying. Visible pipeline movement is an immediate reward. Crossing it off is an immediate reward. The deal closing is the ultimate reward, but you can't sustain daily effort on an ultimate reward.",
+        "The operators who build durable BD practices aren't more disciplined. Their architecture answers all four of these laws. Most operators answer one or two and wonder why it doesn't stick."
+      ],
+      "source_trace": {
+        "book_slug": "atomic_habits",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "four_laws",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    }
+  ]
+}

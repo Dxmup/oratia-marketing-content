@@ -1,0 +1,148 @@
+{
+  "book": "Sell Without Selling Out",
+  "book_slug": "sell_without_selling_out",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "persuasion vs problem-solving",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "The VRM operator with the highest close rate is not always building the best portfolio. Sometimes they are just building the best churn cycle. Persuasion closes deals. It does not select for clients who actually stay.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_without_selling_out",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "persuasion_vs_problem_solving",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "early churn as acquisition failure",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "When an owner leaves after 4 months over a maintenance complaint, the operator usually fixes the maintenance process. The actual problem is usually that the owner was never fully in. The complaint was just the door.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_without_selling_out",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "autonomy_problem",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "four pillars of genuine selling",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "There's a question that separates genuine curiosity from setup questions in a listing appointment. 'What has surprised you about self-managing this property?' vs. 'Are you concerned about revenue optimization?' Owners can tell which conversation they're in.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_without_selling_out",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "curiosity_pillar",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "story_detail",
+      "source_theme": "helpfulness before you need it",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "The operator who tells a Skeptic owner 'I'd rather give you a realistic revenue number now and work from there than explain the gap later' loses some deals. The deals they keep are the ones that actually last. That's a trade most operators aren't making.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_without_selling_out",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "helpfulness_as_advantage",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "sharp_opinion",
+      "source_theme": "autonomy and commitment quality",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "The owner who takes three weeks to decide and then signs is more committed than the one who signed in the first meeting. Speed to close is not a reliable proxy for commitment to the relationship.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_without_selling_out",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "autonomy_problem",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "early churn diagnosis",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "How often do you think early VRM client exits are actually acquisition failures in disguise, not operations failures? Curious what operators are seeing in their own portfolios.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "sell_without_selling_out",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "persuasion_vs_problem_solving",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "channel_connector",
+      "source_theme": "owner type application",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper on Andy Paul's Sell Without Selling Out in this week's VRM Sales Library newsletter. The application by owner type covers how helpfulness looks different for a Skeptic vs. a Delegator vs. a Controller. At linkedin.com/in/chadhensel.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_without_selling_out",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "owner_type_application",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "author_engagement",
+      "source_theme": "problem-solving selling applied to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Wednesday",
+      "text": "Applying @andy_paul's Sell Without Selling Out to VRM owner acquisition this week. The autonomy argument maps directly: operators who protect the owner's decision-making space get commitments that hold through the first slow month.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_without_selling_out",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "autonomy_problem",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "selling without selling out in VRM",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "VRM operators who rely on persuasion close more deals in the short term. They also churn more clients in months 4 through 8.",
+        "The connection is usually invisible because the churn gets diagnosed as an operations problem: a maintenance delay, a communication gap, a slow month.",
+        "The actual problem is usually earlier. The owner was persuaded into a decision they never fully owned.",
+        "Protecting the owner's autonomy during the acquisition process is not soft selling. It is building the kind of commitment that actually holds."
+      ],
+      "source_trace": {
+        "book_slug": "sell_without_selling_out",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "persuasion_vs_problem_solving",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

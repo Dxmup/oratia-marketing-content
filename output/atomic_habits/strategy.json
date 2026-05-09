@@ -1,0 +1,96 @@
+[
+  {
+    "concept": "Identity-Based Habits — Who You Are vs. What You're Trying to Do",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators trying to build a consistent BD identity",
+    "actual_argument": "Outcome-based goals create temporary BD effort. Identity-based habits create permanent BD behavior. The difference is whether 'systematic prospecting' is something you do or something you are.",
+    "bad_assumption_to_attack": "That the solution to inconsistent BD is better goals, better systems, or better tools. The real gap is identity: reps and operators who don't see themselves as systematic prospectors will always undercut their own systems.",
+    "behavior_change": "Define explicitly what kind of BD operator you are, not what outcomes you want to achieve. Then let the daily habits vote for that identity.",
+    "operator_example": "A VRM rep who defines themselves as 'someone who runs a tight pipeline' treats a skipped weekly review as an identity violation. A rep who is 'trying to do more prospecting' treats it as an acceptable delay.",
+    "hook_options": [
+      "Your BD system isn't the problem. Your identity might be.",
+      "The difference between VRM operators who build real pipelines and those who don't usually isn't effort.",
+      "Setting a goal to close 5 new owners this quarter won't change how you spend Tuesday morning."
+    ],
+    "lead_in": "James Clear's Atomic Habits identifies exactly why the goal-setting approach to owner acquisition fails to produce durable behavior change.",
+    "angle": "Open with the identity vs. outcome contrast. Show how two reps with the same system produce different results based on whether BD is identity or goal. Apply the 'votes for identity' concept to daily VRM BD behaviors.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for the full week's series applying Atomic Habits to VRM owner acquisition.",
+    "cluster_role": "pillar",
+    "companion_ideas": ["Never Miss Twice", "Two-Minute Rule"],
+    "notes": "Post 1. This is the conceptual foundation. Get to the identity contrast fast. The 'every habit is a vote for identity' concept is the sharpest line."
+  },
+  {
+    "concept": "Habit Stacking + Environment Design",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators who know what they should do but don't do it consistently",
+    "actual_argument": "The most reliable way to install a new BD behavior is to attach it to an existing one and remove friction from the environment. Neither willpower nor better goals will produce consistent behavior. Architecture will.",
+    "bad_assumption_to_attack": "That consistent prospecting requires discipline or motivation. It requires a specific anchor in the existing daily routine and an environment that makes the right behavior the easy behavior.",
+    "behavior_change": "Identify one existing daily habit that can anchor BD activity. Design the environment (what's open, what's visible, what's one click away) to reduce friction on the BD behavior.",
+    "operator_example": "After morning metrics review, I will check three pipeline contacts (habit stack). The CRM pipeline view is the first tab open when the laptop starts (environment design). Two structural changes, no extra willpower required.",
+    "hook_options": [
+      "Wanting to prospect more consistently is not the same as building a prospecting habit.",
+      "The VRM operators who do BD consistently haven't figured out discipline. They've figured out architecture.",
+      "If your prospecting depends on having enough motivation, it won't survive a week where three owners call with problems on Monday."
+    ],
+    "lead_in": "Clear's Atomic Habits gives operators two tools that are more reliable than willpower: habit stacking and environment design.",
+    "angle": "Open with the motivation trap. Introduce habit stacking with the specific formula (After X, I will Y). Introduce environment design with the friction concept. Show a combined implementation that a VRM operator can deploy this week.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for more on building VRM BD habits that survive operational pressure.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Identity-Based Habits", "Two-Minute Rule"],
+    "notes": "Post 2. Practical and immediately deployable. The formula is the heart of the post. Make it concrete enough to use."
+  },
+  {
+    "concept": "The Two-Minute Rule and Never Miss Twice",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators whose BD habits collapse under operational pressure",
+    "actual_argument": "BD habits fail in two ways: they start too ambitious to survive a busy week, or they die when one bad week is treated as a system failure. The two-minute rule handles the first problem. Never missing twice handles the second.",
+    "bad_assumption_to_attack": "That the solution to a missed week of prospecting is a better system. The solution is a smaller minimum and a faster recovery. The habit has to survive a bad week, not require a perfect week.",
+    "behavior_change": "Define the minimum BD behavior for any day, no matter how operationally loud. Make it so small it can't be skipped. And when it does get skipped, treat it as one miss and recover the next day, not the next month.",
+    "operator_example": "The minimum: two minutes looking at the pipeline board every morning, even on bad days. Not missed twice: a week that gets swallowed by operations is one miss. The following Monday returns to normal. No restart required.",
+    "hook_options": [
+      "The BD habit that requires a perfect week to maintain is not a habit. It's a wish.",
+      "Missing your prospecting habit once is an accident. Missing it twice is the start of a new habit.",
+      "Your owner acquisition practice doesn't have to survive a calm week. It has to survive the season."
+    ],
+    "lead_in": "James Clear offers two rules that VRM operators rarely talk about but need to build their BD function.",
+    "angle": "Open with the high-season collapse pattern. Introduce the two-minute rule as a floor, not a ceiling. Introduce never miss twice as the recovery protocol. Show what the combination looks like for a VRM operator whose busy season used to wipe out their entire BD momentum.",
+    "mention_book": true,
+    "mention_oratia": true,
+    "oratia_style": "soft",
+    "cta": "Follow for the full week's series applying Atomic Habits to VRM owner acquisition.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Identity-Based Habits", "Habit Stacking"],
+    "notes": "Post 3. The two-concept combination works well because they address the two failure modes of VRM BD habits sequentially. Add soft Oratia observation on high-season collapse."
+  },
+  {
+    "concept": "Newsletter — Full Stack: Atomic Habits for VRM BD",
+    "best_format": "newsletter_seed",
+    "post_type": "breakdown",
+    "target_audience": "VRM operators at any BD maturity level",
+    "actual_argument": "Atomic Habits provides the complete architecture for building a durable VRM BD function. The newsletter goes deeper on the four laws of behavior change applied specifically to the VRM acquisition context, and builds a complete implementation stack an operator can deploy this week.",
+    "bad_assumption_to_attack": "That BD habit failure is an individual performance issue. It is usually a systems design issue: the habits aren't attractive, obvious, easy, or satisfying enough to compete with the immediate demands of operations.",
+    "behavior_change": "Audit current BD behavior against all four laws: Is it obvious (anchored to a cue)? Is it attractive (does it have a paired reward)? Is it easy (is the minimum survivably small)? Is it satisfying (does it deliver immediate feedback)?",
+    "operator_example": "A complete VRM BD habit stack built using all four laws, with specific implementation for a solo operator and a small team.",
+    "hook_options": [
+      "Three posts this week applying Atomic Habits to VRM owner acquisition."
+    ],
+    "lead_in": "This newsletter builds the full implementation using all four of Clear's laws, including the two the posts didn't have room for: making it attractive and making it satisfying.",
+    "angle": "Recap the week's posts. Extend into temptation bundling, immediate reward design, and the aggregation of marginal gains. Build a complete four-law implementation audit for VRM BD.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Subscribe at linkedin.com/in/chadhensel.",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["Temptation Bundling", "Immediate Rewards", "Aggregation of Marginal Gains"],
+    "notes": "Newsletter should go substantially beyond the posts. Include: four-law audit tool, temptation bundling examples for VRM prospecting, marginal gains applied to appointment improvement, and the identity shift as the foundation."
+  }
+]

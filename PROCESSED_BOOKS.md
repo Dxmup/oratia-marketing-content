@@ -46,6 +46,10 @@ Only list a book here when its output folder and core files actually exist on di
 - Nudge — processed
 - The Catalyst — processed
 - Selling to VITO — processed
+<<<<<<< Updated upstream
+=======
+- Sell Without Selling Out — processed
+>>>>>>> Stashed changes
 
 ## Notes
 - Update this file when new per-book folders are created and verified.

@@ -1,0 +1,25 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "Strong week of content. The core argument about persuasion creating fragile commitments is applied specifically to VRM throughout, with the churn-as-acquisition-failure reframe being the sharpest insight. Format compliance is consistent. Newsletter genuinely extends the posts by going owner-type specific.",
+  "strengths": [
+    "Post 1 connects close rate to churn rate in a way that is specific to VRM portfolio building, not generic sales theory.",
+    "Post 2's four pillars are distinguished from tactical rapport with concrete listing appointment examples for each.",
+    "Post 3's autonomy post is tight and provides a usable script that operators can deploy immediately.",
+    "Newsletter's owner type breakdown (Skeptic, Delegator, Steward, Controller) goes significantly beyond what the posts cover and provides type-specific scripts for each.",
+    "No em dashes detected. No exclamation points outside direct-speech scripts."
+  ],
+  "problems": [
+    "Post 2 was at 3,020 characters before trim; verify the final version is under 2,900.",
+    "Post 3 script section is strong but the 'Field note' could be slightly tighter without losing content."
+  ],
+  "required_fixes": [
+    "Verify final post_2 character count is under 2,900 after trim.",
+    "Confirm all CTA footer blocks are intact and match the standard format."
+  ],
+  "depth_score": 9,
+  "specificity_score": 8,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}
