@@ -1,0 +1,165 @@
+{
+  "book": "Value Proposition Design",
+  "book_slug": "value_proposition_design",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "jobs-to-be-done three layers",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "VRM listing appointments operate on three layers simultaneously. Functional: maximize revenue and reduce hassle. Social: look like a smart decision to a spouse or partner. Emotional: feel confident someone trustworthy is in charge of your home. Most operators pitch only the functional layer. That's why they lose to operators with smaller portfolios.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "value_proposition_design",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "jobs_to_be_done_three_layers",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "spouse objection as social job",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "When an owner says \"let me talk to my spouse,\" they're not asking for more time. They have a social job to do. They need to carry a decision back to someone whose opinion matters, and you haven't given them the language yet. That's solvable in the room.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "value_proposition_design",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "social_job_spouse_objection",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "pain-first pitch structure",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "The standard listing appointment: company overview, revenue projection, feature walkthrough, Q and A, ask for the business.\n\nThe problem: you're presenting gains to an owner whose brain is still calculating risk. Revenue projections don't land in a threat-detection state. Name the fears first. Then present the upside. That sequence changes the close rate.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "value_proposition_design",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "pain_first_pitch_structure",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "convinced owner still doesn't switch",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "The hardest owner to lose is the one who was already convinced. They believed you were better. They went quiet anyway. What they were calculating during the silence: what happens to their existing bookings, their Airbnb review history, their cleaning crew. Nobody answered those questions. So they stayed.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "value_proposition_design",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "switching_cost_transition_pain",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "story_detail",
+      "source_theme": "transition conversation before the close",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "An owner with 11 future bookings in their current manager's system is not ready to sign until one question is answered: what happens to those guests?\n\nThey won't ask it out loud. Owners who are already a little embarrassed about switching don't raise the logistics. They sit on the question, tell themselves they need to think about it, and don't call back.\n\nWalk through the transition before asking for the agreement. Specifically.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "value_proposition_design",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "switching_cost_transition_pain",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "owner type pitch fit",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Every owner type has a different acute pain. The Skeptic needs proof and fee transparency. The Steward needs guest screening and property care language. The Controller needs a defined communication cadence. The Investor needs revenue mechanics, specifically.\n\nDo you adjust your pitch by owner type, or do you run the same appointment for everyone?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "value_proposition_design",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "pain_relievers_by_owner_type",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "sharp_opinion",
+      "source_theme": "functional layer is table stakes",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Owners don't make management decisions with their revenue brain. They make them with their risk brain. The revenue projection gets processed by someone who is still calculating what could go wrong with their home, their guests, and the manager they're about to trust. That's why leading with upside doesn't close the room.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "value_proposition_design",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "pain_gain_asymmetry",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "VRM Sales Library newsletter",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper on Value Proposition Design in this week's VRM Sales Library newsletter. Full per-owner-type pitch architecture, a pain-first appointment structure, and a four-question diagnostic opening sequence. Subscribe at linkedin.com/in/chadhensel.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "value_proposition_design",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "newsletter_wrap",
+        "related_linkedin_post": null
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "Osterwalder VPD applied to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Friday",
+      "text": "Been applying @AlexOsterwalder's Value Proposition Design to VRM owner acquisition this week. The pain-gain asymmetry maps directly: an anxious homeowner deciding whether to hand their property to a stranger isn't processing upside. They're in threat-detection mode. The pitch that names their fears first earns the right to present the revenue projection.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "value_proposition_design",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "pain_gain_asymmetry",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "four-question diagnostic opening sequence",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Four questions at the start of every listing appointment that tell you which pitch to run:",
+        "1. 'How long have you owned the property, and what's been your experience managing it?' Surfaces the baseline: new owner vs. experienced, frustrated vs. content with status quo.",
+        "2. 'What made you decide to look at management options now?' This tells you the triggering pain and which job layer is active. The answer is almost never 'I want higher revenue.'",
+        "3. 'What has frustrated you most about how you've been handling it, or about managers you've talked to before?' This surfaces the acute pain underneath the stated job. That's the pain your pitch needs to address with depth.",
+        "4. 'What would success look like for you in the first year?' This surfaces the primary gain. What does this owner actually want to be true at the end of year one?",
+        "Ten minutes of listening. Enough data to run a targeted pitch instead of a standard one."
+      ],
+      "source_trace": {
+        "book_slug": "value_proposition_design",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "diagnostic_opening_sequence",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

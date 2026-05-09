@@ -1,0 +1,97 @@
+[
+  {
+    "concept": "The Three Job Layers — Functional, Social, Emotional",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators doing their own listing appointments",
+    "actual_argument": "Every listing appointment pitch is happening on three levels simultaneously. Most operators only address the functional layer (revenue, features, process), while the owner makes their decision at the social and emotional layer. Operators who diagnose and address all three layers win appointments that look like coin flips on paper.",
+    "bad_assumption_to_attack": "That a better revenue projection or a longer features list will close the appointment",
+    "behavior_change": "Diagnose the owner's social job (how do they want to be perceived by family/peers/spouse?) and emotional job (what fear needs to be relieved?) before presenting any functional pitch",
+    "operator_example": "An owner with a lakefront cabin whose spouse is skeptical about renting it out. The functional job is revenue. The social job is proving to their spouse that they made a smart decision. The emotional job is feeling confident that the home will be treated the way they'd treat it. The operator who addresses the spouse concern in the conversation — either directly or by setting up a communication dynamic the owner can relay — wins.",
+    "hook_options": [
+      "The owner who says 'let me talk to my spouse' is not asking for more time. They have a social job to do.",
+      "Revenue projections don't close listing appointments. Most of the decision happens in a layer most operators never address.",
+      "The listing appointment operates on three levels. Most VRM pitches only address one of them."
+    ],
+    "lead_in": "Osterwalder calls them jobs-to-be-done. In VRM acquisition, they separate operators who win on value from operators who compete on price.",
+    "angle": "Use the three-layer jobs framework to reframe what a listing appointment is actually for. The functional layer is table stakes. The social and emotional layers are where trust is built. This post diagnoses the failure pattern and provides a field-applicable approach to identifying which layer needs addressing before pitching.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for the rest of the week's posts on Value Proposition Design applied to VRM acquisition",
+    "cluster_role": "pillar",
+    "companion_ideas": ["Gains vs. Pains asymmetry", "Pain Relievers vs. Gain Creators by owner type"],
+    "notes": "Lead post for the series. Sets up the JTBD vocabulary that carries through posts 2 and 3. Do not try to cover everything in this post — establish the three-layer mental model and apply it to one clear scenario."
+  },
+  {
+    "concept": "The Pain-First Pitch — Gains vs. Pains Asymmetry",
+    "best_format": "long_form",
+    "post_type": "contrarian_take",
+    "target_audience": "VRM operators whose listing appointments end in 'we'll think about it'",
+    "actual_argument": "An owner in a pain-dominant emotional state cannot process a gain-oriented pitch. Revenue projections and feature lists land in a brain that is still calculating risk. The operator who names the owner's fears first creates the psychological space for the gain pitch to land. Most operators do this in the wrong order.",
+    "bad_assumption_to_attack": "That leading with your strengths and upside is the most persuasive approach",
+    "behavior_change": "Open the middle of the listing appointment by naming the owner's three most likely fears before presenting any benefits. Then present benefits in direct response to those fears.",
+    "operator_example": "An owner who just had a bad guest experience with a previous manager's placement. The pain is acute. An operator who leads with dynamic pricing and occupancy rate is speaking a language the owner isn't listening to yet. The operator who says 'The first thing I want to address is guest quality and how we screen for the kind of guests who won't happen again' is the only one in the conversation.",
+    "hook_options": [
+      "Owners don't make management decisions with their revenue brain. They make them with their risk brain.",
+      "Most listing appointments lose in the middle, not at the objection stage. Here's why.",
+      "The 'let me think about it' close doesn't mean the owner is thinking about revenue. It means they're thinking about what could go wrong."
+    ],
+    "lead_in": "Value Proposition Design is specific about this: pain relief is more motivating than gain creation. Most VRM pitches are structured backwards.",
+    "angle": "Lead with the asymmetry insight — pains outweigh gains in decision-making — and apply it to the specific appointment architecture. Diagnose the typical appointment structure as gain-first, show what breaks when the owner is in a pain-dominant state, and then walk through what a pain-first appointment structure looks like in practice. Include a script for naming fears.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for the series wrap in Friday's newsletter",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Three job layers", "Switching cost conversation"],
+    "notes": "This is the most immediately actionable post. Include a script for naming owner fears before presenting. Make the before/after structure clear: what most operators do vs. what works."
+  },
+  {
+    "concept": "Switching Costs and the Transition Conversation",
+    "best_format": "long_form",
+    "post_type": "mistake",
+    "target_audience": "VRM operators pitching to owners who are already working with another manager",
+    "actual_argument": "An owner who is already unhappy with their current manager has ranked pain-of-current-situation above comfort-of-status-quo. But they still may not switch. The transition itself is a new pain your proposition must relieve. Operators who skip the transition conversation lose owners who are already persuaded.",
+    "bad_assumption_to_attack": "That an unhappy owner is a ready owner",
+    "behavior_change": "Walk every dissatisfied owner through the transition process explicitly: what happens to existing bookings, how the Airbnb history transfers, what the first 30 days look like, and what they don't have to touch. Do this before asking for the agreement.",
+    "operator_example": "An owner who has been with a manager for two years, has bad feelings about how it's going, and has 14 future bookings in the system. The question they're not asking out loud: 'What happens to those 14 guests?' The operator who proactively answers this in the appointment removes the single biggest barrier for this specific owner.",
+    "hook_options": [
+      "The most common reason a convinced owner doesn't switch managers is a conversation you never had.",
+      "An owner who is unhappy with their current manager is not automatically a ready owner. There's a step most operators skip.",
+      "Getting a dissatisfied owner to say yes is not the same as getting them across the finish line. The gap is the transition."
+    ],
+    "lead_in": "Osterwalder frames this precisely: your value proposition must address the pain of switching, not just the pain of the status quo.",
+    "angle": "Frame the switching cost as a distinct category of owner pain that operates independently from the pain of their current situation. Show what it looks like when an operator skips this conversation vs. addresses it directly. Provide a transition walkthrough script or sequence.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "light_example",
+    "cta": "Follow for the newsletter edition that wraps up the full week's framework",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Pain-first pitch", "Diagnostic fit testing"],
+    "notes": "Oratia can be mentioned lightly as a pattern-recognition source on what transition objections look like in practice. This is the most operationally specific post of the three."
+  },
+  {
+    "concept": "Newsletter Seed — Full VPD Applied to VRM Acquisition",
+    "best_format": "newsletter_seed",
+    "post_type": "breakdown",
+    "target_audience": "VRM operators who followed all three posts and want the complete framework applied",
+    "actual_argument": "The full Value Proposition Canvas applied to VRM owner acquisition: customer profile (owner jobs, pains, gains) mapped against value map (services, pain relievers, gain creators) with a diagnostic flow for each of the six owner types.",
+    "bad_assumption_to_attack": "That a single pitch pitch serves all owner types equally",
+    "behavior_change": "Build a per-owner-type pitch architecture that targets the most acute pain and most desired gain for each profile, supported by type-specific pain relievers",
+    "operator_example": "A comparison table showing the acute pain, top gain, and primary pain reliever for each of the six owner types: Investor, Steward, Skeptic, Delegator, Controller, Opportunist",
+    "hook_options": [
+      "The full Value Proposition Canvas applied to VRM acquisition across all six owner types",
+      "A diagnostic for which pitch to use with which owner — and why one pitch serves none of them"
+    ],
+    "lead_in": "The three posts this week laid the framework. The newsletter goes deeper on the owner-type-specific application.",
+    "angle": "Synthesize the week's three posts into a complete diagnostic system: how to identify which owner type you're sitting across from, which layer of their job profile is dominant, which pain is most acute, and which pain reliever should anchor your pitch. Include a per-type pitch architecture and a discovery sequence for the opening of the appointment.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Subscribe at linkedin.com/in/chadhensel",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["Three job layers", "Pain-first pitch", "Switching costs", "Pain Relievers by owner type"],
+    "notes": "The newsletter should go significantly deeper than the posts: include a full per-owner-type breakdown, a diagnostic opening sequence for appointments, and a 'ranking your pitch' exercise. This is where the framework completes itself."
+  }
+]
