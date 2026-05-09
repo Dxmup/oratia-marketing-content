@@ -1,0 +1,85 @@
+VRM Sales Library | Agile Selling | Jill Konrath
+linkedin.com/in/chadhensel
+
+---
+
+This week's three posts covered Jill Konrath's Agile Selling applied to VRM owner acquisition: how to identify trigger events that signal owner receptivity, how to open listing appointments with insights that change the evaluation criteria, and how to deliberately compress your ramp in new markets or owner segments.
+
+The newsletter goes deeper on building the full adaptive acquisition system: a trigger monitoring protocol, insight openers calibrated by owner type, and a worked example of the deliberate ramp from first research to first appointment.
+
+---
+
+THE TRIGGER MONITORING SYSTEM
+
+The most productive prospecting targets are owners who have just experienced something that created friction with their current management approach. Post 1 covered the triggers worth watching. Here's how to build a system that surfaces them consistently.
+
+WEEKLY MONITORING TASKS
+
+New listings. Every week, run an Airbnb and Vrbo search filtered by your target neighborhoods sorted by newest. Properties listed in the last 30 days with no or few reviews are newly self-managed. Add them to a tracking list. These owners are in the honeymoon phase now. At 60-90 days, the friction begins. That's your window.
+
+Review score changes. For properties you've been tracking, check whether review scores have dipped in the last 60 days. A property that had a 4.8 rating three months ago and is now sitting at 4.3 has had something go wrong. The owner knows it. Your outreach at this moment is different than cold outreach.
+
+Occupancy gap monitoring. If you have access to revenue management data for comparable properties in your market (AirDNA, Pricelabs, or equivalent), track which self-managed properties in your target neighborhoods are running 20%+ below comparable professionally managed properties. These owners have a revenue gap problem. Name it in your outreach.
+
+Management departures. When a property disappears from a local manager's portfolio, reach out to the owner within two weeks. These owners are in active re-evaluation mode and represent the highest-conversion prospecting opportunity in your market.
+
+OUTREACH TIMING RULES
+
+New listing: First contact at day 30-45 (let them discover the operational complexity before you arrive). Follow-up contact at day 75-90.
+
+Bad review cluster: First contact within two weeks of the review pattern becoming visible.
+
+Occupancy gap: First contact when the gap has been visible for at least one full month (enough for the owner to have noticed it).
+
+Management departure: First contact within five days.
+
+THE INSIGHT OPENER LIBRARY BY OWNER TYPE
+
+Post 2 covered insight-led openers versus feature-led pitches. Here are calibrated openers for the three owner types most commonly encountered in trigger-event prospecting.
+
+INVESTOR OPENER
+
+"I've been tracking properties in this neighborhood for the past year and there's a pattern worth knowing about. Properties that move from self-management to professional management in their first 12 months typically recover their 90-day occupancy gap within two booking cycles. The ones that wait longer have a harder time because their review average has already anchored. I'd like to show you what that trajectory looks like for your property specifically."
+
+The Investor wants data and a clear mechanism. This opener gives them both before asking for anything.
+
+STEWARD OPENER
+
+"Before I tell you about how we work, I want to ask you something. When a guest damages something in this property, and it happens, the way you find out matters as much as what was damaged. Most self-managing owners find out through a bad review, which is the hardest way to get the news. Here's what our guest communication system looks like the morning after checkout and why it changes how owners feel about their property at the end of a busy season."
+
+The Steward needs to believe you care about the property the way they do. This opener demonstrates operational attentiveness before you get to features.
+
+SKEPTIC OPENER
+
+"I'll be honest with you. Most of the owners who have moved from another manager to us weren't looking for a new manager. They switched because something broke. I'd like to understand what, if anything, has frustrated you about how your property has been managed up to now, because that's usually where I can tell quickly whether we're a fit or not."
+
+The Skeptic has heard the pitch before. They're waiting for the catch. Opening with honesty about the dynamic, and with a question instead of a pitch, bypasses the defensive posture.
+
+THE DELIBERATE RAMP: A WORKED EXAMPLE
+
+Post 3 introduced the deliberate ramp framework. Here's what it looks like in practice for an operator entering a new beach market.
+
+DAY 1-3: MINIMUM VIABLE KNOWLEDGE
+
+Research the three top-performing neighborhoods in the market by occupancy and review score. Identify the dominant owner profile: primary income property vs. inherited property vs. investor purchase. Understand the primary regulatory constraint (STR permit requirements, HOA rules, zoning). Note the two or three major management companies already in the market and their observable positioning.
+
+DAY 4-5: MARKET CONVERSATIONS
+
+Talk to two operators who work the market. Ask: What do owners in this market care most about that's different from other markets? What objection do you hear most? What's the thing new managers in this market usually get wrong in their first six months?
+
+DAY 6-7: FRAMEWORK BUILDING
+
+Write three diagnostic questions for the most common owner type you'll encounter. Practice them out loud until they don't sound scripted. Build an insight opener for that owner type using a data point from your market research.
+
+DAY 8: FIRST APPOINTMENTS
+
+The first appointment with this preparation is substantively different from the first appointment without it. You have a model. The conversation updates the model. After each appointment, debrief for 10 minutes: what was different from what you expected? Update the framework.
+
+Operators who build this protocol before entering a new segment close their first three appointments at a higher rate than operators who don't. The rate difference isn't because the prepared operator is smarter. It's because they're not learning the market in front of the owner.
+
+NEXT WEEK
+
+Moving to Jill Konrath's SNAP Selling, which addresses a different challenge: how to sell to prospects who are overwhelmed, distracted, and operating with almost no attention to spare. In VRM, this maps directly to reaching owners who are already self-managing and barely paying attention to incoming outreach, and to listing appointments with owners who have three other managers scheduled the same week.
+
+---
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #AgileSelling

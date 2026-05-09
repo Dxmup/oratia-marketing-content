@@ -49,6 +49,7 @@ Only list a book here when its output folder and core files actually exist on di
 - Sell Without Selling Out — processed
 - Decisive — processed
 - Sell the Way You Buy — processed
+- Agile Selling — processed
 
 ## Notes
 - Update this file when new per-book folders are created and verified.

@@ -1,0 +1,25 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "Strong set. Post 1 on trigger events is the most operationally specific piece and leads well. Post 2 successfully delivers the insight-vs-feature distinction with a concrete script. Post 3 is tactical and framework-driven, making the rapid ramp tangible. Newsletter genuinely extends all three posts with calibrated insight openers by owner type and a worked example of the deliberate ramp.",
+  "strengths": [
+    "Post 1's trigger list is specific and actionable with clear VRM targeting logic for each trigger type.",
+    "Post 2 delivers an actual insight opener script the reader can use immediately. The owner type field note adds practical calibration.",
+    "Post 3's four-move deliberate ramp framework is concrete and immediately applicable to new market or segment entry.",
+    "Newsletter extends meaningfully: the three owner-type insight openers (Investor, Steward, Skeptic) are distinct and type-specific, not generic.",
+    "No em dashes. No exclamation points. Format compliance checks pass."
+  ],
+  "problems": [
+    "Post 1 needed trimming to get under 2,900 characters. Some specificity was sacrificed in the trimming pass.",
+    "The thread in twitter/posts.json has one tweet that may exceed 280 characters (tweet 4 about management departure). Should be verified."
+  ],
+  "required_fixes": [
+    "Verify Twitter thread tweet lengths are under 280 characters.",
+    "Check that the newsletter NEXT WEEK teaser correctly previews SNAP Selling content."
+  ],
+  "depth_score": 8,
+  "specificity_score": 9,
+  "operator_value_score": 8,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}

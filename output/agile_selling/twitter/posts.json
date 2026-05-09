@@ -1,0 +1,166 @@
+{
+  "book": "Agile Selling",
+  "book_slug": "agile_selling",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "trigger events and receptivity",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "The owner who just got three bad reviews is a different conversation than the one who has been self-managing successfully for two years. Same pitch. Completely different receptivity. Timing matters more than most VRM operators build into their outreach approach.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "agile_selling",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "trigger_events",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "management departure trigger",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "When a local management company loses a property, the owner is in full re-evaluation mode. That's the highest-receptivity prospect in your market. Most operators don't have a system to catch these. They find out months later.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "agile_selling",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "trigger_monitoring",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "sharp_opinion",
+      "source_theme": "insight-led vs feature-led",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Leading with your management approach invites the owner to compare you on the same criteria as every other manager they've talked to. Leading with an insight they didn't have changes what they're comparing. You win more evaluations by changing the criteria than by winning on the old ones.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "agile_selling",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "insight_led_selling",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "rapid ramp in new markets",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Entering a new VRM market the slow way: start making calls, learn as you go, accept the 6-12 month performance dip. Entering it the fast way: define the minimum you need to know, talk to two operators who already work it, build your owner type framework before the first appointment. Same market. Different ramp speed.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "agile_selling",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "deliberate_ramp",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "diagnostic",
+      "source_theme": "trigger monitoring system",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "How are you currently finding owners who are in a window of receptivity? Not owners in your market generally. Owners who have just experienced something that created friction with their current setup. If you don't have a system for this, your outreach timing is random. Are you seeing this as a problem in your market?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "agile_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "trigger_monitoring",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "insight opener by owner type",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "The insight that opens an Investor owner is different from the one that opens a Steward. Investors want a yield mechanism. Stewards want to know you see the property the way they do. Same insight-led approach, completely different calibration. Knowing which version to deliver before you walk in is most of the advantage.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "agile_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "owner_type_calibration",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "ramp speed in new segments",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Konrath's argument in Agile Selling is that learning speed is now a competitive differentiator. The operator who ramps faster in a new segment closes deals that the slow ramper misses while still learning. Are you managing your ramp deliberately, or just letting it happen?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "agile_selling",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "rapid_learning",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "full adaptive acquisition system",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "This week's VRM Sales Library newsletter builds the full adaptive acquisition system from Konrath's Agile Selling: a trigger monitoring protocol, insight openers by owner type, and the deliberate ramp worked example. At linkedin.com/in/chadhensel if you want the full stack.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "agile_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_system",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "agile learning applied to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Tuesday",
+      "text": "Applying @JillKonrath's Agile Selling to VRM owner acquisition this week. The trigger event framework maps almost perfectly to self-managing owners. The owners who are most receptive to a conversation aren't the ones who've been running their properties successfully for two years. They're the ones who just had something go wrong.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "agile_selling",
+        "source_file": "nuggets.json",
+        "theme": "trigger_events",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "trigger events and the adaptive acquisition system",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM operator outreach is timed to the operator's schedule, not the owner's receptivity. That's backwards.",
+        "Konrath's Agile Selling calls these inflection points trigger events. The moments when a prospect moves from comfortable to open. Here's what they look like in VRM:",
+        "New self-managed listing: owner just started, operational reality hasn't hit yet. Reach out at day 30-45.",
+        "Bad review cluster: owner is embarrassed and stressed. Window opens fast and closes when they decide it was the guests' fault.",
+        "Peak-season occupancy gap: owner sees the neighbor's full calendar and their 60% one. If you can name the gap, you're already in a different conversation.",
+        "Management company departure: highest-receptivity prospect in your market. First contact within five days.",
+        "None of this requires a large budget or an expensive system. It requires a weekly monitoring habit and a list of properties you've decided to track. Most operators have the list. They just don't have the habit."
+      ],
+      "source_trace": {
+        "book_slug": "agile_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "trigger_events",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}
