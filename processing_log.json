@@ -1571,6 +1571,16 @@
       "path": "output/value_proposition_design/twitter/posts.json",
       "status": "sharpened",
       "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/snap_selling/newsletter/cover_image.png",
+      "status": "generated",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/value_proposition_design/newsletter/cover_image.png",
+      "status": "generated",
+      "sharpened_date": "2026-05-09"
     }
   ]
 }
