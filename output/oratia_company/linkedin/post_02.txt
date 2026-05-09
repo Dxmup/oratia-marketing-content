@@ -18,6 +18,6 @@ They read the card, pick up the phone, and start the call already knowing who th
 
 When they're done, the next card expands.
 
-[Screenshot: Power Queue — top lead card expanded with persona, suggested opener, and last interaction context]
+[Screenshot: post_02alt_image.png — full Power Queue view showing morning greeting, top lead expanded with context, and ranked queue below]
 
 #VRM #CRM #VacationRentals #OwnerAcquisition #PropTech
