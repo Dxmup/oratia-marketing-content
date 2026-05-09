@@ -48,6 +48,7 @@ Only list a book here when its output folder and core files actually exist on di
 - Selling to VITO — processed
 - Sell Without Selling Out — processed
 - Decisive — processed
+- Sell the Way You Buy — processed
 
 ## Notes
 - Update this file when new per-book folders are created and verified.

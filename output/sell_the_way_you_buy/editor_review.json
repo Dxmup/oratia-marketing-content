@@ -1,0 +1,23 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three posts carry genuine operator-level depth and avoid the book-report trap. The preview framing in Post 1 is immediately recognizable to operators who have lost appointments they thought they won. Post 2 is anchored in a specific diagnostic opening with concrete scripts. Post 3 is the most practically valuable post of the set, with a specific fee framing sequence that addresses the most common VRM listing appointment objection. The newsletter meaningfully extends the posts with the trust equation and a full six-phase appointment structure.",
+  "strengths": [
+    "Post 1 reframes the listing appointment without becoming abstract: the four touchpoints (pre-meeting, opening, talk ratio, follow-up) give operators a concrete audit tool",
+    "Post 2 includes a specific script for the opening diagnostic question and distinguishes between Steward and Investor owner type needs, which is type-specific enough to be credible",
+    "Post 3 is the most actionable of the set: the three pre-framing elements (time cost, revenue gap, stress cost) with accompanying scripts give operators something they can use in the next appointment",
+    "Newsletter genuinely extends the posts: the trust equation section, segmented social proof guidance, and full six-phase appointment structure add meaningful depth beyond what the posts covered",
+    "No em dashes present, CTA footers intact, packaging format correct across all three posts"
+  ],
+  "problems": [
+    "Post 2's 'eight to fifteen hours per week' range for self-management time in Post 3 may feel high to some operators in lighter markets, though it is defensible for active self-managers"
+  ],
+  "required_fixes": [
+    "Post 3: consider softening 'eight to fifteen hours per week' to 'several hours per week' if character space allows, or add a qualifier like 'in active markets' to ground the claim"
+  ],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 9,
+  "format_compliance_score": 10
+}

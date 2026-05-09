@@ -1,0 +1,167 @@
+{
+  "book": "Sell the Way You Buy",
+  "book_slug": "sell_the_way_you_buy",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "listing appointment as service preview",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "The listing appointment is a preview of what working with you will feel like. Owners know this even when they can't articulate it. How you run the appointment is already the product.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_the_way_you_buy",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "appointment_as_preview",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "emotional decision before rational",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "Owners decide emotionally in the first five minutes of a listing appointment. The revenue projection confirms a decision that was already forming before you opened your laptop.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_the_way_you_buy",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "emotional_before_rational",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "fee framing",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "When an owner says your management fee seems high, ask yourself: what were they comparing it to? If you didn't establish the frame before presenting the number, the comparison happened in their head without you.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_the_way_you_buy",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "fee_framing",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "low self-orientation",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "The operator most willing to say 'I'm not sure we're the right fit for what you've described' often wins more business than the one who tries to close everything. Owners can feel when someone is focused on winning the contract versus solving their problem.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_the_way_you_buy",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "low_self_orientation",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "recognition",
+      "source_theme": "premature elaboration",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Friday",
+      "text": "Many VRM operators come to listing appointments ready to present everything. The owner just wants to know if you understand their specific situation. Those two things are often in direct conflict.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "sell_the_way_you_buy",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "premature_elaboration",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "matched social proof",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Generic testimonials don't work well in VRM listing appointments. The Steward owner with one high-end property doesn't identify with a case study from a portfolio investor. At Oratia, we've found matching the social proof to the owner type in front of you is one of the highest-leverage changes operators can make.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_the_way_you_buy",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "matched_social_proof",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "listing appointment ratio",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "What ratio of talking to listening do you think most operators run in listing appointments? I'd guess 70/30 favoring the operator. What are you seeing?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "sell_the_way_you_buy",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "appointment_structure",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "owner-designed appointment",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "This week's VRM Sales Library newsletter has the full owner-designed listing appointment structure: from pre-meeting through post-meeting follow-up, plus the trust equation applied to VRM and how to segment social proof by owner type.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_the_way_you_buy",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_appointment_structure",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "buying experience as product",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Wednesday",
+      "text": "Applying @DavidPriemer's Sell the Way You Buy to VRM this week. The insight that lands hardest: the listing appointment is a preview of what the management relationship will feel like. Operators who design the appointment from the owner's side of the table close differently.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "sell_the_way_you_buy",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "buying_experience_as_product",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "owner-designed listing appointment",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM listing appointments are designed around what the operator wants to say. Here's what a buyer-designed appointment looks like instead.",
+        "The pre-meeting: send a brief agenda and one question. Not about your service. About what they want most from a management relationship. You learn something before you walk in.",
+        "The first 15 minutes: no presentation. Genuine questions about their situation. Let them talk for at least 10 minutes before you say anything about how you work.",
+        "The diagnosis: reflect back the primary concern and let them confirm it. 'Based on what you've described, the thing that matters most to you is [X]. Is that right?'",
+        "The targeted presentation: address that specific concern. Not your full platform. Not your full fee schedule. The direct answer to their specific problem.",
+        "The fee framing: establish the cost comparison before presenting the number. What are they currently spending? What are they leaving on the table? The fee is a trade, not a price.",
+        "The follow-up: within 24 hours, send a response to the specific conversation you had. Not a generic proposal. A note that references what they actually told you.",
+        "The operators who run this structure disqualify more quickly, lose less time on owners who were never going to sign, and win more reliably when there's genuine fit."
+      ],
+      "source_trace": {
+        "book_slug": "sell_the_way_you_buy",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "owner_designed_appointment",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}
