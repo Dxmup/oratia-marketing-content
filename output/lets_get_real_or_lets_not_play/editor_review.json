@@ -1,0 +1,26 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three posts and the newsletter meet the standard. Each piece has a specific argument grounded in operator behavior, concrete scripts, and owner type differentiation. The newsletter delivers the full qualification framework not present in the posts, which is the right structure for the content.",
+  "strengths": [
+    "Post 1 delivers both the contrarian argument (qualification over closing) and the operational consequence (full cost math of a bad-fit listing)",
+    "Post 2 includes a complete opening script that operators can use directly in a listing appointment, with owner-type differentiation for Skeptic, Controller, and Investor",
+    "Post 3 clearly distinguishes genuine commitment signals from social courtesy and gives a specific script for the commitment test",
+    "Newsletter builds the complete qualification framework with explicit criteria and disqualification signals not present in any individual post",
+    "No em dashes, no exclamation points, CTA footer intact on all posts",
+    "Field notes are owner-type specific and don't restate the body"
+  ],
+  "problems": [
+    "Post 2 is close to 2,900 characters. Should verify it clears the limit.",
+    "Post 1's hook is strong but the second paragraph ('The math on a bad-fit listing') is doing a lot of work. Could tighten slightly."
+  ],
+  "required_fixes": [
+    "Verify post_2 character count before publishing",
+    "Check all posts for em dashes — newsletter in particular"
+  ],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}

@@ -1,0 +1,166 @@
+{
+  "book": "Let's Get Real or Let's Not Play",
+  "book_slug": "lets_get_real_or_lets_not_play",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "mutual qualification",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "The VRM listing that looks like $8,000 in annual fees can cost $25,000 in management time, complaints, and reputation damage. Most operators don't do the full math until the listing churns.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "lets_get_real_or_lets_not_play",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "bad_fit_listing_cost",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "illusion of commitment",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "'Let me think about it' after a listing appointment is not a pipeline entry. It's a polite ending. The operator who counts it as progress will spend a week following up and learning nothing.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "lets_get_real_or_lets_not_play",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "illusion_of_commitment",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "qualification signals",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "An owner who has had three managers in three years isn't having bad luck. There's a question worth asking before you become the fourth: what happened with each of them? The answer tells you more than anything in the listing appointment.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "lets_get_real_or_lets_not_play",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "disqualification_signals",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "naming concerns early",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "The operator who names the owner's objections before the owner does isn't running a technique. They're signaling that they've had this conversation enough times to know what's really on the owner's mind.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "lets_get_real_or_lets_not_play",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "naming_concerns_early",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "sharp_opinion",
+      "source_theme": "listing quality vs. count",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "VRM BD operations optimized for listing count and VRM BD operations optimized for listing quality look identical in month one. By month twelve they look very different. The retention, review, and referral numbers diverge sharply.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "lets_get_real_or_lets_not_play",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "listing_quality_vs_count",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "qualification in practice",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "Do you have explicit disqualification criteria for VRM listings, or do you evaluate each one on feel? Curious whether operators who've built formal frameworks are finding them actually useful in practice.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "lets_get_real_or_lets_not_play",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "qualification_framework",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "story_detail",
+      "source_theme": "commitment test",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "The best listing appointment question I've used: 'Assuming the proposal looks right, what does your decision process look like from here?' The owners who can answer it specifically are real. The ones who say they'll just need to think about it usually aren't.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "lets_get_real_or_lets_not_play",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "commitment_test",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "qualification framework",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Built out the full VRM listing qualification framework this week in the newsletter. Fifteen-minute protocol, disqualification signals by owner type, and the full commitment test sequence. It's at linkedin.com/in/chadhensel",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "lets_get_real_or_lets_not_play",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "qualification_framework",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "mutual qualification",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Saturday",
+      "text": "Applying Khalsa and Illig's Let's Get Real or Let's Not Play to VRM listing appointment qualification this week. The mutual purpose frame translates directly. The operators who enter listing appointments genuinely trying to figure out if there's a fit sign fewer listings and keep more of them.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "lets_get_real_or_lets_not_play",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "mutual_qualification_vrm",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "disqualification signals in a VRM listing appointment",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Five signals in a VRM listing appointment that are worth taking seriously before you draft the proposal.",
+        "1. Three or more managers in three years. Ask what happened with each. The pattern is almost always about the owner.",
+        "2. Wants to approve maintenance above a low threshold. That's co-management, not management. Know which you're offering.",
+        "3. Revenue expectation that doesn't match the property, the market, or the calendar restrictions they've described.",
+        "4. Phrases the prior manager relationship only in terms of what the manager did wrong. No acknowledgment of their own role.",
+        "5. Says yes to everything. Owners who have a specific concern but won't name it often express it through excessive agreeableness.",
+        "None of these automatically kill the listing. All of them require a direct conversation before you sign."
+      ],
+      "source_trace": {
+        "book_slug": "lets_get_real_or_lets_not_play",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "disqualification_signals",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}
