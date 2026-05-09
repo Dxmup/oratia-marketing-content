@@ -1591,6 +1591,16 @@
       "path": "output/the_paradox_of_choice/newsletter/cover_image.png",
       "status": "generated",
       "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/decisive/newsletter/cover_image.png",
+      "status": "generated",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_qualified_sales_leader/newsletter/cover_image.png",
+      "status": "generated",
+      "sharpened_date": "2026-05-09"
     }
   ]
 }
