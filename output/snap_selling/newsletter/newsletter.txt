@@ -1,0 +1,127 @@
+VRM Sales Library | SNAP Selling | Jill Konrath
+linkedin.com/in/chadhensel
+
+---
+
+Three posts this week on Jill Konrath's SNAP Selling. The framework maps onto VRM owner acquisition more directly than most sales books written for a general business audience, because the core problem Konrath is solving is the same one VRM operators face every day: the owner already knows they have a problem and has decided not to fix it.
+
+SNAP stands for Simple, iNvaluable, Aligned, Priority. But the acronym is less useful than the underlying diagnosis: modern buyers are overwhelmed, and they use mental shortcuts to eliminate options before they ever evaluate them. Your pitch doesn't lose to a competitor's pitch. It loses to the filter.
+
+Here's what this week covered, and where I want to go deeper.
+
+---
+
+THE REAL COMPETITOR
+
+Post 1 opened with the frame that the primary competitor in most VRM owner conversations isn't another management company. It's the status quo.
+
+This matters more than it sounds. Most operators spend their pre-appointment prep time benchmarking against competitors: what does the other company charge, what's their marketing reach, what's their guest vetting approach. That preparation answers the wrong question.
+
+The self-managing owner who agrees to a meeting already knows the math case for professional management. They've seen the occupancy comparison. They've heard the pitch from three other operators. What they haven't done is resolved the specific fear that's keeping them stuck.
+
+Konrath identifies three sequential decisions every buyer makes before they evaluate your offer. The first is access: will they give you time at all. The second is the change decision: will they actually consider switching. The third is selection: which option do they choose.
+
+Most operators only work on the third decision. They build their pitch around differentiation and capability and never ask why the owner is still self-managing after knowing they should switch.
+
+The change decision is where VRM owner acquisition breaks down. Operators who diagnose what's keeping the owner stuck on that decision, before leading with any capability argument, are in a different conversation than the ones who run the same pitch at everyone.
+
+STALLED DEAL DIAGNOSTIC
+
+If you have a deal that went quiet after what felt like a good first meeting, here's a quick way to locate the breakdown:
+
+Did the owner agree to a follow-up? If not, you probably didn't get past the access decision. You got politely through a meeting but the owner never decided they were actually open to changing anything. The fix is to get more specific about what's keeping them where they are before your next first appointment.
+
+Did they agree to a follow-up but keep delaying? They're stuck on the change decision. The revenue case didn't move them because the revenue case isn't what they're deciding about. Find the specific switching risk they haven't said out loud and name it.
+
+Did they go dark after receiving your proposal? They got to the selection decision, and something in the comparison killed the momentum. This is the most common failure point and the easiest to over-diagnose as a pricing problem. More often, it's a trust or relationship signal that didn't land.
+
+Scripts for each:
+
+For the stalled change decision, in a follow-up call:
+Script: "I want to be useful here, not just check in. Can I ask you directly: what would have to be true for you to move forward on this? I'd rather know what's actually in the way than guess at it."
+
+For the stalled selection decision:
+Script: "I noticed you went quiet after we sent the agreement. That usually means something came up that didn't feel right. I'd rather know what it is than follow up hoping the timing improves. What's the hesitation?"
+
+---
+
+TIMING BEATS TECHNIQUE
+
+Post 2 covered trigger events. Konrath's argument is that the timing of outreach matters more than its quality. An owner who just had a 2 AM maintenance call is in a fundamentally different buying state than the same owner six months ago.
+
+This reframes outreach from a volume problem into a timing problem. Most VRM operators treat prospecting as a numbers game: send enough cold messages and eventually one lands on a ready owner. That approach works, but inefficiently. It finds owners who happen to be ready. It misses the short window when a specific target in your pipeline is actually open.
+
+Observable trigger events in VRM:
+- A run of 3-star reviews on a self-managed listing, especially in the same month
+- A short-term rental regulation change in a specific neighborhood or jurisdiction
+- A neighbor's property that just switched to professional management and is visibly outperforming
+- A guest damage claim that went to a dispute the owner had to handle alone
+- A news story about local STR regulations that makes self-management feel more complicated
+- An owner going through a life change: divorce, relocation, new job, new property purchase
+
+At Oratia, we've watched this pattern repeat across operator pipelines: owners who came in through a trigger event converted at higher rates than owners who came through general cold outreach. The difference isn't who they are as a prospect. It's when they were reached.
+
+BUILDING A LIGHTWEIGHT TRIGGER SYSTEM
+
+It doesn't require expensive software:
+
+Set Google Alerts for your target market's short-term rental regulation news. Monitor review scores on listings you're tracking over time. Stay active in local host forums and Facebook groups where owners surface frustrations before they contact anyone. Ask your signed owners what finally prompted them to call. The answer is almost always a specific event.
+
+The Opportunist owner type moves fastest when a trigger fires. They have a financial orientation and a short decision window. If you don't reach them within a week, they resolve it themselves or move on. The operator who has a system for catching those moments doesn't need a better pitch. They need to be first.
+
+---
+
+INSIGHTS, NOT INFORMATION
+
+Post 3 covered the distinction between information and insight. Information is data the owner could have found themselves. An insight is something the owner doesn't know about their own property or situation that changes how they see it.
+
+The concept is clear but the implementation isn't obvious. What does a property-specific insight actually look like in practice?
+
+A few real examples of the kind of thing that works:
+
+"Your overall rating is a 4.7, which is strong. But your location score is a 4.3, and that's the metric that determines whether Airbnb puts you in map search results above the fold. Every comparable in your zip code with a 4.7+ location score is getting 30% more search impressions. Your listing is probably being filtered out before guests decide where to book."
+
+"I looked at your minimum stay policy. You're set at 3 nights. The highest-performing properties in your neighborhood have shifted to a 2-night minimum with a weekend premium. It's counterintuitive, but they're filling more calendar days at a higher average rate because they're capturing the Friday-Saturday-Sunday booking that your policy is currently turning away."
+
+"Your last six reviews all mention the same thing: guests couldn't reach anyone when they had a question during their stay. That's a communication gap, not a property problem. It's costing you repeat bookings from the guests most likely to leave 5-star reviews."
+
+None of that comes from AirDNA. Each observation is specific to this property, this neighborhood, this owner's situation. The owner couldn't have found it without looking the way you looked.
+
+THE OWNER TYPE APPLICATION
+
+Investor owners respond to the revenue version of the insight. Show them a specific dollar figure tied to a specific fixable problem and they want to know how you fix it.
+
+Steward owners respond to the guest experience version. Their primary fear isn't that they're leaving money on the table. It's that guests aren't being cared for the way they would care for them if they were there. The insight that lands for a Steward isn't a revenue gap. It's a communication or experience gap: the gap between what their guests are experiencing and what they want their guests to experience.
+
+The preparation approach is the same for both. The lever you pull is different.
+
+APPOINTMENT PREP PROTOCOL
+
+Before every first appointment:
+- Read every review on the listing. Look for patterns in what guests flag.
+- Identify the one metric that is pulling down their ranking most visibly.
+- Find a comparable property that is performing measurably better on that metric.
+- Calculate a rough revenue or occupancy number tied to closing that gap.
+- Walk in with that insight before you explain anything about how you work.
+
+Thirty minutes of targeted preparation shifts you from vendor to resource before you've said anything about your company.
+
+---
+
+THE FULL SNAP APPLICATION
+
+Konrath's framework is worth applying at each stage of the pipeline, not just in listing appointments.
+
+Simple at the outreach stage means your first contact is short, specific, and requires almost no effort to understand. Not a feature sheet. Not a capabilities deck. One observation about this owner's property that signals you've actually looked at it.
+
+iNvaluable in the discovery call means you're the operator who understands their situation more specifically than any other manager they've talked to. Not because you've memorized a script, but because you did the homework before you showed up.
+
+Aligned in the appointment means your pitch is scoped to what this owner is actually worried about right now. Not your portfolio pitch. The specific response to their specific situation.
+
+Priority at the close means you've connected your service to something that matters enough to the owner to decide now, not eventually. Most stalled deals stall because the operator never asked what would have to be true for the owner to act this month. Ask that question before you send the agreement.
+
+---
+
+NEXT WEEK
+
+Next week I'm covering another framework from the VRM Sales Library. Subscribe at linkedin.com/in/chadhensel to get it directly.

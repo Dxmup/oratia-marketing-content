@@ -1,0 +1,175 @@
+{
+  "book": "SNAP Selling",
+  "book_slug": "snap_selling",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "status quo as the real competitor",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "The owner you're pitching isn't comparing you to another manager. They're comparing you to doing nothing.\n\nMost operators never figure that out.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "snap_selling",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "status_quo_bias",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "frantic buyer state",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "Self-managing owners aren't irrational. They're overwhelmed. The pitch that adds cognitive load to that state is working against itself.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "snap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "frantic_buyer_state",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "three decisions framework",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "Most stalled VRM deals break down at the change decision, not the selection decision.\n\nThe owner isn't choosing between you and a competitor. They haven't decided to change anything yet. Running a better pitch at that problem doesn't fix it.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "snap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "three_decisions",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "trigger events",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "The timing of your outreach matters more than the quality of your pitch.\n\nAn owner who just handled a 2 AM maintenance call alone is not the same buyer they were six months ago. Most operators have no system for knowing when that window opens.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "snap_selling",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "trigger_events",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "recognition",
+      "source_theme": "insights over information",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "A revenue projection is not an insight. It's a number the owner could have run themselves on AirDNA.\n\nThe operator who walks in with a specific observation about this property, this listing, this owner's particular situation, is in a different conversation.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "snap_selling",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "insights_over_information",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "appointment prep with insight",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "Two operators pitch the same owner.\n\nOne brings a revenue projection. The other walks in and says: your cleanliness score is a 4.2, every comparable above 4.8 commands 18% more per night, and you have a $9,000 gap a cleaning protocol change can close.\n\nSame market. Same owner. One gets the listing.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "snap_selling",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "insights_over_information",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "trigger event monitoring",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Owners who come in through a trigger event, a bad review streak, a regulation change, a neighbor switching to professional management, convert at higher rates than owners who come through general outreach.\n\nWhat trigger events are you watching for in your market right now?",
+      "engagement_prompt": true,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "snap_selling",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "trigger_events",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "SNAP framework application stack",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper on Jill Konrath's SNAP Selling in this week's VRM Sales Library newsletter: stalled deal diagnostic, scripts for each decision stage, and the owner-type breakdown for the insight approach. Link in bio.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "snap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "snap_framework",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "SNAP Selling VRM application",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Friday",
+      "text": "Been applying @jillkonrath's SNAP Selling to VRM owner acquisition this week. The framing that changed how I think about it: the real competitor in most listing appointments isn't another management company. It's the owner's status quo. The change decision is where deals actually break down.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "snap_selling",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "status_quo_bias",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "SNAP framework applied to VRM pipeline stages",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM owner acquisition pitches lose to the wrong competitor.",
+        "The self-managing owner you're pitching isn't comparing you to another manager. They're comparing you to doing nothing. That's a different problem.",
+        "Jill Konrath's SNAP Selling maps to every stage of VRM owner acquisition: how you earn the first conversation, how you move the owner past inertia, and how you differentiate when they finally get to comparison mode.",
+        "The three decisions every owner makes before signing: access (will they give you time), change (will they actually consider switching), selection (which operator do they choose). Most operators only work on the third one.",
+        "The insight that lands: before your next listing appointment, find one specific thing about that owner's property that they don't know. Not a revenue projection. An observation tied to their actual listing data that changes how they see their own situation.",
+        "That's the difference between a vendor with a spreadsheet and an operator who understands the asset."
+      ],
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "snap_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "snap_framework",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

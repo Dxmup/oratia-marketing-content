@@ -1,0 +1,97 @@
+[
+  {
+    "concept": "Status Quo Bias as the Real Competitor",
+    "best_format": "long_form",
+    "post_type": "contrarian_take",
+    "target_audience": "VRM operators doing active owner acquisition who keep losing to 'let me think about it'",
+    "actual_argument": "Most VRM operators prepare for the wrong competition. They benchmark against other management companies and never address why the owner hasn't switched despite knowing they should. The real conversation is with inertia, not with a competitor's pitch deck.",
+    "bad_assumption_to_attack": "Operators assume a better pitch beats a competitor's pitch. They don't realize the dominant competing force is the owner's existing behavior.",
+    "behavior_change": "Before building a competitive differentiation pitch, map out what is keeping this specific owner stuck and address that first.",
+    "operator_example": "A self-managing owner in a beach market who has had two bad guest experiences knows they should get help. But they've decided the transition is too risky and time-consuming. The operator who walks in and leads with revenue projections is pitching the wrong thing. The operator who opens with 'I know the hardest part of this decision isn't the commission rate, it's what happens to your existing bookings and your Airbnb history during the switch' is in a different conversation.",
+    "hook_options": [
+      "The owner you're pitching isn't comparing you to another manager. They're comparing you to doing nothing.",
+      "Most VRM owner acquisition pitches lose to the wrong competitor.",
+      "Your biggest competitor in owner acquisition isn't the management company down the street."
+    ],
+    "lead_in": "And most operators never figure that out.",
+    "angle": "Post 1 anchors the week by attacking the assumption that competitive positioning is the primary challenge in owner acquisition. The real challenge is converting an owner who has already decided that switching is too much work. This reframe sets up the rest of the week.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for more posts applying sales frameworks to VRM owner acquisition.",
+    "cluster_role": "pillar",
+    "companion_ideas": ["Three Decisions framework", "Trigger Events"],
+    "notes": "Lead with the reframe, then give them the diagnostic question to use before their next listing appointment. Strong field note opportunity with Skeptic and self-managing owner types."
+  },
+  {
+    "concept": "Trigger Events — The Right Moment Beats the Best Pitch",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators managing an owner pipeline and doing regular outreach",
+    "actual_argument": "A trigger event is when an owner's status quo gets disrupted enough to make them actually open to a conversation. Most operators don't have a system for identifying when those moments happen, so they either pitch too early or miss the window entirely.",
+    "bad_assumption_to_attack": "Operators believe that consistent outreach volume will eventually surface a ready buyer. They don't distinguish between owners who are in a trigger state and owners who aren't.",
+    "behavior_change": "Build a lightweight monitoring system that flags observable trigger events for properties in your target market, and prioritize outreach to those owners over cold volume.",
+    "operator_example": "An owner in a ski market who just got their second 3-star review in a row. Or a neighborhood where a nearby property just switched to professional management and the owner can see it. Or a local short-term rental regulation change that just made self-management more complicated. All of these are trigger events. An operator who recognizes them and reaches out within days beats an operator with a better pitch who reaches out months later.",
+    "hook_options": [
+      "The timing of your outreach matters more than the quality of your pitch.",
+      "There's a short window when an owner is actually ready to hear from you. Most operators miss it.",
+      "Owner acquisition volume is not the same as owner acquisition timing."
+    ],
+    "lead_in": "And the window closes fast.",
+    "angle": "Post 2 builds the tactical framework from the strategic setup in Post 1. Explains what trigger events look like in VRM, how to spot them, and how to prioritize outreach around them. Practical and operational.",
+    "mention_book": true,
+    "mention_oratia": true,
+    "oratia_style": "light_example",
+    "cta": "Follow to keep getting these frameworks applied directly to VRM.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Status Quo Bias", "Minimum Viable Message"],
+    "notes": "Oratia can be referenced naturally here as a pattern source. Keep it light. The main value is in the specific trigger event examples operators can recognize from their own markets."
+  },
+  {
+    "concept": "Insights Over Information",
+    "best_format": "long_form",
+    "post_type": "breakdown",
+    "target_audience": "VRM operators preparing for listing appointments",
+    "actual_argument": "Operators who bring data to listing appointments (occupancy rates, revenue projections) are bringing information the owner could have found themselves. Operators who bring an insight the owner doesn't already have earn credibility and forward momentum. The distinction is small in preparation but large in outcome.",
+    "bad_assumption_to_attack": "More data equals more credibility. A detailed revenue projection is the best proof of your value.",
+    "behavior_change": "Prepare at least one specific insight about this property or this owner's specific market situation before every appointment. Not data. An insight: something the owner doesn't know that changes how they see their situation.",
+    "operator_example": "Two operators pitch the same owner. Operator A brings a revenue projection showing 12% better average nightly rate. Operator B walks in and says: 'I pulled your review history before I came. You've got a 4.6 overall, but your cleanliness score is a 4.2. Every property in your neighborhood that's at a 4.8 cleanliness or above is commanding 18% more per night. You've got a $12,000 gap that a cleaning protocol change can close.' Operator B gets the listing.",
+    "hook_options": [
+      "Most operators walk into a listing appointment with information. The operator who gets the listing walks in with an insight.",
+      "There's a difference between data and insight. One the owner already has. One they don't.",
+      "A revenue projection is not an insight. It's a number the owner could have run themselves on AirDNA."
+    ],
+    "lead_in": "Most operators can't tell the difference.",
+    "angle": "Post 3 closes the week with a tactically specific takeaway that operators can use in their next appointment. Contrast-based (two operators, same owner), with a specific scenario that illustrates the insight gap. Emphasizes pre-appointment preparation as a competitive advantage.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for more direct applications of sales frameworks to VRM listing appointments.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Three Value Drivers", "SNAP Framework"],
+    "notes": "This is the most actionable of the three posts. The contrast-scenario format (Operator A vs. Operator B) is strong for this kind of tactical post. End with a field note on how this applies differently to Investor vs. Steward owners."
+  },
+  {
+    "concept": "Newsletter — Full SNAP Selling Application Stack",
+    "best_format": "newsletter_seed",
+    "post_type": "framework",
+    "target_audience": "VRM operators managing owner acquisition across multiple stages of the pipeline",
+    "actual_argument": "SNAP Selling maps onto VRM owner acquisition at every stage: initial outreach, first appointment, change decision, and selection. This newsletter goes deeper than the posts by building the full application stack, including scripts for each stage and a diagnostic for identifying where a stalled deal actually broke down.",
+    "bad_assumption_to_attack": "Sales frameworks are for enterprise B2B environments and don't translate to the owner acquisition dynamics of vacation rental management.",
+    "behavior_change": "Apply SNAP thinking at each stage of the owner pipeline rather than treating owner acquisition as a single conversation event.",
+    "operator_example": "Full diagnostic: given a deal that stalled, walk the reader through which of the three decisions the owner got stuck on and what the right move is at each stage.",
+    "hook_options": [
+      "Three posts this week. One framework that maps to every stage of VRM owner acquisition.",
+      "SNAP Selling isn't a VRM book. But Jill Konrath's framework maps to owner acquisition more cleanly than most things written specifically for this industry."
+    ],
+    "lead_in": "This newsletter goes deeper on the application stack.",
+    "angle": "Newsletter synthesizes the week's three posts and goes deeper by building the full SNAP application across the owner acquisition pipeline. Includes a stalled-deal diagnostic and scripts for each decision stage.",
+    "mention_book": true,
+    "mention_oratia": true,
+    "oratia_style": "light_example",
+    "cta": "Subscribe at linkedin.com/in/chadhensel.",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["Three Decisions", "Status Quo Bias", "Trigger Events", "Insights Over Information"],
+    "notes": "Newsletter should include a full stalled-deal diagnostic and at least one script per decision stage. Go beyond the posts by covering the personal and relationship value layers in more depth."
+  }
+]
