@@ -1581,6 +1581,16 @@
       "path": "output/value_proposition_design/newsletter/cover_image.png",
       "status": "generated",
       "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/obviously_awesome/newsletter/cover_image.png",
+      "status": "generated",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_paradox_of_choice/newsletter/cover_image.png",
+      "status": "generated",
+      "sharpened_date": "2026-05-09"
     }
   ]
 }
