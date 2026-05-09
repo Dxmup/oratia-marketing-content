@@ -2,22 +2,20 @@ SERIES: The Product | Post 6 of 6
 SCHEDULED: Monday, July 20, 2026 @ 9:00 AM
 CHANNEL: Oratia company page
 
-COACHING
+LIVE COACH
 
-There's a version of sales coaching that happens in most VRM companies.
+Ten seconds into a call with Sarah Mitchell, Oratia surfaces a tip: "Pain point detected. She's overwhelmed by operations. Quantify the time she's spending. Ask how many hours per week she spends on guest management."
 
-A rep loses three deals in a row. The manager sits down with them and says: you need to follow up faster, you need to be more confident on the close, you need to ask better discovery questions.
+The rep didn't know that going in. Oratia did — from the conversation history, the persona analysis, and what Sarah has said on previous calls.
 
-The rep nods. Nothing changes. The manager doesn't know if anything changed because she has no visibility into what actually happens on the calls.
+Two minutes later, a second tip: "Emotional connection. She's attached to this property. Reinforce that management protects the home — better-vetted guests, professional cleaning, proactive maintenance."
 
-Oratia makes coaching specific.
+The rep isn't reading from a script. They're having a real conversation, with context they didn't have to reconstruct themselves, surfaced at the moment they need it.
 
-Because every call is analyzed, a manager can see that one rep's close rate on Investor owners is 40% lower than the rest of her book. She can see that the rep gets the first appointment consistently but loses momentum between appointment one and appointment two. She can hear the exact moment on three separate calls where the rep made a revenue projection before the owner had described a single concern.
+Most coaching happens after deals are already lost. A manager reviews a recording, identifies what went wrong, and gives feedback the rep will try to apply on the next call.
 
-"You pitch before you diagnose" is a coaching conversation that produces a change.
+Live Coach puts the feedback inside the call while there's still something to do about it.
 
-"You need to be more confident" is a conversation that produces a nod.
-
-[Screenshot: Rep performance view or call analysis comparison]
+[Screenshot: Live Coach — PAIN POINT DETECTED / EMOTIONAL CONNECTION tips surfacing during active call]
 
 #VRM #SalesCoaching #VacationRentals #PropertyManagement #CRM

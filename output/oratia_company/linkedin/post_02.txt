@@ -2,20 +2,22 @@ SERIES: The Product | Post 1 of 6
 SCHEDULED: Thursday, May 14, 2026 @ 9:00 AM
 CHANNEL: Oratia company page
 
-POWER QUEUE
+NEXT UP
 
 Most acquisition reps start the day the same way.
 
-They open their CRM, look at a list of 60 leads in no particular order, and spend 20 minutes deciding who to call. Some check the last contact date. Some go alphabetically. Some call whoever they remember from yesterday.
+They open their CRM, look at 60 leads in no particular order, and spend 20 minutes deciding who to call. Some sort by last contact date. Some go alphabetically. Some just call whoever they remember from yesterday.
 
 That's not a sales process. That's guessing.
 
-Oratia opens to a Power Queue: a ranked list of the leads that need attention today, ordered by urgency, relationship health, and time since last contact. The rep doesn't sort. They don't filter. They call the first name on the list.
+Oratia opens to a single card: the lead that needs your attention right now. Name, persona type, last interaction summary, days since contact, and a suggested opener based on where the conversation left off.
 
-The difference isn't discipline. It's that the decision has already been made.
+The rep doesn't sort. They don't filter. They don't decide.
 
-Reps who work the Power Queue make more calls, waste less time on cold contacts, and finish the day knowing they worked the right leads, not just the loudest ones.
+They read the card, pick up the phone, and start the call already knowing who they're talking to and why today is the right time to call.
 
-[Screenshot: Power Queue view]
+The difference between a rep who makes 12 calls a day and one who makes 6 is rarely work ethic. It's how long it takes to start each one.
+
+[Screenshot: Power Queue — NEXT UP card with persona, suggested opener, and last interaction]
 
 #VRM #CRM #VacationRentals #OwnerAcquisition #PropTech
