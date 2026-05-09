@@ -1,0 +1,27 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "Strong batch. All three posts have a clear argument grounded in Moesta's framework with concrete VRM application. The newsletter synthesizes the week and adds meaningful new material on hire/fire and onboarding structure that doesn't appear in the posts. Voice is consistent and operator-appropriate throughout.",
+  "strengths": [
+    "Post 1 (Four Forces) is immediately actionable. The habit vs. anxiety diagnostic distinction is a real improvement on how most operators think about stalled deals. Scripts for both response types are conversational and specific.",
+    "Post 2 (Struggling Moment) correctly identifies the single best question in the listing appointment and shows how to use the answer. The owner-type field note at the end adds specificity without overloading the post.",
+    "Post 3 (Demand-Side vs Supply-Side) is the sharpest conceptual frame of the three. The investor pushback field note at the end demonstrates nuance rather than oversimplification.",
+    "Newsletter adds genuine new material: the 3-step onboarding sequence and the passive search concept are not repeated from the posts. The hire/fire application to churn is specific enough to be immediately usable.",
+    "No em dashes. CTA footer present and intact on all three posts. Header formatting correct throughout."
+  ],
+  "problems": [
+    "Post 1 runs slightly long — the body content is detailed. Should verify character count before publishing.",
+    "Post 2 uses 'Most VRM operators' twice in the opening section. Soften the second instance per voice rules.",
+    "Newsletter 'NEXT WEEK' teaser reveals the next book by title, which is consistent with the series format but should be confirmed as intended."
+  ],
+  "required_fixes": [
+    "Verify Post 1 character count — trim body if over 2,900 characters.",
+    "Soften second categorical 'Most VRM operators' in Post 2 to 'Many VRM operators' or restructure.",
+    "Confirm 'NEXT WEEK' teaser in newsletter naming Building a StoryBrand is intentional."
+  ],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}

@@ -1,0 +1,174 @@
+{
+  "book": "Demand-Side Sales 101",
+  "book_slug": "demand_side_sales_101",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "four forces — stalled deals",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "Pitching harder into a stalled deal is the wrong move. If the block is transition anxiety, more urgency makes it worse. The owner reads your follow-up and thinks: they must really need this deal. That's a reason to slow down, not speed up.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "demand_side_sales_101",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "four_forces",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "struggling moment",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "The owner sitting across from you at the listing appointment has been quietly frustrated for 60 days. By the time they called you, the decision to switch was mostly made. The appointment is confirmation, not discovery.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "demand_side_sales_101",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "struggling_moment_timeline",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "four forces — habit vs anxiety",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "When a listing appointment stalls, the first diagnostic question is: habit or anxiety?\n\nHabit: they've been with their current manager forever and switching just feels like work.\nAnxiety: they're scared of what happens to guest bookings if the transition goes badly.\n\nDifferent blocks. Completely different scripts.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "demand_side_sales_101",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "four_forces_diagnostic",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "story_detail",
+      "source_theme": "struggling moment — specific trigger",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "The best question in a VRM listing appointment: \"What happened that made you finally decide to have this conversation?\"\n\nOwners have usually been tolerating the problem for months. The struggling moment is the specific event that made tolerating it unacceptable. Find it and the pitch writes itself.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "demand_side_sales_101",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "struggling_moment",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "sharp_opinion",
+      "source_theme": "demand-side vs supply-side",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "The deck isn't the problem. Leading with it is. The operator who asks three good questions before opening a slide looks more competent than the operator with the better presentation. Owners have sat through a lot of presentations. They haven't often had someone ask about the property's history before pitching.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "demand_side_sales_101",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "supply_side_vs_demand_side",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "stalled deals diagnostic",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "When a listing appointment goes well but the deal stalls, what's your first move? More follow-up, a revised fee, something else? Curious what's actually working for VRM operators right now.",
+      "engagement_prompt": true,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "demand_side_sales_101",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "stalled_deals",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "recognition",
+      "source_theme": "jobs to be done — owner types",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "A Delegator owner hired you to stop thinking about the property. Every decision that comes to them is a failure at the job. They don't care about your ADR performance if they're still getting texts on Saturday morning.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "demand_side_sales_101",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "jtbd_owner_types",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "demand-side framework summary",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper this week in the VRM Sales Library on Moesta's demand-side framework. The newsletter covers the hire/fire mechanic for churn prevention and a 3-step onboarding sequence for surfacing the job before something goes wrong.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "demand_side_sales_101",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "newsletter_promo",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "JTBD applied to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Friday",
+      "text": "Been applying @bmoesta's demand-side framework to VRM owner acquisition this week. The struggling moment concept maps directly onto the listing appointment: the owner's surface complaint and the specific event that finally made them call you are almost never the same thing.",
+      "engagement_prompt": false,
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "demand_side_sales_101",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "struggling_moment",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "jobs to be done — owner acquisition framework",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM listing appointments answer the wrong question. The owner asks about services and fees. You answer about services and fees. Nobody asks what job the owner is actually trying to hire for.",
+        "Bob Moesta's demand-side framework: people don't buy services, they hire them to do a specific job. Two owners with the same property in the same market are often hiring for completely different jobs.",
+        "The Delegator needs relief from mental load. The Investor needs yield. The Steward needs someone who treats the property like it matters. Same pitch to all three fails at least two of them.",
+        "The question that changes the listing appointment: 'Before I tell you anything about us, can you tell me about the property and what you were originally trying to do with it?' Then actually listen.",
+        "By the time you've asked that question and mapped the answer, you know more about that owner's situation than any manager who led with a deck and a revenue projection."
+      ],
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "demand_side_sales_101",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "jtbd_owner_types",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    }
+  ]
+}

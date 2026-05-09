@@ -1,0 +1,98 @@
+[
+  {
+    "concept": "The Four Forces of Progress — Why Deals Stall",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators who run listing appointments and lose deals they thought were close",
+    "actual_argument": "Stalled deals aren't a persuasion failure — they're a forces diagnostic failure. The deal stalled because anxiety or habit outweighed push and pull. Adding more pitch into a stalled deal amplifies anxiety.",
+    "bad_assumption_to_attack": "Operators believe stalled deals need more urgency, better pricing, or stronger features. They pitch harder instead of diagnosing which force is blocking progress.",
+    "behavior_change": "Stop pitching into stalled deals. Ask 'what's holding you back from moving forward?' and listen for whether the answer is inertia (habit) or fear (anxiety). Then address that specifically.",
+    "operator_example": "An owner who loved your listing appointment, asked great questions, and then went cold. You followed up twice with updated revenue projections. The deal didn't move. The real block was transition anxiety — they'd heard horror stories about guests with existing bookings getting stranded during manager switches.",
+    "hook_options": [
+      "The listing appointment went well. The owner was engaged. Then nothing.",
+      "Adding more features to a stalled deal is the wrong move. Here's the diagnostic that matters.",
+      "Many VRM operators lose good deals by pitching into the wrong problem."
+    ],
+    "lead_in": "Bob Moesta's Four Forces framework maps why. It's not about your pitch. It's about what's holding the owner in place.",
+    "angle": "Frame the Four Forces (push, pull, anxiety, habit) as a diagnostic checklist for stalled deals. Show what addressing anxiety looks like vs. addressing habit. Give scripts for each conversation.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for more frameworks from the VRM Sales Library.",
+    "cluster_role": "pillar",
+    "companion_ideas": ["Struggling Moments", "Timeline of Progress"],
+    "notes": "This is the strongest concept for post_1. It's immediately operational and addresses a frustration every VRM operator has experienced. The pillar post."
+  },
+  {
+    "concept": "Struggling Moments — The One Question That Changes the Listing Appointment",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators doing listing appointments, BD reps doing discovery calls",
+    "actual_argument": "The decision to switch managers started weeks before the appointment. The struggling moment — the specific event that triggered the search — is the most important thing you can identify in a listing appointment. Operators who find it win the room.",
+    "bad_assumption_to_attack": "Operators treat the listing appointment as the beginning of the sales process. It's not. The owner has been building to this for weeks. The appointment is a late-stage confirmation.",
+    "behavior_change": "Add one question to every listing appointment: 'What happened that made you finally pick up the phone?' Map the timeline backward. The struggling moment tells you what they actually need, not what they say they want.",
+    "operator_example": "An owner who says 'my current manager isn't communicating well.' The struggling moment is that they found out about a guest damage claim by reading their Airbnb account — not from a call from their manager. The operator who finds that moment pitches transparency and proactive communication. Everyone else pitches faster response times.",
+    "hook_options": [
+      "The owner sitting across from you has been frustrated for 60 days before they called you.",
+      "One question changes the listing appointment. Most operators never ask it.",
+      "The surface complaint an owner mentions is rarely the reason they decided to switch."
+    ],
+    "lead_in": "Moesta calls it the struggling moment — the specific event that makes tolerating a bad situation no longer acceptable.",
+    "angle": "Teach the struggling moment concept and give operators the exact question to find it. Then show what changes when you build the pitch around the struggling moment instead of the generic complaint.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow if owner acquisition is part of your job.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Four Forces", "Demand-Side vs Supply-Side"],
+    "notes": "Strong post_2 candidate. Highly tactical — the single question framing is memorable and actionable."
+  },
+  {
+    "concept": "Demand-Side vs. Supply-Side — Stop Pitching What You Sell",
+    "best_format": "long_form",
+    "post_type": "contrarian_take",
+    "target_audience": "VRM operators and BD reps who lead with a deck, services overview, or revenue projection",
+    "actual_argument": "Most VRM listing appointments are supply-side: here's what we offer, here's what we charge, here's what you'll make. Owners buy from the demand side: here's what I'm trying to accomplish. Operators who flip this dynamic win on a completely different basis.",
+    "bad_assumption_to_attack": "A polished presentation with revenue projections, service tiers, and a management fee structure is the right format for a listing appointment. It's what operators spend time building and practicing.",
+    "behavior_change": "Lead every appointment with diagnostic questions, not a deck. Ask about the property's history, what the owner was trying to accomplish, and what has changed before you ever mention what you do.",
+    "operator_example": "Two managers meeting the same owner. Manager A leads with a 12-slide deck and a revenue projection. Manager B puts the deck down and asks: 'Before I tell you anything about us, can you tell me about the property — when you got it, what you were trying to do with it, and what's changed?' Manager B wins the appointment before the deck is ever opened.",
+    "hook_options": [
+      "Most VRM listing appointments are a supply-side pitch in a demand-side conversation.",
+      "Your deck is not the problem. The problem is leading with it.",
+      "The operator who asks more questions before pitching looks more competent than the operator with the better deck."
+    ],
+    "lead_in": "Moesta's demand-side framework explains why the most prepared manager in the room doesn't always win.",
+    "angle": "Contrast supply-side pitching (services, features, fees) with demand-side discovery (job, context, timeline). Show what demand-side looks like in practice at the listing appointment. Give a diagnostic sequence.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for more from the VRM Sales Library.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["JTBD — Owners Hire Managers", "Context Shapes the Job"],
+    "notes": "Strong post_3 candidate. The supply/demand contrast is sharp and immediately recognizable. The 'put the deck down' framing is memorable."
+  },
+  {
+    "concept": "Full JTBD Application — Newsletter",
+    "best_format": "newsletter_seed",
+    "post_type": "breakdown",
+    "target_audience": "VRM operators doing owner acquisition, particularly those dealing with stalled deals and unexplained churn",
+    "actual_argument": "Jobs to Be Done is the most complete framework available for understanding why owners hire and fire managers. The newsletter should synthesize the week's concepts and add the hire/fire application to churn prevention.",
+    "bad_assumption_to_attack": "VRM operators treat churn as a performance problem. The hire/fire framework reframes it as a job-definition problem — the manager never understood what they were hired for.",
+    "behavior_change": "Map each owner at onboarding to the job they're hiring for. Build a quarterly check-in around whether that job is still being done. Catch job-drift before it becomes a termination conversation.",
+    "operator_example": "An owner who leaves after 18 months citing 'poor communication' — even though communication metrics were technically fine. The real job was anxiety relief, and the manager never delivered it. The owner got accurate information, but they never got peace of mind.",
+    "hook_options": [
+      "Why owners fire managers who technically do everything right",
+      "The job your owner hired you for — and whether you're still doing it",
+      "JTBD applied to VRM: a full acquisition and retention framework"
+    ],
+    "lead_in": "Three posts this week unpacked the demand-side framework. The newsletter goes deeper on the hire/fire mechanic and what it means for churn prevention.",
+    "angle": "Synthesize Four Forces + Struggling Moment + JTBD into a full acquisition and retention framework. Add the hire/fire application. Include a quarterly owner check-in structure.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "light_example",
+    "cta": "Subscribe at linkedin.com/in/chadhensel",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["Four Forces", "Struggling Moments", "JTBD"],
+    "notes": "Newsletter should synthesize the week's three posts and go deeper on the hire/fire mechanic and churn prevention application. Include a diagnostic sequence and onboarding language."
+  }
+]

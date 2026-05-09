@@ -1,0 +1,90 @@
+VRM Sales Library | Demand-Side Sales 101 | Bob Moesta
+linkedin.com/in/chadhensel
+
+---
+
+This week covered three posts from Bob Moesta's Demand-Side Sales 101. Post 1 was the Four Forces diagnostic for stalled deals. Post 2 was the struggling moment and how to map the owner's timeline backward. Post 3 was the supply-side vs. demand-side framing and why leading with a deck costs you the room.
+
+The newsletter goes deeper on the framework underneath all three: Jobs to Be Done, specifically how it maps to why owners hire managers and what that means for both acquisition and retention.
+
+---
+
+THE JOB BEHIND THE SWITCH
+
+Moesta's central argument is deceptively simple: people don't buy products or services. They hire them to do a specific job. When the job is done well, they keep the hire. When it isn't, they fire it and find a better candidate.
+
+Every VRM listing appointment is a job interview. The owner isn't evaluating your services. They're deciding whether you're the right hire for a specific job they have. The problem is that most operators never ask what the job is. They assume it's "manage the property well" and pitch around that assumption.
+
+The job is almost never that generic.
+
+A Delegator owner hired you to remove a specific kind of mental load. They want to stop thinking about the property. Every time they have to make a decision, about a guest request, a maintenance call, a pricing adjustment, you're failing at the job. They don't care about your ADR performance if they're still getting texts on Saturday morning.
+
+An Investor owner hired you to hit a specific financial target. They will tolerate friction, communication delays, and imperfect operations as long as the number is there. The moment the number drops below their threshold, the relationship is in trouble regardless of everything else.
+
+A Steward owner hired you to protect something they love. Revenue matters, but it's secondary to the sense that the property is being treated well. A five-star operational performance with one guest review that describes the home as a "nice rental unit" may be enough to make them reconsider.
+
+These owners require completely different definitions of success. An operator who manages them all the same way will fail at least two of the three.
+
+---
+
+THE HIRE/FIRE MECHANIC IN PRACTICE
+
+The hire/fire framing changes how you handle two specific moments: onboarding and the churn conversation.
+
+ONBOARDING
+
+Most VRM operators use onboarding to explain their systems. Here's the portal, here's how to read the reports, here's the maintenance protocol. That's useful, but it's supply-side onboarding: here's what we do.
+
+Demand-side onboarding asks a different question first: "What are you counting on us to do for you personally, not just for the property?" That question surfaces the job explicitly, before the first maintenance call, before the first owner report, before anything goes wrong.
+
+The answer also becomes the basis for the relationship's success metric. You and the owner agree on what success looks like. Twelve months later, you both know whether the job is getting done.
+
+A structured onboarding sequence for this:
+
+Step 1 (Day 1, property walkthrough): "Before we get into the logistics, I want to understand what you're counting on us to handle so you don't have to. What does a good day look like six months from now, from your perspective, not the property's?"
+
+Step 2 (Week 2, first owner report call): "We're a couple weeks in. Based on what you've seen so far, is this working the way you needed it to?" (Early signal of job-fit before any real frustration has accumulated.)
+
+Step 3 (90-day check-in): "Three months in, is this still what you were looking for? Has anything changed in terms of what you need from us?" (Catches job-drift before it becomes a churn risk.)
+
+This three-step sequence takes less than 30 minutes across 90 days. It's the difference between learning about a job mismatch at month 18 versus catching it at month three.
+
+---
+
+THE CHURN CONVERSATION
+
+When an owner announces they're leaving, most operators respond with a retention pitch: here's what we can do better, here's a fee adjustment, here's a new contact on your account. This is supply-side retention: here's more of what we sell.
+
+The demand-side churn conversation asks a different question: "What job were you counting on us to do, and where did we stop doing it?"
+
+Sometimes the answer is operational, a specific failure the operator can name and address.
+
+But often the answer reveals a job mismatch that was never surfaced at onboarding. The owner hired you for peace of mind, but they never felt peaceful. The operator was hitting every technical metric while missing the actual job.
+
+When you understand that distinction, the churn conversation changes. The goal isn't to win the owner back with a better pitch. It's to understand whether you can actually do the job they need done. Sometimes the honest answer is no. The job has changed, or the owner's job was never something your operation was built to do. Knowing that quickly is better for both parties than a six-month retention negotiation.
+
+---
+
+THE PASSIVE SEARCH WINDOW
+
+One more concept from Moesta that doesn't fit cleanly into a single post: the passive search phase.
+
+Most VRM operators engage owners when they're in active search mode: comparing managers, taking meetings, ready to make a decision. That's the competitive phase. Multiple operators, multiple pitches, feature comparison.
+
+Before active search, there's a passive search phase. The owner is noticing the problem more, asking peers informally, starting to form a picture of what they'd look for in a switch. They're not shopping yet. They're building dissatisfaction into something actionable.
+
+The operator who reaches an owner during passive search has a structural advantage. By the time the owner enters active search, that operator is already associated with the right framing of the problem. The listing appointment isn't a first impression. It's a confirmation.
+
+Content that speaks to specific, real problems VRM owners face reaches them during passive search. It doesn't have to be about your company. It has to be about their situation. The newsletter you're reading right now is that kind of content. It's built for operators, but the concepts apply to owner conversations, and owners who follow VRM operators on LinkedIn are in some version of passive search.
+
+This is the longest-cycle competitive advantage in VRM acquisition, and most operators don't invest in it because it doesn't show up in this month's numbers.
+
+---
+
+NEXT WEEK
+
+Next week: Building a StoryBrand by Donald Miller. Why the owner should be the hero of your listing appointment, not you, and what happens when operators make themselves the protagonist.
+
+Subscribe at linkedin.com/in/chadhensel
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #DemandSideSales
