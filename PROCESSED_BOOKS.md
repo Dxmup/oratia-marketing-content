@@ -50,6 +50,8 @@ Only list a book here when its output folder and core files actually exist on di
 - Decisive — processed
 - Sell the Way You Buy — processed
 - Agile Selling — processed
+- Let's Get Real or Let's Not Play — processed
+- The Paradox of Choice — processed
 
 ## Notes
 - Update this file when new per-book folders are created and verified.
