@@ -1,0 +1,164 @@
+{
+  "book": "Building a StoryBrand",
+  "book_slug": "building_a_storybrand",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "hero vs guide framing",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "VRM operators lose listing appointments by talking about themselves for 10 minutes straight. The owner is thinking about their property. You're auditioning. They're deciding whether they feel heard.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "building_a_storybrand",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "hero_guide_framing",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "owner emotional experience",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "Owners rarely churn over the thing they complained about. They churn because someone fixed the operational problem without making them feel like they mattered. Those are two different problems.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "building_a_storybrand",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "three_levels_of_problem",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "sharp_opinion",
+      "source_theme": "listing appointment close failure",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "\"I need to think about it\" is not an objection. It's confusion. The owner can't see what happens next and they're imagining worst-case transition scenarios. Give them a three-step plan and watch how fast the decision gets easier.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "building_a_storybrand",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "clear_plan_close",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "hero vs guide dynamic",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "The listing appointment that leads with questions beats the one that leads with credentials. The operator who learns the owner's situation first walks into the pitch already knowing which two minutes actually matter.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "building_a_storybrand",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "hero_guide_framing",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "diagnostic",
+      "source_theme": "three levels of owner problem",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "After an owner describes their situation, ask: \"Beyond the operational issues, what has this actually felt like for you?\"\n\nMany operators skip this. The ones who don't learn why the owner is really leaving, which is almost never what was in the first complaint.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "building_a_storybrand",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "three_levels_of_problem",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "villain framing in owner acquisition",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "The villain in an owner's story is rarely the prior manager. It's uncertainty. Not knowing what's happening with the property. Feeling out of control of something they own.\n\nName that villain before you pitch your services. The conversation changes when the owner realizes you're on their side against a shared enemy.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "building_a_storybrand",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "villain_framing",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "listing appointment close patterns",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "When an owner says they need to think about it, it's usually not about the decision. It's about not being able to see what comes next. Operators who give them a clear three-step path close faster.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "building_a_storybrand",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "clear_plan_close",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "full storybrand framework application",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "This week's VRM Sales Library newsletter goes deeper on applying the StoryBrand framework to listing appointments: the full arc from opening question to transitional CTA, with owner-type callouts for where the approach needs adjusting. Link in profile.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "building_a_storybrand",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_storybrand_arc",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "hero guide distinction applied to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Friday",
+      "text": "Applying @DonaldMiller's StoryBrand to VRM owner acquisition this week. The hero/guide distinction maps onto listing appointments almost exactly. Operators who position themselves as the guide win differently. Not on features. On trust.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "building_a_storybrand",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "hero_guide_framing",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "storybrand listing appointment arc",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "day_of_week": "Saturday",
+      "tweets": [
+        "Most VRM listing appointments are organized as a pitch. The operator performs. The owner evaluates. The conversation becomes a feature comparison.",
+        "The appointment that wins is a different conversation. It starts with questions. The operator learns the owner's situation before presenting anything.",
+        "Three things worth diagnosing before your next listing appointment: 1. Who's doing most of the talking in the first 10 minutes? 2. Do you know what the owner is actually worried about, not just what they complained about? 3. Can the owner see a clear three-step path from this conversation to being live?",
+        "If the answer to any of those is no, the close is harder than it needs to be."
+      ],
+      "source_trace": {
+        "book_slug": "building_a_storybrand",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_storybrand_arc",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}
