@@ -30,6 +30,7 @@ Only list a book here when its output folder and core files actually exist on di
 - Elite Sales Strategies — processed
 - $100M Offers — processed
 - To Sell Is Human — processed
+- Predictably Irrational — processed
 
 ## Notes
 - Update this file when new per-book folders are created and verified.

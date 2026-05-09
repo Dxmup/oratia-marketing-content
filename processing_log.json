@@ -616,6 +616,36 @@
       "path": "output/transparent_sales_leader/newsletter/cover_image.png",
       "status": "generated",
       "generated_date": "2026-04-22"
+    },
+    {
+      "path": "output/predictably_irrational/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/predictably_irrational/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/predictably_irrational/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/predictably_irrational/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/predictably_irrational/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/predictably_irrational/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
     }
   ]
 }

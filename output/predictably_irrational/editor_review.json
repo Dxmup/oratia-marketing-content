@@ -1,0 +1,25 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three LinkedIn posts and the newsletter meet the depth and specificity standard. Post 1 (anchoring) has the strongest hook and the clearest operator application. Post 2 (social vs. market norms) carries the most retention value and the script is field-realistic. Post 3 (endowment effect) cleanly dismantles the 'self-managing owners are just cheap' misdiagnosis. The newsletter extends all three posts with meaningful additional material, not just summaries.",
+  "strengths": [
+    "Each post attacks a specific false belief rather than summarizing a concept",
+    "Scripts in posts 2 and 3 sound like something a real operator would say in a real appointment",
+    "Field notes are owner-type specific and add information not already in the body copy",
+    "Newsletter introduces two additional concepts (power of free, options/decision paralysis) not covered in the posts, and builds a usable behavioral sequence",
+    "Post 3 hook ('Self-managing owners are not cheap. They're endowed.') is the strongest single line in the batch and will stop the scroll",
+    "No em dashes throughout"
+  ],
+  "problems": [
+    "Post 1 is near the character limit and could trim the 'Practical moves' section to tighten the argument",
+    "Post 2's transition from norm theory to the maintenance call scenario is clear but could be one sentence shorter in the setup"
+  ],
+  "required_fixes": [
+    "None blocking. Post 1 character count should be verified before publishing."
+  ],
+  "depth_score": 8,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 10
+}

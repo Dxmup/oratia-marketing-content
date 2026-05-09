@@ -1,0 +1,149 @@
+{
+  "book": "Predictably Irrational",
+  "book_slug": "predictably_irrational",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "anchoring and fee negotiation",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "Owners don't evaluate your management fee. They compare it to the first number they heard.\n\nIf a competitor named a number before you walked in, you're already defending uphill.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "predictably_irrational",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "anchoring",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "social vs market norms",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "Owner calls you about a maintenance issue. You send a formal email citing your contract terms.\n\nThat's how a retention problem starts. It rarely has anything to do with the maintenance.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "predictably_irrational",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "social_vs_market_norms",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "endowment effect with self-managing owners",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "Self-managing owners aren't cheap. They're endowed.\n\nFour years of weekend check-ins and personal guest texts isn't a fee objection. It's an identity. Lead with revenue projections and you'll lose before the data lands.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "predictably_irrational",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "endowment_effect",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "power of free in transitions",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "A free deep clean at onboarding converts more fence-sitting owners than a 2% fee reduction.\n\nFree isn't cheaper than cheap. It's a different category of offer entirely. Ariely proved it. I've seen it in enough transitions to believe it.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "predictably_irrational",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "power_of_free",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "engagement",
+      "source_theme": "owner decision stall",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "The owner who loved your listing appointment and never called back isn't undecided. They're stuck in present-bias.\n\nMore information doesn't fix that. Reducing the friction of the first step does.\n\nWhat do you do with owners who stall after a great appointment?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "predictably_irrational",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "procrastination_present_bias",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "recognition",
+      "source_theme": "proposal complexity and decision paralysis",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Saturday",
+      "text": "Three-tier proposals feel thorough. Owners experience them as: three things to compare, three things to lose.\n\n\"Here's what I'd recommend for your situation\" closes faster than a menu.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "predictably_irrational",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "options_and_decision_avoidance",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "channel_connector",
+      "source_theme": "behavioral stack for VRM acquisition",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper on Dan Ariely's Predictably Irrational in this week's VRM Sales Library newsletter.\n\nFull behavioral sequence for the listing appointment: anchoring, the power of free, social norm management, endowment, expectation calibration, and first-step friction.\n\nLink in profile.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "predictably_irrational",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_behavioral_stack",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "author_engagement",
+      "source_theme": "VRM application of behavioral economics",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Monday",
+      "text": "Applied Dan Ariely's Predictably Irrational to VRM owner acquisition this week.\n\nThe endowment effect explains why self-managing owners resist management pitches even when the economics are obvious. They're not being irrational. They're overvaluing what they built. Which is exactly what the book predicts.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "predictably_irrational",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "endowment_effect",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "behavioral sequence for listing appointments",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM listing appointments fail at the same structural points. Ariely's research maps each one.",
+        "First: anchoring. The owner is comparing your fee to a number already in their head. If a competitor named it, you're defending uphill before you speak.",
+        "Second: the endowment effect. Self-managing owners aren't cheap. They're protecting an identity. Lead with what you can extend, not what you'll replace.",
+        "Third: present-bias. The owner who leaves excited and never signs isn't undecided. They're avoiding the discomfort of committing. Make the first step easier, not more detailed.",
+        "The behavioral mechanics are predictable. The operators who understand them close more appointments than the ones who rely on a better pitch."
+      ],
+      "source_trace": {
+        "book_slug": "predictably_irrational",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_behavioral_stack",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

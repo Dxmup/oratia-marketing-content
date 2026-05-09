@@ -1,0 +1,30 @@
+VRM Sales Library | Predictably Irrational | Dan Ariely
+Post 2 of 3
+
+OWNER CHURN ISN'T ALWAYS A PERFORMANCE PROBLEM
+
+Dan Ariely documented how quickly a relationship shifts when market norms replace social norms. The mechanism has a direct application to VRM owner retention that most operators miss entirely.
+
+Social norms are relational. They are governed by reciprocity, care, and goodwill. Market norms are transactional. They are governed by contracts, fees, and formal exchange.
+
+The uncomfortable finding: once market norms displace social norms in a relationship, the social norms are very difficult to restore.
+
+A VRM management contract is market-norm by definition. But the property itself, a home someone built memories in or invested years of weekend work maintaining, operates under social norms. The owner's emotional relationship with their property did not change when they signed a management agreement.
+
+THE MISTAKE OPERATORS MAKE
+
+When an owner calls with a frustration about a maintenance delay or a rough guest stay, the operator who responds with a formal email citing their contract's maintenance window terms is responding under market norms to a social-norm moment. The owner was reaching out as someone worried about their home. The operator responded as a vendor managing a contract.
+
+That shift in register is often the beginning of the churn conversation, even if performance is otherwise acceptable.
+
+Script: "I saw the note about the maintenance delay. I wanted to call rather than just email because I know you care about how the property is maintained and I want to walk you through exactly what happened and what we're doing about it."
+
+That call takes five minutes. It keeps the relationship in the register where owners stay.
+
+Field note: This is especially true with Steward owners, who chose your company partly because of how you communicated during the sales process. Stewards measure the relationship against the warmth of the pitch. Controllers will tolerate more formalism, but they still notice when every response feels like a policy document.
+
+The operators who retain owners through difficult moments are not necessarily the ones with the best operations. They are the ones who know which norm to apply and when.
+
+---
+Each week I publish a newsletter edition that wraps up the week's posts with additional context and commentary. Subscribe at linkedin.com/in/chadhensel to get them consolidated in one place.
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #PredictablyIrrational
