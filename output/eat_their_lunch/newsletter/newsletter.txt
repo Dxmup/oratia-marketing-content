@@ -1,0 +1,92 @@
+VRM Sales Library | Eat Their Lunch | Anthony Iannarino
+linkedin.com/in/chadhensel
+
+---
+
+This week's three posts covered Anthony Iannarino's Eat Their Lunch, which is specifically about winning business from competitors. The framework is built for displacement, not net-new acquisition, and that makes it unusually applicable to VRM, where most owner acquisition is competitive by default.
+
+Post 1 argued that inertia is the real competitor in a displacement conversation, not the incumbent manager. Post 2 walked through the structure of a competitive listing appointment and why attacking the incumbent almost always backfires. Post 3 made the case for a structured nurture track for owners who are locked into a competitor, because the first no is rarely the final answer.
+
+This newsletter goes deeper on what the full displacement sequence actually looks like, from first contact through the signed contract.
+
+---
+
+THE FULL DISPLACEMENT SEQUENCE
+
+Most VRM operators think about displacement as a one-conversation event: you get the listing appointment, you make your case, you either win or lose. Iannarino's framework treats displacement as a sequence of events that can be designed and managed.
+
+The sequence has four phases:
+
+PHASE 1: DIAGNOSTIC OUTREACH
+
+Before you request a listing appointment, you need to know something specific about the owner's situation. A cold reach-out that says "we manage vacation rentals and would love to tell you about our service" is identical to every other message in their inbox.
+
+A diagnostic outreach looks different:
+
+Script: "I noticed your property on [platform] and wanted to share a quick observation. Based on comps in your area, your current occupancy rate is tracking about [X] below the neighborhood median during [timeframe]. I don't know your situation, but that gap is usually addressable. Would you be open to a 20-minute call to walk through what we're seeing?"
+
+This works because it demonstrates competence before asking for anything, and it opens with a problem rather than a pitch. The owner reads it and either thinks "that's not true" (in which case you've created curiosity) or "I've been wondering about that" (in which case you've identified a real pain point).
+
+PHASE 2: THE LISTING APPOINTMENT ITSELF
+
+Post 2 covered the structure here, but the newsletter version goes deeper.
+
+The appointment has three jobs: understand what the owner values about the current arrangement, surface the specific gap between what they have and what they want, and demonstrate that you solve for that gap without asking them to admit the prior decision was wrong.
+
+The pre-meeting value packet is the differentiator most operators skip. Before you walk into the listing appointment, prepare:
+
+- A market rate analysis for that specific property and neighborhood: average occupancy, ADR comps, and where this property sits relative to similar listings
+- One specific observation about the property's current setup that could be improved: platform gaps, listing quality, review response rate, pricing calendar gaps
+- A transition overview that addresses the main friction points before the owner raises them
+
+Bring this to the meeting and give it away before you pitch anything. You are demonstrating what working with you looks like. The competitor who showed up with a brochure and a revenue projection is already behind.
+
+FOUR LEVELS OF VALUE IN A VRM APPOINTMENT
+
+Iannarino's level framework is useful here. Level 1 is features and pricing. Level 2 is solving a specific service problem. Level 3 is business outcomes for the owner's property as an asset. Level 4 is strategic value for the owner's overall financial picture.
+
+Most VRM operators operate at Level 1 and occasionally Level 2. The listing appointment stays at the feature-and-fee comparison level, which means the operator who is willing to cut their commission the most wins.
+
+The owners who are hardest to price-compete for are the ones who have been taken to Level 3 or Level 4 first.
+
+Level 3 conversation: "Based on what we're seeing in your market, your current setup is generating about [X] below what this property should be producing. Here's what the gap looks like and what drives it."
+
+Level 4 conversation: "You've been running this property for [X] years. At current performance, it's funding about [X] of your intended return. We think there's a case for repositioning it as [specific strategy]. That requires some upfront work, but the long-term trajectory looks meaningfully different."
+
+Most owners have never had a Level 3 or Level 4 conversation with a property manager. The operator who brings it earns a different kind of trust.
+
+PHASE 3: MANAGING COMMITMENTS AFTER THE APPOINTMENT
+
+If the appointment went well but the owner did not sign, you need a micro-commitment before they leave.
+
+Not "I'll send you a proposal." Something that requires a response: "Can I follow up with you in two weeks to share the market update I mentioned? I'll send it over and we can talk through what you're seeing on your end."
+
+This is a small commitment that costs the owner almost nothing, but it creates forward momentum. The owner who agreed to a follow-up is harder to ghost than the owner who got a proposal and never made any commitment.
+
+PHASE 4: THE NURTURE TRACK FOR LOCKED-IN OWNERS
+
+Post 3 introduced this. The newsletter version gives you the full track:
+
+Contact 1 (30 days post-appointment): Send the market analysis you mentioned in the meeting. No pitch, no ask. Just the analysis with a brief note: "Putting together this analysis for a few properties in [neighborhood]. Thought you'd want to see where yours sits."
+
+Contact 2 (90 days): A property-specific observation. Something you noticed about their listing, their platform presence, or their review response pattern. One specific, actionable thing. No pitch.
+
+Contact 3 (6 months): A brief market update with a one-sentence question: "Wanted to check in and see how the season went. Anything surprising on your end?"
+
+Contact 4 (12 months): A direct reconnect. "We spoke about a year ago. I've been watching [property market] closely and wanted to share a quick update on what we're seeing. Still open to a conversation if the timing is right."
+
+Most owners who eventually switch managers do it within 18 months of the first conversation, and the operator who has maintained consistent, non-pushy contact gets the call.
+
+WHAT THIS SEQUENCE REQUIRES
+
+This sequence requires a CRM that tracks conversations, notes, and timing by owner. It requires a market data source that gives you genuine observations to share, not just vanity metrics. And it requires an operator who is genuinely interested in whether the owner's property is performing well, even before there's a contract.
+
+The operators who do this consistently find that their pipeline looks very different from operators who only work inbound. They have a portfolio of future deals in active nurture, and they know which ones are close to converting because they've been watching the signals.
+
+NEXT WEEK
+
+Next week I'm applying David Priemer's Sell the Way You Buy to VRM. The core argument is that most sales processes are designed around the seller's needs, not the buyer's experience, and that gap is exactly why so many listing appointments feel off to owners. More to come.
+
+Subscribe at linkedin.com/in/chadhensel to get next week's posts and newsletter consolidated in one place.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #EatTheirLunch

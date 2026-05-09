@@ -1,0 +1,10 @@
+Book: Contagious
+Author: Jonah Berger
+Slug: contagious
+
+Cover image for VRM Sales Library newsletter. Use the standard cover_template.html with:
+- book-title: Contagious
+- author-name: Jonah Berger
+- book-cover image: Open Library cover ID 9039370 (https://covers.openlibrary.org/b/id/9039370-L.jpg)
+
+Output: output/contagious/newsletter/cover_image.png at 1200x644px.

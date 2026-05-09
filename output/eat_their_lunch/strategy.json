@@ -1,0 +1,98 @@
+[
+  {
+    "concept": "Understanding Why the Owner Is Staying Put",
+    "best_format": "long_form",
+    "post_type": "myth_bust",
+    "target_audience": "VRM operators doing competitive acquisition from incumbents",
+    "actual_argument": "The real competitor in a displacement conversation is not the other property manager. It is the owner's inertia. If you pitch on features before diagnosing the friction, you make the status quo more appealing, not less.",
+    "bad_assumption_to_attack": "Owners stay with bad managers because they are satisfied. They actually stay because the transition looks worse than the current pain.",
+    "behavior_change": "Ask the owner what would need to be true for them to consider a change before you ever pitch your service. Get the friction on the table first.",
+    "operator_example": "An operator goes into a listing appointment knowing the owner has been with a competitor for three years and has had repeated guest complaints. Instead of diagnosing the transition hesitation, they pitch their onboarding process. The owner thanks them and stays put.",
+    "hook_options": [
+      "The owner who stays with a bad manager is not happy. They're stuck.",
+      "Most VRM owners who don't switch managers aren't satisfied. They're afraid of the transition.",
+      "You didn't lose the listing appointment on your pitch. You lost it before you said a word."
+    ],
+    "lead_in": "The status quo is the hardest competitor to beat. Not because the incumbent is doing a great job, but because doing nothing is always easier than switching.",
+    "angle": "Post 1 attacks the standard assumption that lost displacement pitches mean the service wasn't good enough. It reframes the loss as a diagnostic failure. The operator did not understand what was keeping the owner in place, so they never addressed it. The right approach is to surface the friction first, then show how you eliminate it.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for two more posts this week on what a displacement conversation actually looks like.",
+    "cluster_role": "pillar",
+    "companion_ideas": ["The Competitive Displacement Conversation", "Gaining Commitments Before the Final Close"],
+    "notes": "Strong pillar post. Lead with the diagnostic failure, not the framework. The hook should create immediate recognition for any operator who has lost a displacement pitch."
+  },
+  {
+    "concept": "The Competitive Displacement Conversation",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators in competitive listing appointments",
+    "actual_argument": "Attacking the incumbent during a competitive pitch makes the owner defensive. A displacement conversation has a specific structure: acknowledge what is working, identify the specific gap, position yourself as the incremental upgrade. Never make the owner feel like they were wrong.",
+    "bad_assumption_to_attack": "If you show the owner how bad their current manager is, they will want to switch. This backfires because the owner has ego invested in their prior decision.",
+    "behavior_change": "Restructure competitive listing appointments to include an explicit acknowledgment of the incumbent before identifying the performance gap. Include a specific script for doing this without sounding patronizing.",
+    "operator_example": "Operator is pitching against a large national franchise. Instead of attacking the franchise's reputation, they say: 'I'm sure they've done some things well for you. I want to understand what those are before I tell you what we do differently.' This opens the owner up instead of shutting them down.",
+    "hook_options": [
+      "Attacking the current manager in a listing appointment is almost always a mistake.",
+      "When you make the owner wrong for picking their last manager, they stop listening.",
+      "The owner has ego in their prior decision. Make them wrong and you lose the room."
+    ],
+    "lead_in": "There's a specific structure to a competitive displacement conversation, and most operators skip the most important step.",
+    "angle": "Post 2 gives operators the tactical structure for a competitive listing appointment. Lead with acknowledgment of the incumbent, surface the specific gap, position as an incremental upgrade rather than an indictment of the prior choice. Include a concrete script.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for one more post this week and a newsletter that goes deeper on the full displacement sequence.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Understanding Why the Owner Is Staying Put", "Gaining Commitments Before the Final Close"],
+    "notes": "Post 2. Script-heavy is the right approach here. The script is the value, not the framework explanation."
+  },
+  {
+    "concept": "Nurture as a Displacement Tool",
+    "best_format": "long_form",
+    "post_type": "mistake",
+    "target_audience": "VRM operators managing their prospect pipeline",
+    "actual_argument": "Most VRM operators write off owners who decline a first approach. But most owners who switch managers do it once, usually when the contract expires or pain hits a breaking point. The operator who is still present and visible when that moment arrives wins the business without re-pitching.",
+    "bad_assumption_to_attack": "If an owner doesn't switch when you first pitch them, they are not a real prospect. They are actually a future deal on a longer timeline.",
+    "behavior_change": "Build a structured nurture track for owners locked into an incumbent, with specific value touchpoints that do not ask for anything. Stay present until the contract window opens.",
+    "operator_example": "An operator loses a listing appointment in April. Six months later, a guest incident causes the owner to reconsider. The operator who sent two market updates and a property-specific insight during that period gets the call. The one who moved on gets nothing.",
+    "hook_options": [
+      "Losing a listing appointment does not mean losing the owner.",
+      "Most VRM operators write off prospects the moment they say no. That's the wrong call.",
+      "The second time an owner considers switching managers, the decision is almost made before the call."
+    ],
+    "lead_in": "Many VRM owners who do not switch managers in the first conversation eventually do. Usually when the pain crosses a threshold.",
+    "angle": "Post 3 focuses on the nurture dimension of displacement: what to do after you lose the first conversation. Make it concrete with a specific follow-up track and the types of value touchpoints that keep the relationship warm without being pushy.",
+    "mention_book": true,
+    "mention_oratia": true,
+    "oratia_style": "soft",
+    "cta": "Follow and subscribe to the newsletter for the full displacement sequence including scripts and timing.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Understanding Why the Owner Is Staying Put", "The Competitive Displacement Conversation"],
+    "notes": "Post 3 with newsletter tee-up. The Oratia mention can be a natural aside about what operators using structured follow-up see. Keep it light."
+  },
+  {
+    "concept": "Becoming Consultative Before You Win the Business",
+    "best_format": "newsletter_seed",
+    "post_type": "lesson",
+    "target_audience": "VRM operators preparing for listing appointments",
+    "actual_argument": "The operator who shows their thinking before they are paid for it wins the authority contest. Bringing specific market data, a property observation, or a revenue opportunity to the first meeting is not a giveaway. It is proof of what working with you looks like.",
+    "bad_assumption_to_attack": "Operators save their best analysis and insight for existing clients. Prospects never see evidence of what they are being asked to pay for.",
+    "behavior_change": "Build a pre-meeting research packet for every listing appointment: market rate analysis for that specific zip or neighborhood, a property-specific occupancy observation, one specific improvement recommendation. Bring it to the meeting and give it away.",
+    "operator_example": "Operator arrives at a listing appointment with a printed one-pager showing the owner's property compared to three comps in the same neighborhood, with a specific observation about a gap in their current ADR. The owner has never seen this analysis. The competitor showed up with a brochure.",
+    "hook_options": [
+      "The operator who shows their thinking before they're hired wins the appointment.",
+      "If the owner has never seen your best thinking, they can't pay for it.",
+      "What you give away in the listing appointment is more persuasive than what you promise."
+    ],
+    "lead_in": "Most VRM operators save their analysis for after the contract is signed. The owner never gets to see what they are buying.",
+    "angle": "Newsletter anchor section: what a pre-meeting value packet looks like and why operators who use one win more listing appointments than those who rely on the presentation alone.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Subscribe to the newsletter for the full pre-meeting packet structure.",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["The Four Levels of Value", "Displacing an Incumbent"],
+    "notes": "Best used as a newsletter section, not a standalone post. It deepens the consultative angle from posts 1 and 2."
+  }
+]

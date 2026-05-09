@@ -1,0 +1,149 @@
+{
+  "book": "Contagious",
+  "book_slug": "contagious",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "social currency and referrals",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "Asking for referrals is the least reliable way to get them. Currency first. Then spend it.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "contagious",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "social_currency",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "what owners actually share",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "Owners don't share your management pitch. They share the insight you gave them that made them look sharp in front of a neighbor. Those are not the same thing.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "contagious",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "social_currency",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "triggers and acquisition timing",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "The owner who passed on you in January is probably ready now. Most VRM deals aren't lost to a better competitor. They're lost to timing. Top of mind when the frustration peaks is the whole game.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "contagious",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "triggers_timing",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "stories vs data in listing appointments",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Data makes owners skeptical. Stories make them nod. The listing appointment that leads with a revenue projection is doing the hardest kind of persuasion.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "contagious",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "stories_as_closing_tools",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "story_detail",
+      "source_theme": "transition story structure",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "The most powerful line in a listing appointment: 'Let me tell you about a client I work with who was in almost exactly your situation when we first talked...' That's the entry point. The rest of the story does the closing.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "contagious",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "stories_as_closing_tools",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "referral practices",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "Curious what's actually working for referrals in VRM right now. Are owners in your market referring unprompted, or does it always require a direct ask? What's driving the ones that come in without prompting?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "contagious",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "social_currency",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "recognition",
+      "source_theme": "follow-up quality",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "'Just checking in' is the lowest-value touchpoint you can send. It tells the owner exactly one thing: you haven't forgotten you want their listing.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "contagious",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "triggers_timing",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "VRM Sales Library series",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper on the referral engine and transition story system in this week's VRM Sales Library newsletter. Three practices that compound over a season instead of asking for favors.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "contagious",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "vrm_referral_engine",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "three transition stories to have ready",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM operators tell transition stories reactively. A prospect seems skeptical, you recall a client situation. The story is half-formed because you're building it under pressure.",
+        "The operators who use them well have three stories built in advance: the self-managing owner who burned out, the bad-experience switcher who was afraid to try again, and the stable owner who didn't think they had a problem.",
+        "Each one is four to six sentences. Situation, decision, outcome, and the one thing the owner said that surprised you.",
+        "Write them down. Practice the details until they're clean. The story you tell from memory in a listing appointment is always better than the one you construct on the fly."
+      ],
+      "status": "draft",
+      "source_trace": {
+        "book_slug": "contagious",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "transition_story_system",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    }
+  ]
+}

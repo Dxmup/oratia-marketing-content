@@ -1,0 +1,165 @@
+{
+  "book": "Eat Their Lunch",
+  "book_slug": "eat_their_lunch",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "inertia as real competitor",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "The owner who stays with a bad manager isn't satisfied. They're stuck. Inertia is a different problem than preference, and most competitive pitches never address it.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "eat_their_lunch",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "inertia_as_competitor",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "transition friction",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "VRM owners who are unhappy with their manager often stay for 2-3 years because the transition looks worse than the problem. Migrating reviews, rescheduling cleaners, handling guest comms in the gap. The operator who makes that invisible wins.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "eat_their_lunch",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "transition_friction",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "displacement diagnostic",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "Before you pitch a locked-in owner, ask: 'If you could change one thing about how your property is being managed right now, what would it be?' What comes out is almost never about features. It's about a specific incident, a communication breakdown, or a feeling nobody's watching the property.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "eat_their_lunch",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "displacement_diagnostic",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "attacking incumbent backfires",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "When you make the owner wrong for picking their last manager, they stop evaluating you and start defending their prior decision. That's a difficult room to recover in.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "eat_their_lunch",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "competitive_displacement",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "recognition",
+      "source_theme": "writing off lost prospects",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Friday",
+      "text": "Most VRM operators write off a prospect the moment they hear 'I'm going to stay with my current manager for now.' The owner who doesn't switch in conversation one usually does switch. Just 12-18 months later. To whoever stayed in contact.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "eat_their_lunch",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "nurture_as_displacement",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "pre-meeting value packet",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "One pattern we see at Oratia: operators who walk into listing appointments with a market comp specific to that property win more often than operators who bring a brochure and a projection. The owner has probably never seen how their property sits against actual comps. Showing them earns a different kind of attention.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "eat_their_lunch",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "pre_meeting_value",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "nurture timing",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "What's the longest gap between a first 'no' and a signed contract you've seen in your VRM market? I'm curious if 12-18 months tracks with what others are seeing.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "eat_their_lunch",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "nurture_timing",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "displacement sequence",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "This week's VRM Sales Library newsletter goes deeper on the full displacement sequence: diagnostic outreach, appointment structure, micro-commitments, and the nurture track for owners who are locked in. Applied from Iannarino's Eat Their Lunch to VRM acquisition.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "eat_their_lunch",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "displacement_sequence",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "status quo as competitor",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Wednesday",
+      "text": "Applying @iannarino's Eat Their Lunch to VRM acquisition this week. The insight that lands hardest: the status quo is the real competitor, not the incumbent manager. VRM operators who pitch features without diagnosing the inertia are answering the wrong question.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "eat_their_lunch",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "status_quo_as_competitor",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "competitive displacement structure",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM competitive listing appointments fail at the same moment.",
+        "The operator walks in, hears the owner mention the current manager, and pivots to listing what they do better. Sometimes they go further and mention the competitor's reviews or reputation.",
+        "The owner stops evaluating. They start defending the prior decision. Nobody switches managers by being told they made a mistake.",
+        "The sequence that actually works: acknowledge what the current arrangement has done well, surface the specific gap on the owner's terms, show how you solve for that gap without asking them to admit they were wrong.",
+        "Step 1 is the one operators always skip because it feels like they're helping the competitor. It's not. It's telling the owner you're listening instead of pitching.",
+        "The displacement conversation is a diagnostic before it's a pitch. The pitch only works if the diagnosis landed."
+      ],
+      "source_trace": {
+        "book_slug": "eat_their_lunch",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "competitive_displacement_structure",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    }
+  ]
+}

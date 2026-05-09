@@ -1,0 +1,26 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three LinkedIn posts and the newsletter meet the depth and specificity standard. Each post dismantles a specific bad assumption, includes at least one concrete operator scenario, and stays grounded in VRM acquisition language without becoming generic sales advice. The newsletter extends the posts rather than repeating them and builds the Referral Engine as a unified system with practical sub-tools.",
+  "strengths": [
+    "Post 1 correctly identifies the currency problem before the referral ask problem, and provides three concrete examples of what building currency looks like in practice.",
+    "Post 2 maps Berger's Triggers framework to VRM acquisition timing with a specific field note for the Skeptic owner type.",
+    "Post 3 provides a usable transition story structure (Situation, Decision, Change) and a script entry line that sounds like something an operator would actually say.",
+    "Newsletter builds meaningfully on the posts by adding the three-story system and the Useful Touchpoint concept in enough operational detail that it functions as a working guide, not just a recap.",
+    "Consistent voice across all four pieces: direct, practitioner-level, no consultant filler."
+  ],
+  "problems": [
+    "Post 2 could push the Triggers concept one layer deeper with a specific timing example tied to a calendar moment (e.g., first week after Labor Day when peak season results are visible). Currently the timing guidance is correct but slightly abstract.",
+    "Newsletter's STORY 1/STORY 2/STORY 3 headers in the transition story section slightly interrupt the newsletter's rhythm. Could be un-headed paragraphs or given softer labels."
+  ],
+  "required_fixes": [
+    "No em dashes found in any file. Packaging format verified across all three posts. CTA footer intact.",
+    "Character counts are within limits. Newsletter is newsletter-length and not subject to the 2,900-character cap.",
+    "No fixes required before approval."
+  ],
+  "depth_score": 8,
+  "specificity_score": 8,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}
