@@ -1,0 +1,166 @@
+{
+  "book": "Obviously Awesome",
+  "book_slug": "obviously_awesome",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "positioning by default",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "Owners position you before you open your mouth. How you were referred, what your website says, how you described yourself on the phone. By the time you're in the listing appointment, you've already been categorized. The question is whether you did it on purpose.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "obviously_awesome",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "positioning_by_default",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "commodity category",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "The owner who opens with \"what's your commission rate?\" isn't being difficult. They're telling you they've put you in the commodity category. Everything from here gets evaluated through that frame. You can't price your way out of a positioning problem.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "obviously_awesome",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "category_sets_criteria",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "sharp_opinion",
+      "source_theme": "competitive alternatives",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Many VRM operators compete against management companies the owner isn't even comparing them to. The real alternative for a lot of prospective owners is self-management. That's a different pitch entirely. Most operators never make it.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "obviously_awesome",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "competitive_alternatives",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "diagnostic",
+      "source_theme": "self-management comparison",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "If the owner is self-managing, the pitch isn't \"here's why we're better than other managers.\"\n\nIt's: how much time are you spending each week on guest communication, cleaning coordination, and maintenance? What does that time cost you?\n\nThen compare to your fee. That's the conversation.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "obviously_awesome",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "self_management_alternative",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "recognition",
+      "source_theme": "feature list problem",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "Dynamic pricing, professional photography, 24/7 maintenance. The owner has heard all three from every manager this week. Reciting the list with more confidence doesn't solve the problem. The features aren't the issue. The frame is.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "obviously_awesome",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "feature_first_failure",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "positioning first in the listing appointment",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "One script change that shifts the listing appointment dynamic:\n\n\"Before I walk you through how we work, let me describe the type of owner we're built for, so you can tell me if that sounds like you.\"\n\nNow the owner is qualifying themselves. You're not defending features. You're describing a fit.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "obviously_awesome",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "positioning_first_script",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "competitive alternatives in practice",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "In a listing appointment, do you know whether the owner is choosing between you and another manager, or between you and continuing to self-manage? Those are different conversations.\n\nWhat are you seeing in your market right now, mostly one or the other?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "obviously_awesome",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "competitive_alternatives",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "five-component positioning framework",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper on April Dunford's five-component positioning framework in this week's VRM Sales Library newsletter. Full walkthrough applied to VRM, including a listing appointment opener that puts positioning before features. linkedin.com/in/chadhensel",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "obviously_awesome",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "five_component_framework",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "positioning applied to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Friday",
+      "text": "Applying April Dunford's Obviously Awesome to VRM owner acquisition this week. The market category insight maps directly: operators who accept the \"property manager\" default get evaluated on commission and features. The ones who define a specific category get evaluated on fit. Different appointments entirely.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "obviously_awesome",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "market_category",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "five components of positioning applied to VRM",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "April Dunford's positioning framework has five components. Most VRM operators skip all five and wonder why every listing appointment starts with a commission question.",
+        "Component 1: competitive alternatives. For many prospects, the alternative isn't another management company. It's self-management. The pitch that beats self-management is different from the pitch that beats a competitor.",
+        "Component 2: unique attributes. Not \"we respond faster.\" That's a quality claim, not a differentiator. Genuine attributes are structural: a direct booking program, a local market concentration, an owner communication protocol that removes them from operational decisions.",
+        "Component 3: value. Connect the attribute to what the owner actually gets. Not \"dynamic pricing\" but \"occupancy stays high in shoulder season without you having to think about it.\"",
+        "Component 4: best-fit customers. Name the owner profile you serve best. Resisting this feels like limiting your market. It's actually filtering out appointments that were never going to close.",
+        "Component 5: market category. This is the highest-leverage piece. The category determines the buying criteria. \"Property manager\" gets you commission comparisons. \"Full-handoff luxury management\" gets you a different conversation.",
+        "The output is a positioning statement you can use in the first 60 seconds of a listing appointment. Not a pitch. A filter. The right owner recognizes themselves. The wrong owner tells you something useful."
+      ],
+      "source_trace": {
+        "book_slug": "obviously_awesome",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "five_component_framework",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    }
+  ]
+}

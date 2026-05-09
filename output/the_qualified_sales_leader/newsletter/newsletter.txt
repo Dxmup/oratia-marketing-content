@@ -1,0 +1,130 @@
+VRM Sales Library | The Qualified Sales Leader | John McMahon
+linkedin.com/in/chadhensel
+
+---
+
+This week covered three posts from John McMahon's The Qualified Sales Leader. The common thread: most VRM listing pipelines are built on optimism, not qualification. The operator who treats every listing appointment as a real opportunity is managing noise. The one who applies structured qualification is managing a real pipeline.
+
+The three posts introduced McMahon's MEDDIC framework, covered the champion problem, and walked through the baseline cost calculation. This newsletter goes deeper on the full qualification system and what structured sales management actually looks like inside a VRM business.
+
+---
+
+THE FULL MEDDIC STACK FOR VRM OWNER ACQUISITION
+
+MEDDIC stands for Metrics, Economic Buyer, Decision Criteria, Decision Process, Identify Pain, Champion. McMahon developed it at PTC to bring discipline to an enterprise sales environment where the sales cycle was long, the decision structure was complex, and the cost of misreading an opportunity was high.
+
+VRM listing pipelines share most of those characteristics, which is why the framework translates almost directly.
+
+Here is the full stack, applied to a listing appointment:
+
+METRICS
+
+Quantify the owner's current situation before presenting a proposal. The four questions from Post 3 produce the baseline: actual ADR versus market, occupancy relative to comparable properties, opportunity cost of owner blocks, and the labor cost of self-management.
+
+The projection without the baseline is a guess. The projection alongside the baseline is a comparison. These are fundamentally different persuasion structures.
+
+ECONOMIC BUYER
+
+The person at the listing appointment may or may not be the person who makes the decision. The MEDDIC question is not "who am I talking to" but "who actually controls this decision."
+
+In VRM, the economic buyer is often the spouse who handles the finances, the business partner who co-owns the asset, or a family member with veto authority. Identifying this person inside the appointment, not after it, is the difference between managing the close and being surprised by it.
+
+DECISION CRITERIA
+
+What does the owner say they're evaluating? This is different from what you assume they're evaluating.
+
+The operator who presents based on assumed criteria often pitches the wrong things. The one who asks "what would the right company need to look like?" and listens to the answer pitches to what was actually said.
+
+Decision criteria often reveal the real pain. An owner who says "I need someone local who can respond within the hour" is describing a maintenance anxiety that hasn't surfaced yet. Ask a follow-up. Find the story behind the criteria.
+
+DECISION PROCESS
+
+Who is involved, what steps are required, and what could derail the decision after the listing appointment?
+
+This is the element many operators skip because the questions feel presumptuous. They aren't. They're the reason operators can manage a pipeline with any accuracy.
+
+Script: "How do you normally make decisions like this? Is there anything that would need to happen on your end before you'd be in a position to move forward?"
+
+The answer tells you whether the next step is a follow-up email, a second meeting, a call with a spouse, or a document their attorney needs to review. Each of these is a different follow-up strategy. The operator who knows which one they're dealing with is not flying blind.
+
+IDENTIFY PAIN
+
+Three levels. The surface complaint, the business impact, and the personal consequence.
+
+Many operators find the surface complaint and pitch to it. The business impact is where the financial case gets made. The personal consequence is where the deal is won.
+
+The owner who tells you they're exhausted, that the property is stressing their marriage, that they haven't taken a vacation in two years because they can't be out of range: that owner is not weighing your proposal against a competitor's proposal. They're weighing it against continuing to feel the way they currently feel.
+
+CHAMPION
+
+The person in your corner when you're not in the room. In a single-decision-maker listing, this is straightforward. In a multi-party listing, this is the owner at the table who genuinely wants to make the switch, and who has enough influence and information to move it forward with the people you haven't met.
+
+A good champion is not just enthusiastic. They're informed. They have answers to the questions the second decision-maker will ask. The operator who leaves the listing appointment without verifying that their champion can carry the conversation forward is handing control of the deal to someone else.
+
+---
+
+PIPELINE INSPECTION, NOT PIPELINE REVIEW
+
+McMahon draws a hard distinction between two things many people treat as the same.
+
+A pipeline review reports what's in the pipeline. A pipeline inspection challenges whether it belongs there.
+
+Many VRM operators who have any kind of BD tracking are doing reviews. They look at the list, note who they haven't followed up with, and schedule another call. This produces a list of contacts, not a pipeline.
+
+A pipeline inspection asks, for every active opportunity:
+
+- What is the specific pain driving this owner's interest in switching?
+- Who is the economic buyer, and have we engaged them?
+- What has the owner said they're evaluating?
+- Have we mapped the decision process?
+- What has the owner committed to doing next?
+
+Any opportunity that can't answer these questions gets moved to a lower priority tier or removed from the active pipeline entirely. This is not pessimism. It's accuracy.
+
+The operator who runs a weekly inspection rather than a weekly review has a smaller pipeline and a more accurate one. Smaller and accurate beats large and optimistic.
+
+---
+
+WHAT FIRST-LINE SALES MANAGEMENT LOOKS LIKE IN A VRM CONTEXT
+
+McMahon's book is largely a manual for the first-line sales manager, which in VRM usually means the owner, the GM, or whoever is responsible for the BD function.
+
+His core argument is that sales performance is determined primarily by the quality of the coaching and accountability the rep receives, not by the quality of the rep. A strong manager with an average rep will improve them over time. A mediocre manager with a strong rep will eventually produce mediocre results.
+
+For VRM operators who have a BD person or a small BD team, three practices from McMahon's framework translate directly:
+
+WEEKLY PIPELINE INSPECTIONS
+
+Every week, go through the active pipeline with MEDDIC criteria. Ask the questions above for every opportunity. The ones that can't be answered reveal the diagnostic work that still needs to happen.
+
+These sessions are not status updates. They're coaching sessions disguised as deal reviews.
+
+LISTING APPOINTMENT RIDE-ALONGS
+
+The fastest way to identify what a BD rep is doing wrong is to be in the room. Many VRM operators who have a BD function have never been present in a listing appointment with their rep. They manage based on what the rep reports.
+
+The rep's account of a listing appointment and what actually happened in that appointment are often meaningfully different, and not because the rep is dishonest. It's because the rep doesn't know what they don't know. The manager who was in the room can see it.
+
+POST-APPOINTMENT DEBRIEF STRUCTURE
+
+After every listing appointment, ask five questions:
+
+1. What was the owner's specific pain?
+2. Who is the economic buyer?
+3. What are the owner's stated decision criteria?
+4. What is the next committed step?
+5. What would cause this deal to stall?
+
+If the rep can answer all five confidently, the opportunity is real. If they can't, the debrief just produced the work for the next conversation.
+
+---
+
+NEXT WEEK
+
+Next week I'm applying Anthony Iannarino's framework for creating buying commitment to VRM owner acquisition. Specifically: the sequence of micro-commitments that move an owner from "interested" to "signed," and the points in the process where operators typically fail to ask for the right commitment at the right time.
+
+---
+
+Subscribe at linkedin.com/in/chadhensel to get each edition in one place.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #QualifiedSalesLeader

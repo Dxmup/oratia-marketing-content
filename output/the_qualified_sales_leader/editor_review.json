@@ -1,0 +1,24 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three posts and the newsletter meet the standard. The MEDDIC framework is accurately represented and grounded in VRM-specific scenarios throughout. Scripts are conversational and would hold up in a real listing appointment. The newsletter extends the posts rather than repeating them, and the pipeline inspection section adds genuine diagnostic value not covered in the posts.",
+  "strengths": [
+    "Post 1 correctly frames qualification as the diagnostic work operators skip, not a checklist to complete after the fact. The scripts for each MEDDIC element are direct without being clinical.",
+    "Post 2 nails the 'listing appointment goes well then goes cold' pattern that virtually every VRM operator has experienced. The champion concept is applied correctly and the two scripts for surfacing hidden decision-makers are natural enough to use without modification.",
+    "Post 3 leads with a strong contrarian reframe — the projection isn't the closer, the baseline is — and the four-question diagnostic gives operators something immediately applicable.",
+    "Newsletter builds the full stack and adds two substantial sections (pipeline inspection and first-line management) not covered in the posts. The NEXT WEEK teaser is present and specific.",
+    "No em dashes. No hollow intensifiers. All posts include at least one concrete operator scenario and at least one script. Format compliance is clean across all four files."
+  ],
+  "problems": [
+    "Post 1 approaches 2,900 characters — verify character count in VRM Sharp before publishing.",
+    "The Oratia mention recommended in strategy.json for Post 3 was omitted, which is the right call: the baseline calculation stands on its own and an Oratia mention would have felt bolted on."
+  ],
+  "required_fixes": [
+    "Verify Post 1 character count in VRM Sharp. Trim the Decision Criteria section if needed to stay under 2,900."
+  ],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 9
+}

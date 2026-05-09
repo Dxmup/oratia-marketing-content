@@ -1,0 +1,153 @@
+{
+  "book": "The Qualified Sales Leader",
+  "book_slug": "the_qualified_sales_leader",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "pipeline qualification",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "VRM listing pipelines are mostly fiction. Operators count appointments as opportunities. Those aren't the same thing.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_qualified_sales_leader",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "pipeline_qualification",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "hidden decision-maker",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "The listing appointment went well. Great chemistry. Owner seemed ready. Then two weeks of silence and the listing goes to someone else.\n\nThe person you met with wasn't the one who decided.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_qualified_sales_leader",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "champion_hidden_decision_maker",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "metrics and cost of status quo",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "Revenue projections don't close VRM listings. The cost of the status quo does.\n\nOwners can argue with a projection. They can't argue with what their property is already losing.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_qualified_sales_leader",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "metrics_cost_of_status_quo",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "pipeline inspection vs review",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "Reviewing your pipeline and inspecting it are not the same thing. A review counts what's there. An inspection challenges whether it belongs there.\n\nMany VRM operators are reviewing. They think they're inspecting.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_qualified_sales_leader",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "pipeline_inspection",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "story_detail",
+      "source_theme": "identify pain three levels",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "Three levels of owner pain in a VRM listing appointment.\n\nLevel 1: self-management is getting to be a lot.\nLevel 2: my occupancy is 20 points below market and I don't know why.\nLevel 3: I haven't taken a vacation in two years because I can't leave the property unmonitored.\n\nMany operators close at Level 1. Level 3 is where the deal is.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_qualified_sales_leader",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "identify_pain_three_levels",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "decision process and hidden stakeholders",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "How many VRM listings have you lost to someone you never got to talk to? The spouse. The business partner. The financial advisor who told the owner to stay self-managed.\n\nWhere are you running into hidden decision-makers?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "the_qualified_sales_leader",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "champion_decision_process",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "recognition",
+      "source_theme": "first-line sales management",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "VRM operators with a BD person usually manage based on what the rep reports after the listing appointment. That's not the same as what happened in the listing appointment.\n\nRide-alongs are underrated.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_qualified_sales_leader",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "first_line_sales_management",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "full MEDDIC system",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Going deeper on John McMahon's MEDDIC framework in this week's VRM Sales Library newsletter. The full qualification stack, pipeline inspection versus pipeline review, and what first-line BD management actually looks like inside a VRM company.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_qualified_sales_leader",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "full_meddic_system",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "MEDDIC applied to VRM listing appointments",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM listing pipelines have a structural problem. Here's how McMahon's MEDDIC framework fixes it.",
+        "MEDDIC: Metrics, Economic Buyer, Decision Criteria, Decision Process, Identify Pain, Champion. Built for enterprise sales. Maps almost directly onto VRM listing appointments.",
+        "Identify Pain: not the surface complaint. The owner who says 'self-management is getting to be a lot' is at Level 1. Ask what a bad week actually looks like. Keep going until you find Level 3.",
+        "Economic Buyer: the person at the listing appointment is often not the one who decides. Ask who else tends to be involved in decisions like this. Find out before the proposal goes out.",
+        "Decision Criteria: ask what the right company would need to look like. Listen to what's actually said. Don't pitch to what you assumed.",
+        "Decision Process: ask what would need to happen before they could move forward. Surfaces the attorney, the spouse, the business partner before they become a silent veto.",
+        "Metrics: walk the owner through what their current situation is costing them before you show the projection. ADR versus market, occupancy gap, owner-block opportunity cost, labor. The contrast is the argument.",
+        "Champion: is the owner at the table genuinely advocating for a switch, and do they have enough influence to move it forward with the people you haven't met? If the answer to either is no, you have a contact, not a champion.",
+        "The operator who runs through these six elements before every listing appointment has a real pipeline. The one who doesn't has a list of names."
+      ],
+      "source_trace": {
+        "book_slug": "the_qualified_sales_leader",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "meddic_framework_vrm",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

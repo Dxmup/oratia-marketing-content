@@ -1,0 +1,24 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three posts and the newsletter earn their positioning. Post 1 (already written before this review) and Posts 2-3 form a coherent arc: the category problem, the competitor misidentification, and the feature-first reorder. The newsletter extends the framework without repeating the posts. Strong throughout.",
+  "strengths": [
+    "Post 2 correctly identifies the self-management vs. competitor distinction and grounds it in a specific script that changes the appointment dynamic, not just a framing observation.",
+    "Post 3's reorder (positioning claim first, features as evidence) is concrete, demonstrated with before/after examples, and lands with an Oratia mention that feels natural rather than promotional.",
+    "The newsletter's five-component walkthrough applies each element specifically to VRM operations, including the market category examples that show how the buying criteria change with the frame.",
+    "Owner type references (Investor, Skeptic, Delegator) are used accurately and specifically, not generically.",
+    "Scripts throughout sound like something an actual operator would say in a listing appointment, not a training manual."
+  ],
+  "problems": [
+    "Post 2's closing field note is slightly long relative to the body content. The Skeptic/Investor contrast is useful but could be tightened without losing the distinction.",
+    "The newsletter NEXT WEEK section references The Lost Art of Closing, which should be verified as the actual next book in the queue."
+  ],
+  "required_fixes": [
+    "None blocking. The Skeptic/Investor field note tightening in Post 2 is optional. The NEXT WEEK reference should be confirmed against NEXT_UP.md before publishing."
+  ],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 10
+}

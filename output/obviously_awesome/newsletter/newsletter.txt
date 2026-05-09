@@ -1,0 +1,103 @@
+VRM Sales Library | Obviously Awesome | April Dunford
+linkedin.com/in/chadhensel
+
+---
+
+This week covered three posts from April Dunford's Obviously Awesome. The common thread: positioning is not a marketing task. It is an acquisition mechanic that determines whether owners show up to the listing appointment already categorized as a commodity comparison or already asking whether you are the right fit.
+
+Post 1 covered the core claim: positioning happens whether you design it or not. The default position for most VRM operators is "property manager," which is a commodity category. Post 2 covered competitive alternatives, and the counter-intuitive reality that for many prospective owners, the competitor isn't another management company, it's the status quo. Post 3 covered the feature-first failure and the reorder: positioning claim first, features as evidence second.
+
+The newsletter goes deeper on the framework itself. Dunford's five-component positioning exercise is practical enough to work through in an hour. What follows is a full walkthrough applied to a VRM operation, with specific examples at each step.
+
+---
+
+THE FIVE COMPONENTS, APPLIED
+
+Dunford argues that strong positioning has five linked components. Miss any one of them and the positioning statement becomes vague, generic, or incomplete. The five are: competitive alternatives, unique attributes, value, best-fit customers, and market category.
+
+COMPETITIVE ALTERNATIVES
+
+The question is: what would the owner do if you didn't exist?
+
+For most operators, the honest answer is not "hire the next manager on the list." For a large portion of prospective owners, especially those in the earlier stages of considering professional management, the real alternative is self-management, a long-term rental, or continuing to do whatever they are doing now.
+
+This changes the pitch. The owner who is choosing between professional management and self-management is not comparing commission rates and feature lists. They are evaluating whether the switch is worth the loss of control and the cost. The pitch that works for them is not "here's why we're better than competitors." It is "here's what self-management is actually costing you, and here's what changes if you hand it off."
+
+The Skeptic owner who has already been through two management companies is a different case. For them, the alternative is a third attempt with someone who might also disappoint them. That conversation requires a different kind of evidence: proof that you understand what went wrong before and why it won't happen with you.
+
+Knowing which conversation you are in changes everything about how you structure the appointment.
+
+UNIQUE ATTRIBUTES
+
+The question is: what do you do that is genuinely different, not just better?
+
+Most operators struggle here because they confuse differentiation with quality claims. "We respond faster" and "our cleaning is better" are quality claims. They can be true and still be indistinguishable from what the operator next to you claims.
+
+Genuine unique attributes tend to be structural. They come from how the operation is built, not from how hard people try.
+
+Examples of structural differentiation:
+- A local market concentration that produces better data on revenue optimization than any national operator can access
+- A direct booking program with a built owner-facing dashboard that shows real-time revenue, maintenance status, and upcoming bookings in one view
+- An owner communication protocol where the owner hears about problems after they are solved, with a brief explanation, not a request for a decision
+- A property onboarding process that migrates existing Airbnb history, handles the first deep clean, and manages the first 30 days of bookings before the owner has to think about the property
+
+These attributes are verifiable and specific. They are also things a competitor cannot easily claim without actually building the same infrastructure.
+
+VALUE
+
+The question is: what does the unique attribute actually deliver to the owner?
+
+This is where operators often speak past each other. The attribute is "owner communication within four hours." The value is "you never wake up to a problem that's been sitting unresolved overnight." The attribute is "dynamic pricing." The value is "occupancy stays high during shoulder season without you having to think about it."
+
+The value statement should connect to what the owner actually cares about, which for most owners is a combination of two things: more revenue than they'd get elsewhere, and less involvement than they currently have. Name both, specifically, and connect each to an attribute that delivers it.
+
+BEST-FIT CUSTOMERS
+
+The question is: who specifically benefits most from what you do differently?
+
+This is the component most VRM operators skip or answer too broadly. "We work with any owner who wants professional management" is not an answer. It is the absence of an answer.
+
+The best-fit customer is defined by a combination of property profile, owner expectations, and behavioral profile. An operator who specializes in coastal luxury properties, works best with Delegator and Investor owner types, and delivers disproportionate value to owners with three or more properties in their portfolio has a specific enough profile to pre-qualify leads before the appointment starts.
+
+This specificity is also what makes outreach work. If you know you do best with first-time rental owners who recently bought an investment property and are trying to figure out what to do with it, your prospecting channel looks different, your referral sources look different, and your opening message looks different. The right owner self-selects before you are in the room.
+
+MARKET CATEGORY
+
+The question is: what context makes your value obvious?
+
+This is the highest-leverage component and the most neglected. The market category is the frame the owner uses to understand what you are and how to evaluate you. Put yourself in the "property manager" category and you get evaluated on commission rate, occupancy guarantee, and response time. Put yourself in a more specific category and you get evaluated on the criteria that actually favor your differentiation.
+
+Examples of category positioning that change the buying criteria:
+
+"Luxury vacation rental management for coastal properties" shifts the criteria toward market expertise, guest quality, and direct booking capability. Commission rate comparison becomes secondary.
+
+"Owner-transition specialists" shifts the criteria toward onboarding competence, trust in the handoff process, and track record with owners leaving prior managers. The Skeptic owner who has been burned before finds immediate resonance with this frame.
+
+"Full-handoff property management for investor owners" shifts the criteria toward operational autonomy, revenue predictability, and owner time savings. The owner is evaluating whether you can actually remove them from the day-to-day, not whether your commission rate is competitive.
+
+THE POSITIONING STATEMENT
+
+Once you have worked through all five components, the positioning statement writes itself:
+
+For [best-fit customer], who [situation or problem], [your name] is a [market category] that [unique value]. Unlike [competitive alternative], [key differentiator].
+
+Applied to a specific operator:
+
+"For investment property owners in coastal markets who want a full operational handoff, [Company] is a luxury vacation rental management company that handles every aspect of the property while providing transparent revenue reporting. Unlike national operators who manage scale, we operate as a concentrated local business that knows this market specifically and communicates with you on your terms."
+
+This statement is not for the website. It is for the first 60 seconds of the listing appointment. It is also the filter that determines whether the appointment is worth having at all.
+
+THE LISTING APPOINTMENT OPENER
+
+Once the positioning statement exists, the listing appointment opening becomes a qualification sequence, not a pitch sequence.
+
+Script: "Before I walk you through how we work, let me describe the type of owner we're built for, so you can tell me whether that sounds like you. We work primarily with owners who want a property that runs itself. They hear from us when something needs a decision. Otherwise, it runs. We don't do co-management, we don't do partial service, and we don't work with properties below a certain revenue floor because the economics don't support the service level we deliver. Does that match what you're looking for, or is your situation more specific?"
+
+This opener does three things. It establishes the market category before any features are mentioned. It pre-empts the commission rate question by making clear that not every owner is the right fit. And it invites the owner to tell you something real about what they want, which gives you the information you need to either advance the appointment or end it efficiently.
+
+NEXT WEEK
+
+Next week's series covers Anthony Iannarino's The Lost Art of Closing, which addresses what happens in the gap between a strong listing appointment and a signed agreement. The specific focus: the ten commitment conversations that happen before the close, and how many VRM operators skip most of them.
+
+Subscribe at linkedin.com/in/chadhensel.
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #ObviouslyAwesome
