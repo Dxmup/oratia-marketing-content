@@ -1391,6 +1391,36 @@
       "path": "output/the_paradox_of_choice/twitter/posts.json",
       "status": "sharpened",
       "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/decisive/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/decisive/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/decisive/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/decisive/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/decisive/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/decisive/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
     }
   ]
 }

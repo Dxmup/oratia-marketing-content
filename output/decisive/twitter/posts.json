@@ -1,0 +1,165 @@
+{
+  "book": "Decisive",
+  "book_slug": "decisive",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "narrow framing in owner qualification",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "The worst owner relationships aren't surprises. They're predictable decisions made in listing appointments where the only question on the table was sign or pass.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "decisive",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "narrow_framing",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "confirmation bias after warm listing appointment",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "After a good listing appointment, the BD isn't evaluating the owner. They're building a case. Every red flag gets a plausible explanation. Every hesitation gets filed under 'understandably thorough.'",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "decisive",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "confirmation_bias",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "reality-testing stated preferences",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "\"Are you comfortable with us making day-to-day decisions without checking in?\" tells you nothing.\n\n\"Tell me about the last time something went wrong with the property\" tells you everything.\n\nOne is a stated preference. The other is a behavior reveal.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "decisive",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "reality_testing",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "recognition",
+      "source_theme": "overconfidence in revenue projections",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "The revenue projection gets built on best-case assumptions. Peak occupancy, no owner blocks, full management authority. The signed agreement reflects what you hope the owner will be. Month two reflects what they always were.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "decisive",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "overconfidence",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "sharp_opinion",
+      "source_theme": "pre-mortem before signing borderline owners",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Friday",
+      "text": "Before signing a borderline owner, assume the relationship has already failed. Work backward. What triggered it? What did you not address in onboarding?\n\nThat five-minute exercise changes what you put in the first 30-day communication plan.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "decisive",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "pre_mortem",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "engagement",
+      "source_theme": "Controller owner communication expectations",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "The Controller who tells you they want to stay involved is at least being honest. The operator who hears that and tries to shift them toward hands-off creates the friction themselves.\n\nWhat's the owner behavior pattern you see most often that you probably should have caught in the listing appointment?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "decisive",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "controller_owner_expectations",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "story_detail",
+      "source_theme": "short-term emotion overriding objective evaluation",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "The property is beautiful. The owner is friendly. The conversation felt great. Those are real signals. They're also temporary ones.\n\nThe operator who signs on post-meeting energy and the operator who signs after a cooler 24-hour read are sometimes making very different decisions about the same appointment.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "decisive",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "short_term_emotion",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "WRAP framework for owner qualification",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper this week in the VRM Sales Library on Decisive by Chip and Dan Heath. The WRAP framework, applied to owner qualification: widen options before the appointment, reality-test during it, attain distance after it, prepare to be wrong before you sign.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "decisive",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "wrap_framework",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "WRAP applied to VRM listing appointments",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Wednesday",
+      "text": "Been applying @chiph and @dheath's WRAP framework from Decisive to VRM listing appointments. The 'widen your options' step alone changes how operators think about borderline owners. Sign-or-lose is almost always the wrong framing.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "decisive",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "wrap_framework_author_engagement",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "four villains of owner qualification",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Four ways a listing appointment goes wrong. All four can happen in the same meeting.",
+        "Narrow framing: the only question on the table is sign or lose. That framing hides a third option, the conditional start, the phased arrangement, or the honest pass.",
+        "Confirmation bias: after a warm meeting with a nice property, you're not evaluating the owner anymore. You're building the case to proceed.",
+        "Short-term emotion: the energy of a good conversation is real. It's also temporary. It can override the warning signals a cooler read would have caught.",
+        "Overconfidence: the revenue model reflects the owner you hope you're signing. Month two reflects the owner you actually signed.",
+        "The fix isn't more optimism or more caution. It's a structured evaluation process that runs regardless of how the appointment felt."
+      ],
+      "source_trace": {
+        "book_slug": "decisive",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "four_villains_owner_qualification",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

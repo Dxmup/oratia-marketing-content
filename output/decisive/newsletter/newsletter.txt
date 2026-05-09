@@ -1,0 +1,89 @@
+VRM Sales Library | Decisive | Chip Heath, Dan Heath
+linkedin.com/in/chadhensel
+
+---
+
+This week covered Chip and Dan Heath's Decisive, applied to VRM owner qualification. Post 1 mapped the four decision villains (narrow framing, confirmation bias, short-term emotion, and overconfidence) to listing appointment failure modes. Post 2 covered the post-meeting disconfirmation review and how confirmation bias operates after a warm appointment. Post 3 covered reality-testing through behavior-revealing questions rather than stated-preference questions.
+
+The newsletter goes deeper on two additional WRAP tools: the pre-mortem before signing a borderline owner, and the 10/10/10 test for emotionally charged in-appointment decisions. Then it builds the full 4-checkpoint qualification system.
+
+---
+
+RECAP: THE FOUR VILLAINS IN OWNER QUALIFICATION
+
+Narrow framing: treating every listing appointment as sign-or-lose rather than as a question of fit and conditions.
+
+Confirmation bias: after a warm meeting, processing only the evidence that supports proceeding.
+
+Short-term emotion: letting the energy of a strong appointment override signals that a cooler read would have caught.
+
+Overconfidence: projecting revenue on best-case assumptions and signing agreements that reflect the hoped-for owner, not the actual one.
+
+The antidote is WRAP: Widen options, Reality-test assumptions, Attain distance, Prepare to be wrong.
+
+---
+
+PREPARE TO BE WRONG: THE PRE-MORTEM
+
+Before signing a borderline owner, the Heaths recommend a pre-mortem: assume the decision has already failed and work backward to identify why.
+
+This is not pessimism. It's structured risk identification. Optimism bias suppresses the failure scenarios most likely to occur. The pre-mortem gives those scenarios a voice before the agreement is signed.
+
+Pre-mortem questions for a new owner relationship:
+
+"What is this owner most likely to be dissatisfied with in month 3?"
+"What is the most likely source of friction in the first busy season?"
+"If this owner is calling us every week by September, what triggered it?"
+"What is the one thing about how this owner described their expectations that we didn't fully address?"
+
+These questions don't prevent the signature. They inform three things: the onboarding conversation, the expectation-setting during the first 30 days, and the communication structure you build around this owner's specific risk profile.
+
+A Controller owner who surfaces in the pre-mortem as "likely to call every week about pricing" gets a different onboarding than the question-free Delegator. Not because you manage them differently on paper, but because you've already planned for the conversation you know is coming.
+
+---
+
+ATTAINING DISTANCE: THE 10/10/10 TEST
+
+The Heaths recommend temporal distance for emotionally charged decisions. Their framework: how will I feel about this decision in 10 minutes? 10 months? 10 years?
+
+The application in a listing appointment: when the operator feels strong pressure to close, or strong reluctance to walk away from a beautiful property with a difficult owner, the 10/10/10 check creates breathing room.
+
+10 minutes: the post-meeting energy is still high. The fee feels negotiable. The red flag feels minor.
+
+10 months: it is November. The owner has been calling weekly since Labor Day. The fee concession, which felt minor in the moment, has compressed every margin you were counting on to service the relationship.
+
+10 years: this owner either referred you three properties or cost you a team member.
+
+The test is not always disqualifying. Sometimes the 10-month view confirms that a short-term difficulty is worth managing. It consistently surfaces the difference between an in-the-moment judgment and a considered one.
+
+---
+
+THE FOUR-CHECKPOINT QUALIFICATION SYSTEM
+
+Pulling the week's posts together with the newsletter concepts, here is a complete owner qualification system built on the WRAP framework:
+
+CHECKPOINT 1: BEFORE THE APPOINTMENT
+
+Widen your options. Define what a good fit looks like before you walk in. What would have to be true about this owner, their communication style, their flexibility, and their expectations for this to be a healthy relationship? Having this defined in advance makes the appointment an evaluation rather than a pitch.
+
+CHECKPOINT 2: DURING THE APPOINTMENT
+
+Reality-test your assumptions. Use behavior-revealing questions rather than stated-preference questions. The questions from Post 3 should become standard practice. What you're testing: the owner's actual communication patterns, their anxiety threshold, their flexibility on operational decisions, and their expectations around access and involvement.
+
+CHECKPOINT 3: POST-MEETING
+
+Attain distance. Run the disconfirmation review. Five questions, answered without an audience, before building the internal case to proceed: what did the owner say or do that should give us pause, and is there anything we explained away rather than evaluated?
+
+CHECKPOINT 4: PRE-SIGNATURE
+
+Prepare to be wrong. For any borderline owner, run a 5-minute pre-mortem. The goal is not to find a reason to pass. The goal is to identify the specific friction points so the onboarding conversation is designed around accurate expectations, not optimistic ones.
+
+---
+
+NEXT WEEK
+
+Next week's series covers Thinking in Bets by Annie Duke. The focus: decision quality versus outcome quality, and what that means for how VRM operators evaluate their own performance, learn from wins and losses, and build the habit of better judgment over time.
+
+Subscribe at linkedin.com/in/chadhensel to stay current.
+
+#VRMSalesLibrary #VRMGrowth #VacationRentalManagement #Decisive
