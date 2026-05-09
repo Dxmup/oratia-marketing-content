@@ -1,0 +1,166 @@
+{
+  "book": "The Science of Selling",
+  "book_slug": "the_science_of_selling",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "emotional brain decides first",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "VRM operators spend weeks perfecting their revenue projection decks. The owner's brain made its trust decision 15 minutes before the deck came out.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_science_of_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "emotional_brain_decides_first",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "six whys of buying",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "Owner says \"let me think about it\" and ghosts. Almost always means you never answered why they should change at all. The rest of the pitch was irrelevant.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_science_of_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "six_whys",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "six whys framework",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Monday",
+      "text": "Six questions every owner's brain needs answered before committing:\n\n1. Why change at all?\n2. Why now?\n3. Why this industry?\n4. Why your company?\n5. Why your solution?\n6. Why spend the money?\n\nMost VRM operators enter the appointment ready to answer four and five. One and two are where deals die.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_science_of_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "six_whys",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "social proof specificity",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Wednesday",
+      "text": "\"We manage 200 properties and our owners love us\" is not social proof. It's a statistic the owner's brain immediately discounts. The reference that closes is one owner, similar situation, same concern, different outcome.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_science_of_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "social_proof",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "recognition",
+      "source_theme": "questions vs. statements",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "\"Our platform gives you real-time visibility into your property.\" Statement. Owner evaluates it skeptically.\n\n\"How much visibility do you have into what's happening at the property when you're not there?\" Question. Owner answers it and surfaces the gap themselves.\n\nOne generates resistance. The other generates conviction.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_science_of_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "questions_vs_statements",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "story_detail",
+      "source_theme": "social proof specificity",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "The reference story that works is not your biggest success. It's the one that matches the owner sitting across from you.\n\nBeach property owner worried about party damage: you need a story about a beach property where damage was handled without the owner having to manage it.\n\nOwner leaving a large platform manager: you need a story from an owner who made the same transition and what changed.\n\nThree sentences. Own situation, primary concern, what changed. Build the library before the next quarter starts.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_science_of_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "social_proof",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "engagement",
+      "source_theme": "why change question",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "The toughest owner to close is not the skeptic. It's the self-managing owner who hasn't concluded that self-managing is costing them anything.\n\nHow are you handling \"why change at all\" with that owner type? Are you asking questions that surface the cost, or pitching over it?",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "the_science_of_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "six_whys",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "channel_connector",
+      "source_theme": "buying brain full framework",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Went deeper on Hoffeld's buying brain framework this week in the VRM Sales Library newsletter. Six-whys diagnostic, question vs. statement ratio, and how to build the social proof library before your next quarter. Worth reading if owner acquisition is part of your job.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_science_of_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "buying_brain_full",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_9",
+      "type": "author_engagement",
+      "source_theme": "neuroscience of buying decisions",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Friday",
+      "text": "Applying David Hoffeld's Science of Selling to VRM owner acquisition this week. The six-whys framework maps directly onto why listing appointments stall. Most operators are answering questions four and five while the owner is still on one.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "the_science_of_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "six_whys",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "listing appointment buying brain audit",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM listing appointments are structured backwards. Here's the sequence that aligns with how brains actually decide.",
+        "Phase 1 (first 20 minutes): No data, no pitch. Questions about the owner's situation. Let them surface their own costs. Answer \"why change\" through their own words.",
+        "Phase 2: Why now. Is there calendar pressure, a recent incident, a market shift? Surface it. Don't manufacture urgency that isn't there.",
+        "Phase 3: Why your company and your solution. Portfolio data, technology, fee structure. The owner's emotional brain has already decided to trust you. The rational brain is ready.",
+        "Phase 4: Handle fee concerns and transition friction with a specific reference story that matches their situation. Establish a clear next step.",
+        "The most common problem: operators spend phases three and four taking up phases one and two. Then wonder why the owner who seemed interested went cold.",
+        "The owner had all the information. They had no conviction."
+      ],
+      "source_trace": {
+        "book_slug": "the_science_of_selling",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "appointment_structure",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

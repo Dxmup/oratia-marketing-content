@@ -1,0 +1,98 @@
+[
+  {
+    "concept": "Buying decisions follow the brain's decision-making hierarchy",
+    "best_format": "long_form",
+    "post_type": "myth_bust",
+    "target_audience": "VRM operators who invest heavily in pitch decks and revenue projections",
+    "actual_argument": "The owner's decision to trust the operator is made emotionally before the numbers are presented. Operators who lead with data are presenting to the rational brain while the emotional brain has already rendered a verdict they are not addressing.",
+    "bad_assumption_to_attack": "That a thorough, data-rich presentation produces more trust and more closed deals.",
+    "behavior_change": "Build trust and emotional safety in the first portion of the appointment before presenting any data. Let the owner's emotional brain arrive at a positive verdict before the rational brain is engaged.",
+    "operator_example": "An operator who opens with a polished deck and a revenue projection vs. an operator who spends the first 15 minutes asking genuine questions about the owner's situation and only presents data after the owner feels genuinely heard.",
+    "hook_options": [
+      "The owner's brain decides whether to trust you before you show them the revenue projection.",
+      "Owners are not making a spreadsheet decision. Their brain is making an emotional decision and using the spreadsheet to explain it.",
+      "The data you present in a listing appointment is not doing the work you think it is."
+    ],
+    "lead_in": "David Hoffeld's The Science of Selling starts with a claim most operators find uncomfortable: buying decisions are not rational.",
+    "angle": "Open with the neuroscience claim, make it specific to VRM listing appointments, and reframe what the first 15 minutes of the appointment are actually for. The data is not the pitch; the trust is the pitch.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for the rest of this week's series applying Hoffeld's framework to VRM owner acquisition.",
+    "cluster_role": "pillar",
+    "companion_ideas": ["The six whys of buying", "Asking the right questions"],
+    "notes": "Strong pillar post. The 'emotional brain decides first' claim is counterintuitive enough to stop the scroll. Keep the tone grounded in operator reality, not neuroscience lecture."
+  },
+  {
+    "concept": "The six whys of buying",
+    "best_format": "long_form",
+    "post_type": "framework",
+    "target_audience": "VRM operators whose deals stall after a good first appointment",
+    "actual_argument": "Most VRM operators answer two or three of the six subconscious questions every owner asks before deciding. The unanswered ones are where deals die. 'Why change at all' is almost always the most skipped question and the most important one.",
+    "bad_assumption_to_attack": "That answering 'why our company' and 'why our solution' is sufficient to close most deals.",
+    "behavior_change": "Build the appointment sequence around all six whys, starting with the foundational ones. Do not advance to 'why our solution' until 'why change' and 'why now' are answered.",
+    "operator_example": "An operator presenting a compelling service to a self-managing owner who has not yet agreed that self-managing is costing them anything. The service pitch is irrelevant to an owner whose brain is still on 'why change at all.'",
+    "hook_options": [
+      "There are six questions every owner's brain needs answered before it will say yes. Most operators answer two of them.",
+      "If your deals stall after a good first appointment, the problem is usually the first question you skipped.",
+      "Why change? Why now? Why you? Most operators start with the third question."
+    ],
+    "lead_in": "The owner's brain does not just ask whether your service is good. It asks six questions. In sequence.",
+    "angle": "Walk through the six whys with VRM applications for each. Make 'why change' and 'why now' the focus of the post because those are the ones most operators skip. The others are familiar territory.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow for Post 3 this week on how the brain uses social proof and why most VRM testimonials don't work.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Buying decisions follow the brain's hierarchy", "Commitment and consistency"],
+    "notes": "Second post. The framework structure makes this readable without being a listicle. Keep the application concrete for each why."
+  },
+  {
+    "concept": "Social proof and how the brain uses it in decisions",
+    "best_format": "short_text",
+    "post_type": "myth_bust",
+    "target_audience": "VRM operators who rely on portfolio size and general satisfaction claims",
+    "actual_argument": "The brain uses social proof as a shortcut only when the reference is specific and recognizable. Generic claims about portfolio size or owner satisfaction do not activate the social proof mechanism. Specific case studies from comparable owners do.",
+    "bad_assumption_to_attack": "That 'we manage 200 properties and our owners love us' is effective social proof.",
+    "behavior_change": "Replace generic portfolio claims with specific, comparable owner stories. Know the reference story that matches each owner type and market situation, and deploy it instead of broad statistics.",
+    "operator_example": "An operator who has a specific story about a self-managing owner in the same market with a similar property who transitioned, what they were worried about, and what changed in six months, vs. an operator who says 'all of our owners are happy.'",
+    "hook_options": [
+      "Portfolio size is not social proof. It is just a number.",
+      "The brain uses social proof only when it can see itself in the reference. Most VRM operators give references no owner can identify with.",
+      "There is a specific reference story that would move your next owner. It is not about your total portfolio."
+    ],
+    "lead_in": "David Hoffeld's research on how the brain processes social proof explains why some VRM operators close consistently and others present the same facts to less effect.",
+    "angle": "Make the distinction between generic and specific social proof concrete with a VRM example. Provide a template for what specific, comparable social proof sounds like in a listing appointment.",
+    "mention_book": true,
+    "mention_oratia": false,
+    "oratia_style": "none",
+    "cta": "Follow the VRM Sales Library. The newsletter this week covers the full buying brain framework with a diagnostic.",
+    "cluster_role": "supporting",
+    "companion_ideas": ["Asking questions to activate the buying brain"],
+    "notes": "Third post. Tight and specific. The script angle makes it immediately actionable."
+  },
+  {
+    "concept": "Full buying brain applied to VRM acquisition",
+    "best_format": "newsletter_seed",
+    "post_type": "breakdown",
+    "target_audience": "VRM operators who want a neuroscience-grounded acquisition approach",
+    "actual_argument": "The newsletter synthesizes the full buying brain model: emotional decisions first, the six whys in sequence, question-based activation, relevant social proof, and the consistency principle. It gives operators a diagnostic to run on their current appointment structure.",
+    "bad_assumption_to_attack": "That sales skill is about charisma and persuasion rather than understanding how decisions actually get made.",
+    "behavior_change": "Audit the current listing appointment against the buying brain framework and identify where the gap is. Most operators find two or three specific structural gaps.",
+    "operator_example": "An operator who runs the six-whys diagnostic against their last three lost appointments and identifies exactly where each one broke down.",
+    "hook_options": [
+      "The neuroscience of why owners say yes to some operators and no to others.",
+      "Running the buying brain framework against your current listing appointment.",
+      "The full diagnostic: is your acquisition process aligned with how brains actually decide?"
+    ],
+    "lead_in": "The newsletter this week builds the full buying brain diagnostic for VRM acquisition.",
+    "angle": "Newsletter should synthesize the week's posts into a coherent audit the operator can apply to their own process. Include the six whys diagnostic, the social proof audit, and the question vs. statement ratio check.",
+    "mention_book": true,
+    "mention_oratia": true,
+    "oratia_style": "light_example",
+    "cta": "Subscribe to the VRM Sales Library newsletter for the full diagnostic.",
+    "cluster_role": "newsletter_seed",
+    "companion_ideas": ["Six whys", "Social proof", "Questions vs. statements"],
+    "notes": "Newsletter should be the most practically useful piece of the week. The diagnostic format gives operators something to take home."
+  }
+]

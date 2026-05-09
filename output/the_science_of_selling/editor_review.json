@@ -1,0 +1,25 @@
+{
+  "status": "approve",
+  "content_type": "batch",
+  "verdict": "All three posts and the newsletter meet the standard. The pillar post opens with a genuinely counterintuitive claim and stays in operator reality throughout. The six-whys post is the strongest of the three: the framework is applied with VRM specificity, and the self-managing owner scenario makes the breakdown concrete rather than theoretical. The social proof post delivers a sharp myth bust with a usable template. The newsletter extends meaningfully beyond the posts with a full appointment audit structure, a diagnostic, and a social proof library exercise.",
+  "strengths": [
+    "Post 1 opens inside 210 characters with a direct claim that earns the scroll: 'The data you show in a listing appointment is not doing the work you think it is' — this is a statement an experienced operator will stop for.",
+    "Post 2's six-whys framework is grounded in a specific, recognizable operator failure: presenting to a self-managing owner who has not concluded that self-management costs them anything. The 'closed door' metaphor is earned and specific.",
+    "Post 3's social proof section demonstrates what relevant proof actually sounds like with a script-level example — not generic advice, a usable template.",
+    "Newsletter goes genuinely deeper: the appointment structure audit (Phase 1-4), the question vs. statement ratio diagnostic, and the social proof library exercise are all additive and actionable, not recap.",
+    "Field notes in posts 1 and 3 are owner-type specific (Skeptic in post 1, Investor vs. Steward in post 3) — correctly differentiated rather than generic.",
+    "No em dashes, no hollow intensifiers, no consultant-speak throughout."
+  ],
+  "problems": [
+    "Post 2 title is slightly long and front-loads the number before the claim — could be tightened in VRM Sharp pass.",
+    "Newsletter's Oratia mention section ('What Oratia Is Seeing') is appropriately light but slightly hedged — could be one sentence sharper."
+  ],
+  "required_fixes": [
+    "None required before publication. Minor sharpening opportunities addressed in VRM Sharp pass."
+  ],
+  "depth_score": 9,
+  "specificity_score": 9,
+  "operator_value_score": 9,
+  "style_match_score": 8,
+  "format_compliance_score": 10
+}

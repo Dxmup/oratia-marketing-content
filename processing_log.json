@@ -1156,6 +1156,41 @@
       "path": "output/agile_selling/twitter/posts.json",
       "status": "sharpened",
       "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_science_of_selling/linkedin/intro.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_science_of_selling/linkedin/post_1.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_science_of_selling/linkedin/post_2.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_science_of_selling/linkedin/post_3.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_science_of_selling/newsletter/newsletter.txt",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_science_of_selling/newsletter/cover_image.png",
+      "status": "generated",
+      "generated_date": "2026-05-09"
+    },
+    {
+      "path": "output/the_science_of_selling/twitter/posts.json",
+      "status": "sharpened",
+      "sharpened_date": "2026-05-09"
     }
   ]
 }
