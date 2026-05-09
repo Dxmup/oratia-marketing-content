@@ -1,0 +1,150 @@
+{
+  "book": "Nudge",
+  "book_slug": "nudge",
+  "audience": "vacation rental managers",
+  "voice": "thoughtful operator, practical, mildly self-aware",
+  "x_posts": [
+    {
+      "id": "post_1",
+      "type": "sharp_opinion",
+      "source_theme": "choice architecture in listing appointments",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Monday",
+      "text": "There is no neutral listing appointment.\n\nThe order you present information, what you say first, what you save for after trust is built, shapes the owner's decision before they know it. Thaler calls this choice architecture. VRM operators are running it whether they design it or not.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "nudge",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "choice_architecture",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_2",
+      "type": "recognition",
+      "source_theme": "default effect in proposals",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Tuesday",
+      "text": "Operators who lead with a 6-month trial to reduce friction are setting a default they'll regret at renewal.\n\nWhatever you present as the standard gets chosen. That's the finding. Your proposal is not a neutral starting point.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "nudge",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "default_effects",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    },
+    {
+      "id": "post_3",
+      "type": "diagnostic",
+      "source_theme": "framing effects in fee conversations",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Wednesday",
+      "text": "\"Our fee is 20%\" and \"you keep 80%\" are the same number.\n\nOwners don't experience them the same way. Loss aversion is real. Frame the owner's outcome, not the cost of management.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "nudge",
+        "source_file": "linkedin/post_3.txt",
+        "theme": "framing_effects",
+        "related_linkedin_post": "linkedin/post_3.txt"
+      }
+    },
+    {
+      "id": "post_4",
+      "type": "sharp_opinion",
+      "source_theme": "status quo bias with competitor's owners",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Thursday",
+      "text": "When pitching an owner who's already with a competitor, listing your benefits makes switching feel more complex, not less.\n\nThe move is diagnostic: help them see what their current arrangement is actually costing them. The friction of switching shrinks once that number is in the room.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "nudge",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "status_quo_bias",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_5",
+      "type": "engagement",
+      "source_theme": "appointment sequence design",
+      "scheduled_slot": "deep_insight_200",
+      "day_of_week": "Friday",
+      "text": "What do you lead with in a listing appointment? Fee, services, guarantee, or questions about the owner's situation?\n\nThe sequence matters more than most operators realize.",
+      "engagement_prompt": true,
+      "source_trace": {
+        "book_slug": "nudge",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "choice_architecture",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_6",
+      "type": "recognition",
+      "source_theme": "salience and vivid benefit framing",
+      "scheduled_slot": "daily_drip_815",
+      "day_of_week": "Saturday",
+      "text": "\"Better guest experience\" doesn't close appointments.\n\n\"We had an owner in your market who stopped responding to guest texts at 10 PM after the first quarter with us\" does.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "nudge",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "salience",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_7",
+      "type": "channel_connector",
+      "source_theme": "full choice architecture sequence",
+      "scheduled_slot": "newsletter_promo",
+      "day_of_week": "Sunday",
+      "text": "Applied Thaler and Sunstein's Nudge to VRM listing appointment design in this week's VRM Sales Library newsletter.\n\nFull sequence: appointment ordering, default proposal design, framing the fee, status quo bias in competitor-owner pitches, and handling the owner who isn't ready. Link in profile.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "nudge",
+        "source_file": "newsletter/newsletter.txt",
+        "theme": "choice_architecture",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    },
+    {
+      "id": "post_8",
+      "type": "author_engagement",
+      "source_theme": "choice architecture applied to VRM",
+      "scheduled_slot": "author_engagement",
+      "day_of_week": "Tuesday",
+      "text": "Applied Richard Thaler's Nudge to vacation rental management this week.\n\nThe default effect is especially clear in how operators structure their standard proposal. Operators who default low, to reduce friction, anchor owners to a commitment level they then can't move off at renewal.",
+      "engagement_prompt": false,
+      "source_trace": {
+        "book_slug": "nudge",
+        "source_file": "linkedin/post_2.txt",
+        "theme": "default_effects",
+        "related_linkedin_post": "linkedin/post_2.txt"
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread_1",
+      "type": "short_thread",
+      "source_theme": "designed listing appointment sequence",
+      "scheduled_slot": "retro_thread_sat_1000",
+      "tweets": [
+        "Most VRM listing appointments are designed by accident. Nudge explains why that's a problem.",
+        "Choice architecture: the way choices are presented shapes what people choose. This applies to every element of a listing appointment.",
+        "The fee lands differently if it comes after the owner has articulated their current situation and heard your guarantee. Same number. Different context. Different weight.",
+        "The default proposal matters: whatever you present as standard gets chosen most often. Lead with the arrangement you actually want.",
+        "The frame matters: 'you keep 80%' outperforms 'our fee is 20%' with the same math because gain frames evaluate better than cost frames.",
+        "Design the appointment. Don't run it on instinct."
+      ],
+      "source_trace": {
+        "book_slug": "nudge",
+        "source_file": "linkedin/post_1.txt",
+        "theme": "choice_architecture",
+        "related_linkedin_post": "linkedin/post_1.txt"
+      }
+    }
+  ]
+}

@@ -43,6 +43,7 @@ Only list a book here when its output folder and core files actually exist on di
 - New Sales. Simplified. — processed
 - Demand-Side Sales 101 — processed
 - Pre-Suasion — processed
+- Nudge — processed
 
 ## Notes
 - Update this file when new per-book folders are created and verified.
